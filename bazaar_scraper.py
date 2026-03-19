@@ -47,7 +47,7 @@ USER_TOKEN  = os.getenv("DISCORD_USER_TOKEN", "")    # Laad token uit .env
 CHANNEL_ID  = int(os.getenv("CHANNEL_ID", "0"))       # Channel ID als integer (geen quotes)
 BOT_ID      = int(os.getenv("BOT_ID", "0")) or None   # Bot user ID (int) — None = eerste bot die reageert
 
-DELAY        = 3    # Seconden wachten na elke button press
+DELAY        = 5      # Seconden wachten na elke button press
 MAX_PAGES    = 50     # Veiligheidsgrens
 PAGE_TIMEOUT = 30.0   # Seconden wachten op bericht-update na button press
 
