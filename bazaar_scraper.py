@@ -130,28 +130,35 @@ def parse_embed(message: discord.Message) -> list:
 
         rank = int(name_match.group(1))
         name = name_match.group(2).strip()
+        # Strip Discord emoji tags uit naam
+        name = re.sub(r"<:[^>]+>", "", name).strip()
         val  = field.value or ""
 
-        # Materials uit code block
+        # DEBUG — volledige field value tonen
+        print(f"  [PARSE field {rank}] {val!r}")
+
+        # Materials uit code block — ondersteunt ook varianten zonder newline
         materials = []
-        mat_block = re.search(r"```\n?([\s\S]+?)```", val)
+        mat_block = re.search(r"```[a-z]*\n?([\s\S]+?)```", val)
         if mat_block:
             for line in mat_block.group(1).strip().splitlines():
                 mat = MATERIAL_RE.match(line.strip())
                 if mat:
                     materials.append(Material(int(mat.group(1)), mat.group(2).strip()))
 
-        # Requires
-        req_match = re.search(r"\*\*Requires:\*\*\s*(.+)", val)
+        # Requires — met of zonder bold markdown
+        req_match = re.search(r"\*?\*?Requires:\*?\*?\s*(.+)", val)
         requires  = req_match.group(1).strip() if req_match else ""
+        requires  = re.sub(r"<:[^>]+>", "", requires).strip()
 
-        # Stats
-        cost_m  = re.search(r"Input cost:\s*([\d.,KMBT]+)\s*coins", val)
-        out_m   = re.search(r"Output value:\s*([\d.,KMBT]+)\s*coins", val)
-        vol_m   = re.search(r"Volume:\s*([\d.,KMBT]+)\s*orders/week", val)
-        prof_m  = re.search(r"Profit:\s*([\d.,KMBT]+)\s*coins", val)
+        # Stats — flexibel: met of zonder bold, met of zonder emoji, case-insensitive
+        cost_m  = re.search(r"Input cost:\s*([\d.,KMBT]+)\s*coins", val, re.IGNORECASE)
+        out_m   = re.search(r"Output value:\s*([\d.,KMBT]+)\s*coins", val, re.IGNORECASE)
+        vol_m   = re.search(r"Volume:\s*([\d.,KMBT]+)\s*orders/week", val, re.IGNORECASE)
+        prof_m  = re.search(r"Profit:\s*([\d.,KMBT]+)\s*coins", val, re.IGNORECASE)
 
         if not (cost_m and out_m and vol_m and prof_m):
+            print(f"  [PARSE] ✗ Stats niet gevonden in field {rank} — skip")
             continue
 
         crafts.append(Craft(
@@ -174,14 +181,14 @@ def get_page_info_embed(message: discord.Message) -> tuple:
         return 1, 1
     embed = message.embeds[0]
 
-    # Zoek in footer
+    # Zoek in footer — ondersteunt /, •, en spaties als scheider
     footer_text = embed.footer.text if embed.footer else ""
-    m = re.search(r"Page (\d+)[/ ]+(\d+)", footer_text or "")
+    m = re.search(r"Page (\d+)[/•\s]+(\d+)", footer_text or "")
     if m:
         return int(m.group(1)), int(m.group(2))
 
     # Zoek in description
-    m = re.search(r"Page (\d+)[/ ]+(\d+)", embed.description or "")
+    m = re.search(r"Page (\d+)[/•\s]+(\d+)", embed.description or "")
     if m:
         return int(m.group(1)), int(m.group(2))
 
@@ -323,15 +330,12 @@ class CraftScraper(discord.Client):
         if self.bot_id and after.author.id != self.bot_id:
             return
 
-        # DEBUG — footer en content tonen
+        # DEBUG — embed info tonen
         if after.embeds:
             e = after.embeds[0]
             print(f"  [EMBED] title={e.title!r}")
-            print(f"  [EMBED] description={str(e.description)[:80]!r}")
             if e.footer:
                 print(f"  [FOOTER] {e.footer.text!r}")
-            for i, f in enumerate(e.fields[:2]):
-                print(f"  [FIELD {i}] name={f.name!r} value={f.value[:60]!r}")
 
         content = self._get_content(after)
         print(f"  [EDIT] content={content[:80]!r}")
@@ -368,6 +372,7 @@ class CraftScraper(discord.Client):
             prev_btn = get_button(message, ["prev", "←", "◀", "<"])
             if not prev_btn:
                 break
+            self._page_event.clear()
             await prev_btn.click()
             message = await self._wait_for_update()
             if not message:
@@ -395,6 +400,7 @@ class CraftScraper(discord.Client):
                 print(Fore.RED + "  Geen 'next' knop gevonden, stoppen.")
                 break
 
+            self._page_event.clear()
             await next_btn.click()
             message = await self._wait_for_update()
             if not message:
@@ -408,8 +414,6 @@ class CraftScraper(discord.Client):
 
     async def _wait_for_update(self):
         """Wacht tot on_message_edit het event triggert."""
-        self._page_event.clear()
-        await asyncio.sleep(DELAY)
         try:
             await asyncio.wait_for(self._page_event.wait(), timeout=PAGE_TIMEOUT)
         except asyncio.TimeoutError:
@@ -641,7 +645,7 @@ if __name__ == "__main__":
 
     if not USER_TOKEN:
         print(Fore.RED + "  Geen token gevonden! Maak een .env bestand aan met:")
-        print(Fore.YELLOW + "  DISCORD_USER_TOKEN=" + os.getenv("DISCORD_USER_TOKEN", ""))
+        print(Fore.YELLOW + "  DISCORD_USER_TOKEN=jouw_token_hier")
         exit(1)
 
     client = CraftScraper()
