@@ -47,7 +47,7 @@ USER_TOKEN  = os.getenv("DISCORD_USER_TOKEN", "")    # Laad token uit .env
 CHANNEL_ID  = int(os.getenv("CHANNEL_ID", "0"))       # Channel ID als integer (geen quotes)
 BOT_ID      = int(os.getenv("BOT_ID", "0")) or None   # Bot user ID (int) — None = eerste bot die reageert
 
-DELAY        = 5      # Seconden wachten na elke button press
+DELAY        = 2      # Seconden wachten na elke button press
 MAX_PAGES    = 50     # Veiligheidsgrens
 PAGE_TIMEOUT = 30.0   # Seconden wachten op bericht-update na button press
 
@@ -151,11 +151,11 @@ def parse_embed(message: discord.Message) -> list:
         requires  = req_match.group(1).strip() if req_match else ""
         requires  = re.sub(r"<:[^>]+>", "", requires).strip()
 
-        # Stats — flexibel: met of zonder bold, met of zonder emoji, case-insensitive
-        cost_m  = re.search(r"Input cost:\s*([\d.,KMBT]+)\s*coins", val, re.IGNORECASE)
-        out_m   = re.search(r"Output value:\s*([\d.,KMBT]+)\s*coins", val, re.IGNORECASE)
-        vol_m   = re.search(r"Volume:\s*([\d.,KMBT]+)\s*orders/week", val, re.IGNORECASE)
-        prof_m  = re.search(r"Profit:\s*([\d.,KMBT]+)\s*coins", val, re.IGNORECASE)
+        # Stats — labels zijn bold (**Input cost:**) en staan na een Discord emoji
+        cost_m  = re.search(r"\*\*Input cost:\*\*\s*([\d.,]+[KMBT]?)\s*coins", val)
+        out_m   = re.search(r"\*\*Output value:\*\*\s*([\d.,]+[KMBT]?)\s*coins", val)
+        vol_m   = re.search(r"\*\*Volume:\*\*\s*([\d.,]+[KMBT]?)\s*orders/week", val)
+        prof_m  = re.search(r"\*\*Profit:\*\*\s*([\d.,]+[KMBT]?)\s*coins", val)
 
         if not (cost_m and out_m and vol_m and prof_m):
             print(f"  [PARSE] ✗ Stats niet gevonden in field {rank} — skip")
@@ -414,6 +414,7 @@ class CraftScraper(discord.Client):
 
     async def _wait_for_update(self):
         """Wacht tot on_message_edit het event triggert."""
+        await asyncio.sleep(DELAY)   # geef Discord tijd om de pagina te updaten
         try:
             await asyncio.wait_for(self._page_event.wait(), timeout=PAGE_TIMEOUT)
         except asyncio.TimeoutError:
