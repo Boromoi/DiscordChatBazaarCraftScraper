@@ -1,0 +1,182 @@
+#,Naam,Cost/item,Output,Profit,Margin,Volume/wk,Score,Ingredients
+1,Enchanted Diamond Block,6.6K,199.9K,193.3K,2908.4%,1.40M,0.704,5x Enchanted Diamond
+2,Enchanted Melon,1.6K,49.8K,48.2K,3036.9%,2.91M,0.688,5x Enchanted Melon
+3,Enchanted Slime Block,5.1K,124.7K,119.6K,2336.5%,1.05M,0.680,5x Enchanted Slime Ball
+4,Mutant Nether Wart,3.2K,99.3K,96.0K,2973.8%,892.5K,0.677,5x Enchanted Nether Stalk
+5,Enchanted Clay Block,3.5K,74.5K,71.1K,2052.4%,1.82M,0.677,5x Enchanted Clay Ball
+6,Enchanted Hard Stone,1,504,503,28117.2%,19.35M,0.674,9x Hard Stone
+7,Enchanted Wheat,32,911,879,2731.9%,131.80M,0.673,5x Wheat
+8,Enchanted Baked Potato,2.4K,72.9K,70.5K,2943.2%,989.2K,0.672,5x Enchanted Potato
+9,Enchanted Sulphur Cube,8.7K,246.8K,238.2K,2748.2%,269.7K,0.671,5x Enchanted Sulphur
+10,Enchanted Hay Bale,4.9K,148.5K,143.6K,2939.3%,375.7K,0.667,5x Enchanted Wheat
+11,Polished Pumpkin,8.1K,249.5K,241.4K,2979.0%,201.7K,0.666,5x Enchanted Pumpkin
+12,Enchanted Lapis Lazuli Block,3.7K,93.9K,90.2K,2424.6%,684.3K,0.665,5x Enchanted Lapis Lazuli
+13,Enchanted Brown Mushroom,76,1.5K,1.5K,1916.0%,65.33M,0.661,5x Brown Mushroom
+14,Tarantula Silk,8.7K,269.6K,261.0K,3014.2%,130.0K,0.659,4x Tarantula Web | 1x Enchanted Flint
+15,Enchanted Red Mushroom,109,1.6K,1.5K,1338.1%,76.94M,0.656,5x Red Mushroom
+16,Enchanted Melon Slice,14,303,289,2003.8%,283.73M,0.656,5x Melon
+17,Enchanted Seeds,18,455,437,2418.0%,146.17M,0.656,5x Seeds
+18,Box of Seeds,2.4K,74.5K,72.1K,3004.2%,449.6K,0.655,5x Enchanted Seeds
+19,Enchanted Sugar Cane,3.3K,99.8K,96.5K,2931.5%,331.7K,0.655,5x Enchanted Sugar
+20,Enchanted Tungsten,671,16.6K,16.0K,2379.9%,2.90M,0.655,5x Tungsten
+21,Enchanted Pumpkin,89,1.6K,1.5K,1665.5%,39.24M,0.647,5x Pumpkin
+22,Enchanted Gold Block,3.1K,77.5K,74.3K,2369.6%,384.4K,0.647,5x Enchanted Gold
+23,☘ Flawless Peridot Gemstone,284.8K,4.10M,3.82M,1341.2%,8.9K,0.644,5x Fine Peridot Gem
+24,Enchanted Potato,36,447,410,1108.8%,200.95M,0.642,5x Potato Item
+25,Compost Bundle,86.2K,2.50M,2.41M,2795.1%,6.0K,0.642,5x Compost
+26,Enchanted Cactus,3.3K,98.8K,95.5K,2920.0%,174.5K,0.640,5x Enchanted Cactus Green
+27,Enchanted Nether Wart,66,606,539,805.9%,171.73M,0.637,5x Nether Stalk
+28,Enchanted Umber,1.1K,15.4K,14.3K,1259.5%,3.01M,0.637,5x Umber
+29,Enchanted Cooked Cod,6.1K,144.7K,138.6K,2281.3%,132.0K,0.637,5x Enchanted Raw Fish
+30,Enchanted Mithril,59,1.3K,1.3K,2114.0%,22.91M,0.637,5x Mithril Ore
+31,Whipped Magma Cream,8.4K,197.7K,189.3K,2249.9%,82.2K,0.633,5x Enchanted Magma Cream
+32,Enchanted Cooked Mutton,5.9K,124.2K,118.2K,1986.7%,156.0K,0.633,5x Enchanted Mutton
+33,Enchanted Blaze Rod,9.6K,239.6K,230.0K,2406.4%,59.1K,0.632,5x Enchanted Blaze Powder
+34,Flycatcher,2.22M,27.85M,25.63M,1153.4%,790,0.632,6x Tarantula Silk | 1x Fly Swatter
+35,Enchanted Quartz Block,5.5K,119.5K,114.0K,2072.8%,140.9K,0.631,5x Enchanted Quartz
+36,Enchanted Cooked Salmon,7.9K,245.4K,237.4K,2999.4%,42.0K,0.631,5x Enchanted Raw Salmon
+37,Enchanted Obsidian,99,2.2K,2.1K,2054.1%,10.86M,0.631,5x Obsidian
+38,Very Crude Gabagool,3.1K,46.9K,43.8K,1425.7%,558.8K,0.630,8x Crude Gabagool
+39,Enchanted Dandelion,826,26.4K,25.5K,3090.7%,367.1K,0.626,5x Yellow Flower
+40,Enchanted Sugar,44,604,560,1264.3%,59.52M,0.626,5x Sugar Cane
+41,☘ Fine Peridot Gemstone,5.0K,53.1K,48.2K,969.8%,630.4K,0.625,5x Flawed Peridot Gem
+42,Enchanted Snow Block,48,550,502,1043.7%,81.30M,0.625,5x Snow Block
+43,❁ Flawless Jasper Gemstone,334.2K,5.12M,4.79M,1433.0%,2.7K,0.625,5x Fine Jasper Gem
+44,Enchanted Carrot,48,476,428,883.5%,99.95M,0.622,5x Carrot Item
+45,Enchanted Glacite,52,1.8K,1.7K,3289.5%,5.17M,0.622,5x Glacite
+46,⸕ Flawless Amber Gemstone,153.2K,2.36M,2.21M,1439.7%,5.3K,0.621,5x Fine Amber Gem
+47,Concentrated Stone,5.5K,296.6K,291.1K,5266.7%,10.4K,0.618,9x Enchanted Hard Stone
+48,Braided Griffin Feather,1.05M,30.29M,29.24M,2786.2%,134,0.617,5x Griffin Feather | 4x Soul String
+49,✎ Flawless Sapphire Gemstone,162.2K,2.28M,2.12M,1304.2%,5.3K,0.617,5x Fine Sapphire Gem
+50,☘ Flawless Jade Gemstone,150.2K,2.21M,2.06M,1370.9%,4.9K,0.616,5x Fine Jade Gem
+51,Enchanted Cooked Porkchop,7.3K,151.1K,143.8K,1959.8%,58.5K,0.616,5x Enchanted Pork
+52,Enchanted Flint,50,1.2K,1.1K,2276.7%,8.02M,0.612,5x Flint
+53,☘ Fine Citrine Gemstone,1.6K,25.1K,23.5K,1467.7%,485.8K,0.612,5x Flawed Citrine Gem
+54,Enchanted String,23,578,555,2415.6%,13.34M,0.608,5x String
+55,☠ Fine Onyx Gemstone,2.0K,25.3K,23.3K,1170.1%,506.8K,0.607,5x Flawed Onyx Gem
+56,Revenant Viscera,2.1K,53.7K,51.6K,2489.4%,93.5K,0.607,4x Revenant Flesh | 1x Enchanted String
+57,Enchanted Packed Ice,1.9K,36.5K,34.5K,1790.1%,203.8K,0.607,5x Enchanted Ice
+58,⸕ Fine Amber Gemstone,2.2K,27.3K,25.1K,1136.8%,471.4K,0.607,5x Flawed Amber Gem
+59,❁ Fine Jasper Gemstone,5.1K,61.3K,56.1K,1094.7%,196.8K,0.606,5x Flawed Jasper Gem
+60,Enchanted Emerald Block,5.1K,100.9K,95.9K,1894.3%,60.4K,0.606,5x Enchanted Emerald
+61,Enchanted Sulphur,53,1.4K,1.4K,2570.1%,3.72M,0.603,5x Sulphur Ore
+62,Null Ovoid,6.2K,143.6K,137.5K,2231.9%,26.8K,0.600,4x Null Sphere | 1x Enchanted Obsidian
+63,☂ Fine Aquamarine Gemstone,2.5K,25.1K,22.6K,904.1%,497.5K,0.600,5x Flawed Aquamarine Gem
+64,Golden Tooth,5.3K,156.8K,151.5K,2866.6%,18.0K,0.600,4x Wolf Tooth | 1x Enchanted Gold
+65,Enchanted Iron Block,4.5K,49.0K,44.4K,985.8%,213.8K,0.600,5x Enchanted Iron
+66,☠ Flawless Onyx Gemstone,150.1K,1.49M,1.34M,892.9%,5.7K,0.599,5x Fine Onyx Gem
+67,✎ Fine Sapphire Gemstone,4.1K,29.1K,25.0K,609.8%,577.0K,0.596,5x Flawed Sapphire Gem
+68,☂ Flawless Aquamarine Gemstone,129.7K,1.37M,1.24M,953.8%,5.2K,0.596,5x Fine Aquamarine Gem
+69,❤ Flawless Ruby Gemstone,138.0K,1.57M,1.43M,1038.0%,4.0K,0.596,5x Fine Ruby Gem
+70,❈ Flawless Amethyst Gemstone,140.8K,2.09M,1.95M,1382.3%,1.9K,0.594,5x Fine Amethyst Gem
+71,Enchanted Spider Eye,39,794,755,1928.7%,6.27M,0.593,5x Spider Eye
+72,☘ Flawless Citrine Gemstone,131.1K,1.28M,1.15M,877.3%,5.0K,0.591,5x Fine Citrine Gem
+73,Hemoglass,1.3K,16.8K,15.4K,1145.3%,394.0K,0.591,5x Hemovibe
+74,☘ Fine Jade Gemstone,2.5K,25.5K,23.0K,914.1%,297.5K,0.589,5x Flawed Jade Gem
+75,Gold Magmafish,34.5K,530.4K,495.9K,1438.1%,6.4K,0.589,5x Magma Fish Silver
+76,Enchanted Redstone Block,4.8K,24.6K,19.8K,417.6%,794.6K,0.588,5x Enchanted Redstone
+77,❤ Fine Ruby Gemstone,2.4K,22.1K,19.8K,842.3%,353.8K,0.587,5x Flawed Ruby Gem
+78,✧ Fine Topaz Gemstone,3.6K,29.6K,26.0K,713.5%,287.8K,0.585,5x Flawed Topaz Gem
+79,⸕ Flawed Amber Gemstone,19,347,328,1687.6%,12.00M,0.584,5x Rough Amber Gem
+80,Soulflow,2.7K,15.9K,13.2K,490.1%,807.1K,0.583,5x Raw Soulflow
+81,Enchanted Glowstone,6.2K,49.5K,43.3K,703.9%,144.4K,0.582,5x Enchanted Glowstone Dust
+82,Enchanted Raw Beef,13,518,504,3739.5%,2.80M,0.581,5x Raw Beef
+83,Enchanted Mycelium Cube,8.2K,124.7K,116.6K,1429.8%,20.7K,0.580,5x Enchanted Mycelium
+84,Enchanted Blaze Powder,69,1.6K,1.5K,2140.3%,1.48M,0.580,5x Blaze Rod
+85,Enchanted Titanium,3.6K,16.8K,13.1K,362.0%,903.0K,0.578,5x Titanium Ore
+86,✧ Flawless Topaz Gemstone,154.7K,1.58M,1.42M,919.4%,2.0K,0.577,5x Fine Topaz Gem
+87,☘ Flawed Peridot Gemstone,72,577,504,693.4%,14.46M,0.577,5x Rough Peridot Gem
+88,❂ Flawless Opal Gemstone,142.8K,2.08M,1.94M,1356.4%,828,0.575,5x Fine Opal Gem
+89,Enchanted Wet Sponge,12.7K,76.7K,64.0K,503.6%,94.8K,0.574,5x Enchanted Sponge
+90,Corrupt Soil,13.0K,233.8K,220.7K,1692.3%,6.5K,0.573,8x Enchanted Mycelium | 1x Corrupted Fragment
+91,Enchanted Cobblestone,7,202,194,2592.4%,8.20M,0.573,5x Cobblestone
+92,❈ Fine Amethyst Gemstone,3.9K,25.3K,21.4K,550.6%,258.7K,0.572,5x Flawed Amethyst Gem
+93,✎ Flawed Sapphire Gemstone,29,337,307,1027.2%,12.80M,0.572,5x Rough Sapphire Gem
+94,Enchanted Rotten Flesh,33,385,352,1066.0%,10.37M,0.571,5x Rotten Flesh
+95,Great Carrot Candy,4.3K,172.8K,168.6K,3955.2%,3.0K,0.570,8x Enchanted Carrot | 1x Simple Carrot Candy
+96,Enchanted Red Sand Cube,7.2K,136.6K,129.4K,1791.8%,8.7K,0.568,5x Enchanted Red Sand
+97,Hypergolic Gabagool,1.43M,4.03M,2.60M,181.9%,4.1K,0.568,4x Heavy Gabagool | 1x Sulphuric Coal
+98,Enchanted Mycelium,149,1.3K,1.1K,746.9%,3.88M,0.568,5x Mycel
+99,Silver Magmafish,1.2K,6.4K,5.2K,438.2%,1.31M,0.568,5x Magma Fish
+100,Enchanted Bone,21,634,613,2852.4%,1.63M,0.567,5x Bone
+101,Enchanted Raw Rabbit,413,2.7K,2.3K,552.9%,2.30M,0.567,5x Rabbit
+102,Super Compactor 3000,13.7K,109.0K,95.3K,696.8%,31.3K,0.567,7x Enchanted Cobblestone | 1x Compactor | 1x Enchanted Redstone
+103,Absolute Ender Pearl,1.8K,12.3K,10.5K,571.1%,384.2K,0.564,5x Enchanted Ender Pearl
+104,☠ Flawed Onyx Gemstone,24,281,257,1051.5%,10.91M,0.564,5x Rough Onyx Gem
+105,☘ Flawed Jade Gemstone,32,302,270,845.4%,13.02M,0.564,5x Rough Jade Gem
+106,Enchanted Rabbit Foot,29,533,504,1710.0%,3.04M,0.564,5x Rabbit Foot
+107,Null Blade,2.22M,16.79M,14.57M,656.9%,127,0.564,4x Null Ovoid | 3x Null Edge | 2x Enchanted Quartz Block
+108,Enchanted Glowstone Dust,37,928,891,2376.4%,1.09M,0.563,5x Glowstone Dust
+109,Enchanted Ancient Claw,1.9K,31.6K,29.7K,1525.4%,36.6K,0.561,5x Ancient Claw
+110,Enchanted Prismarine Shard,16,401,385,2338.2%,2.35M,0.559,5x Prismarine Shard
+111,Enchanted Ink Sac,13.0K,90.3K,77.3K,595.7%,32.7K,0.559,5x Ink Sack
+112,Large Storage,28.3K,312.5K,284.2K,1004.4%,4.3K,0.557,8x Enchanted Oak Log | 1x Medium Enchanted Chest
+113,❈ Flawed Amethyst Gemstone,34,290,256,747.6%,11.16M,0.556,5x Rough Amethyst Gem
+114,Enchanted Feather,30,381,350,1150.2%,4.68M,0.555,5x Feather
+115,Enchanted Lily Pad,50,1.6K,1.5K,3016.1%,311.4K,0.554,5x Water Lily
+116,❁ Flawed Jasper Gemstone,135,779,643,473.7%,5.97M,0.553,5x Rough Jasper Gem
+117,☘ Flawed Citrine Gemstone,35,280,245,698.7%,10.68M,0.553,5x Rough Citrine Gem
+118,Enchanted Bone Block,4.2K,50.7K,46.5K,1100.5%,22.1K,0.553,5x Enchanted Bone
+119,Enchanted Egg,711,3.1K,2.4K,331.9%,1.96M,0.551,9x Egg
+120,Enchanted Sand,81,873,791,976.7%,1.57M,0.546,5x Sand
+121,Molten Powder,109.1K,281.0K,171.9K,157.6%,33.5K,0.546,4x Derelict Ashe | 1x Amalgamated Crimsonite New
+122,Enchanted Sponge,317,1.8K,1.5K,475.5%,1.34M,0.541,5x Sponge
+123,Enchanted Clay Ball,73,433,360,493.7%,5.87M,0.540,5x Clay Ball
+124,Enchanted Nether Quartz,111,685,573,514.7%,3.34M,0.540,5x Quartz
+125,Enchanted Slimeball,284,895,610,214.5%,7.90M,0.539,5x Slime Ball
+126,Stuffed Chili Pepper,581.0K,13.22M,12.64M,2175.7%,13,0.539,5x Chili Pepper
+127,Enchanted Coal Block,8.1K,26.7K,18.7K,231.7%,160.9K,0.537,5x Enchanted Coal
+128,Enchanted Raw Cod,296,969,672,226.4%,5.98M,0.537,5x Raw Fish
+129,Enchanted Magma Cream,91,833,741,805.6%,1.33M,0.536,5x Magma Cream
+130,❤ Flawed Ruby Gemstone,39,274,234,589.1%,6.47M,0.536,5x Rough Ruby Gem
+131,Diamond Magmafish,2.94M,8.40M,5.47M,186.3%,415,0.536,5x Magma Fish Gold
+132,Enchanted Redstone Lamp,5.0K,98.8K,93.7K,1862.0%,2.4K,0.533,4x Enchanted Redstone | 1x Enchanted Glowstone Dust
+133,Enchanted Wool,49,248,198,396.4%,9.64M,0.531,5x Wool
+134,Enchanted Ender Pearl,81,312,231,285.2%,9.19M,0.526,5x Ender Pearl
+135,Sulphuric Coal,2.0K,6.9K,4.9K,238.3%,379.8K,0.524,4x Enchanted Coal | 1x Enchanted Sulphur
+136,☂ Flawed Aquamarine Gemstone,81,280,199,245.4%,10.96M,0.523,5x Rough Aquamarine Gem
+137,Enchanted Raw Mutton,225,847,622,276.8%,2.79M,0.523,5x Mutton
+138,Silver Fang,1.9K,7.8K,5.8K,301.7%,123.2K,0.509,5x Enchanted Ghast Tear
+139,❂ Flawed Opal Gemstone,27,152,125,461.1%,4.57M,0.507,5x Rough Opal Gem
+140,Enchanted Shark Fin,4.9K,40.2K,35.2K,716.5%,6.2K,0.507,5x Shark Fin
+141,Enchanted Paper,26,638,611,2300.2%,136.3K,0.506,3x Sugar Cane
+142,Inferno Apex,3.49M,11.85M,8.36M,239.4%,50,0.505,4x Inferno Vertex | 4x Molten Powder | 1x Hypergolic Ionized Ceramics
+143,Enchanted Ice,33,227,194,580.2%,1.94M,0.504,5x Ice
+144,Enchanted Raw Porkchop,763,1.3K,536,70.3%,5.28M,0.500,5x Pork
+145,Enchanted End Stone,81,271,190,235.3%,3.84M,0.497,5x Ender Stone
+146,Enchanted Bread,38,296,258,668.2%,783.0K,0.494,6x Wheat
+147,Hotspot Water Orb,1.92M,11.06M,9.14M,474.6%,10,0.488,1x Half Eaten Mushroom | 1x Blue Ring | 1x Fried Feather | 1x Singed Powder | 1x Water Orb | 1x Scorched Crab Stick | 1x Enchanted Jungle Log | 1x Broken Radar | 1x Enchanted Coal
+148,Enchanted Lava Bucket,32.1K,59.5K,27.4K,85.4%,27.1K,0.482,3x Enchanted Iron | 1x Enchanted Coal Block
+149,Enchanted Lush Berberis,443,1.1K,665,150.2%,767.3K,0.480,5x Lush Berberis
+150,Enchanted Gunpowder,172,481,309,179.7%,1.13M,0.475,5x Sulphur
+151,Enchanted Poppy,359,1.8K,1.5K,413.5%,41.7K,0.459,9x Red Rose
+152,Simple Carrot Candy,87,2.4K,2.3K,2685.4%,3.2K,0.458,9x Carrot Item
+153,Presumed Gallon of Red Paint,48.9K,774.8K,725.9K,1484.7%,12,0.458,2x Enchanted Cobblestone | 2x Hemoglass | 5x Enchanted Dark Oak Log
+154,Soulflow Engine,7.08M,10.42M,3.34M,47.1%,90,0.456,2x Null Atom | 4x Lesser Soulflow Engine | 1x Null Ovoid | 2x Refined Titanium
+155,Enchanted Raw Chicken,379,537,158,41.8%,4.73M,0.455,5x Raw Chicken
+156,Blaze Wax,19.5K,149.9K,130.4K,669.0%,145,0.453,8x Enchanted Blaze Powder | 1x Bezos
+157,Searing Stone,10.5K,98.8K,88.2K,839.0%,145,0.449,5x Enchanted Magma Cream | 1x Magma Chunk | 3x Enchanted Netherrack
+158,Entropy Suppressor,2.05M,7.64M,5.59M,272.8%,5,0.447,4x Chili Pepper | 4x Heavy Gabagool | 1x Kelvin Inverter
+159,Enchanted Charcoal,70,989,919,1314.0%,11.0K,0.446,4x Coal | 1x Log
+160,Superb Carrot Candy,859.6K,1.44M,577.9K,67.2%,237,0.444,8x Enchanted Golden Carrot | 1x Great Carrot Candy
+161,Hemobomb,92.4K,140.2K,47.9K,51.8%,4.7K,0.444,5x Hemoglass
+162,Bayou Water Orb,2.42M,7.83M,5.42M,224.1%,5,0.441,1x Busted Belt Buckle | 1x Old Leather Boot | 1x Alligator Skin | 1x Bronze Bowl | 1x Water Orb | 1x Torn Cloth | 1x Enchanted Clay Block | 1x Rusty Coin | 1x Poison Sample
+163,Mithril Infusion,3.14M,3.81M,676.9K,21.6%,594,0.440,8x Enchanted Mithril | 1x Magma Bucket
+164,Water Orb,14.6K,94.9K,80.3K,549.0%,172,0.440,1x Enchanted Raw Fish | 1x Enchanted Sponge | 1x Enchanted Raw Salmon | 1x Enchanted Prismarine Shard | 1x Enchanted Water Lily | 1x Enchanted Prismarine Crystals | 1x Enchanted Clay Ball | 1x Enchanted Pufferfish | 1x Enchanted Clownfish
+165,Minion Expander,9.8K,23.0K,13.2K,135.7%,4.2K,0.434,8x Enchanted Quartz | 1x Enchanted Redstone
+166,Meteor Shard,61.0K,543.1K,482.1K,790.1%,11,0.431,4x Silver Fang | 4x Starfall | 1x Tentacle Meat
+167,Null Edge,129.0K,342.2K,213.2K,165.3%,130,0.428,6x Enchanted Mithril | 3x Null Atom
+168,Auto Smelter,27,691,664,2458.7%,3.5K,0.428,8x Cobblestone | 1x Coal
+169,Horns of Torment,10.9K,67.2K,56.4K,518.9%,140,0.425,8x Enchanted Mutton | 1x Horn Of Taurus
+170,Tessellated Ender Pearl,452.0K,705.7K,253.7K,56.1%,302,0.425,4x Enchanted Lapis Lazuli Block | 5x Absolute Ender Pearl
+171,Mixed Mite Gel,11.2K,39.5K,28.3K,252.7%,443,0.417,5x Mite Gel
+172,Heavy Gabagool,172.1K,283.8K,111.7K,64.9%,406,0.415,8x Fuel Gabagool | 1x Sulphuric Coal
+173,Winter Water Orb,411.0K,1.32M,913.3K,222.2%,9,0.411,4x Ice Hunk | 1x Enchanted Snow Block | 1x White Gift | 1x Water Orb | 1x Green Gift | 1x Blue Ice Hunk
+174,❂ Fine Opal Gemstone,2.5K,3.7K,1.2K,50.5%,43.6K,0.405,5x Flawed Opal Gem
+175,Dwarven Super Compactor,159.8K,187.4K,27.7K,17.3%,3.9K,0.399,7x Enchanted Mithril | 1x Auto Smelter | 1x Super Compactor 3000
+176,Lesser Soulflow Engine,984.0K,1.16M,179.2K,18.2%,385,0.394,6x Null Ovoid | 2x Enchanted Eye Of Ender | 1x Enchanted Iron Block
+177,Lava Water Orb,328.0K,675.7K,347.8K,106.0%,24,0.391,2x Magma Fish Silver | 1x Thunder Shards | 1x Moogma Pelt | 1x Water Orb | 1x Lump Of Magma | 1x Cup Of Blood | 1x Horn Of Taurus | 1x Flaming Heart
+178,Shiny Prism,11.1K,19.8K,8.7K,78.3%,356,0.355,8x Enchanted Glowstone Dust | 1x Gazing Pearl
+179,Small Storage,80,197,117,147.5%,3.5K,0.317,8x Log
+180,Spooky Water Orb,716.3K,878.9K,162.6K,22.7%,7,0.308,4x Purple Candy | 1x Soul Fragment | 3x Werewolf Skin | 1x Water Orb
+181,Melon,25,27,2,7.8%,792.7K,0.268,9x Melon

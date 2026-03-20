@@ -1,0 +1,269 @@
+# Hypixel SkyBlock – ah
+_Geëxporteerd op 20-03-2026 02:39 · gesorteerd op: score_
+
+| # | Naam | Material cost | AH prijs | Profit | Margin | AH sales | Score | Ingredients |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Pulse Ring | 114.1K | 34.44M | 33.64M | 29475.9% | 65 | 0.836 | 8x Orb Of Energy |
+| 2 | Catacombs Expert Ring | 9.70M | 33.50M | 23.13M | 238.5% | 39 | 0.712 | 8x Wither Catalyst |
+| 3 | Inferno Minion Fuel | 181.7K | 5.20M | 4.91M | 2704.6% | 46 | 0.697 | 6x Nether Stalk Distillate \| 2x Inferno Fuel Block \| 1x Fuel Gabagool |
+| 4 | Inferno Minion Fuel | 199.8K | 5.20M | 4.90M | 2450.6% | 46 | 0.695 | 6x Blaze Rod Distillate \| 2x Inferno Fuel Block \| 1x Fuel Gabagool |
+| 5 | Inferno Minion Fuel | 200.2K | 5.20M | 4.90M | 2445.4% | 46 | 0.695 | 6x Glowstone Dust Distillate \| 2x Inferno Fuel Block \| 1x Fuel Gabagool |
+| 6 | Inferno Minion Fuel | 207.8K | 5.20M | 4.89M | 2352.0% | 46 | 0.695 | 6x Crude Gabagool Distillate \| 2x Inferno Fuel Block \| 1x Fuel Gabagool |
+| 7 | Inferno Minion Fuel | 516.8K | 5.20M | 4.58M | 886.1% | 46 | 0.680 | 6x Nether Stalk Distillate \| 2x Inferno Fuel Block \| 1x Heavy Gabagool |
+| 8 | Inferno Minion Fuel | 534.9K | 5.20M | 4.56M | 852.7% | 46 | 0.679 | 6x Blaze Rod Distillate \| 2x Inferno Fuel Block \| 1x Heavy Gabagool |
+| 9 | Inferno Minion Fuel | 535.3K | 5.20M | 4.56M | 852.0% | 46 | 0.679 | 6x Glowstone Dust Distillate \| 2x Inferno Fuel Block \| 1x Heavy Gabagool |
+| 10 | Inferno Minion Fuel | 542.9K | 5.20M | 4.55M | 838.6% | 46 | 0.679 | 6x Crude Gabagool Distillate \| 2x Inferno Fuel Block \| 1x Heavy Gabagool |
+| 11 | Inferno Minion Fuel | 581.1K | 5.20M | 4.51M | 777.0% | 46 | 0.678 | 6x Magma Cream Distillate \| 2x Inferno Fuel Block \| 1x Fuel Gabagool |
+| 12 | Magnetic Talisman | 43 | 1.90M | 1.86M | 4281018.7% | 20 | 0.671 | 4x Emerald \| 1x Redstone |
+| 13 | Inferno Minion Fuel | 916.2K | 5.20M | 4.18M | 456.2% | 46 | 0.668 | 6x Magma Cream Distillate \| 2x Inferno Fuel Block \| 1x Heavy Gabagool |
+| 14 | Prismarine Sinker | 853 | 249.00M | 244.02M | 28582011.9% | 2 | 0.666 | 1x Water Lily \| 1x Prismarine Crystals \| 1x Prismarine Shard |
+| 15 | Enchanted Clock | 2.99M | 113.00M | 107.75M | 3600.3% | 9 | 0.666 | 2x Enchanted Gold Block \| 2x Highlite \| 1x Enchanted Redstone Block |
+| 16 | Night Crystal | 134.4K | 6.85M | 6.58M | 4894.9% | 25 | 0.657 | 4x Enchanted Quartz \| 1x Enchanted Quartz Block |
+| 17 | Day Crystal | 134.4K | 8.99M | 8.68M | 6455.4% | 20 | 0.650 | 4x Enchanted Quartz \| 1x Enchanted Quartz Block |
+| 18 | Enchanted Bookshelf | 13.6K | 800.0K | 770.4K | 5652.8% | 52 | 0.645 | 6x Enchanted Oak Log \| 3x Enchanted Paper |
+| 19 | Juju Shortbow | 292.8K | 11.33M | 10.81M | 3692.8% | 17 | 0.636 | 1x Enchanted Eye Of Ender \| 3x Enchanted String \| 1x Null Ovoid \| 1x Enchanted Quartz Block |
+| 20 | Sorrow Boots | 852.9K | 3.60M | 2.68M | 313.6% | 37 | 0.625 | 4x Sorrow |
+| 21 | Everburning Flame | 10.48M | 17.89M | 7.05M | 67.3% | 29 | 0.621 | 4x Flames \| 2x Enchanted Red Sand Cube \| 2x Enchanted Sulphur Cube \| 1x Plasma Bucket |
+| 22 | Soul Whip | 1.35M | 8.00M | 6.49M | 479.0% | 22 | 0.615 | 3x Ectoplasm \| 2x Soul Fragment |
+| 23 | Launch Pad | 9.3K | 5.00M | 4.89M | 52351.5% | 13 | 0.612 | 8x Enchanted Slime Ball \| 1x Enchanted Redstone |
+| 24 | Gyrokinetic Wand | 1.43M | 26.00M | 24.05M | 1679.9% | 10 | 0.607 | 6x Null Ovoid \| 1x Enchanted Eye Of Ender \| 2x Enchanted Blaze Rod |
+| 25 | Melon Chestplate | 407.7K | 2.60M | 2.14M | 525.0% | 31 | 0.606 | 8x Enchanted Melon Block |
+| 26 | Zombie's Heart | 4.2K | 417.0K | 404.5K | 9631.2% | 41 | 0.603 | 8x Enchanted Rotten Flesh |
+| 27 | Superior Dragon Helmet | 1.23M | 6.90M | 5.53M | 449.8% | 20 | 0.599 | 5x Superior Fragment |
+| 28 | Blazetekk™ Ham Radio | 3.23M | 67.90M | 63.31M | 1959.6% | 6 | 0.598 | 6x Molten Powder \| 2x Inferno Vertex \| 1x Enchanted Redstone Lamp |
+| 29 | Werewolf Helmet | 16.3K | 1.80M | 1.75M | 10690.8% | 21 | 0.598 | 5x Werewolf Skin |
+| 30 | Magmafish Hat | 1.9K | 250.0K | 243.1K | 12965.9% | 46 | 0.598 | 8x Magma Fish |
+| 31 | Silent Pearl | 17 | 500.0K | 490.0K | 2877001.2% | 16 | 0.592 | 8x Ender Stone \| 1x Ender Pearl |
+| 32 | Travel Scroll to Deep Caverns | 6.9K | 380.0K | 365.5K | 5261.3% | 41 | 0.591 | 3x Enchanted Redstone \| 5x Enchanted Lapis Lazuli \| 1x Enchanted Ender Pearl |
+| 33 | Magical Lava Bucket | 350 | 750.0K | 734.6K | 209784.8% | 19 | 0.591 | 3x Iron Ingot \| 1x Enchanted Netherrack |
+| 34 | Mithril Coat | 11.9K | 500.0K | 478.1K | 4001.4% | 37 | 0.589 | 8x Enchanted Mithril |
+| 35 | Hardened Diamond Leggings | 9.3K | 99.00M | 97.01M | 1042481.0% | 2 | 0.588 | 7x Enchanted Diamond |
+| 36 | Blaze Talisman | 284.1K | 4.20M | 3.83M | 1348.6% | 18 | 0.588 | 8x Millenia Old Blaze Ashes \| 1x Enchanted Blaze Rod |
+| 37 | Ghoul Buster | 446.7K | 10.50M | 9.84M | 2203.7% | 11 | 0.584 | 2x Ectoplasm \| 2x Spooky Shard \| 1x Purple Candy |
+| 38 | Travel Scroll to the Crimson Isle | 10.3K | 788.0K | 761.9K | 7403.1% | 26 | 0.581 | 8x Enchanted Glowstone Dust \| 1x Enchanted Ender Pearl |
+| 39 | Aspect of the End | 18.3K | 580.0K | 550.1K | 3002.0% | 33 | 0.580 | 2x Enchanted Eye Of Ender \| 1x Enchanted Diamond |
+| 40 | Ruby Power Scroll | 32.6K | 2.00M | 1.93M | 5913.7% | 18 | 0.580 | 3x Enchanted Paper \| 1x Fine Ruby Gem |
+| 41 | Melon Boots | 203.8K | 1.80M | 1.56M | 765.4% | 25 | 0.577 | 4x Enchanted Melon Block |
+| 42 | Pumpkin Launcher | 3.55M | 24.00M | 19.97M | 563.3% | 9 | 0.576 | 6x Pumpkin Guts \| 2x Ectoplasm \| 1x Pumpkin Bomb |
+| 43 | Flower of Truth | 889.9K | 4.00M | 3.03M | 340.5% | 20 | 0.572 | 3x Golem Poppy |
+| 44 | Implosion Belt | 1.02M | 1.70M | 643.3K | 62.9% | 47 | 0.572 | 4x Match Sticks \| 4x Enchanted Sulphur Cube |
+| 45 | Repelling Candle | 11.7K | 900.0K | 870.3K | 7468.9% | 22 | 0.570 | 1x Enchanted Coal \| 6x Enchanted Acacia Log |
+| 46 | Prismarine Bow | 23 | 200.0K | 196.0K | 827349.5% | 22 | 0.570 | 3x Prismarine Shard \| 3x String |
+| 47 | Farm Armor Helmet | 4.9K | 3.00M | 2.94M | 59701.3% | 10 | 0.569 | 5x Enchanted Wheat |
+| 48 | Slime Bow | 384.3K | 2.50M | 2.07M | 537.6% | 21 | 0.567 | 3x Enchanted Slime Block \| 3x Enchanted String |
+| 49 | Bonemerang | 4.01M | 25.00M | 20.49M | 511.1% | 8 | 0.565 | 3x Enchanted String \| 2x Enchanted Bone Block \| 1x Spirit Bone |
+| 50 | Wise Dragon Helmet | 230.4K | 1.39M | 1.13M | 492.5% | 26 | 0.563 | 5x Wise Fragment |
+| 51 | Jasper Power Scroll | 71.8K | 1.98M | 1.87M | 2604.1% | 17 | 0.563 | 3x Enchanted Paper \| 1x Fine Jasper Gem |
+| 52 | Wise Dragon Leggings | 322.6K | 3.35M | 2.96M | 917.8% | 16 | 0.562 | 7x Wise Fragment |
+| 53 | Unstable Dragon Chestplate | 66.9K | 95.00M | 93.03M | 138991.4% | 2 | 0.561 | 8x Unstable Fragment |
+| 54 | Sorrow Helmet | 1.07M | 4.09M | 2.94M | 276.0% | 18 | 0.558 | 5x Sorrow |
+| 55 | Gauntlet of Contagion | 702.9K | 3.10M | 2.34M | 332.2% | 19 | 0.556 | 3x Enchanted Mycelium Cube \| 6x Leather Cloth |
+| 56 | Synthesizer v1 | 210.0K | 21.00M | 20.37M | 9702.2% | 5 | 0.556 | 5x X |
+| 57 | Soulflow Pile | 7.6K | 440.0K | 423.6K | 5547.1% | 25 | 0.551 | 9x Null Sphere |
+| 58 | Superior Dragon Boots | 983.7K | 8.50M | 7.34M | 746.5% | 10 | 0.550 | 4x Superior Fragment |
+| 59 | Etherwarp Conduit | 1.74M | 14.50M | 12.47M | 717.7% | 8 | 0.549 | 8x Null Ovoid \| 1x Refined Titanium |
+| 60 | Sponge Sinker | 137 | 160.0K | 156.7K | 114081.2% | 25 | 0.549 | 1x Water Lily \| 2x Sponge |
+| 61 | Final Destination Leggings | 460.8K | 1.76M | 1.26M | 274.3% | 23 | 0.548 | 3x Null Ovoid \| 4x Enchanted Redstone |
+| 62 | Common Hook | 5.4K | 195.0K | 185.7K | 3451.3% | 36 | 0.547 | 2x Enchanted Water Lily \| 1x Enchanted Raw Fish |
+| 63 | Opal Power Scroll | 33.6K | 1.70M | 1.63M | 4864.8% | 14 | 0.547 | 3x Enchanted Paper \| 1x Fine Opal Gem |
+| 64 | Spirit Sceptre | 3.11M | 12.27M | 8.91M | 286.2% | 10 | 0.546 | 1x Spirit Wing \| 2x Enchanted Lapis Lazuli Block |
+| 65 | Ichthyic Belt | 226.0K | 3.10M | 2.81M | 1244.1% | 13 | 0.544 | 2x Blue Shark Tooth \| 2x Nurse Shark Tooth \| 1x Enchanted Shark Fin |
+| 66 | Sorrow Leggings | 1.49M | 6.00M | 4.39M | 293.9% | 13 | 0.543 | 7x Sorrow |
+| 67 | Inferno Minion Fuel | 4.54M | 5.20M | 555.8K | 12.2% | 46 | 0.543 | 6x Nether Stalk Distillate \| 2x Inferno Fuel Block \| 1x Hypergolic Gabagool |
+| 68 | Unstable Dragon Boots | 33.5K | 700.0K | 652.5K | 1949.8% | 22 | 0.542 | 4x Unstable Fragment |
+| 69 | Lucky Clover | 3.51M | 4.32M | 725.7K | 20.7% | 38 | 0.542 | 8x Enchanted Emerald \| 1x Pet Item Lucky Clover Drop |
+| 70 | Inferno Minion Fuel | 4.56M | 5.20M | 537.7K | 11.8% | 46 | 0.542 | 6x Blaze Rod Distillate \| 2x Inferno Fuel Block \| 1x Hypergolic Gabagool |
+| 71 | Superior Dragon Chestplate | 1.97M | 13.30M | 11.07M | 562.5% | 8 | 0.542 | 8x Superior Fragment |
+| 72 | Inferno Minion Fuel | 4.56M | 5.20M | 537.3K | 11.8% | 46 | 0.541 | 6x Glowstone Dust Distillate \| 2x Inferno Fuel Block \| 1x Hypergolic Gabagool |
+| 73 | Bait Ring | 928.6K | 34.50M | 32.88M | 3540.8% | 4 | 0.541 | 9x Enchanted Ink Sack |
+| 74 | Inferno Minion Fuel | 4.57M | 5.20M | 529.7K | 11.6% | 46 | 0.541 | 6x Crude Gabagool Distillate \| 2x Inferno Fuel Block \| 1x Hypergolic Gabagool |
+| 75 | Magma Lord Leggings | 32.33M | 60.00M | 26.47M | 81.9% | 7 | 0.539 | 7x Magma Lord Fragment |
+| 76 | Devour Ring | 74.1K | 4.90M | 4.73M | 6383.3% | 8 | 0.538 | 1x Enchanted Raw Chicken \| 2x Enchanted Raw Salmon \| 1x Revenant Viscera |
+| 77 | Mineral Talisman | 1.18M | 2.00M | 783.0K | 66.5% | 29 | 0.534 | 9x Refined Mineral |
+| 78 | Radiant Power Orb | 10.3K | 300.0K | 283.7K | 2752.9% | 27 | 0.533 | 8x Wolf Tooth \| 1x Enchanted Emerald |
+| 79 | Werewolf Chestplate | 26.2K | 599.0K | 560.9K | 2144.3% | 21 | 0.533 | 8x Werewolf Skin |
+| 80 | Young Dragon Chestplate | 67.3K | 1.30M | 1.21M | 1792.3% | 15 | 0.529 | 8x Young Fragment |
+| 81 | Blaze Belt | 7.8K | 438.0K | 421.5K | 5412.6% | 20 | 0.529 | 4x Enchanted Blaze Powder \| 1x Blaze Ashes |
+| 82 | Melon Leggings | 356.7K | 2.19M | 1.79M | 501.7% | 15 | 0.528 | 7x Enchanted Melon Block |
+| 83 | Leggings of the Pack | 180.2K | 1.09M | 888.0K | 492.9% | 20 | 0.528 | 6x Enchanted Mutton \| 1x Golden Tooth |
+| 84 | Travel Scroll to the Gold Mine | 6.2K | 495.0K | 478.9K | 7713.0% | 18 | 0.528 | 3x Enchanted Iron \| 5x Enchanted Gold \| 1x Enchanted Ender Pearl |
+| 85 | Explosive Bow | 281.9K | 795.0K | 497.2K | 176.3% | 29 | 0.528 | 3x Enchanted Firework Rocket \| 3x String |
+| 86 | Hotspot Hook | 927.8K | 10.00M | 8.87M | 956.3% | 7 | 0.527 | 1x Enchanted Water Lily \| 1x Singed Powder \| 1x Broken Radar |
+| 87 | Final Destination Chestplate | 613.2K | 1.59M | 947.0K | 154.4% | 22 | 0.525 | 4x Enchanted Redstone \| 4x Null Ovoid |
+| 88 | Shimmering Light Tunic | 1.12M | 13.40M | 12.01M | 1074.7% | 6 | 0.525 | 5x Enchanted Mycelium Cube \| 2x Y \| 1x Z |
+| 89 | Experience Artifact | 866.0K | 1.25M | 359.0K | 41.5% | 37 | 0.520 | 9x Enchanted Lapis Lazuli Block |
+| 90 | Melon Helmet | 254.8K | 1.90M | 1.61M | 630.4% | 14 | 0.520 | 5x Enchanted Melon Block |
+| 91 | Souls Rebound | 22.9K | 2.60M | 2.53M | 11030.2% | 8 | 0.520 | 3x Enchanted Ghast Tear \| 3x Soul String \| 1x Dark Queens Soul Drop |
+| 92 | Wise Dragon Boots | 184.3K | 1.80M | 1.58M | 857.0% | 13 | 0.516 | 4x Wise Fragment |
+| 93 | Final Destination Helmet | 458.9K | 1.45M | 962.1K | 209.6% | 19 | 0.516 | 3x Null Ovoid \| 2x Enchanted Redstone |
+| 94 | Farm Armor Leggings | 6.9K | 3.00M | 2.93M | 42615.2% | 6 | 0.516 | 7x Enchanted Wheat |
+| 95 | Travel Scroll to The Barn | 4.4K | 350.0K | 338.6K | 7734.6% | 18 | 0.514 | 3x Enchanted Carrot \| 5x Enchanted Potato \| 1x Enchanted Ender Pearl |
+| 96 | Hay Bale | 58 | 900.0K | 881.9K | 1518569.4% | 6 | 0.513 | 9x Wheat |
+| 97 | Scoville Belt | 383.2K | 3.87M | 3.41M | 889.8% | 9 | 0.512 | 4x Compact Ooze \| 1x Rekindled Ember Fragment |
+| 98 | Dragonfuse Glove | 4.65M | 17.99M | 12.98M | 279.3% | 6 | 0.511 | 2x Ritual Residue \| 3x Mite Gel \| 3x Absolute Ender Pearl |
+| 99 | Personal Compactor 4000 | 155.2K | 784.0K | 613.1K | 395.1% | 20 | 0.511 | 7x Enchanted Redstone \| 1x Super Compactor 3000 |
+| 100 | Ichthyic Gloves | 273.9K | 4.00M | 3.65M | 1331.0% | 8 | 0.508 | 3x Blue Shark Tooth \| 2x Nurse Shark Tooth \| 1x Enchanted Shark Fin |
+| 101 | Wise Dragon Chestplate | 368.6K | 2.25M | 1.84M | 498.2% | 12 | 0.508 | 8x Wise Fragment |
+| 102 | Werewolf Boots | 13.1K | 850.0K | 819.9K | 6269.6% | 12 | 0.508 | 4x Werewolf Skin |
+| 103 | Hotspot Radar | 814.3K | 2.00M | 1.15M | 140.7% | 17 | 0.507 | 2x Bronze Bowl \| 2x Redstone \| 1x Broken Radar \| 3x Iron Ingot |
+| 104 | Lava Talisman | 15.1K | 1.00M | 964.9K | 6370.4% | 11 | 0.506 | 9x Enchanted Magma Cream |
+| 105 | Haste Ring | 2.4K | 250.0K | 242.6K | 10120.0% | 18 | 0.505 | 8x Enchanted Cobblestone |
+| 106 | Travel Scroll to the Smoldering Tomb | 3.52M | 25.00M | 20.98M | 596.0% | 4 | 0.501 | 4x Molten Powder \| 2x Enchanted Blaze Rod \| 2x Magma Fish Gold \| 1x Inferno Vertex |
+| 107 | Wisp Upgrade Stone | 2.12M | 8.85M | 6.55M | 309.3% | 7 | 0.501 | 4x Molten Powder \| 3x Enchanted Packed Ice \| 1x Inferno Vertex \| 1x Kelvin Inverter |
+| 108 | Shimmering Light Trousers | 986.6K | 16.60M | 15.28M | 1548.8% | 4 | 0.500 | 4x Enchanted Mycelium Cube \| 1x Z \| 2x Y |
+| 109 | Ender Bow | 1.1K | 120.0K | 116.5K | 10420.7% | 23 | 0.499 | 3x Enchanted Ender Pearl \| 3x String |
+| 110 | Hurricane Bow | 2.5K | 400.0K | 389.5K | 15274.2% | 13 | 0.497 | 3x Enchanted Bone \| 3x String |
+| 111 | Young Dragon Boots | 33.7K | 600.0K | 554.3K | 1646.7% | 15 | 0.497 | 4x Young Fragment |
+| 112 | Lush Talisman | 795 | 400.0K | 391.2K | 49154.6% | 11 | 0.496 | 9x Lush Berberis |
+| 113 | Spider's Boots | 2.7K | 770.0K | 751.9K | 28141.6% | 9 | 0.496 | 4x Enchanted String |
+| 114 | Old Dragon Helmet | 49.4K | 650.0K | 587.6K | 1189.6% | 15 | 0.495 | 5x Old Fragment |
+| 115 | Farm Armor Chestplate | 7.9K | 350.0K | 335.1K | 4260.5% | 16 | 0.495 | 8x Enchanted Wheat |
+| 116 | Travel Scroll to Spider's Den | 12.7K | 650.0K | 624.3K | 4906.5% | 12 | 0.494 | 8x Enchanted Flint \| 1x Enchanted Ender Pearl |
+| 117 | Sorrow Chestplate | 1.71M | 8.80M | 6.92M | 405.6% | 6 | 0.491 | 8x Sorrow |
+| 118 | Ghast Cloak | 18.0K | 450.0K | 423.0K | 2343.4% | 15 | 0.491 | 6x Enchanted Ghast Tear \| 1x Tentacle Meat |
+| 119 | Final Destination Boots | 306.6K | 1.80M | 1.46M | 475.4% | 11 | 0.490 | 2x Enchanted Redstone \| 2x Null Ovoid |
+| 120 | Gravity Talisman | 178 | 75.0K | 73.3K | 41015.9% | 21 | 0.490 | 9x Obsidian |
+| 121 | Guardian Chestplate | 3.4K | 1.50M | 1.47M | 43434.2% | 6 | 0.488 | 4x Prismarine Shard \| 4x Prismarine Crystals |
+| 122 | Wisp Upgrade Stone | 3.13M | 8.85M | 5.55M | 177.5% | 7 | 0.487 | 4x Inferno Vertex \| 2x Enchanted Packed Ice \| 2x Molten Powder \| 1x Kelvin Inverter |
+| 123 | Savanna Bow | 7.0K | 490.0K | 473.2K | 6735.7% | 12 | 0.487 | 3x Enchanted Acacia Log \| 3x Enchanted String |
+| 124 | Creeper Pants | 6.1K | 6.00M | 5.87M | 96556.2% | 3 | 0.487 | 7x Enchanted Gunpowder |
+| 125 | Thunder Boots | 256.8K | 990.0K | 713.4K | 277.8% | 15 | 0.485 | 4x Thunder Shards |
+| 126 | Warning Flare | 639.5K | 7.50M | 6.71M | 1049.4% | 5 | 0.485 | 1x Enchanted Sulphur \| 2x Molten Powder |
+| 127 | Tier Boost | 159.26M | 171.00M | 8.32M | 5.2% | 9 | 0.483 | 5x Enchanted Iron Block \| 1x Pet Item Tier Boost Drop |
+| 128 | Helmet of Growth | 11.3K | 2.50M | 2.44M | 21488.8% | 5 | 0.482 | 5x Enchanted Dark Oak Log |
+| 129 | Bone Necklace | 10.74M | 13.50M | 2.49M | 23.2% | 12 | 0.482 | 3x Soul String \| 2x Spirit Bone \| 1x Spirit Wing |
+| 130 | Farmer Boots | 6.5K | 900.0K | 875.5K | 13506.0% | 8 | 0.481 | 4x Enchanted Pumpkin |
+| 131 | Superior Dragon Leggings | 1.72M | 14.00M | 12.00M | 697.0% | 4 | 0.481 | 7x Superior Fragment |
+| 132 | Old Dragon Boots | 39.5K | 950.0K | 891.5K | 2256.0% | 10 | 0.481 | 4x Old Fragment |
+| 133 | Inferno Minion Fuel | 4.94M | 5.20M | 156.4K | 3.2% | 46 | 0.476 | 6x Magma Cream Distillate \| 2x Inferno Fuel Block \| 1x Hypergolic Gabagool |
+| 134 | Hotspot Sinker | 926.4K | 10.00M | 8.87M | 957.9% | 4 | 0.473 | 1x Broken Radar \| 1x Singed Powder \| 1x Enchanted Clay Ball |
+| 135 | Sulphur Bow | 9.7K | 1.44M | 1.40M | 14497.0% | 6 | 0.473 | 3x Enchanted String \| 2x Enchanted Sulphur \| 1x Bezos |
+| 136 | Emerald Ring | 7.9K | 230.0K | 217.5K | 2770.5% | 16 | 0.473 | 8x Enchanted Emerald |
+| 137 | Magma Lord Helmet | 23.10M | 275.00M | 246.40M | 1066.9% | 1 | 0.473 | 5x Magma Lord Fragment |
+| 138 | Titan Line | 149.50M | 167.00M | 14.16M | 9.5% | 6 | 0.473 | 1x Enchanted Water Lily \| 1x Bayou Water Orb \| 1x Titanoboa Shed |
+| 139 | Unstable Dragon Helmet | 41.8K | 690.0K | 634.4K | 1516.4% | 11 | 0.472 | 5x Unstable Fragment |
+| 140 | Old Dragon Chestplate | 79.0K | 800.0K | 705.0K | 892.0% | 11 | 0.469 | 8x Old Fragment |
+| 141 | Red Claw Talisman | 3.2K | 100.0K | 94.8K | 2985.4% | 21 | 0.467 | 2x Wolf Tooth \| 1x Enchanted Bone |
+| 142 | Unstable Dragon Leggings | 58.6K | 2.00M | 1.90M | 3246.6% | 6 | 0.466 | 7x Unstable Fragment |
+| 143 | Salmon Boots | 6.3K | 190.0K | 179.9K | 2837.3% | 16 | 0.466 | 4x Enchanted Raw Salmon |
+| 144 | Exp Share | 1.39M | 2.40M | 962.1K | 69.2% | 13 | 0.465 | 6x Enchanted Gold \| 1x Pet Item Exp Share Drop |
+| 145 | Agarimoo Talisman | 108.0K | 350.0K | 235.0K | 217.6% | 20 | 0.465 | 9x Agarimoo Tongue |
+| 146 | Tactical Insertion | 5.48M | 48.50M | 42.05M | 767.6% | 2 | 0.465 | 1x Tessellated Ender Pearl \| 1x Inferno Vertex \| 1x Molten Powder |
+| 147 | Farmer Orb | 65.9K | 7.00M | 6.79M | 10314.5% | 3 | 0.465 | 8x Enchanted Pumpkin \| 1x Enchanted Glowstone |
+| 148 | Shimmering Light Slippers | 346.6K | 10.50M | 9.94M | 2869.3% | 3 | 0.464 | 2x Enchanted Mycelium Cube \| 2x X |
+| 149 | Strong Dragon Helmet | 296.2K | 1.90M | 1.57M | 528.5% | 8 | 0.464 | 5x Strong Fragment |
+| 150 | Strong Dragon Leggings | 414.7K | 4.50M | 3.99M | 963.1% | 5 | 0.463 | 7x Strong Fragment |
+| 151 | Farm Armor Boots | 3.9K | 125.0K | 118.6K | 3014.7% | 18 | 0.461 | 4x Enchanted Wheat |
+| 152 | Ice Cube | 3.1K | 140.0K | 134.1K | 4314.6% | 16 | 0.459 | 8x Enchanted Ice \| 1x Packed Ice |
+| 153 | Sapphire Power Scroll | 37.4K | 1.12M | 1.06M | 2830.0% | 7 | 0.456 | 3x Enchanted Paper \| 1x Fine Sapphire Gem |
+| 154 | Web | 41 | 1.00M | 980.0K | 2367521.1% | 3 | 0.456 | 9x String |
+| 155 | Holy Dragon Leggings | 83.7K | 1.39M | 1.28M | 1528.1% | 7 | 0.456 | 7x Holy Fragment |
+| 156 | Werewolf Leggings | 22.9K | 1.80M | 1.74M | 7607.7% | 5 | 0.456 | 7x Werewolf Skin |
+| 157 | Runaan's Bow | 4.5K | 3.00M | 2.94M | 64659.3% | 3 | 0.454 | 3x Enchanted Bone \| 3x Enchanted String |
+| 158 | Amber Power Scroll | 35.6K | 1.90M | 1.83M | 5125.2% | 5 | 0.453 | 3x Enchanted Paper \| 1x Fine Amber Gem |
+| 159 | Travel Scroll to Mushroom Island | 5.4K | 496.0K | 480.7K | 8972.7% | 8 | 0.452 | 3x Enchanted Cocoa \| 5x Enchanted Cactus Green \| 1x Enchanted Ender Pearl |
+| 160 | Salmon Leggings | 11.1K | 222.0K | 206.5K | 1861.1% | 13 | 0.446 | 7x Enchanted Raw Salmon |
+| 161 | Shimmering Light Hood | 388.5K | 16.00M | 15.29M | 3935.6% | 2 | 0.446 | 3x X \| 2x Enchanted Mycelium Cube |
+| 162 | Edible Mace | 175.4K | 3.67M | 3.42M | 1948.6% | 4 | 0.444 | 2x Enchanted Mutton \| 1x Golden Tooth |
+| 163 | Ancient Cloak | 1.26M | 2.15M | 844.9K | 66.9% | 11 | 0.444 | 6x Enchanted Red Sand Cube \| 1x Wither Soul |
+| 164 | Fel Rose | 345.6K | 15.00M | 14.35M | 4154.1% | 2 | 0.444 | 4x Fel Pearl \| 1x Golem Poppy |
+| 165 | Magma Necklace | 7.8K | 100.0K | 90.2K | 1150.9% | 19 | 0.444 | 4x Enchanted Magma Cream \| 1x Magma Chunk |
+| 166 | Shaman Sword | 174.8K | 700.0K | 511.2K | 292.5% | 11 | 0.443 | 1x Golden Tooth \| 1x Enchanted Iron \| 1x Enchanted Bone |
+| 167 | Raggedy Shark Tooth Necklace | 47.9K | 290.0K | 236.3K | 493.7% | 14 | 0.442 | 8x Shark Fin \| 1x Nurse Shark Tooth |
+| 168 | Scourge Cloak | 386.2K | 4.35M | 3.88M | 1004.0% | 4 | 0.441 | 4x Mutated Blaze Ashes \| 4x Compact Ooze \| 1x Rekindled Ember Fragment |
+| 169 | Flamebreaker Chestplate | 4.9K | 378.0K | 365.5K | 7450.8% | 8 | 0.439 | 8x Enchanted Hard Stone |
+| 170 | Leggings of Growth | 15.9K | 3.00M | 2.92M | 18404.6% | 3 | 0.439 | 7x Enchanted Dark Oak Log |
+| 171 | Sponge Boots | 319.8K | 875.0K | 537.7K | 168.1% | 11 | 0.438 | 4x Enchanted Wet Sponge |
+| 172 | Tarantula Leggings | 839.6K | 2.10M | 1.22M | 145.1% | 8 | 0.438 | 3x Tarantula Silk \| 4x Enchanted Iron |
+| 173 | Gemstone Gauntlet | 15.37M | 19.75M | 3.98M | 25.9% | 6 | 0.435 | 8x Flawless Ruby Gem \| 1x Enchanted Gold Block |
+| 174 | Sponge Leggings | 559.7K | 1.00M | 420.3K | 75.1% | 13 | 0.434 | 7x Enchanted Wet Sponge |
+| 175 | Skeleton's Helmet | 4.2K | 1.98M | 1.94M | 45809.9% | 3 | 0.434 | 5x Enchanted Bone |
+| 176 | Chestplate of the Pack | 696.8K | 3.20M | 2.44M | 350.0% | 5 | 0.431 | 4x Enchanted Mutton \| 4x Golden Tooth |
+| 177 | Holy Dragon Helmet | 59.8K | 1.35M | 1.26M | 2112.1% | 5 | 0.427 | 5x Holy Fragment |
+| 178 | Old Dragon Leggings | 69.2K | 1.40M | 1.30M | 1884.0% | 5 | 0.427 | 7x Old Fragment |
+| 179 | Revenant Boots | 142.7K | 995.0K | 832.4K | 583.5% | 7 | 0.427 | 2x Enchanted Diamond \| 2x Revenant Viscera |
+| 180 | Lava Shell Necklace | 2.89M | 4.70M | 1.71M | 59.3% | 7 | 0.427 | 8x Lava Shell \| 1x Gazing Pearl |
+| 181 | Sponge Helmet | 399.8K | 796.0K | 380.3K | 95.1% | 12 | 0.425 | 5x Enchanted Wet Sponge |
+| 182 | Helmet of the Pack | 523.8K | 2.60M | 2.02M | 386.4% | 5 | 0.425 | 3x Golden Tooth \| 4x Enchanted Mutton |
+| 183 | Thunder Helmet | 321.0K | 3.00M | 2.62M | 816.0% | 4 | 0.423 | 5x Thunder Shards |
+| 184 | Golem Armor Chestplate | 7.2K | 500.0K | 482.8K | 6697.9% | 6 | 0.421 | 8x Enchanted Iron |
+| 185 | Burststopper Talisman | 2.62M | 57.99M | 54.21M | 2072.4% | 1 | 0.421 | 4x Whipped Magma Cream \| 4x Molten Powder \| 1x Refined Titanium |
+| 186 | Demonslayer Gauntlet | 1.06M | 44.80M | 42.84M | 4023.2% | 1 | 0.420 | 2x Enchanted Glowstone \| 3x Molten Powder \| 3x Enchanted Rabbit Hide |
+| 187 | Boots of the Pack | 348.4K | 2.80M | 2.40M | 687.5% | 4 | 0.417 | 2x Golden Tooth \| 2x Enchanted Mutton |
+| 188 | Stereo Pants | 7.7K | 430.0K | 413.7K | 5406.3% | 6 | 0.413 | 3x Enchanted Sponge \| 4x Prismarine Shard |
+| 189 | Travel Scroll to the End | 9.1K | 445.0K | 427.0K | 4694.4% | 6 | 0.412 | 3x Enchanted Obsidian \| 5x Enchanted Endstone \| 1x Enchanted Ender Pearl |
+| 190 | Blobfish Hat | 109 | 150.0K | 146.9K | 134587.5% | 6 | 0.412 | 5x Water Lily \| 4x Clay Ball |
+| 191 | Cropie Talisman | 201.8K | 7.00M | 6.66M | 3298.3% | 2 | 0.411 | 8x Cropie |
+| 192 | Salmon Helmet | 7.9K | 200.0K | 188.1K | 2373.5% | 9 | 0.410 | 5x Enchanted Raw Salmon |
+| 193 | Travel Scroll to the Void Sepulture | 473.0K | 1.49M | 987.2K | 208.7% | 6 | 0.406 | 3x Null Ovoid \| 5x Raw Soulflow \| 1x Absolute Ender Pearl |
+| 194 | Thunderbolt Necklace | 321.0K | 1.00M | 659.0K | 205.3% | 7 | 0.405 | 5x Thunder Shards |
+| 195 | Protector Dragon Leggings | 68.5K | 1.35M | 1.25M | 1830.8% | 4 | 0.404 | 7x Protector Fragment |
+| 196 | Soul Esoward | 1.99M | 4.70M | 2.62M | 132.0% | 4 | 0.400 | 4x Enchanted Birch Log \| 1x Summoning Eye \| 4x Null Ovoid |
+| 197 | Berserker Boots | 422.2K | 1.23M | 778.3K | 184.3% | 6 | 0.395 | 2x Enchanted Red Sand Cube \| 2x Magma Chunk |
+| 198 | Protector Dragon Helmet | 48.9K | 1000.0K | 931.1K | 1902.4% | 4 | 0.393 | 5x Protector Fragment |
+| 199 | Amethyst Power Scroll | 33.2K | 1.44M | 1.38M | 4156.7% | 3 | 0.390 | 3x Enchanted Paper \| 1x Fine Amethyst Gem |
+| 200 | Rabbit Boots | 3.2K | 450.0K | 437.8K | 13896.5% | 4 | 0.388 | 2x Enchanted Rabbit Hide \| 2x Enchanted Rabbit Foot |
+| 201 | Small Backpack | 1.1K | 74.0K | 71.4K | 6329.1% | 9 | 0.384 | 8x Leather |
+| 202 | Holy Dragon Boots | 47.8K | 1.40M | 1.32M | 2769.7% | 3 | 0.384 | 4x Holy Fragment |
+| 203 | Emerald Armor Leggings | 742.0K | 3.30M | 2.49M | 335.8% | 3 | 0.382 | 7x Enchanted Emerald Block |
+| 204 | Young Dragon Leggings | 58.9K | 1.39M | 1.30M | 2212.3% | 3 | 0.380 | 7x Young Fragment |
+| 205 | Berserker Helmet | 423.5K | 1.25M | 801.5K | 189.3% | 5 | 0.379 | 2x Magma Chunk \| 1x Burning Eye \| 2x Enchanted Red Sand Cube |
+| 206 | Emerald Armor Boots | 424.0K | 999.9K | 555.9K | 131.1% | 6 | 0.378 | 4x Enchanted Emerald Block |
+| 207 | Delirium Necklace | 136.1K | 1.60M | 1.43M | 1052.1% | 3 | 0.375 | 4x Gazing Pearl \| 1x Rekindled Ember Fragment |
+| 208 | Rabbit Chestplate | 6.3K | 699.0K | 678.7K | 10734.6% | 3 | 0.374 | 6x Enchanted Rabbit Hide \| 2x Enchanted Rabbit Foot |
+| 209 | Prismarine Bricks | 29 | 399.0K | 391.0K | 1317813.5% | 2 | 0.374 | 9x Prismarine Shard |
+| 210 | Golem Armor Leggings | 6.3K | 650.0K | 630.7K | 9999.8% | 3 | 0.370 | 7x Enchanted Iron |
+| 211 | Golem Armor Helmet | 4.5K | 350.0K | 338.5K | 7513.7% | 4 | 0.370 | 5x Enchanted Iron |
+| 212 | Deepterror Mixin | 2.31M | 3.80M | 1.41M | 61.2% | 4 | 0.366 | 4x Mite Gel \| 1x Ritual Residue |
+| 213 | Hardened Diamond Helmet | 6.6K | 350.0K | 336.4K | 5060.2% | 4 | 0.365 | 5x Enchanted Diamond |
+| 214 | Salmon Chestplate | 12.7K | 200.0K | 183.3K | 1445.9% | 6 | 0.364 | 8x Enchanted Raw Salmon |
+| 215 | Dragonfade Cloak | 6.94M | 13.40M | 6.19M | 89.3% | 2 | 0.363 | 3x Ritual Residue \| 4x Mite Gel \| 2x Absolute Ender Pearl |
+| 216 | Portal to The Barn | 79 | 399.0K | 390.9K | 494548.3% | 2 | 0.361 | 3x Carrot Item \| 5x Potato Item \| 1x Ender Pearl |
+| 217 | Tarantula Chestplate | 1.12M | 5.00M | 3.78M | 338.1% | 2 | 0.360 | 4x Enchanted Iron \| 4x Tarantula Silk |
+| 218 | Boots of Growth | 9.1K | 1.19M | 1.16M | 12745.3% | 2 | 0.359 | 4x Enchanted Dark Oak Log |
+| 219 | Hardened Diamond Chestplate | 10.6K | 350.0K | 332.4K | 3125.2% | 4 | 0.358 | 8x Enchanted Diamond |
+| 220 | Magma Lord Gauntlet | 27.71M | 32.00M | 3.65M | 13.2% | 3 | 0.357 | 6x Magma Lord Fragment |
+| 221 | Draconic Talisman | 4.63M | 7.00M | 2.23M | 48.2% | 3 | 0.354 | 2x Ritual Residue \| 6x Mite Gel \| 1x Absolute Ender Pearl |
+| 222 | Thunder Leggings | 449.4K | 3.13M | 2.62M | 582.6% | 2 | 0.352 | 7x Thunder Shards |
+| 223 | Protector Dragon Boots | 39.2K | 1.50M | 1.43M | 3654.4% | 2 | 0.351 | 4x Protector Fragment |
+| 224 | Emerald Armor Chestplate | 848.0K | 3.90M | 2.97M | 350.7% | 2 | 0.351 | 8x Enchanted Emerald Block |
+| 225 | Young Dragon Helmet | 42.1K | 5.00M | 4.86M | 11544.8% | 1 | 0.347 | 5x Young Fragment |
+| 226 | Rekindled Ember Boots | 524.7K | 1.00M | 455.3K | 86.8% | 5 | 0.347 | 4x Rekindled Ember Fragment |
+| 227 | Hardened Diamond Boots | 5.3K | 350.0K | 337.7K | 6350.3% | 3 | 0.340 | 4x Enchanted Diamond |
+| 228 | Sponge Chestplate | 639.6K | 949.0K | 290.4K | 45.4% | 6 | 0.339 | 8x Enchanted Wet Sponge |
+| 229 | Golem Armor Boots | 3.6K | 299.0K | 289.4K | 8030.3% | 3 | 0.337 | 4x Enchanted Iron |
+| 230 | Weird Tuba | 177.5K | 5.60M | 5.31M | 2991.4% | 1 | 0.334 | 5x Enchanted Iron \| 1x Golden Tooth |
+| 231 | Personal Bank Item | 1.1K | 80.0K | 77.3K | 7354.0% | 5 | 0.333 | 8x Emerald \| 1x Enchanted Emerald |
+| 232 | Crystal Leggings | 833.3K | 1.85M | 979.7K | 117.6% | 3 | 0.332 | 7x Crystal Fragment |
+| 233 | Emerald Armor Helmet | 530.0K | 1.40M | 842.0K | 158.9% | 3 | 0.330 | 5x Enchanted Emerald Block |
+| 234 | Strong Dragon Boots | 237.0K | 5.00M | 4.66M | 1967.1% | 1 | 0.324 | 4x Strong Fragment |
+| 235 | Lesser Orb of Healing | 12.4K | 40.0K | 26.8K | 216.2% | 11 | 0.322 | 9x Mimic Fragment |
+| 236 | Blaze Boots | 1.02M | 1.89M | 833.1K | 81.8% | 3 | 0.321 | 4x Enchanted Blaze Rod |
+| 237 | Revenant Leggings | 215.3K | 800.0K | 568.7K | 264.1% | 3 | 0.321 | 3x Revenant Viscera \| 4x Enchanted Diamond |
+| 238 | Crystal Chestplate | 952.4K | 1.80M | 811.6K | 85.2% | 3 | 0.321 | 8x Crystal Fragment |
+| 239 | Flamebreaker Leggings | 4.3K | 200.0K | 191.7K | 4465.8% | 3 | 0.313 | 7x Enchanted Hard Stone |
+| 240 | Strong Dragon Chestplate | 474.0K | 4.90M | 4.33M | 913.1% | 1 | 0.311 | 8x Strong Fragment |
+| 241 | Speedster Leggings | 738.3K | 1.39M | 623.9K | 84.5% | 3 | 0.310 | 7x Enchanted Sugar Cane |
+| 242 | Tarantula Helmet | 837.8K | 1.50M | 632.2K | 75.5% | 3 | 0.309 | 3x Tarantula Silk \| 2x Enchanted Iron |
+| 243 | Blaze Helmet | 1.27M | 2.00M | 687.5K | 54.0% | 3 | 0.309 | 5x Enchanted Blaze Rod |
+| 244 | Blaze Leggings | 1.78M | 3.25M | 1.40M | 78.8% | 2 | 0.303 | 7x Enchanted Blaze Rod |
+| 245 | Berserker Leggings | 843.5K | 1.15M | 283.5K | 33.6% | 4 | 0.295 | 4x Enchanted Red Sand Cube \| 1x Burning Eye \| 2x Magma Chunk |
+| 246 | Hyper Furnace | 4.0K | 80.0K | 74.4K | 1855.9% | 4 | 0.293 | 8x Enchanted Cobblestone \| 1x Enchanted Coal |
+| 247 | Chestplate of Growth | 18.2K | 1.37M | 1.32M | 7294.1% | 1 | 0.290 | 8x Enchanted Dark Oak Log |
+| 248 | Rekindled Ember Helmet | 655.9K | 1.50M | 811.2K | 123.7% | 2 | 0.287 | 5x Rekindled Ember Fragment |
+| 249 | Thunder Chestplate | 513.6K | 3.28M | 2.70M | 525.9% | 1 | 0.286 | 8x Thunder Shards |
+| 250 | Revenant Chestplate | 285.3K | 945.2K | 641.0K | 224.7% | 2 | 0.285 | 4x Enchanted Diamond \| 4x Revenant Viscera |
+| 251 | Rekindled Ember Leggings | 918.2K | 1.79M | 836.0K | 91.0% | 2 | 0.284 | 7x Rekindled Ember Fragment |
+| 252 | Holy Dragon Chestplate | 95.6K | 1.70M | 1.57M | 1642.3% | 1 | 0.279 | 8x Holy Fragment |
+| 253 | Speedster Boots | 421.9K | 1.05M | 607.1K | 143.9% | 2 | 0.277 | 4x Enchanted Sugar Cane |
+| 254 | Ichthyic Cloak | 336.7K | 2.40M | 2.02M | 598.5% | 1 | 0.276 | 2x Blue Shark Tooth \| 1x Nurse Shark Tooth \| 4x Enchanted Shark Fin |
+| 255 | Berserker Chestplate | 1.05M | 1.25M | 171.5K | 16.3% | 4 | 0.266 | 5x Enchanted Red Sand Cube \| 1x Burning Eye \| 2x Magma Chunk |
+| 256 | Rabbit Helmet | 4.0K | 500.0K | 486.0K | 12291.8% | 1 | 0.257 | 4x Enchanted Rabbit Hide \| 1x Enchanted Rabbit Foot |
+| 257 | Tera Shell Necklace | 1.37M | 3.30M | 1.87M | 136.5% | 1 | 0.254 | 4x Enchanted Red Sand Cube \| 4x Enchanted Mycelium Cube \| 1x Gazing Pearl |
+| 258 | Crystal Helmet | 595.2K | 799.0K | 187.8K | 31.5% | 2 | 0.212 | 5x Crystal Fragment |
+| 259 | Speedster Chestplate | 843.8K | 1.60M | 724.2K | 85.8% | 1 | 0.211 | 8x Enchanted Sugar Cane |
+| 260 | Blaze Chestplate | 2.04M | 2.90M | 806.0K | 39.6% | 1 | 0.206 | 8x Enchanted Blaze Rod |
+| 261 | Speedster Helmet | 527.4K | 1.10M | 550.6K | 104.4% | 1 | 0.203 | 5x Enchanted Sugar Cane |
+| 262 | Perfect Boots - Tier I | 816.8K | 900.0K | 65.2K | 8.0% | 3 | 0.192 | 4x Enchanted Diamond Block |
+| 263 | Rekindled Ember Chestplate | 1.05M | 1.50M | 420.6K | 40.1% | 1 | 0.180 | 8x Rekindled Ember Fragment |
+| 264 | Diamond Leggings | 54 | 10.0K | 9.7K | 17921.0% | 1 | 0.108 | 7x Diamond |

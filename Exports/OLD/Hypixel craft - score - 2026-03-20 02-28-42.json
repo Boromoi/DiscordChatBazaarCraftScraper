@@ -1,0 +1,3521 @@
+[
+  {
+    "name": "Enchanted Diamond Block",
+    "item_id": "ENCHANTED_DIAMOND_BLOCK",
+    "input_cost": 6647.918619410756,
+    "output_value": 199932.4953022984,
+    "profit": 193284.57668288765,
+    "margin_pct": 2907.444987646669,
+    "volume": 1395643,
+    "ingredients": [
+      {
+        "name": "Enchanted Diamond",
+        "amount": 5,
+        "price": 1329.5837238821512
+      }
+    ],
+    "score": 0.7049614987062565
+  },
+  {
+    "name": "Enchanted Melon",
+    "item_id": "ENCHANTED_MELON_BLOCK",
+    "input_cost": 1587.7720774662885,
+    "output_value": 49798.04977842242,
+    "profit": 48210.27770095613,
+    "margin_pct": 3036.347495031429,
+    "volume": 2904099,
+    "ingredients": [
+      {
+        "name": "Enchanted Melon",
+        "amount": 5,
+        "price": 317.5544154932577
+      }
+    ],
+    "score": 0.688895422246602
+  },
+  {
+    "name": "Enchanted Slime Block",
+    "item_id": "ENCHANTED_SLIME_BLOCK",
+    "input_cost": 5238.327682418592,
+    "output_value": 124658.15639129475,
+    "profit": 119419.82870887616,
+    "margin_pct": 2279.7319287543833,
+    "volume": 1052827,
+    "ingredients": [
+      {
+        "name": "Enchanted Slime Ball",
+        "amount": 5,
+        "price": 1047.6655364837184
+      }
+    ],
+    "score": 0.6811417463345568
+  },
+  {
+    "name": "Mutant Nether Wart",
+    "item_id": "MUTANT_NETHER_STALK",
+    "input_cost": 3229.5,
+    "output_value": 99091.675,
+    "profit": 95862.175,
+    "margin_pct": 2968.3286886514943,
+    "volume": 894051,
+    "ingredients": [
+      {
+        "name": "Enchanted Nether Stalk",
+        "amount": 5,
+        "price": 645.9
+      }
+    ],
+    "score": 0.6785499830641694
+  },
+  {
+    "name": "Enchanted Clay Block",
+    "item_id": "ENCHANTED_CLAY_BLOCK",
+    "input_cost": 3462.4872780651476,
+    "output_value": 74526.70759010191,
+    "profit": 71064.22031203676,
+    "margin_pct": 2052.403795451568,
+    "volume": 1812706,
+    "ingredients": [
+      {
+        "name": "Enchanted Clay Ball",
+        "amount": 5,
+        "price": 692.4974556130295
+      }
+    ],
+    "score": 0.6782430545767121
+  },
+  {
+    "name": "Enchanted Wheat",
+    "item_id": "ENCHANTED_WHEAT",
+    "input_cost": 32.25243897995309,
+    "output_value": 912.1136430608817,
+    "profit": 879.8612040809286,
+    "margin_pct": 2728.045480925698,
+    "volume": 131642218,
+    "ingredients": [
+      {
+        "name": "Wheat",
+        "amount": 5,
+        "price": 6.450487795990618
+      }
+    ],
+    "score": 0.6750825301198005
+  },
+  {
+    "name": "Enchanted Hard Stone",
+    "item_id": "ENCHANTED_HARD_STONE",
+    "input_cost": 1.7923324824505424,
+    "output_value": 504.91126302837756,
+    "profit": 503.118930545927,
+    "margin_pct": 28070.625035933313,
+    "volume": 19325857,
+    "ingredients": [
+      {
+        "name": "Hard Stone",
+        "amount": 9,
+        "price": 0.19914805360561583
+      }
+    ],
+    "score": 0.6749197435671235
+  },
+  {
+    "name": "Enchanted Baked Potato",
+    "item_id": "ENCHANTED_BAKED_POTATO",
+    "input_cost": 2398.613033031657,
+    "output_value": 72927.1166740766,
+    "profit": 70528.50364104495,
+    "margin_pct": 2940.386909842748,
+    "volume": 989598,
+    "ingredients": [
+      {
+        "name": "Enchanted Potato",
+        "amount": 5,
+        "price": 479.72260660633134
+      }
+    ],
+    "score": 0.6731854382678094
+  },
+  {
+    "name": "Enchanted Sulphur Cube",
+    "item_id": "ENCHANTED_SULPHUR_CUBE",
+    "input_cost": 8664.912725922257,
+    "output_value": 246785.1664460828,
+    "profit": 238120.25372016054,
+    "margin_pct": 2748.0975429537984,
+    "volume": 269440,
+    "ingredients": [
+      {
+        "name": "Enchanted Sulphur",
+        "amount": 5,
+        "price": 1732.9825451844513
+      }
+    ],
+    "score": 0.6717857050798896
+  },
+  {
+    "name": "Enchanted Hay Bale",
+    "item_id": "ENCHANTED_HAY_BALE",
+    "input_cost": 4915.267533243863,
+    "output_value": 148497.88,
+    "profit": 143582.61246675614,
+    "margin_pct": 2921.1555931727253,
+    "volume": 375576,
+    "ingredients": [
+      {
+        "name": "Enchanted Wheat",
+        "amount": 5,
+        "price": 983.0535066487726
+      }
+    ],
+    "score": 0.6684865982676986
+  },
+  {
+    "name": "Polished Pumpkin",
+    "item_id": "POLISHED_PUMPKIN",
+    "input_cost": 8102.91758689691,
+    "output_value": 249477.95407142857,
+    "profit": 241375.03648453165,
+    "margin_pct": 2978.8657467633034,
+    "volume": 201910,
+    "ingredients": [
+      {
+        "name": "Enchanted Pumpkin",
+        "amount": 5,
+        "price": 1620.5835173793819
+      }
+    ],
+    "score": 0.6675972517521791
+  },
+  {
+    "name": "Enchanted Lapis Lazuli Block",
+    "item_id": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+    "input_cost": 3720.8372645700074,
+    "output_value": 93910.36410739044,
+    "profit": 90189.52684282043,
+    "margin_pct": 2423.90409550048,
+    "volume": 683723,
+    "ingredients": [
+      {
+        "name": "Enchanted Lapis Lazuli",
+        "amount": 5,
+        "price": 744.1674529140015
+      }
+    ],
+    "score": 0.6661721512162222
+  },
+  {
+    "name": "Enchanted Brown Mushroom",
+    "item_id": "ENCHANTED_BROWN_MUSHROOM",
+    "input_cost": 77.74443814504903,
+    "output_value": 1540.8488147156145,
+    "profit": 1463.1043765705654,
+    "margin_pct": 1881.9408969691547,
+    "volume": 65315810,
+    "ingredients": [
+      {
+        "name": "Brown Mushroom",
+        "amount": 5,
+        "price": 15.548887629009805
+      }
+    ],
+    "score": 0.6626897758282358
+  },
+  {
+    "name": "Tarantula Silk",
+    "item_id": "TARANTULA_SILK",
+    "input_cost": 8661.45624318267,
+    "output_value": 269620.51896674925,
+    "profit": 260959.06272356657,
+    "margin_pct": 3012.8774584408293,
+    "volume": 129552,
+    "ingredients": [
+      {
+        "name": "Tarantula Web",
+        "amount": 4,
+        "price": 1779.341870008873
+      },
+      {
+        "name": "Enchanted Flint",
+        "amount": 1,
+        "price": 1544.0887631471785
+      }
+    ],
+    "score": 0.6598132453338923
+  },
+  {
+    "name": "Enchanted Red Mushroom",
+    "item_id": "ENCHANTED_RED_MUSHROOM",
+    "input_cost": 109.90642861283405,
+    "output_value": 1580.0,
+    "profit": 1470.0935713871659,
+    "margin_pct": 1337.5865178604297,
+    "volume": 76957152,
+    "ingredients": [
+      {
+        "name": "Red Mushroom",
+        "amount": 5,
+        "price": 21.98128572256681
+      }
+    ],
+    "score": 0.6582302260179269
+  },
+  {
+    "name": "Enchanted Melon Slice",
+    "item_id": "ENCHANTED_MELON",
+    "input_cost": 14.578370564832168,
+    "output_value": 303.45875,
+    "profit": 288.88037943516787,
+    "margin_pct": 1981.568366303176,
+    "volume": 283379036,
+    "ingredients": [
+      {
+        "name": "Melon",
+        "amount": 5,
+        "price": 2.9156741129664336
+      }
+    ],
+    "score": 0.6576412784005564
+  },
+  {
+    "name": "Box of Seeds",
+    "item_id": "BOX_OF_SEEDS",
+    "input_cost": 2398.7521097158383,
+    "output_value": 74457.79625,
+    "profit": 72059.04414028417,
+    "margin_pct": 3004.0221266890494,
+    "volume": 449727,
+    "ingredients": [
+      {
+        "name": "Enchanted Seeds",
+        "amount": 5,
+        "price": 479.7504219431677
+      }
+    ],
+    "score": 0.6565510039455329
+  },
+  {
+    "name": "Enchanted Tungsten",
+    "item_id": "ENCHANTED_TUNGSTEN",
+    "input_cost": 671.3948272726093,
+    "output_value": 16641.84375,
+    "profit": 15970.448922727392,
+    "margin_pct": 2378.6970459101917,
+    "volume": 2901478,
+    "ingredients": [
+      {
+        "name": "Tungsten",
+        "amount": 5,
+        "price": 134.27896545452185
+      }
+    ],
+    "score": 0.6562976113693169
+  },
+  {
+    "name": "Enchanted Sugar Cane",
+    "item_id": "ENCHANTED_SUGAR_CANE",
+    "input_cost": 3292.585079757322,
+    "output_value": 99798.03501415247,
+    "profit": 96505.44993439515,
+    "margin_pct": 2930.993356184072,
+    "volume": 332508,
+    "ingredients": [
+      {
+        "name": "Enchanted Sugar",
+        "amount": 5,
+        "price": 658.5170159514644
+      }
+    ],
+    "score": 0.6562445325019172
+  },
+  {
+    "name": "Enchanted Seeds",
+    "item_id": "ENCHANTED_SEEDS",
+    "input_cost": 18.18421385754047,
+    "output_value": 435.34361140762326,
+    "profit": 417.15939755008276,
+    "margin_pct": 2294.074414314583,
+    "volume": 145956319,
+    "ingredients": [
+      {
+        "name": "Seeds",
+        "amount": 5,
+        "price": 3.636842771508094
+      }
+    ],
+    "score": 0.6551873912184348
+  },
+  {
+    "name": "Enchanted Pumpkin",
+    "item_id": "ENCHANTED_PUMPKIN",
+    "input_cost": 89.5,
+    "output_value": 1580.0785673685257,
+    "profit": 1490.5785673685257,
+    "margin_pct": 1665.4509132609223,
+    "volume": 39269714,
+    "ingredients": [
+      {
+        "name": "Pumpkin",
+        "amount": 5,
+        "price": 17.9
+      }
+    ],
+    "score": 0.6487869521681201
+  },
+  {
+    "name": "Enchanted Gold Block",
+    "item_id": "ENCHANTED_GOLD_BLOCK",
+    "input_cost": 3133.9590968013176,
+    "output_value": 77458.14083525709,
+    "profit": 74324.18173845577,
+    "margin_pct": 2371.5747220285966,
+    "volume": 384319,
+    "ingredients": [
+      {
+        "name": "Enchanted Gold",
+        "amount": 5,
+        "price": 626.7918193602635
+      }
+    ],
+    "score": 0.6480654011838474
+  },
+  {
+    "name": "☘ Flawless Peridot Gemstone",
+    "item_id": "FLAWLESS_PERIDOT_GEM",
+    "input_cost": 284769.68153089884,
+    "output_value": 4103728.2535005943,
+    "profit": 3818958.5719696954,
+    "margin_pct": 1341.069228802477,
+    "volume": 8903,
+    "ingredients": [
+      {
+        "name": "Fine Peridot Gem",
+        "amount": 5,
+        "price": 56953.93630617977
+      }
+    ],
+    "score": 0.6450607730894361
+  },
+  {
+    "name": "Enchanted Potato",
+    "item_id": "ENCHANTED_POTATO",
+    "input_cost": 37.65433539995274,
+    "output_value": 446.0295631564493,
+    "profit": 408.37522775649654,
+    "margin_pct": 1084.5370749977678,
+    "volume": 201009899,
+    "ingredients": [
+      {
+        "name": "Potato Item",
+        "amount": 5,
+        "price": 7.530867079990548
+      }
+    ],
+    "score": 0.6437434155352403
+  },
+  {
+    "name": "Compost Bundle",
+    "item_id": "ENCHANTED_COMPOST",
+    "input_cost": 86146.95218701183,
+    "output_value": 2496969.770860806,
+    "profit": 2410822.818673794,
+    "margin_pct": 2798.5004198874817,
+    "volume": 5967,
+    "ingredients": [
+      {
+        "name": "Compost",
+        "amount": 5,
+        "price": 17229.390437402366
+      }
+    ],
+    "score": 0.6427601438297622
+  },
+  {
+    "name": "Enchanted Cactus",
+    "item_id": "ENCHANTED_CACTUS",
+    "input_cost": 3270.0,
+    "output_value": 98814.48453546177,
+    "profit": 95544.48453546177,
+    "margin_pct": 2921.84967998354,
+    "volume": 174292,
+    "ingredients": [
+      {
+        "name": "Enchanted Cactus Green",
+        "amount": 5,
+        "price": 654.0
+      }
+    ],
+    "score": 0.6414550293180279
+  },
+  {
+    "name": "Enchanted Nether Wart",
+    "item_id": "ENCHANTED_NETHER_STALK",
+    "input_cost": 67.0,
+    "output_value": 605.7051863263755,
+    "profit": 538.7051863263755,
+    "margin_pct": 804.0375915319038,
+    "volume": 171631610,
+    "ingredients": [
+      {
+        "name": "Nether Stalk",
+        "amount": 5,
+        "price": 13.4
+      }
+    ],
+    "score": 0.6396614590453567
+  },
+  {
+    "name": "Enchanted Umber",
+    "item_id": "ENCHANTED_UMBER",
+    "input_cost": 1134.2515418260639,
+    "output_value": 15420.027142169116,
+    "profit": 14285.775600343051,
+    "margin_pct": 1259.4891938470698,
+    "volume": 3011051,
+    "ingredients": [
+      {
+        "name": "Umber",
+        "amount": 5,
+        "price": 226.85030836521278
+      }
+    ],
+    "score": 0.6390735354290795
+  },
+  {
+    "name": "Enchanted Mithril",
+    "item_id": "ENCHANTED_MITHRIL",
+    "input_cost": 60.0,
+    "output_value": 1330.45875,
+    "profit": 1270.45875,
+    "margin_pct": 2117.43125,
+    "volume": 22882973,
+    "ingredients": [
+      {
+        "name": "Mithril Ore",
+        "amount": 5,
+        "price": 12.0
+      }
+    ],
+    "score": 0.6386293602297282
+  },
+  {
+    "name": "Enchanted Cooked Cod",
+    "item_id": "ENCHANTED_COOKED_FISH",
+    "input_cost": 6076.482950397998,
+    "output_value": 144724.152214143,
+    "profit": 138647.669263745,
+    "margin_pct": 2281.7091793973327,
+    "volume": 131952,
+    "ingredients": [
+      {
+        "name": "Enchanted Raw Fish",
+        "amount": 5,
+        "price": 1215.2965900795996
+      }
+    ],
+    "score": 0.6382364154086991
+  },
+  {
+    "name": "Whipped Magma Cream",
+    "item_id": "WHIPPED_MAGMA_CREAM",
+    "input_cost": 8402.480231469093,
+    "output_value": 197738.0100492126,
+    "profit": 189335.52981774352,
+    "margin_pct": 2253.329071916662,
+    "volume": 81938,
+    "ingredients": [
+      {
+        "name": "Enchanted Magma Cream",
+        "amount": 5,
+        "price": 1680.4960462938186
+      }
+    ],
+    "score": 0.6347826507675498
+  },
+  {
+    "name": "Enchanted Cooked Mutton",
+    "item_id": "ENCHANTED_COOKED_MUTTON",
+    "input_cost": 5950.986870690469,
+    "output_value": 124152.92747730401,
+    "profit": 118201.94060661354,
+    "margin_pct": 1986.2577951360702,
+    "volume": 155701,
+    "ingredients": [
+      {
+        "name": "Enchanted Mutton",
+        "amount": 5,
+        "price": 1190.197374138094
+      }
+    ],
+    "score": 0.6347413729273989
+  },
+  {
+    "name": "Enchanted Blaze Rod",
+    "item_id": "ENCHANTED_BLAZE_ROD",
+    "input_cost": 9651.081188548294,
+    "output_value": 239593.76750000002,
+    "profit": 229942.68631145172,
+    "margin_pct": 2382.558822365885,
+    "volume": 58854,
+    "ingredients": [
+      {
+        "name": "Enchanted Blaze Powder",
+        "amount": 5,
+        "price": 1930.2162377096588
+      }
+    ],
+    "score": 0.6334082543399391
+  },
+  {
+    "name": "Flycatcher",
+    "item_id": "FLYCATCHER_UPGRADE",
+    "input_cost": 2222011.7256810367,
+    "output_value": 27854602.439959016,
+    "profit": 25632590.71427798,
+    "margin_pct": 1153.5758528196652,
+    "volume": 790,
+    "ingredients": [
+      {
+        "name": "Tarantula Silk",
+        "amount": 6,
+        "price": 278671.75778894476
+      },
+      {
+        "name": "Fly Swatter",
+        "amount": 1,
+        "price": 549981.1789473684
+      }
+    ],
+    "score": 0.633129467021537
+  },
+  {
+    "name": "Enchanted Obsidian",
+    "item_id": "ENCHANTED_OBSIDIAN",
+    "input_cost": 99.27493532841099,
+    "output_value": 2149.7853184747505,
+    "profit": 2050.5103831463393,
+    "margin_pct": 2065.4864960254617,
+    "volume": 10815451,
+    "ingredients": [
+      {
+        "name": "Obsidian",
+        "amount": 5,
+        "price": 19.8549870656822
+      }
+    ],
+    "score": 0.6327983295835338
+  },
+  {
+    "name": "Enchanted Quartz Block",
+    "item_id": "ENCHANTED_QUARTZ_BLOCK",
+    "input_cost": 5499.846848872627,
+    "output_value": 119499.79138257576,
+    "profit": 113999.94453370314,
+    "margin_pct": 2072.783982286182,
+    "volume": 140529,
+    "ingredients": [
+      {
+        "name": "Enchanted Quartz",
+        "amount": 5,
+        "price": 1099.9693697745254
+      }
+    ],
+    "score": 0.6326004364620748
+  },
+  {
+    "name": "Enchanted Cooked Salmon",
+    "item_id": "ENCHANTED_COOKED_SALMON",
+    "input_cost": 7916.5,
+    "output_value": 245361.51709687122,
+    "profit": 237445.01709687122,
+    "margin_pct": 2999.368623720978,
+    "volume": 42010,
+    "ingredients": [
+      {
+        "name": "Enchanted Raw Salmon",
+        "amount": 5,
+        "price": 1583.3
+      }
+    ],
+    "score": 0.6321920407326014
+  },
+  {
+    "name": "Very Crude Gabagool",
+    "item_id": "VERY_CRUDE_GABAGOOL",
+    "input_cost": 3073.8701729625413,
+    "output_value": 46898.48386541376,
+    "profit": 43824.61369245122,
+    "margin_pct": 1425.7145301037174,
+    "volume": 558749,
+    "ingredients": [
+      {
+        "name": "Crude Gabagool",
+        "amount": 8,
+        "price": 384.23377162031767
+      }
+    ],
+    "score": 0.6313989283095981
+  },
+  {
+    "name": "Enchanted Sugar",
+    "item_id": "ENCHANTED_SUGAR",
+    "input_cost": 40.0,
+    "output_value": 604.1285191326891,
+    "profit": 564.1285191326891,
+    "margin_pct": 1410.3212978317226,
+    "volume": 59551884,
+    "ingredients": [
+      {
+        "name": "Sugar Cane",
+        "amount": 5,
+        "price": 8.0
+      }
+    ],
+    "score": 0.6306355737249438
+  },
+  {
+    "name": "Enchanted Dandelion",
+    "item_id": "ENCHANTED_DANDELION",
+    "input_cost": 802.4336989992303,
+    "output_value": 26383.89460905813,
+    "profit": 25581.4609100589,
+    "margin_pct": 3187.9843707914165,
+    "volume": 366487,
+    "ingredients": [
+      {
+        "name": "Yellow Flower",
+        "amount": 5,
+        "price": 160.48673979984605
+      }
+    ],
+    "score": 0.6283927492177531
+  },
+  {
+    "name": "☘ Fine Peridot Gemstone",
+    "item_id": "FINE_PERIDOT_GEM",
+    "input_cost": 4957.285714285714,
+    "output_value": 53161.43620122238,
+    "profit": 48204.15048693666,
+    "margin_pct": 972.3899985837775,
+    "volume": 630319,
+    "ingredients": [
+      {
+        "name": "Flawed Peridot Gem",
+        "amount": 5,
+        "price": 991.4571428571428
+      }
+    ],
+    "score": 0.6271537553694889
+  },
+  {
+    "name": "❁ Flawless Jasper Gemstone",
+    "item_id": "FLAWLESS_JASPER_GEM",
+    "input_cost": 333681.8095549738,
+    "output_value": 5124595.023072519,
+    "profit": 4790913.213517546,
+    "margin_pct": 1435.7729658404548,
+    "volume": 2724,
+    "ingredients": [
+      {
+        "name": "Fine Jasper Gem",
+        "amount": 5,
+        "price": 66736.36191099476
+      }
+    ],
+    "score": 0.6256504972642231
+  },
+  {
+    "name": "Enchanted Carrot",
+    "item_id": "ENCHANTED_CARROT",
+    "input_cost": 48.5,
+    "output_value": 476.0455376818424,
+    "profit": 427.5455376818424,
+    "margin_pct": 881.5371910965823,
+    "volume": 100008159,
+    "ingredients": [
+      {
+        "name": "Carrot Item",
+        "amount": 5,
+        "price": 9.7
+      }
+    ],
+    "score": 0.62420280736711
+  },
+  {
+    "name": "Enchanted Glacite",
+    "item_id": "ENCHANTED_GLACITE",
+    "input_cost": 52.8381138635376,
+    "output_value": 1791.425419969613,
+    "profit": 1738.5873061060754,
+    "margin_pct": 3290.403799416912,
+    "volume": 5165371,
+    "ingredients": [
+      {
+        "name": "Glacite",
+        "amount": 5,
+        "price": 10.56762277270752
+      }
+    ],
+    "score": 0.6235063494066575
+  },
+  {
+    "name": "⸕ Flawless Amber Gemstone",
+    "item_id": "FLAWLESS_AMBER_GEM",
+    "input_cost": 153234.61576354684,
+    "output_value": 2359249.322997763,
+    "profit": 2206014.707234216,
+    "margin_pct": 1439.6320937289206,
+    "volume": 5285,
+    "ingredients": [
+      {
+        "name": "Fine Amber Gem",
+        "amount": 5,
+        "price": 30646.923152709365
+      }
+    ],
+    "score": 0.6218371668547698
+  },
+  {
+    "name": "Concentrated Stone",
+    "item_id": "CONCENTRATED_STONE",
+    "input_cost": 5489.970863908244,
+    "output_value": 296643.16668478266,
+    "profit": 291153.1958208744,
+    "margin_pct": 5303.365045795635,
+    "volume": 10399,
+    "ingredients": [
+      {
+        "name": "Enchanted Hard Stone",
+        "amount": 9,
+        "price": 609.9967626564716
+      }
+    ],
+    "score": 0.6196041582310323
+  },
+  {
+    "name": "✎ Flawless Sapphire Gemstone",
+    "item_id": "FLAWLESS_SAPPHIRE_GEM",
+    "input_cost": 162192.8397565923,
+    "output_value": 2289492.1083949283,
+    "profit": 2127299.268638336,
+    "margin_pct": 1311.5864250424609,
+    "volume": 5231,
+    "ingredients": [
+      {
+        "name": "Fine Sapphire Gem",
+        "amount": 5,
+        "price": 32438.56795131846
+      }
+    ],
+    "score": 0.6184790486378313
+  },
+  {
+    "name": "Braided Griffin Feather",
+    "item_id": "BRAIDED_GRIFFIN_FEATHER",
+    "input_cost": 1049523.102556976,
+    "output_value": 30291765.135,
+    "profit": 29242242.032443024,
+    "margin_pct": 2786.2409089613666,
+    "volume": 134,
+    "ingredients": [
+      {
+        "name": "Griffin Feather",
+        "amount": 5,
+        "price": 205558.1
+      },
+      {
+        "name": "Soul String",
+        "amount": 4,
+        "price": 5433.150639244024
+      }
+    ],
+    "score": 0.617865320523699
+  },
+  {
+    "name": "Enchanted Cooked Porkchop",
+    "item_id": "ENCHANTED_GRILLED_PORK",
+    "input_cost": 7320.631233203941,
+    "output_value": 151103.0370556818,
+    "profit": 143782.40582247786,
+    "margin_pct": 1964.0711469023167,
+    "volume": 58336,
+    "ingredients": [
+      {
+        "name": "Enchanted Pork",
+        "amount": 5,
+        "price": 1464.1262466407882
+      }
+    ],
+    "score": 0.6172050236638759
+  },
+  {
+    "name": "☘ Flawless Jade Gemstone",
+    "item_id": "FLAWLESS_JADE_GEM",
+    "input_cost": 150236.2811379928,
+    "output_value": 2209898.1996075083,
+    "profit": 2059661.9184695154,
+    "margin_pct": 1370.9484172985522,
+    "volume": 4855,
+    "ingredients": [
+      {
+        "name": "Fine Jade Gem",
+        "amount": 5,
+        "price": 30047.256227598562
+      }
+    ],
+    "score": 0.6170969849761854
+  },
+  {
+    "name": "☘ Fine Citrine Gemstone",
+    "item_id": "FINE_CITRINE_GEM",
+    "input_cost": 1599.9664469538263,
+    "output_value": 25082.5,
+    "profit": 23482.533553046174,
+    "margin_pct": 1467.689125466008,
+    "volume": 485743,
+    "ingredients": [
+      {
+        "name": "Flawed Citrine Gem",
+        "amount": 5,
+        "price": 319.99328939076526
+      }
+    ],
+    "score": 0.6138957013480648
+  },
+  {
+    "name": "Enchanted Flint",
+    "item_id": "ENCHANTED_FLINT",
+    "input_cost": 50.02493159863755,
+    "output_value": 1176.7501606428689,
+    "profit": 1126.7252290442314,
+    "margin_pct": 2252.3273756458634,
+    "volume": 8042849,
+    "ingredients": [
+      {
+        "name": "Flint",
+        "amount": 5,
+        "price": 10.00498631972751
+      }
+    ],
+    "score": 0.6137949612690774
+  },
+  {
+    "name": "Enchanted Snow Block",
+    "item_id": "ENCHANTED_SNOW_BLOCK",
+    "input_cost": 48.15939150348178,
+    "output_value": 405.61056118983987,
+    "profit": 357.45116968635807,
+    "margin_pct": 742.2252618381099,
+    "volume": 81205903,
+    "ingredients": [
+      {
+        "name": "Snow Block",
+        "amount": 5,
+        "price": 9.631878300696355
+      }
+    ],
+    "score": 0.6110564980943296
+  },
+  {
+    "name": "Enchanted String",
+    "item_id": "ENCHANTED_STRING",
+    "input_cost": 23.018802233603957,
+    "output_value": 578.7458552558026,
+    "profit": 555.7270530221986,
+    "margin_pct": 2414.2309725000437,
+    "volume": 13295356,
+    "ingredients": [
+      {
+        "name": "String",
+        "amount": 5,
+        "price": 4.603760446720791
+      }
+    ],
+    "score": 0.6096659155992431
+  },
+  {
+    "name": "☠ Fine Onyx Gemstone",
+    "item_id": "FINE_ONYX_GEM",
+    "input_cost": 1988.0321005647666,
+    "output_value": 25250.770000000004,
+    "profit": 23262.737899435237,
+    "margin_pct": 1170.138947596806,
+    "volume": 506692,
+    "ingredients": [
+      {
+        "name": "Flawed Onyx Gem",
+        "amount": 5,
+        "price": 397.6064201129533
+      }
+    ],
+    "score": 0.609140577682631
+  },
+  {
+    "name": "Revenant Viscera",
+    "item_id": "REVENANT_VISCERA",
+    "input_cost": 2069.7244067453485,
+    "output_value": 53649.12112950088,
+    "profit": 51579.39672275553,
+    "margin_pct": 2492.09008477918,
+    "volume": 93547,
+    "ingredients": [
+      {
+        "name": "Revenant Flesh",
+        "amount": 4,
+        "price": 350.4759385996227
+      },
+      {
+        "name": "Enchanted String",
+        "amount": 1,
+        "price": 667.8206523468576
+      }
+    ],
+    "score": 0.6087822871146248
+  },
+  {
+    "name": "⸕ Fine Amber Gemstone",
+    "item_id": "FINE_AMBER_GEM",
+    "input_cost": 2203.5,
+    "output_value": 27256.28827900577,
+    "profit": 25052.78827900577,
+    "margin_pct": 1136.9543126392452,
+    "volume": 471015,
+    "ingredients": [
+      {
+        "name": "Flawed Amber Gem",
+        "amount": 5,
+        "price": 440.7
+      }
+    ],
+    "score": 0.6085997566035521
+  },
+  {
+    "name": "Enchanted Packed Ice",
+    "item_id": "ENCHANTED_PACKED_ICE",
+    "input_cost": 1930.0,
+    "output_value": 36478.01827922475,
+    "profit": 34548.01827922475,
+    "margin_pct": 1790.0527605815935,
+    "volume": 204102,
+    "ingredients": [
+      {
+        "name": "Enchanted Ice",
+        "amount": 5,
+        "price": 386.0
+      }
+    ],
+    "score": 0.6085897044919414
+  },
+  {
+    "name": "Enchanted Emerald Block",
+    "item_id": "ENCHANTED_EMERALD_BLOCK",
+    "input_cost": 4955.530197532733,
+    "output_value": 100922.69749999998,
+    "profit": 95967.16730246725,
+    "margin_pct": 1936.5670973057036,
+    "volume": 59940,
+    "ingredients": [
+      {
+        "name": "Enchanted Emerald",
+        "amount": 5,
+        "price": 991.1060395065466
+      }
+    ],
+    "score": 0.6077089900021972
+  },
+  {
+    "name": "❁ Fine Jasper Gemstone",
+    "item_id": "FINE_JASPER_GEM",
+    "input_cost": 5128.040092298817,
+    "output_value": 61276.83767016692,
+    "profit": 56148.7975778681,
+    "margin_pct": 1094.9367900260995,
+    "volume": 196672,
+    "ingredients": [
+      {
+        "name": "Flawed Jasper Gem",
+        "amount": 5,
+        "price": 1025.6080184597636
+      }
+    ],
+    "score": 0.6076103217866634
+  },
+  {
+    "name": "Enchanted Sulphur",
+    "item_id": "ENCHANTED_SULPHUR",
+    "input_cost": 53.4904673418192,
+    "output_value": 1428.22125,
+    "profit": 1374.730782658181,
+    "margin_pct": 2570.0481804977753,
+    "volume": 3712445,
+    "ingredients": [
+      {
+        "name": "Sulphur Ore",
+        "amount": 5,
+        "price": 10.69809346836384
+      }
+    ],
+    "score": 0.6044659494072843
+  },
+  {
+    "name": "Null Ovoid",
+    "item_id": "NULL_OVOID",
+    "input_cost": 5698.368531044113,
+    "output_value": 143619.6180704698,
+    "profit": 137921.24953942568,
+    "margin_pct": 2420.3638074309374,
+    "volume": 26781,
+    "ingredients": [
+      {
+        "name": "Null Sphere",
+        "amount": 4,
+        "price": 843.1693129661502
+      },
+      {
+        "name": "Enchanted Obsidian",
+        "amount": 1,
+        "price": 2325.6912791795125
+      }
+    ],
+    "score": 0.6038040175087942
+  },
+  {
+    "name": "☂ Fine Aquamarine Gemstone",
+    "item_id": "FINE_AQUAMARINE_GEM",
+    "input_cost": 2497.9806505761726,
+    "output_value": 25082.5,
+    "profit": 22584.519349423826,
+    "margin_pct": 904.1110604365406,
+    "volume": 497740,
+    "ingredients": [
+      {
+        "name": "Flawed Aquamarine Gem",
+        "amount": 5,
+        "price": 499.59613011523453
+      }
+    ],
+    "score": 0.6017949565175641
+  },
+  {
+    "name": "Enchanted Iron Block",
+    "item_id": "ENCHANTED_IRON_BLOCK",
+    "input_cost": 4506.119253301558,
+    "output_value": 48958.78282306764,
+    "profit": 44452.66356976608,
+    "margin_pct": 986.4954980318455,
+    "volume": 213742,
+    "ingredients": [
+      {
+        "name": "Enchanted Iron",
+        "amount": 5,
+        "price": 901.2238506603117
+      }
+    ],
+    "score": 0.6013147782221407
+  },
+  {
+    "name": "Golden Tooth",
+    "item_id": "GOLDEN_TOOTH",
+    "input_cost": 5279.377933784348,
+    "output_value": 156769.10126993168,
+    "profit": 151489.72333614732,
+    "margin_pct": 2869.461615292181,
+    "volume": 17970,
+    "ingredients": [
+      {
+        "name": "Wolf Tooth",
+        "amount": 4,
+        "price": 1163.146528606021
+      },
+      {
+        "name": "Enchanted Gold",
+        "amount": 1,
+        "price": 626.7918193602635
+      }
+    ],
+    "score": 0.6012428288561787
+  },
+  {
+    "name": "☠ Flawless Onyx Gemstone",
+    "item_id": "FLAWLESS_ONYX_GEM",
+    "input_cost": 150042.10714285716,
+    "output_value": 1490754.2190116278,
+    "profit": 1340712.1118687708,
+    "margin_pct": 893.5572402967257,
+    "volume": 5689,
+    "ingredients": [
+      {
+        "name": "Fine Onyx Gem",
+        "amount": 5,
+        "price": 30008.42142857143
+      }
+    ],
+    "score": 0.5999389027192172
+  },
+  {
+    "name": "✎ Fine Sapphire Gemstone",
+    "item_id": "FINE_SAPPHIRE_GEM",
+    "input_cost": 4100.844660194174,
+    "output_value": 29115.095055610076,
+    "profit": 25014.250395415904,
+    "margin_pct": 609.9780037567061,
+    "volume": 576734,
+    "ingredients": [
+      {
+        "name": "Flawed Sapphire Gem",
+        "amount": 5,
+        "price": 820.1689320388349
+      }
+    ],
+    "score": 0.5980547929809091
+  },
+  {
+    "name": "☂ Flawless Aquamarine Gemstone",
+    "item_id": "FLAWLESS_AQUAMARINE_GEM",
+    "input_cost": 129722.49309852454,
+    "output_value": 1366937.0305654763,
+    "profit": 1237214.5374669516,
+    "margin_pct": 953.7394078043847,
+    "volume": 5174,
+    "ingredients": [
+      {
+        "name": "Fine Aquamarine Gem",
+        "amount": 5,
+        "price": 25944.498619704907
+      }
+    ],
+    "score": 0.5974476696682024
+  },
+  {
+    "name": "❤ Flawless Ruby Gemstone",
+    "item_id": "FLAWLESS_RUBY_GEM",
+    "input_cost": 138020.4860058309,
+    "output_value": 1571819.6265685747,
+    "profit": 1433799.1405627439,
+    "margin_pct": 1038.830670761564,
+    "volume": 3987,
+    "ingredients": [
+      {
+        "name": "Fine Ruby Gem",
+        "amount": 5,
+        "price": 27604.09720116618
+      }
+    ],
+    "score": 0.5972345145308348
+  },
+  {
+    "name": "❈ Flawless Amethyst Gemstone",
+    "item_id": "FLAWLESS_AMETHYST_GEM",
+    "input_cost": 140820.7321334504,
+    "output_value": 2087380.5233958333,
+    "profit": 1946559.7912623829,
+    "margin_pct": 1382.2963151602585,
+    "volume": 1917,
+    "ingredients": [
+      {
+        "name": "Fine Amethyst Gem",
+        "amount": 5,
+        "price": 28164.14642669008
+      }
+    ],
+    "score": 0.5951121547658744
+  },
+  {
+    "name": "Enchanted Spider Eye",
+    "item_id": "ENCHANTED_SPIDER_EYE",
+    "input_cost": 39.17210757780784,
+    "output_value": 794.623021065788,
+    "profit": 755.4509134879801,
+    "margin_pct": 1928.5429357800633,
+    "volume": 6241804,
+    "ingredients": [
+      {
+        "name": "Spider Eye",
+        "amount": 5,
+        "price": 7.834421515561568
+      }
+    ],
+    "score": 0.5947116878228033
+  },
+  {
+    "name": "Hemoglass",
+    "item_id": "HEMOGLASS",
+    "input_cost": 1352.8080719069442,
+    "output_value": 16787.5,
+    "profit": 15434.691928093056,
+    "margin_pct": 1140.9373028308457,
+    "volume": 394100,
+    "ingredients": [
+      {
+        "name": "Hemovibe",
+        "amount": 5,
+        "price": 270.56161438138884
+      }
+    ],
+    "score": 0.5929930461427861
+  },
+  {
+    "name": "☘ Flawless Citrine Gemstone",
+    "item_id": "FLAWLESS_CITRINE_GEM",
+    "input_cost": 131058.94460893165,
+    "output_value": 1280898.59375,
+    "profit": 1149839.6491410683,
+    "margin_pct": 877.3454208502048,
+    "volume": 4992,
+    "ingredients": [
+      {
+        "name": "Fine Citrine Gem",
+        "amount": 5,
+        "price": 26211.78892178633
+      }
+    ],
+    "score": 0.5928595311828715
+  },
+  {
+    "name": "☘ Fine Jade Gemstone",
+    "item_id": "FINE_JADE_GEM",
+    "input_cost": 2517.399173542667,
+    "output_value": 25528.121457609726,
+    "profit": 23010.72228406706,
+    "margin_pct": 914.0672852325084,
+    "volume": 297349,
+    "ingredients": [
+      {
+        "name": "Flawed Jade Gem",
+        "amount": 5,
+        "price": 503.4798347085334
+      }
+    ],
+    "score": 0.5909684269550237
+  },
+  {
+    "name": "Enchanted Redstone Block",
+    "item_id": "ENCHANTED_REDSTONE_BLOCK",
+    "input_cost": 4755.594900495437,
+    "output_value": 24598.239489676722,
+    "profit": 19842.644589181284,
+    "margin_pct": 417.2484201106801,
+    "volume": 795035,
+    "ingredients": [
+      {
+        "name": "Enchanted Redstone",
+        "amount": 5,
+        "price": 951.1189800990875
+      }
+    ],
+    "score": 0.5904790730466165
+  },
+  {
+    "name": "Gold Magmafish",
+    "item_id": "MAGMA_FISH_GOLD",
+    "input_cost": 34486.40168970814,
+    "output_value": 530426.2190625,
+    "profit": 495939.81737279193,
+    "margin_pct": 1438.073539347529,
+    "volume": 6421,
+    "ingredients": [
+      {
+        "name": "Magma Fish Silver",
+        "amount": 5,
+        "price": 6897.280337941628
+      }
+    ],
+    "score": 0.5901322797825606
+  },
+  {
+    "name": "❤ Fine Ruby Gemstone",
+    "item_id": "FINE_RUBY_GEM",
+    "input_cost": 2350.0,
+    "output_value": 22128.05948114236,
+    "profit": 19778.05948114236,
+    "margin_pct": 841.6195523890366,
+    "volume": 350839,
+    "ingredients": [
+      {
+        "name": "Flawed Ruby Gem",
+        "amount": 5,
+        "price": 470.0
+      }
+    ],
+    "score": 0.5890238836715394
+  },
+  {
+    "name": "✧ Fine Topaz Gemstone",
+    "item_id": "FINE_TOPAZ_GEM",
+    "input_cost": 3638.8981277533044,
+    "output_value": 29625.0,
+    "profit": 25986.101872246694,
+    "margin_pct": 714.1200704151286,
+    "volume": 289152,
+    "ingredients": [
+      {
+        "name": "Flawed Topaz Gem",
+        "amount": 5,
+        "price": 727.7796255506609
+      }
+    ],
+    "score": 0.5873143702335617
+  },
+  {
+    "name": "⸕ Flawed Amber Gemstone",
+    "item_id": "FLAWED_AMBER_GEM",
+    "input_cost": 19.45421978716679,
+    "output_value": 347.12750314003273,
+    "profit": 327.67328335286595,
+    "margin_pct": 1684.3301193143689,
+    "volume": 11993325,
+    "ingredients": [
+      {
+        "name": "Rough Amber Gem",
+        "amount": 5,
+        "price": 3.8908439574333578
+      }
+    ],
+    "score": 0.5859018648513532
+  },
+  {
+    "name": "Soulflow",
+    "item_id": "SOULFLOW",
+    "input_cost": 2685.2913993223274,
+    "output_value": 15850.91387714534,
+    "profit": 13165.622477823013,
+    "margin_pct": 490.2865469701185,
+    "volume": 805969,
+    "ingredients": [
+      {
+        "name": "Raw Soulflow",
+        "amount": 5,
+        "price": 537.0582798644655
+      }
+    ],
+    "score": 0.584776249581895
+  },
+  {
+    "name": "Enchanted Glowstone",
+    "item_id": "ENCHANTED_GLOWSTONE",
+    "input_cost": 6202.669387101936,
+    "output_value": 49484.14835694698,
+    "profit": 43281.47896984504,
+    "margin_pct": 697.7879404607019,
+    "volume": 144170,
+    "ingredients": [
+      {
+        "name": "Enchanted Glowstone Dust",
+        "amount": 5,
+        "price": 1240.5338774203872
+      }
+    ],
+    "score": 0.5834817279978143
+  },
+  {
+    "name": "Enchanted Raw Beef",
+    "item_id": "ENCHANTED_RAW_BEEF",
+    "input_cost": 13.5,
+    "output_value": 518.3492695973598,
+    "profit": 504.8492695973598,
+    "margin_pct": 3739.6242192397026,
+    "volume": 2794839,
+    "ingredients": [
+      {
+        "name": "Raw Beef",
+        "amount": 5,
+        "price": 2.7
+      }
+    ],
+    "score": 0.5829758738674176
+  },
+  {
+    "name": "Enchanted Blaze Powder",
+    "item_id": "ENCHANTED_BLAZE_POWDER",
+    "input_cost": 69.83500391250885,
+    "output_value": 1564.213859886348,
+    "profit": 1494.378855973839,
+    "margin_pct": 2139.8707986700147,
+    "volume": 1476626,
+    "ingredients": [
+      {
+        "name": "Blaze Rod",
+        "amount": 5,
+        "price": 13.96700078250177
+      }
+    ],
+    "score": 0.581399196228482
+  },
+  {
+    "name": "Enchanted Mycelium Cube",
+    "item_id": "ENCHANTED_MYCELIUM_CUBE",
+    "input_cost": 8160.921855689705,
+    "output_value": 124717.3,
+    "profit": 116556.37814431029,
+    "margin_pct": 1428.225636826169,
+    "volume": 20673,
+    "ingredients": [
+      {
+        "name": "Enchanted Mycelium",
+        "amount": 5,
+        "price": 1632.184371137941
+      }
+    ],
+    "score": 0.5811951731152729
+  },
+  {
+    "name": "Enchanted Titanium",
+    "item_id": "ENCHANTED_TITANIUM",
+    "input_cost": 3604.0401224791476,
+    "output_value": 16774.887911840808,
+    "profit": 13170.84778936166,
+    "margin_pct": 365.4467581315853,
+    "volume": 899334,
+    "ingredients": [
+      {
+        "name": "Titanium Ore",
+        "amount": 5,
+        "price": 720.8080244958295
+      }
+    ],
+    "score": 0.5801414990404283
+  },
+  {
+    "name": "✧ Flawless Topaz Gemstone",
+    "item_id": "FLAWLESS_TOPAZ_GEM",
+    "input_cost": 154588.72045028143,
+    "output_value": 1576748.227530488,
+    "profit": 1422159.5070802066,
+    "margin_pct": 919.9633084081315,
+    "volume": 1988,
+    "ingredients": [
+      {
+        "name": "Fine Topaz Gem",
+        "amount": 5,
+        "price": 30917.744090056287
+      }
+    ],
+    "score": 0.5785095799418011
+  },
+  {
+    "name": "❂ Flawless Opal Gemstone",
+    "item_id": "FLAWLESS_OPAL_GEM",
+    "input_cost": 142838.68553223385,
+    "output_value": 2080338.013671875,
+    "profit": 1937499.328139641,
+    "margin_pct": 1356.424781508097,
+    "volume": 828,
+    "ingredients": [
+      {
+        "name": "Fine Opal Gem",
+        "amount": 5,
+        "price": 28567.737106446773
+      }
+    ],
+    "score": 0.575733607520004
+  },
+  {
+    "name": "Enchanted Wet Sponge",
+    "item_id": "ENCHANTED_WET_SPONGE",
+    "input_cost": 12713.661424439624,
+    "output_value": 76740.71921545916,
+    "profit": 64027.057791019535,
+    "margin_pct": 503.6083285019652,
+    "volume": 94729,
+    "ingredients": [
+      {
+        "name": "Enchanted Sponge",
+        "amount": 5,
+        "price": 2542.732284887925
+      }
+    ],
+    "score": 0.5756488073396382
+  },
+  {
+    "name": "Corrupt Soil",
+    "item_id": "CORRUPT_SOIL",
+    "input_cost": 13057.574969103529,
+    "output_value": 230957.00908617422,
+    "profit": 217899.4341170707,
+    "margin_pct": 1668.7588210878228,
+    "volume": 6483,
+    "ingredients": [
+      {
+        "name": "Enchanted Mycelium",
+        "amount": 8,
+        "price": 1632.184371137941
+      },
+      {
+        "name": "Corrupted Fragment",
+        "amount": 1,
+        "price": 0.1
+      }
+    ],
+    "score": 0.574082072997208
+  },
+  {
+    "name": "❈ Fine Amethyst Gemstone",
+    "item_id": "FINE_AMETHYST_GEM",
+    "input_cost": 3895.1284530386743,
+    "output_value": 25326.029664855076,
+    "profit": 21430.901211816403,
+    "margin_pct": 550.1975472746655,
+    "volume": 258570,
+    "ingredients": [
+      {
+        "name": "Flawed Amethyst Gem",
+        "amount": 5,
+        "price": 779.0256906077349
+      }
+    ],
+    "score": 0.573855161595128
+  },
+  {
+    "name": "✎ Flawed Sapphire Gemstone",
+    "item_id": "FLAWED_SAPPHIRE_GEM",
+    "input_cost": 29.926581452310764,
+    "output_value": 337.2189918698725,
+    "profit": 307.29241041756177,
+    "margin_pct": 1026.8209581747412,
+    "volume": 12794581,
+    "ingredients": [
+      {
+        "name": "Rough Sapphire Gem",
+        "amount": 5,
+        "price": 5.985316290462153
+      }
+    ],
+    "score": 0.5738428455713553
+  },
+  {
+    "name": "Enchanted Cobblestone",
+    "item_id": "ENCHANTED_COBBLESTONE",
+    "input_cost": 7.9860626732584725,
+    "output_value": 202.2230202157337,
+    "profit": 194.23695754247524,
+    "margin_pct": 2432.199263760883,
+    "volume": 8173220,
+    "ingredients": [
+      {
+        "name": "Cobblestone",
+        "amount": 5,
+        "price": 1.5972125346516945
+      }
+    ],
+    "score": 0.5735590283010445
+  },
+  {
+    "name": "Enchanted Rotten Flesh",
+    "item_id": "ENCHANTED_ROTTEN_FLESH",
+    "input_cost": 33.10975811973127,
+    "output_value": 385.66275204282897,
+    "profit": 352.5529939230977,
+    "margin_pct": 1064.8008742564598,
+    "volume": 10365444,
+    "ingredients": [
+      {
+        "name": "Rotten Flesh",
+        "amount": 5,
+        "price": 6.621951623946253
+      }
+    ],
+    "score": 0.5733210629667232
+  },
+  {
+    "name": "Silver Magmafish",
+    "item_id": "MAGMA_FISH_SILVER",
+    "input_cost": 1167.2189598238854,
+    "output_value": 6351.410834754776,
+    "profit": 5184.191874930891,
+    "margin_pct": 444.14904601216404,
+    "volume": 1308294,
+    "ingredients": [
+      {
+        "name": "Magma Fish",
+        "amount": 5,
+        "price": 233.44379196477706
+      }
+    ],
+    "score": 0.5707362445135072
+  },
+  {
+    "name": "Enchanted Mycelium",
+    "item_id": "ENCHANTED_MYCELIUM",
+    "input_cost": 149.55597773939743,
+    "output_value": 1266.5447560385624,
+    "profit": 1116.988778299165,
+    "margin_pct": 746.8700316650181,
+    "volume": 3875833,
+    "ingredients": [
+      {
+        "name": "Mycel",
+        "amount": 5,
+        "price": 29.911195547879487
+      }
+    ],
+    "score": 0.5705593917908848
+  },
+  {
+    "name": "Hypergolic Gabagool",
+    "item_id": "HYPERGOLIC_GABAGOOL",
+    "input_cost": 1430475.2703617164,
+    "output_value": 4033230.779805825,
+    "profit": 2602755.5094441087,
+    "margin_pct": 181.95040231530632,
+    "volume": 4074,
+    "ingredients": [
+      {
+        "name": "Heavy Gabagool",
+        "amount": 4,
+        "price": 355551.39550684934
+      },
+      {
+        "name": "Sulphuric Coal",
+        "amount": 1,
+        "price": 8269.688334319124
+      }
+    ],
+    "score": 0.570025200368948
+  },
+  {
+    "name": "Great Carrot Candy",
+    "item_id": "GREAT_CARROT_CANDY",
+    "input_cost": 4263.065907450014,
+    "output_value": 172813.58625000002,
+    "profit": 168550.52034255,
+    "margin_pct": 3953.73949175864,
+    "volume": 2699,
+    "ingredients": [
+      {
+        "name": "Enchanted Carrot",
+        "amount": 8,
+        "price": 532.8832384312517
+      },
+      {
+        "name": "Simple Carrot Candy",
+        "amount": 1,
+        "price": 0.0
+      }
+    ],
+    "score": 0.5690877618101551
+  },
+  {
+    "name": "Enchanted Bone",
+    "item_id": "ENCHANTED_BONE",
+    "input_cost": 21.498179169701388,
+    "output_value": 634.765,
+    "profit": 613.2668208302986,
+    "margin_pct": 2852.6454077311373,
+    "volume": 1628456,
+    "ingredients": [
+      {
+        "name": "Bone",
+        "amount": 5,
+        "price": 4.299635833940277
+      }
+    ],
+    "score": 0.5690303026895294
+  },
+  {
+    "name": "Super Compactor 3000",
+    "item_id": "SUPER_COMPACTOR_3000",
+    "input_cost": 13639.826457222289,
+    "output_value": 109368.51248798078,
+    "profit": 95728.6860307585,
+    "margin_pct": 701.8321408339485,
+    "volume": 31271,
+    "ingredients": [
+      {
+        "name": "Enchanted Cobblestone",
+        "amount": 7,
+        "price": 299.65729638345414
+      },
+      {
+        "name": "Compactor",
+        "amount": 1,
+        "price": 10591.106402439023
+      },
+      {
+        "name": "Enchanted Redstone",
+        "amount": 1,
+        "price": 951.1189800990875
+      }
+    ],
+    "score": 0.568547937850137
+  },
+  {
+    "name": "Enchanted Red Sand Cube",
+    "item_id": "ENCHANTED_RED_SAND_CUBE",
+    "input_cost": 7210.378968022237,
+    "output_value": 136571.43448902026,
+    "profit": 129361.05552099802,
+    "margin_pct": 1794.0950967308306,
+    "volume": 7905,
+    "ingredients": [
+      {
+        "name": "Enchanted Red Sand",
+        "amount": 5,
+        "price": 1442.0757936044474
+      }
+    ],
+    "score": 0.5676835192642072
+  },
+  {
+    "name": "Enchanted Raw Rabbit",
+    "item_id": "ENCHANTED_RABBIT",
+    "input_cost": 429.9740568066476,
+    "output_value": 2702.008389218292,
+    "profit": 2272.0343324116443,
+    "margin_pct": 528.4119579878145,
+    "volume": 2290849,
+    "ingredients": [
+      {
+        "name": "Rabbit",
+        "amount": 5,
+        "price": 85.99481136132951
+      }
+    ],
+    "score": 0.5675639809876792
+  },
+  {
+    "name": "☘ Flawed Jade Gemstone",
+    "item_id": "FLAWED_JADE_GEM",
+    "input_cost": 31.5,
+    "output_value": 302.5081868678587,
+    "profit": 271.0081868678587,
+    "margin_pct": 860.3434503741546,
+    "volume": 13020050,
+    "ingredients": [
+      {
+        "name": "Rough Jade Gem",
+        "amount": 5,
+        "price": 6.3
+      }
+    ],
+    "score": 0.5669261246756206
+  },
+  {
+    "name": "☠ Flawed Onyx Gemstone",
+    "item_id": "FLAWED_ONYX_GEM",
+    "input_cost": 24.4491468966283,
+    "output_value": 281.7385675387054,
+    "profit": 257.2894206420771,
+    "margin_pct": 1052.3451870525553,
+    "volume": 10905696,
+    "ingredients": [
+      {
+        "name": "Rough Onyx Gem",
+        "amount": 5,
+        "price": 4.8898293793256595
+      }
+    ],
+    "score": 0.5665684321615521
+  },
+  {
+    "name": "Absolute Ender Pearl",
+    "item_id": "ABSOLUTE_ENDER_PEARL",
+    "input_cost": 1839.8614994304648,
+    "output_value": 12345.03375,
+    "profit": 10505.172250569536,
+    "margin_pct": 570.9762530397775,
+    "volume": 382940,
+    "ingredients": [
+      {
+        "name": "Enchanted Ender Pearl",
+        "amount": 5,
+        "price": 367.97229988609297
+      }
+    ],
+    "score": 0.5663327435883698
+  },
+  {
+    "name": "Enchanted Rabbit Foot",
+    "item_id": "ENCHANTED_RABBIT_FOOT",
+    "input_cost": 29.499999999999996,
+    "output_value": 534.13875,
+    "profit": 504.63874999999996,
+    "margin_pct": 1710.6398305084745,
+    "volume": 3034255,
+    "ingredients": [
+      {
+        "name": "Rabbit Foot",
+        "amount": 5,
+        "price": 5.8999999999999995
+      }
+    ],
+    "score": 0.5659106146072261
+  },
+  {
+    "name": "Null Blade",
+    "item_id": "NULL_BLADE",
+    "input_cost": 2217836.6183083244,
+    "output_value": 16787501.086250003,
+    "profit": 14569664.467941679,
+    "margin_pct": 656.9313694105576,
+    "volume": 126,
+    "ingredients": [
+      {
+        "name": "Null Ovoid",
+        "amount": 4,
+        "price": 152339.11997792494
+      },
+      {
+        "name": "Null Edge",
+        "amount": 3,
+        "price": 449495.29999999993
+      },
+      {
+        "name": "Enchanted Quartz Block",
+        "amount": 2,
+        "price": 129997.11919831224
+      }
+    ],
+    "score": 0.5647531928856329
+  },
+  {
+    "name": "Enchanted Glowstone Dust",
+    "item_id": "ENCHANTED_GLOWSTONE_DUST",
+    "input_cost": 37.5,
+    "output_value": 928.645,
+    "profit": 891.145,
+    "margin_pct": 2376.3866666666663,
+    "volume": 1086644,
+    "ingredients": [
+      {
+        "name": "Glowstone Dust",
+        "amount": 5,
+        "price": 7.5
+      }
+    ],
+    "score": 0.5645774857731923
+  },
+  {
+    "name": "Enchanted Ancient Claw",
+    "item_id": "ENCHANTED_ANCIENT_CLAW",
+    "input_cost": 1944.184865816102,
+    "output_value": 31600.125188787188,
+    "profit": 29655.940322971084,
+    "margin_pct": 1525.3662778885246,
+    "volume": 36482,
+    "ingredients": [
+      {
+        "name": "Ancient Claw",
+        "amount": 5,
+        "price": 388.8369731632204
+      }
+    ],
+    "score": 0.5624589482708122
+  },
+  {
+    "name": "☘ Flawed Peridot Gemstone",
+    "item_id": "FLAWED_PERIDOT_GEM",
+    "input_cost": 121.54841954558277,
+    "output_value": 574.1973141503134,
+    "profit": 452.6488946047307,
+    "margin_pct": 372.40212278941186,
+    "volume": 14477118,
+    "ingredients": [
+      {
+        "name": "Rough Peridot Gem",
+        "amount": 5,
+        "price": 24.309683909116554
+      }
+    ],
+    "score": 0.561458802264276
+  },
+  {
+    "name": "Enchanted Prismarine Shard",
+    "item_id": "ENCHANTED_PRISMARINE_SHARD",
+    "input_cost": 16.48312498061234,
+    "output_value": 401.7713462261738,
+    "profit": 385.2882212455615,
+    "margin_pct": 2337.4707265687925,
+    "volume": 2349899,
+    "ingredients": [
+      {
+        "name": "Prismarine Shard",
+        "amount": 5,
+        "price": 3.296624996122468
+      }
+    ],
+    "score": 0.5612105962685854
+  },
+  {
+    "name": "Enchanted Ink Sac",
+    "item_id": "ENCHANTED_INK_SACK",
+    "input_cost": 13032.673192919676,
+    "output_value": 90309.73875,
+    "profit": 77277.06555708032,
+    "margin_pct": 592.948694509297,
+    "volume": 32249,
+    "ingredients": [
+      {
+        "name": "Ink Sack",
+        "amount": 5,
+        "price": 2606.5346385839352
+      }
+    ],
+    "score": 0.5599940663110947
+  },
+  {
+    "name": "Large Storage",
+    "item_id": "LARGE_ENCHANTED_CHEST",
+    "input_cost": 28295.089201720715,
+    "output_value": 312499.70875000005,
+    "profit": 284204.6195482793,
+    "margin_pct": 1004.4309014971967,
+    "volume": 4268,
+    "ingredients": [
+      {
+        "name": "Enchanted Oak Log",
+        "amount": 8,
+        "price": 1439.9986502150898
+      },
+      {
+        "name": "Medium Enchanted Chest",
+        "amount": 1,
+        "price": 16775.1
+      }
+    ],
+    "score": 0.5588655021998207
+  },
+  {
+    "name": "❈ Flawed Amethyst Gemstone",
+    "item_id": "FLAWED_AMETHYST_GEM",
+    "input_cost": 34.2848389811061,
+    "output_value": 290.5859437006016,
+    "profit": 256.3011047194955,
+    "margin_pct": 747.5639738624396,
+    "volume": 11171633,
+    "ingredients": [
+      {
+        "name": "Rough Amethyst Gem",
+        "amount": 5,
+        "price": 6.85696779622122
+      }
+    ],
+    "score": 0.5587532959685023
+  },
+  {
+    "name": "Enchanted Feather",
+    "item_id": "ENCHANTED_FEATHER",
+    "input_cost": 30.5,
+    "output_value": 381.31865957289506,
+    "profit": 350.81865957289506,
+    "margin_pct": 1150.2251133537543,
+    "volume": 4670186,
+    "ingredients": [
+      {
+        "name": "Feather",
+        "amount": 5,
+        "price": 6.1
+      }
+    ],
+    "score": 0.5572031451893924
+  },
+  {
+    "name": "❁ Flawed Jasper Gemstone",
+    "item_id": "FLAWED_JASPER_GEM",
+    "input_cost": 135.83576408254322,
+    "output_value": 776.5472416233433,
+    "profit": 640.7114775408002,
+    "margin_pct": 471.68099054639214,
+    "volume": 5966597,
+    "ingredients": [
+      {
+        "name": "Rough Jasper Gem",
+        "amount": 5,
+        "price": 27.167152816508644
+      }
+    ],
+    "score": 0.5556994029793154
+  },
+  {
+    "name": "Enchanted Lily Pad",
+    "item_id": "ENCHANTED_WATER_LILY",
+    "input_cost": 50.7489405657379,
+    "output_value": 1580.49375,
+    "profit": 1529.7448094342622,
+    "margin_pct": 3014.3384125481384,
+    "volume": 311274,
+    "ingredients": [
+      {
+        "name": "Water Lily",
+        "amount": 5,
+        "price": 10.14978811314758
+      }
+    ],
+    "score": 0.5553608033832854
+  },
+  {
+    "name": "☘ Flawed Citrine Gemstone",
+    "item_id": "FLAWED_CITRINE_GEM",
+    "input_cost": 35.177275118358764,
+    "output_value": 281.1551308724832,
+    "profit": 245.97785575412445,
+    "margin_pct": 699.2521590330639,
+    "volume": 10671687,
+    "ingredients": [
+      {
+        "name": "Rough Citrine Gem",
+        "amount": 5,
+        "price": 7.035455023671752
+      }
+    ],
+    "score": 0.5551205677926636
+  },
+  {
+    "name": "Enchanted Bone Block",
+    "item_id": "ENCHANTED_BONE_BLOCK",
+    "input_cost": 4222.73942416259,
+    "output_value": 50703.87731505944,
+    "profit": 46481.137890896855,
+    "margin_pct": 1100.7342206561682,
+    "volume": 22152,
+    "ingredients": [
+      {
+        "name": "Enchanted Bone",
+        "amount": 5,
+        "price": 844.5478848325179
+      }
+    ],
+    "score": 0.5542502839645359
+  },
+  {
+    "name": "Enchanted Egg",
+    "item_id": "ENCHANTED_EGG",
+    "input_cost": 711.8999999999999,
+    "output_value": 3074.425120077017,
+    "profit": 2362.525120077017,
+    "margin_pct": 331.8619356759401,
+    "volume": 1953716,
+    "ingredients": [
+      {
+        "name": "Egg",
+        "amount": 9,
+        "price": 79.09999999999998
+      }
+    ],
+    "score": 0.5537017608583292
+  },
+  {
+    "name": "Molten Powder",
+    "item_id": "MOLTEN_POWDER",
+    "input_cost": 109302.74609512533,
+    "output_value": 282052.38799311063,
+    "profit": 172749.6418979853,
+    "margin_pct": 158.04693666858344,
+    "volume": 33500,
+    "ingredients": [
+      {
+        "name": "Derelict Ashe",
+        "amount": 4,
+        "price": 1872.2616247098729
+      },
+      {
+        "name": "Amalgamated Crimsonite New",
+        "amount": 1,
+        "price": 101813.69959628583
+      }
+    ],
+    "score": 0.5483267855191712
+  },
+  {
+    "name": "Enchanted Sand",
+    "item_id": "ENCHANTED_SAND",
+    "input_cost": 81.69538420183557,
+    "output_value": 873.0026235876174,
+    "profit": 791.3072393857819,
+    "margin_pct": 968.6070359015492,
+    "volume": 1564566,
+    "ingredients": [
+      {
+        "name": "Sand",
+        "amount": 5,
+        "price": 16.339076840367113
+      }
+    ],
+    "score": 0.5481913258426357
+  },
+  {
+    "name": "Enchanted Sponge",
+    "item_id": "ENCHANTED_SPONGE",
+    "input_cost": 317.937981216685,
+    "output_value": 1829.8375,
+    "profit": 1511.8995187833152,
+    "margin_pct": 475.5328422850201,
+    "volume": 1345473,
+    "ingredients": [
+      {
+        "name": "Sponge",
+        "amount": 5,
+        "price": 63.587596243337
+      }
+    ],
+    "score": 0.5432570005184767
+  },
+  {
+    "name": "Enchanted Clay Ball",
+    "item_id": "ENCHANTED_CLAY_BALL",
+    "input_cost": 72.99437049292128,
+    "output_value": 433.41040718839906,
+    "profit": 360.41603669547777,
+    "margin_pct": 493.7586751712991,
+    "volume": 5870425,
+    "ingredients": [
+      {
+        "name": "Clay Ball",
+        "amount": 5,
+        "price": 14.598874098584256
+      }
+    ],
+    "score": 0.5425475296189873
+  },
+  {
+    "name": "Enchanted Nether Quartz",
+    "item_id": "ENCHANTED_QUARTZ",
+    "input_cost": 111.3542554896618,
+    "output_value": 685.42375,
+    "profit": 574.0694945103382,
+    "margin_pct": 515.53440143438,
+    "volume": 3337469,
+    "ingredients": [
+      {
+        "name": "Quartz",
+        "amount": 5,
+        "price": 22.270851097932358
+      }
+    ],
+    "score": 0.542178443568197
+  },
+  {
+    "name": "Enchanted Slimeball",
+    "item_id": "ENCHANTED_SLIME_BALL",
+    "input_cost": 298.9181427287897,
+    "output_value": 895.5224034552846,
+    "profit": 596.6042607264949,
+    "margin_pct": 199.58783875751485,
+    "volume": 7889760,
+    "ingredients": [
+      {
+        "name": "Slime Ball",
+        "amount": 5,
+        "price": 59.78362854575794
+      }
+    ],
+    "score": 0.5394572337359135
+  },
+  {
+    "name": "Stuffed Chili Pepper",
+    "item_id": "STUFFED_CHILI_PEPPER",
+    "input_cost": 582998.7950699044,
+    "output_value": 13222627.863750001,
+    "profit": 12639629.068680096,
+    "margin_pct": 2168.036911150827,
+    "volume": 13,
+    "ingredients": [
+      {
+        "name": "Chili Pepper",
+        "amount": 5,
+        "price": 116599.75901398087
+      }
+    ],
+    "score": 0.5392796873771682
+  },
+  {
+    "name": "Enchanted Coal Block",
+    "item_id": "ENCHANTED_COAL_BLOCK",
+    "input_cost": 8062.95349008582,
+    "output_value": 26635.245000000003,
+    "profit": 18572.291509914183,
+    "margin_pct": 230.34104726947277,
+    "volume": 161348,
+    "ingredients": [
+      {
+        "name": "Enchanted Coal",
+        "amount": 5,
+        "price": 1612.590698017164
+      }
+    ],
+    "score": 0.5387942262575456
+  },
+  {
+    "name": "❤ Flawed Ruby Gemstone",
+    "item_id": "FLAWED_RUBY_GEM",
+    "input_cost": 39.80682532172833,
+    "output_value": 274.32750000000004,
+    "profit": 234.52067467827172,
+    "margin_pct": 589.1468932345628,
+    "volume": 6465462,
+    "ingredients": [
+      {
+        "name": "Rough Ruby Gem",
+        "amount": 5,
+        "price": 7.961365064345666
+      }
+    ],
+    "score": 0.5386013321992871
+  },
+  {
+    "name": "Enchanted Magma Cream",
+    "item_id": "ENCHANTED_MAGMA_CREAM",
+    "input_cost": 91.99184245745968,
+    "output_value": 833.45,
+    "profit": 741.4581575425403,
+    "margin_pct": 806.0042474803317,
+    "volume": 1330370,
+    "ingredients": [
+      {
+        "name": "Magma Cream",
+        "amount": 5,
+        "price": 18.398368491491937
+      }
+    ],
+    "score": 0.5385469311864111
+  },
+  {
+    "name": "Enchanted Raw Cod",
+    "item_id": "ENCHANTED_RAW_FISH",
+    "input_cost": 301.421084155974,
+    "output_value": 969.2328350469155,
+    "profit": 667.8117508909415,
+    "margin_pct": 221.55442535180262,
+    "volume": 5980097,
+    "ingredients": [
+      {
+        "name": "Raw Fish",
+        "amount": 5,
+        "price": 60.2842168311948
+      }
+    ],
+    "score": 0.5384935727282373
+  },
+  {
+    "name": "Diamond Magmafish",
+    "item_id": "MAGMA_FISH_DIAMOND",
+    "input_cost": 2935643.225446429,
+    "output_value": 8404614.919375,
+    "profit": 5468971.693928571,
+    "margin_pct": 186.29551597152593,
+    "volume": 415,
+    "ingredients": [
+      {
+        "name": "Magma Fish Gold",
+        "amount": 5,
+        "price": 587128.6450892858
+      }
+    ],
+    "score": 0.5373498361612484
+  },
+  {
+    "name": "Enchanted Redstone Lamp",
+    "item_id": "ENCHANTED_REDSTONE_LAMP",
+    "input_cost": 5045.009797816737,
+    "output_value": 98750.395,
+    "profit": 93705.38520218327,
+    "margin_pct": 1857.387576189345,
+    "volume": 2415,
+    "ingredients": [
+      {
+        "name": "Enchanted Redstone",
+        "amount": 4,
+        "price": 951.1189800990875
+      },
+      {
+        "name": "Enchanted Glowstone Dust",
+        "amount": 1,
+        "price": 1240.5338774203872
+      }
+    ],
+    "score": 0.534166310959661
+  },
+  {
+    "name": "Enchanted Wool",
+    "item_id": "ENCHANTED_WOOL",
+    "input_cost": 50.0,
+    "output_value": 248.1923511708889,
+    "profit": 198.1923511708889,
+    "margin_pct": 396.3847023417778,
+    "volume": 9624582,
+    "ingredients": [
+      {
+        "name": "Wool",
+        "amount": 5,
+        "price": 10.0
+      }
+    ],
+    "score": 0.5338761653925237
+  },
+  {
+    "name": "Enchanted Ender Pearl",
+    "item_id": "ENCHANTED_ENDER_PEARL",
+    "input_cost": 81.23911852575577,
+    "output_value": 312.4826042293666,
+    "profit": 231.24348570361082,
+    "margin_pct": 284.6454884050695,
+    "volume": 9177861,
+    "ingredients": [
+      {
+        "name": "Ender Pearl",
+        "amount": 5,
+        "price": 16.247823705151156
+      }
+    ],
+    "score": 0.5285351130042315
+  },
+  {
+    "name": "Sulphuric Coal",
+    "item_id": "SULPHURIC_COAL",
+    "input_cost": 2045.836334313277,
+    "output_value": 6915.366913262966,
+    "profit": 4869.530578949689,
+    "margin_pct": 238.02151214526344,
+    "volume": 378433,
+    "ingredients": [
+      {
+        "name": "Enchanted Coal",
+        "amount": 4,
+        "price": 1612.590698017164
+      },
+      {
+        "name": "Enchanted Sulphur",
+        "amount": 1,
+        "price": 1732.9825451844513
+      }
+    ],
+    "score": 0.5263600444090794
+  },
+  {
+    "name": "☂ Flawed Aquamarine Gemstone",
+    "item_id": "FLAWED_AQUAMARINE_GEM",
+    "input_cost": 81.25800364393544,
+    "output_value": 280.94978987592566,
+    "profit": 199.69178623199022,
+    "margin_pct": 245.7502981577297,
+    "volume": 10959225,
+    "ingredients": [
+      {
+        "name": "Rough Aquamarine Gem",
+        "amount": 5,
+        "price": 16.25160072878709
+      }
+    ],
+    "score": 0.5254171463104822
+  },
+  {
+    "name": "Enchanted Raw Mutton",
+    "item_id": "ENCHANTED_MUTTON",
+    "input_cost": 225.0,
+    "output_value": 847.5963030293142,
+    "profit": 622.5963030293142,
+    "margin_pct": 276.7094680130285,
+    "volume": 2789302,
+    "ingredients": [
+      {
+        "name": "Mutton",
+        "amount": 5,
+        "price": 45.0
+      }
+    ],
+    "score": 0.5250842040821369
+  },
+  {
+    "name": "Silver Fang",
+    "item_id": "SILVER_FANG",
+    "input_cost": 1928.2164258306798,
+    "output_value": 7762.053046558704,
+    "profit": 5833.836620728025,
+    "margin_pct": 302.55092439713013,
+    "volume": 123154,
+    "ingredients": [
+      {
+        "name": "Enchanted Ghast Tear",
+        "amount": 5,
+        "price": 385.64328516613597
+      }
+    ],
+    "score": 0.5113666830421372
+  },
+  {
+    "name": "Enchanted Paper",
+    "item_id": "ENCHANTED_PAPER",
+    "input_cost": 24.0,
+    "output_value": 638.0280554183362,
+    "profit": 614.0280554183362,
+    "margin_pct": 2558.4502309097343,
+    "volume": 136307,
+    "ingredients": [
+      {
+        "name": "Sugar Cane",
+        "amount": 3,
+        "price": 8.0
+      }
+    ],
+    "score": 0.5108544159236216
+  },
+  {
+    "name": "❂ Flawed Opal Gemstone",
+    "item_id": "FLAWED_OPAL_GEM",
+    "input_cost": 27.158103083530996,
+    "output_value": 152.37125000000003,
+    "profit": 125.21314691646904,
+    "margin_pct": 461.05262407815155,
+    "volume": 4536816,
+    "ingredients": [
+      {
+        "name": "Rough Opal Gem",
+        "amount": 5,
+        "price": 5.4316206167061996
+      }
+    ],
+    "score": 0.5095871664114455
+  },
+  {
+    "name": "Enchanted Shark Fin",
+    "item_id": "ENCHANTED_SHARK_FIN",
+    "input_cost": 4918.300029713267,
+    "output_value": 40161.8225,
+    "profit": 35243.522470286734,
+    "margin_pct": 716.5793517550293,
+    "volume": 6159,
+    "ingredients": [
+      {
+        "name": "Shark Fin",
+        "amount": 5,
+        "price": 983.6600059426534
+      }
+    ],
+    "score": 0.5085167573524495
+  },
+  {
+    "name": "Enchanted Ice",
+    "item_id": "ENCHANTED_ICE",
+    "input_cost": 33.49377504293074,
+    "output_value": 227.81625,
+    "profit": 194.32247495706926,
+    "margin_pct": 580.1748972995605,
+    "volume": 1931238,
+    "ingredients": [
+      {
+        "name": "Ice",
+        "amount": 5,
+        "price": 6.698755008586148
+      }
+    ],
+    "score": 0.5066173675300548
+  },
+  {
+    "name": "Inferno Apex",
+    "item_id": "INFERNO_APEX",
+    "input_cost": 3510289.1634816946,
+    "output_value": 11850001.481250001,
+    "profit": 8339712.3177683065,
+    "margin_pct": 237.57906911282856,
+    "volume": 50,
+    "ingredients": [
+      {
+        "name": "Inferno Vertex",
+        "amount": 4,
+        "price": 561313.5082191781
+      },
+      {
+        "name": "Molten Powder",
+        "amount": 4,
+        "price": 315326.0
+      },
+      {
+        "name": "Hypergolic Ionized Ceramics",
+        "amount": 1,
+        "price": 3731.130604982206
+      }
+    ],
+    "score": 0.5059985598054235
+  },
+  {
+    "name": "Enchanted End Stone",
+    "item_id": "ENCHANTED_ENDSTONE",
+    "input_cost": 75.0,
+    "output_value": 271.57505061075796,
+    "profit": 196.57505061075796,
+    "margin_pct": 262.1000674810106,
+    "volume": 3838617,
+    "ingredients": [
+      {
+        "name": "Ender Stone",
+        "amount": 5,
+        "price": 15.0
+      }
+    ],
+    "score": 0.5030886959500905
+  },
+  {
+    "name": "Enchanted Raw Porkchop",
+    "item_id": "ENCHANTED_PORK",
+    "input_cost": 802.7315634218289,
+    "output_value": 1316.1520272795956,
+    "profit": 513.4204638577667,
+    "margin_pct": 63.95917231274589,
+    "volume": 5288130,
+    "ingredients": [
+      {
+        "name": "Pork",
+        "amount": 5,
+        "price": 160.54631268436577
+      }
+    ],
+    "score": 0.4993713291198204
+  },
+  {
+    "name": "Enchanted Bread",
+    "item_id": "ENCHANTED_BREAD",
+    "input_cost": 38.70292677594371,
+    "output_value": 296.67339195040694,
+    "profit": 257.97046517446324,
+    "margin_pct": 666.5399406817162,
+    "volume": 783047,
+    "ingredients": [
+      {
+        "name": "Wheat",
+        "amount": 6,
+        "price": 6.450487795990618
+      }
+    ],
+    "score": 0.49658617541148775
+  },
+  {
+    "name": "Hotspot Water Orb",
+    "item_id": "HOTSPOT_WATER_ORB",
+    "input_cost": 1924965.1158750514,
+    "output_value": 11060000.28527778,
+    "profit": 9135035.16940273,
+    "margin_pct": 474.555881250353,
+    "volume": 10,
+    "ingredients": [
+      {
+        "name": "Half Eaten Mushroom",
+        "amount": 1,
+        "price": 2416.6918076706147
+      },
+      {
+        "name": "Blue Ring",
+        "amount": 1,
+        "price": 487509.2092105263
+      },
+      {
+        "name": "Fried Feather",
+        "amount": 1,
+        "price": 28721.633210784315
+      },
+      {
+        "name": "Singed Powder",
+        "amount": 1,
+        "price": 127655.47658227848
+      },
+      {
+        "name": "Water Orb",
+        "amount": 1,
+        "price": 247164.28408408407
+      },
+      {
+        "name": "Scorched Crab Stick",
+        "amount": 1,
+        "price": 230539.83028169014
+      },
+      {
+        "name": "Enchanted Jungle Log",
+        "amount": 1,
+        "price": 1297.0
+      },
+      {
+        "name": "Broken Radar",
+        "amount": 1,
+        "price": 798048.4
+      },
+      {
+        "name": "Enchanted Coal",
+        "amount": 1,
+        "price": 1612.590698017164
+      }
+    ],
+    "score": 0.4888545883228673
+  },
+  {
+    "name": "Enchanted Lava Bucket",
+    "item_id": "ENCHANTED_LAVA_BUCKET",
+    "input_cost": 32102.40758801697,
+    "output_value": 59484.083827160495,
+    "profit": 27381.676239143526,
+    "margin_pct": 85.29477474257857,
+    "volume": 27076,
+    "ingredients": [
+      {
+        "name": "Enchanted Iron",
+        "amount": 3,
+        "price": 901.2238506603117
+      },
+      {
+        "name": "Enchanted Coal Block",
+        "amount": 1,
+        "price": 29398.736036036036
+      }
+    ],
+    "score": 0.48417431162651237
+  },
+  {
+    "name": "Enchanted Lush Berberis",
+    "item_id": "ENCHANTED_LUSH_BERBERIS",
+    "input_cost": 443.1320081549439,
+    "output_value": 1100.4708455420268,
+    "profit": 657.338837387083,
+    "margin_pct": 148.33928158880374,
+    "volume": 766592,
+    "ingredients": [
+      {
+        "name": "Lush Berberis",
+        "amount": 5,
+        "price": 88.62640163098878
+      }
+    ],
+    "score": 0.48239334496153263
+  },
+  {
+    "name": "Enchanted Gunpowder",
+    "item_id": "ENCHANTED_GUNPOWDER",
+    "input_cost": 172.0,
+    "output_value": 480.939421938342,
+    "profit": 308.939421938342,
+    "margin_pct": 179.61594298740812,
+    "volume": 1126071,
+    "ingredients": [
+      {
+        "name": "Sulphur",
+        "amount": 5,
+        "price": 34.4
+      }
+    ],
+    "score": 0.47739815853883627
+  },
+  {
+    "name": "Enchanted Netherrack",
+    "item_id": "ENCHANTED_NETHERRACK",
+    "input_cost": 5.0,
+    "output_value": 79.0,
+    "profit": 74.0,
+    "margin_pct": 1480.0,
+    "volume": 508043,
+    "ingredients": [
+      {
+        "name": "Netherrack",
+        "amount": 5,
+        "price": 1.0
+      }
+    ],
+    "score": 0.4760102216888421
+  },
+  {
+    "name": "Enchanted Poppy",
+    "item_id": "ENCHANTED_POPPY",
+    "input_cost": 356.3364521933362,
+    "output_value": 1846.9222936191425,
+    "profit": 1490.5858414258064,
+    "margin_pct": 418.3085486345541,
+    "volume": 41716,
+    "ingredients": [
+      {
+        "name": "Red Rose",
+        "amount": 9,
+        "price": 39.59293913259291
+      }
+    ],
+    "score": 0.46198863823424374
+  },
+  {
+    "name": "Simple Carrot Candy",
+    "item_id": "SIMPLE_CARROT_CANDY",
+    "input_cost": 87.3,
+    "output_value": 2428.953875158428,
+    "profit": 2341.653875158428,
+    "margin_pct": 2682.306844396825,
+    "volume": 3170,
+    "ingredients": [
+      {
+        "name": "Carrot Item",
+        "amount": 9,
+        "price": 9.7
+      }
+    ],
+    "score": 0.46005028244800916
+  },
+  {
+    "name": "Presumed Gallon of Red Paint",
+    "item_id": "PRESUMED_GALLON_OF_RED_PAINT",
+    "input_cost": 48894.58746101697,
+    "output_value": 774825.4825,
+    "profit": 725930.8950389831,
+    "margin_pct": 1484.6855914629784,
+    "volume": 12,
+    "ingredients": [
+      {
+        "name": "Enchanted Cobblestone",
+        "amount": 2,
+        "price": 299.65729638345414
+      },
+      {
+        "name": "Hemoglass",
+        "amount": 2,
+        "price": 18473.388941307065
+      },
+      {
+        "name": "Enchanted Dark Oak Log",
+        "amount": 5,
+        "price": 2269.698997127187
+      }
+    ],
+    "score": 0.4593434540086321
+  },
+  {
+    "name": "Enchanted Raw Chicken",
+    "item_id": "ENCHANTED_RAW_CHICKEN",
+    "input_cost": 379.4744053703141,
+    "output_value": 537.5676668861148,
+    "profit": 158.0932615158007,
+    "margin_pct": 41.66111318140777,
+    "volume": 4721660,
+    "ingredients": [
+      {
+        "name": "Raw Chicken",
+        "amount": 5,
+        "price": 75.89488107406282
+      }
+    ],
+    "score": 0.45803092302987114
+  },
+  {
+    "name": "Soulflow Engine",
+    "item_id": "SOULFLOW_ENGINE",
+    "input_cost": 7081749.649353549,
+    "output_value": 10419804.615514707,
+    "profit": 3338054.966161158,
+    "margin_pct": 47.1360204955264,
+    "volume": 90,
+    "ingredients": [
+      {
+        "name": "Null Atom",
+        "amount": 2,
+        "price": 39998.49324324324
+      },
+      {
+        "name": "Lesser Soulflow Engine",
+        "amount": 4,
+        "price": 1452648.2936170213
+      },
+      {
+        "name": "Null Ovoid",
+        "amount": 1,
+        "price": 152339.11997792494
+      },
+      {
+        "name": "Refined Titanium",
+        "amount": 2,
+        "price": 519410.1842105263
+      }
+    ],
+    "score": 0.45797750469375825
+  },
+  {
+    "name": "Entropy Suppressor",
+    "item_id": "ENTROPY_SUPPRESSOR",
+    "input_cost": 2052075.5167344837,
+    "output_value": 7643566.098749999,
+    "profit": 5591490.582015515,
+    "margin_pct": 272.4797667735633,
+    "volume": 7,
+    "ingredients": [
+      {
+        "name": "Chili Pepper",
+        "amount": 4,
+        "price": 116599.75901398087
+      },
+      {
+        "name": "Heavy Gabagool",
+        "amount": 4,
+        "price": 355551.39550684934
+      },
+      {
+        "name": "Kelvin Inverter",
+        "amount": 1,
+        "price": 163470.8986511628
+      }
+    ],
+    "score": 0.4556045771784938
+  },
+  {
+    "name": "Blaze Wax",
+    "item_id": "BLAZE_WAX",
+    "input_cost": 19581.7511831418,
+    "output_value": 149902.63728658538,
+    "profit": 130320.88610344357,
+    "margin_pct": 665.5221225343656,
+    "volume": 145,
+    "ingredients": [
+      {
+        "name": "Enchanted Blaze Powder",
+        "amount": 8,
+        "price": 1930.2162377096588
+      },
+      {
+        "name": "Bezos",
+        "amount": 1,
+        "price": 4140.021281464532
+      }
+    ],
+    "score": 0.4543137088564709
+  },
+  {
+    "name": "Searing Stone",
+    "item_id": "SEARING_STONE",
+    "input_cost": 10497.206554643775,
+    "output_value": 98752.36999999998,
+    "profit": 88255.1634453562,
+    "margin_pct": 840.7490410514378,
+    "volume": 145,
+    "ingredients": [
+      {
+        "name": "Enchanted Magma Cream",
+        "amount": 5,
+        "price": 1680.4960462938186
+      },
+      {
+        "name": "Magma Chunk",
+        "amount": 1,
+        "price": 1102.9022517666788
+      },
+      {
+        "name": "Enchanted Netherrack",
+        "amount": 3,
+        "price": 330.6080238026682
+      }
+    ],
+    "score": 0.4505484135202748
+  },
+  {
+    "name": "Water Orb",
+    "item_id": "WATER_ORB",
+    "input_cost": 14618.838249710383,
+    "output_value": 94869.01919642858,
+    "profit": 80250.18094671819,
+    "margin_pct": 548.950467717967,
+    "volume": 219,
+    "ingredients": [
+      {
+        "name": "Enchanted Raw Fish",
+        "amount": 1,
+        "price": 1215.2965900795996
+      },
+      {
+        "name": "Enchanted Sponge",
+        "amount": 1,
+        "price": 2542.732284887925
+      },
+      {
+        "name": "Enchanted Raw Salmon",
+        "amount": 1,
+        "price": 1583.3
+      },
+      {
+        "name": "Enchanted Prismarine Shard",
+        "amount": 1,
+        "price": 412.59073301202955
+      },
+      {
+        "name": "Enchanted Water Lily",
+        "amount": 1,
+        "price": 2083.041361170475
+      },
+      {
+        "name": "Enchanted Prismarine Crystals",
+        "amount": 1,
+        "price": 408.84266251010274
+      },
+      {
+        "name": "Enchanted Clay Ball",
+        "amount": 1,
+        "price": 692.4974556130295
+      },
+      {
+        "name": "Enchanted Pufferfish",
+        "amount": 1,
+        "price": 2461.881054170945
+      },
+      {
+        "name": "Enchanted Clownfish",
+        "amount": 1,
+        "price": 3218.656108266277
+      }
+    ],
+    "score": 0.44719144618818785
+  },
+  {
+    "name": "Hemobomb",
+    "item_id": "HEMOBOMB",
+    "input_cost": 92366.94470653532,
+    "output_value": 140228.75901796148,
+    "profit": 47861.81431142616,
+    "margin_pct": 51.817037429884536,
+    "volume": 4655,
+    "ingredients": [
+      {
+        "name": "Hemoglass",
+        "amount": 5,
+        "price": 18473.388941307065
+      }
+    ],
+    "score": 0.44616882898332433
+  },
+  {
+    "name": "Superb Carrot Candy",
+    "item_id": "SUPERB_CARROT_CANDY",
+    "input_cost": 859545.9831699687,
+    "output_value": 1437481.92625,
+    "profit": 577935.9430800313,
+    "margin_pct": 67.23735022862051,
+    "volume": 237,
+    "ingredients": [
+      {
+        "name": "Enchanted Golden Carrot",
+        "amount": 8,
+        "price": 81491.46357142857
+      },
+      {
+        "name": "Great Carrot Candy",
+        "amount": 1,
+        "price": 207614.27459854013
+      }
+    ],
+    "score": 0.44590486579163147
+  },
+  {
+    "name": "Bayou Water Orb",
+    "item_id": "BAYOU_WATER_ORB",
+    "input_cost": 2413806.261198646,
+    "output_value": 7833594.67375,
+    "profit": 5419788.412551355,
+    "margin_pct": 224.5328674331966,
+    "volume": 5,
+    "ingredients": [
+      {
+        "name": "Busted Belt Buckle",
+        "amount": 1,
+        "price": 471713.0032110092
+      },
+      {
+        "name": "Old Leather Boot",
+        "amount": 1,
+        "price": 223536.1
+      },
+      {
+        "name": "Alligator Skin",
+        "amount": 1,
+        "price": 425280.6
+      },
+      {
+        "name": "Bronze Bowl",
+        "amount": 1,
+        "price": 8115.049600912203
+      },
+      {
+        "name": "Water Orb",
+        "amount": 1,
+        "price": 247164.28408408407
+      },
+      {
+        "name": "Torn Cloth",
+        "amount": 1,
+        "price": 245989.39999999997
+      },
+      {
+        "name": "Enchanted Clay Block",
+        "amount": 1,
+        "price": 76601.5729468599
+      },
+      {
+        "name": "Rusty Coin",
+        "amount": 1,
+        "price": 32980.83885578069
+      },
+      {
+        "name": "Poison Sample",
+        "amount": 1,
+        "price": 682425.4125
+      }
+    ],
+    "score": 0.4426364576494147
+  },
+  {
+    "name": "Mithril Infusion",
+    "item_id": "MITHRIL_INFUSION",
+    "input_cost": 3140313.982748512,
+    "output_value": 3812740.36375,
+    "profit": 672426.3810014878,
+    "margin_pct": 21.41271174460577,
+    "volume": 594,
+    "ingredients": [
+      {
+        "name": "Enchanted Mithril",
+        "amount": 8,
+        "price": 1499.5221678883424
+      },
+      {
+        "name": "Magma Bucket",
+        "amount": 1,
+        "price": 3128317.8054054054
+      }
+    ],
+    "score": 0.44250208164888327
+  },
+  {
+    "name": "Minion Expander",
+    "item_id": "MINION_EXPANDER",
+    "input_cost": 9750.87393829529,
+    "output_value": 22979.520000000004,
+    "profit": 13228.646061704714,
+    "margin_pct": 135.66626074152109,
+    "volume": 4181,
+    "ingredients": [
+      {
+        "name": "Enchanted Quartz",
+        "amount": 8,
+        "price": 1099.9693697745254
+      },
+      {
+        "name": "Enchanted Redstone",
+        "amount": 1,
+        "price": 951.1189800990875
+      }
+    ],
+    "score": 0.43596398346593657
+  },
+  {
+    "name": "Meteor Shard",
+    "item_id": "METEOR_SHARD",
+    "input_cost": 61029.4176345591,
+    "output_value": 543126.5916176471,
+    "profit": 482097.173983088,
+    "margin_pct": 789.9422813926559,
+    "volume": 11,
+    "ingredients": [
+      {
+        "name": "Silver Fang",
+        "amount": 4,
+        "price": 9688.903459058041
+      },
+      {
+        "name": "Starfall",
+        "amount": 4,
+        "price": 1634.4009495817318
+      },
+      {
+        "name": "Tentacle Meat",
+        "amount": 1,
+        "price": 15736.2
+      }
+    ],
+    "score": 0.4322642767590521
+  },
+  {
+    "name": "Tessellated Ender Pearl",
+    "item_id": "TESSELLATED_ENDER_PEARL",
+    "input_cost": 451176.92730265035,
+    "output_value": 719749.7661681755,
+    "profit": 268572.83886552515,
+    "margin_pct": 59.527166087854035,
+    "volume": 302,
+    "ingredients": [
+      {
+        "name": "Enchanted Lapis Lazuli Block",
+        "amount": 4,
+        "price": 96217.06055776893
+      },
+      {
+        "name": "Absolute Ender Pearl",
+        "amount": 5,
+        "price": 13261.737014314926
+      }
+    ],
+    "score": 0.42988663741332456
+  },
+  {
+    "name": "Null Edge",
+    "item_id": "NULL_EDGE",
+    "input_cost": 128992.61273705977,
+    "output_value": 342189.98125,
+    "profit": 213197.36851294024,
+    "margin_pct": 165.2787427040683,
+    "volume": 127,
+    "ingredients": [
+      {
+        "name": "Enchanted Mithril",
+        "amount": 6,
+        "price": 1499.5221678883424
+      },
+      {
+        "name": "Null Atom",
+        "amount": 3,
+        "price": 39998.49324324324
+      }
+    ],
+    "score": 0.4295754610272577
+  },
+  {
+    "name": "Horns of Torment",
+    "item_id": "HORNS_OF_TORMENT",
+    "input_cost": 10865.453979284961,
+    "output_value": 67233.98687499999,
+    "profit": 56368.53289571503,
+    "margin_pct": 518.7867253699836,
+    "volume": 140,
+    "ingredients": [
+      {
+        "name": "Enchanted Mutton",
+        "amount": 8,
+        "price": 1190.197374138094
+      },
+      {
+        "name": "Horn Of Taurus",
+        "amount": 1,
+        "price": 1343.87498618021
+      }
+    ],
+    "score": 0.4272710592832374
+  },
+  {
+    "name": "Heavy Gabagool",
+    "item_id": "HEAVY_GABAGOOL",
+    "input_cost": 172034.35555050496,
+    "output_value": 283775.11000000004,
+    "profit": 111740.75444949509,
+    "margin_pct": 64.95258118178076,
+    "volume": 438,
+    "ingredients": [
+      {
+        "name": "Fuel Gabagool",
+        "amount": 8,
+        "price": 20470.58340202323
+      },
+      {
+        "name": "Sulphuric Coal",
+        "amount": 1,
+        "price": 8269.688334319124
+      }
+    ],
+    "score": 0.4191475719942091
+  },
+  {
+    "name": "Mixed Mite Gel",
+    "item_id": "MIXED_MITE_GEL",
+    "input_cost": 11198.285714285714,
+    "output_value": 39500.001204268294,
+    "profit": 28301.71548998258,
+    "margin_pct": 252.7325718603333,
+    "volume": 443,
+    "ingredients": [
+      {
+        "name": "Mite Gel",
+        "amount": 5,
+        "price": 2239.657142857143
+      }
+    ],
+    "score": 0.4190668900849029
+  },
+  {
+    "name": "Winter Water Orb",
+    "item_id": "WINTER_WATER_ORB",
+    "input_cost": 411266.14826529205,
+    "output_value": 1324288.1587500002,
+    "profit": 913022.0104847081,
+    "margin_pct": 222.0027138960517,
+    "volume": 9,
+    "ingredients": [
+      {
+        "name": "Ice Hunk",
+        "amount": 4,
+        "price": 1027.587727612871
+      },
+      {
+        "name": "Enchanted Snow Block",
+        "amount": 1,
+        "price": 579.9989878322411
+      },
+      {
+        "name": "White Gift",
+        "amount": 1,
+        "price": 5375.70261443299
+      },
+      {
+        "name": "Water Orb",
+        "amount": 1,
+        "price": 247164.28408408407
+      },
+      {
+        "name": "Green Gift",
+        "amount": 1,
+        "price": 8089.805271184825
+      },
+      {
+        "name": "Blue Ice Hunk",
+        "amount": 1,
+        "price": 145946.00639730642
+      }
+    ],
+    "score": 0.41252283629062386
+  },
+  {
+    "name": "❂ Fine Opal Gemstone",
+    "item_id": "FINE_OPAL_GEM",
+    "input_cost": 2471.0,
+    "output_value": 3719.556079121651,
+    "profit": 1248.5560791216508,
+    "margin_pct": 50.52837228335293,
+    "volume": 43551,
+    "ingredients": [
+      {
+        "name": "Flawed Opal Gem",
+        "amount": 5,
+        "price": 494.2
+      }
+    ],
+    "score": 0.40760585760440643
+  },
+  {
+    "name": "Dwarven Super Compactor",
+    "item_id": "DWARVEN_COMPACTOR",
+    "input_cost": 159789.4264080951,
+    "output_value": 188186.48001436781,
+    "profit": 28397.053606272704,
+    "margin_pct": 17.77154736994167,
+    "volume": 3859,
+    "ingredients": [
+      {
+        "name": "Enchanted Mithril",
+        "amount": 7,
+        "price": 1499.5221678883424
+      },
+      {
+        "name": "Auto Smelter",
+        "amount": 1,
+        "price": 2819.9
+      },
+      {
+        "name": "Super Compactor 3000",
+        "amount": 1,
+        "price": 146472.8712328767
+      }
+    ],
+    "score": 0.40350571913948274
+  },
+  {
+    "name": "Lesser Soulflow Engine",
+    "item_id": "LESSER_SOULFLOW_ENGINE",
+    "input_cost": 984010.4410927958,
+    "output_value": 1163245.6500892858,
+    "profit": 179235.20899649,
+    "margin_pct": 18.21476698940712,
+    "volume": 385,
+    "ingredients": [
+      {
+        "name": "Null Ovoid",
+        "amount": 6,
+        "price": 152339.11997792494
+      },
+      {
+        "name": "Enchanted Eye Of Ender",
+        "amount": 2,
+        "price": 8497.204563332627
+      },
+      {
+        "name": "Enchanted Iron Block",
+        "amount": 1,
+        "price": 52981.31209858104
+      }
+    ],
+    "score": 0.39694947341482084
+  },
+  {
+    "name": "Auto Smelter",
+    "item_id": "AUTO_SMELTER",
+    "input_cost": 95.77770027721355,
+    "output_value": 691.25,
+    "profit": 595.4722997227865,
+    "margin_pct": 621.7233218163364,
+    "volume": 3473,
+    "ingredients": [
+      {
+        "name": "Cobblestone",
+        "amount": 8,
+        "price": 1.5972125346516945
+      },
+      {
+        "name": "Coal",
+        "amount": 1,
+        "price": 83.0
+      }
+    ],
+    "score": 0.39370852628461384
+  },
+  {
+    "name": "Lava Water Orb",
+    "item_id": "LAVA_WATER_ORB",
+    "input_cost": 327965.08760514326,
+    "output_value": 675745.7970039683,
+    "profit": 347780.709398825,
+    "margin_pct": 106.04199121875403,
+    "volume": 24,
+    "ingredients": [
+      {
+        "name": "Magma Fish Silver",
+        "amount": 2,
+        "price": 6897.280337941628
+      },
+      {
+        "name": "Thunder Shards",
+        "amount": 1,
+        "price": 64194.29564356436
+      },
+      {
+        "name": "Moogma Pelt",
+        "amount": 1,
+        "price": 52.998617975333865
+      },
+      {
+        "name": "Water Orb",
+        "amount": 1,
+        "price": 247164.28408408407
+      },
+      {
+        "name": "Lump Of Magma",
+        "amount": 1,
+        "price": 59.251657091143436
+      },
+      {
+        "name": "Cup Of Blood",
+        "amount": 1,
+        "price": 908.8
+      },
+      {
+        "name": "Horn Of Taurus",
+        "amount": 1,
+        "price": 1343.87498618021
+      },
+      {
+        "name": "Flaming Heart",
+        "amount": 1,
+        "price": 447.021940364931
+      }
+    ],
+    "score": 0.393339592292318
+  },
+  {
+    "name": "Enchanted Charcoal",
+    "item_id": "ENCHANTED_CHARCOAL",
+    "input_cost": 342.0,
+    "output_value": 989.8317861535475,
+    "profit": 647.8317861535475,
+    "margin_pct": 189.42449887530628,
+    "volume": 11011,
+    "ingredients": [
+      {
+        "name": "Coal",
+        "amount": 4,
+        "price": 83.0
+      },
+      {
+        "name": "Log",
+        "amount": 1,
+        "price": 10.0
+      }
+    ],
+    "score": 0.3928812611186073
+  },
+  {
+    "name": "Shiny Prism",
+    "item_id": "SHINY_PRISM",
+    "input_cost": 11154.544664252622,
+    "output_value": 19752.07375,
+    "profit": 8597.529085747377,
+    "margin_pct": 77.07646833223227,
+    "volume": 356,
+    "ingredients": [
+      {
+        "name": "Enchanted Glowstone Dust",
+        "amount": 8,
+        "price": 1240.5338774203872
+      },
+      {
+        "name": "Gazing Pearl",
+        "amount": 1,
+        "price": 1230.2736448895248
+      }
+    ],
+    "score": 0.35670478978604936
+  },
+  {
+    "name": "Small Storage",
+    "item_id": "SMALL_ENCHANTED_CHEST",
+    "input_cost": 80.0,
+    "output_value": 197.99737597328001,
+    "profit": 117.99737597328001,
+    "margin_pct": 147.4967199666,
+    "volume": 3531,
+    "ingredients": [
+      {
+        "name": "Log",
+        "amount": 8,
+        "price": 10.0
+      }
+    ],
+    "score": 0.3202308028304399
+  },
+  {
+    "name": "Spooky Water Orb",
+    "item_id": "SPOOKY_WATER_ORB",
+    "input_cost": 716238.2702570362,
+    "output_value": 878886.0599999999,
+    "profit": 162647.78974296374,
+    "margin_pct": 22.708614786053584,
+    "volume": 7,
+    "ingredients": [
+      {
+        "name": "Purple Candy",
+        "amount": 4,
+        "price": 20278.306866002215
+      },
+      {
+        "name": "Soul Fragment",
+        "amount": 1,
+        "price": 378193.79897959187
+      },
+      {
+        "name": "Werewolf Skin",
+        "amount": 3,
+        "price": 3255.6532431171254
+      },
+      {
+        "name": "Water Orb",
+        "amount": 1,
+        "price": 247164.28408408407
+      }
+    ],
+    "score": 0.3101463534145168
+  },
+  {
+    "name": "Melon",
+    "item_id": "MELON_BLOCK",
+    "input_cost": 26.241067016697905,
+    "output_value": 28.112714815460546,
+    "profit": 1.8716477987626412,
+    "margin_pct": 7.132514076396592,
+    "volume": 793303,
+    "ingredients": [
+      {
+        "name": "Melon",
+        "amount": 9,
+        "price": 2.9156741129664336
+      }
+    ],
+    "score": 0.2682936840839982
+  }
+]

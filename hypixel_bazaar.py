@@ -119,21 +119,25 @@ class CraftFlip:
 @dataclass
 class BazaarFlip:
     """Koop via buy order → verkoop via sell offer (spread trading)."""
-    item_id:      str
-    name:         str
-    buy_order:    float    # prijs buy order plaatsen
-    sell_offer:   float    # prijs sell offer plaatsen
-    profit:       float    # profit per item na tax
-    margin_pct:   float
-    volume:       float    # min(buy_volume, sell_volume) orders/week
-    score:        float = 0.0
+    item_id:         str
+    name:            str
+    buy_order:       float    # prijs buy order plaatsen
+    sell_offer:      float    # prijs sell offer plaatsen
+    profit:          float    # profit per item na tax
+    margin_pct:      float
+    volume:          float    # min(buy_volume, sell_volume) orders/week
+    buy_volume:      float = 0.0   # coins gekocht via buy orders/week
+    sell_volume:     float = 0.0   # coins verkocht via sell offers/week
+    score:           float = 0.0
 
-    def profit_str(self)  -> str: return _fmt(self.profit)
-    def buy_str(self)     -> str: return _fmt(self.buy_order)
-    def sell_str(self)    -> str: return _fmt(self.sell_offer)
-    def volume_str(self)  -> str: return _fmt(self.volume)
-    def margin_str(self)  -> str: return f"{self.margin_pct:.1f}%"
-    def score_str(self)   -> str: return f"{self.score:.3f}"
+    def profit_str(self)      -> str: return _fmt(self.profit)
+    def buy_str(self)         -> str: return _fmt(self.buy_order)
+    def sell_str(self)        -> str: return _fmt(self.sell_offer)
+    def volume_str(self)      -> str: return _fmt(self.volume)
+    def buy_vol_str(self)     -> str: return _fmt(self.buy_volume)
+    def sell_vol_str(self)    -> str: return _fmt(self.sell_volume)
+    def margin_str(self)      -> str: return f"{self.margin_pct:.1f}%"
+    def score_str(self)       -> str: return f"{self.score:.3f}"
 
 
 @dataclass
@@ -171,8 +175,25 @@ def _timestamp() -> str:
     return datetime.now().strftime("%Y-%m-%d %H-%M-%S")
 
 
+EXPORT_DIR = Path("Exports")
+
+_EXT_FOLDER = {
+    "csv":  "CSV",
+    "json": "JSON",
+    "xlsx": "Excel",
+    "md":   "Markdown",
+}
+
+_MODE_FOLDER = {
+    "craft": "Bazaar Craft Flipper",
+    "flip":  "Bazaar Flipper",
+    "ah":    "AH Craft Flipper",
+}
+
 def _export_filename(mode: str, sort_col: str, ext: str) -> Path:
-    return Path(f"Hypixel {mode} - {sort_col} - {_timestamp()}.{ext}")
+    subfolder = EXPORT_DIR / _EXT_FOLDER.get(ext, ext.upper()) / _MODE_FOLDER.get(mode, mode)
+    subfolder.mkdir(parents=True, exist_ok=True)
+    return subfolder / f"Hypixel {_MODE_FOLDER.get(mode, mode)} - {sort_col} - {_timestamp()}.{ext}"
 
 
 def _log_norm(values: list) -> list:
@@ -234,13 +255,15 @@ class HypixelAPI:
             )
         return result
 
-    def get_ah_prices(self) -> dict[str, float]:
+    def get_ah_prices(self) -> dict[str, dict]:
         """
-        Haal recente AH verkopen op via gepagineerde auctions endpoint.
-        auctions_ended heeft geen item_name — gebruikt auctions die wel item_name heeft.
+        Combineert twee endpoints:
+        - /v2/skyblock/auctions        → actuele BIN prijzen (listing prices)
+        - /v2/skyblock/auctions_ended  → recente verkopen (echte verkoopprijzen + sales count)
+
+        Geeft dict terug: {item_name: {"price": float, "sales": int}}
         Gecached voor AH_CACHE_MINUTES minuten.
         """
-        # Check cache
         if AH_CACHE_FILE.exists():
             try:
                 cached = json.loads(AH_CACHE_FILE.read_text(encoding="utf-8"))
@@ -251,48 +274,53 @@ class HypixelAPI:
             except Exception:
                 pass
 
-        print("  AH BIN verkopen ophalen (pagina 0)...")
-        prices_raw = defaultdict(list)
+        # ── Actieve BIN veilingen ophalen ──────────────────────────────────
+        # auctions_ended heeft geen item_name (alleen NBT bytes), dus we
+        # gebruiken het aantal actieve listings als proxy voor populariteit.
+        print("  Actieve BIN veilingen ophalen (pagina 0)...")
+        bin_prices  = defaultdict(list)   # name → [prijzen]
+        bin_count   = defaultdict(int)    # name → aantal actieve listings
 
-        # Haal pagina 0 op om totaal te weten
-        data = self._get("v2/skyblock/auctions", {"page": 0})
-        total_pages = data.get("totalPages", 1)
-        print(f"  {total_pages} pagina's totaal — dit kan even duren...")
+        try:
+            data = self._get("v2/skyblock/auctions", {"page": 0})
+            total_pages = data.get("totalPages", 1)
+            print(f"  {total_pages} pagina's — even geduld...")
 
-        def process_page(auctions):
-            for auction in auctions:
-                if not auction.get("bin", False):
-                    continue
-                name = _strip_color(auction.get("item_name", "")).strip()
-                if not name:
-                    continue
-                # Actieve veilingen: starting_bid, afgesloten: price
-                price = auction.get("starting_bid") or auction.get("price", 0)
-                if price > 0:
-                    prices_raw[name].append(price)
+            def process_page(auctions):
+                for auction in auctions:
+                    if not auction.get("bin", False):
+                        continue
+                    name = _strip_color(auction.get("item_name", "")).strip()
+                    price = auction.get("starting_bid") or auction.get("price", 0)
+                    if name and price > 0:
+                        bin_prices[name].append(price)
+                        bin_count[name] += 1
 
-        process_page(data.get("auctions", []))
+            process_page(data.get("auctions", []))
 
-        # Haal alle pagina's op (met kleine pauze voor rate limit)
-        for page in range(1, min(total_pages, 50)):  # max 50 pagina's
-            if page % 10 == 0:
-                print(f"  Pagina {page}/{min(total_pages, 50)}...")
-            try:
-                pdata = self._get("v2/skyblock/auctions", {"page": page})
-                process_page(pdata.get("auctions", []))
-                time.sleep(0.05)  # 50ms pauze om rate limit te respecteren
-            except Exception as e:
-                print(f"  Pagina {page} overgeslagen: {e}")
-                break
+            for page in range(1, min(total_pages, 50)):
+                if page % 10 == 0:
+                    print(f"  Pagina {page}/{min(total_pages, 50)}...")
+                try:
+                    pdata = self._get("v2/skyblock/auctions", {"page": page})
+                    process_page(pdata.get("auctions", []))
+                    time.sleep(0.05)
+                except Exception as pe:
+                    print(f"  Pagina {page} overgeslagen: {pe}")
+                    break
+        except Exception as e:
+            print(f"  Actieve veilingen mislukt: {e}")
 
-        # Bereken mediaan per item
+        # ── Mediaan prijs + listing count per item ──────────────────────────
         prices = {}
-        for name, vals in prices_raw.items():
+        for name, vals in bin_prices.items():
             sorted_vals = sorted(vals)
             mid = len(sorted_vals) // 2
-            prices[name] = sorted_vals[mid]
+            prices[name] = {
+                "price":    sorted_vals[mid],
+                "sales":    bin_count[name],   # actieve listings = populariteitsproxy
+            }
 
-        # Sla cache op
         AH_CACHE_FILE.write_text(json.dumps({
             "timestamp": datetime.now().isoformat(),
             "prices": prices,
@@ -457,9 +485,6 @@ def analyze_craft_flips(bazaar: dict, recipes: dict) -> list[CraftFlip]:
         margin_pct = profit / cost_per_item * 100
         volume = crafted.sell_volume  # orders/week van het gecraftte item
 
-        if profit < MIN_CRAFT_PROFIT or volume < MIN_CRAFT_VOLUME:
-            continue
-
         results.append(CraftFlip(
             name         = recipe["display_name"],
             item_id      = item_id,
@@ -509,21 +534,16 @@ def analyze_bazaar_flips(bazaar: dict) -> list[BazaarFlip]:
         margin_pct = item.margin_pct()
         volume = min(item.buy_volume, item.sell_volume)
 
-        if profit < MIN_FLIP_PROFIT:
-            continue
-        if margin_pct < MIN_FLIP_MARGIN:
-            continue
-        if volume < MIN_FLIP_VOLUME:
-            continue
-
         results.append(BazaarFlip(
-            item_id    = item_id,
-            name       = item.display_name,
-            buy_order  = item.sell_price,    # we plaatsen buy order ≈ insta-sell prijs
-            sell_offer = item.buy_price,     # we plaatsen sell offer ≈ insta-buy prijs
-            profit     = profit,
-            margin_pct = margin_pct,
-            volume     = volume,
+            item_id     = item_id,
+            name        = item.display_name,
+            buy_order   = item.sell_price,
+            sell_offer  = item.buy_price,
+            profit      = profit,
+            margin_pct  = margin_pct,
+            volume      = volume,
+            buy_volume  = item.buy_volume,
+            sell_volume = item.sell_volume,
         ))
 
     _compute_scores(results,
@@ -553,12 +573,16 @@ def analyze_ah_craft_flips(bazaar: dict, recipes: dict,
         display = recipe["display_name"]
 
         # Zoek AH prijs (op display name)
-        ah_price = ah_prices.get(display)
-        if not ah_price:
-            # Probeer varianten
-            ah_price = ah_prices.get(_clean_name(item_id))
-        if not ah_price:
+        ah_data = ah_prices.get(display) or ah_prices.get(_clean_name(item_id))
+        if not ah_data:
             continue
+        # Ondersteun zowel nieuw dict formaat als oud float formaat
+        if isinstance(ah_data, dict):
+            ah_price = ah_data["price"]
+            ah_sales_count = ah_data["sales"]
+        else:
+            ah_price = float(ah_data)
+            ah_sales_count = 1
 
         output_count = recipe["output_count"]
         total_cost = 0.0
@@ -590,11 +614,7 @@ def analyze_ah_craft_flips(bazaar: dict, recipes: dict,
 
         margin_pct = profit / cost_per_item * 100
 
-        # Schat ah_sales uit hoeveel entries we gezien hebben
-        ah_sales = sum(1 for k in ah_prices if k == display)
-
-        if profit < MIN_AH_PROFIT:
-            continue
+        ah_sales = ah_sales_count
 
         results.append(AHCraftFlip(
             name          = display,
@@ -630,11 +650,13 @@ def _rows_craft(items: list) -> tuple:
 
 
 def _rows_flip(items: list) -> tuple:
-    headers = ["#", "Naam", "Buy order", "Sell offer", "Profit/item", "Margin", "Volume/wk", "Score"]
+    headers = ["#", "Naam", "Buy order", "Sell offer", "Profit/item",
+               "Margin", "Buy vol/wk", "Sell vol/wk", "Min vol/wk", "Score"]
     rows = []
     for i, f in enumerate(items, 1):
         rows.append([i, f.name, f.buy_str(), f.sell_str(), f.profit_str(),
-                     f.margin_str(), f.volume_str(), f.score_str()])
+                     f.margin_str(), f.buy_vol_str(), f.sell_vol_str(),
+                     f.volume_str(), f.score_str()])
     return headers, rows
 
 
@@ -715,6 +737,39 @@ def export_excel(items: list, mode: str, sort_col: str, row_fn) -> Path:
     wb.save(path)
     return path
 
+def export_markdown(items: list, mode: str, sort_col: str, row_fn) -> Path:
+    path = _export_filename(mode, sort_col, "md")
+    headers, rows = row_fn(items)
+
+    # Header
+    lines = [
+        f"# Hypixel SkyBlock — {mode}",
+        f"_Geëxporteerd op {datetime.now().strftime('%d-%m-%Y %H:%M')} · gesorteerd op: {sort_col}_\n",
+        "| " + " | ".join(headers) + " |",
+        "| " + " | ".join("---" for _ in headers) + " |",
+    ]
+    for row in rows:
+        lines.append("| " + " | ".join(str(v).replace("|", "\\|") for v in row) + " |")
+
+    path.write_text("\n".join(lines), encoding="utf-8")
+    return path
+
+
+
+def export_markdown(items: list, mode: str, sort_col: str, row_fn) -> Path:
+    path = _export_filename(mode, sort_col, "md")
+    headers, rows = row_fn(items)
+    lines = [
+        f"# Hypixel SkyBlock – {mode}",
+        f"_Geëxporteerd op {datetime.now().strftime('%d-%m-%Y %H:%M')} · gesorteerd op: {sort_col}_\n",
+        "| " + " | ".join(headers) + " |",
+        "| " + " | ".join(["---"] * len(headers)) + " |",
+    ]
+    for row in rows:
+        lines.append("| " + " | ".join(str(v).replace("|", "\\|") for v in row) + " |")
+    path.write_text("\n".join(lines), encoding="utf-8")
+    return path
+
 
 # ══════════════════════════════════════════════════════
 #  GUI
@@ -783,7 +838,13 @@ class HypixelBazaarGUI:
         tk.Label(hdr, textvariable=self.status_var,
                  font=("Segoe UI", 10), fg=SUBTEXT, bg=PANEL_BG).pack(side="right", padx=16)
 
-        self.refresh_btn = tk.Button(hdr, text="↻  Vernieuwen",
+        tk.Button(hdr, text="↻  AH vernieuwen",
+                  command=self._refresh_force_ah,
+                  bg="#e67e22", fg="white",
+                  font=("Segoe UI", 10, "bold"),
+                  relief="flat", padx=10).pack(side="right", padx=4)
+
+        self.refresh_btn = tk.Button(hdr, text="↻  Bazaar vernieuwen",
                                       command=self._refresh,
                                       bg=GREEN, fg="white",
                                       font=("Segoe UI", 10, "bold"),
@@ -794,7 +855,7 @@ class HypixelBazaarGUI:
         self.nb = ttk.Notebook(self.root)
         self.nb.pack(fill="both", expand=True, padx=8, pady=8)
 
-        self.tab_craft = self._make_tab("⚒  Craft Flips",    self._craft_columns())
+        self.tab_craft = self._make_tab("⚒  Bazaar Craft Flips",    self._craft_columns())
         self.tab_flip  = self._make_tab("📈  Bazaar Flips",  self._flip_columns())
         self.tab_ah    = self._make_tab("🏷  AH Craft Flips", self._ah_columns())
 
@@ -818,9 +879,11 @@ class HypixelBazaarGUI:
                 ("volume","Volume/wk",100),("score","Score",70),("ings","Ingredients",320)]
 
     def _flip_columns(self):
-        return [("rank","#",50),("name","Naam",240),("buy","Buy order",110),
-                ("sell","Sell offer",110),("profit","Profit/item",110),
-                ("margin","Margin",80),("volume","Volume/wk",110),("score","Score",70)]
+        return [("rank","#",50),("name","Naam",220),("buy","Buy order",100),
+                ("sell","Sell offer",100),("profit","Profit/item",100),
+                ("margin","Margin",75),("buyvol","Buy vol/wk",100),
+                ("sellvol","Sell vol/wk",100),("volume","Min vol/wk",100),
+                ("score","Score",70)]
 
     def _ah_columns(self):
         return [("rank","#",50),("name","Naam",260),("cost","Material cost",120),
@@ -849,7 +912,7 @@ class HypixelBazaarGUI:
         # Export knoppen
         exp = tk.Frame(bar, bg=ACCENT)
         exp.pack(side="right", padx=12)
-        for lbl, ext in [("CSV","csv"),("JSON","json"),("Excel","xlsx")]:
+        for lbl, ext in [("CSV","csv"),("JSON","json"),("Excel","xlsx"),("Markdown","md")]:
             tk.Button(exp, text=lbl,
                       command=lambda m=mode, e=ext: self._export(m, e),
                       bg=PURPLE, fg="white", font=("Segoe UI", 9, "bold"),
@@ -976,6 +1039,8 @@ class HypixelBazaarGUI:
             path = export_json_file(items, mode, "score")
         elif ext == "xlsx":
             path = export_excel(items, mode, "score", row_fn)
+        elif ext == "md":
+            path = export_markdown(items, mode, "score", row_fn)
         else:
             return
 
@@ -987,14 +1052,20 @@ class HypixelBazaarGUI:
         self.refresh_btn.config(state="disabled")
         threading.Thread(target=self._load_data, daemon=True).start()
 
-    def _refresh(self):
+    def _refresh(self, force_ah=False):
+        """
+        Vernieuw bazaar + analyse. AH cache wordt alleen gewist als force_ah=True
+        of als de cache ouder is dan AH_CACHE_MINUTES (automatisch in get_ah_prices).
+        """
         self.refresh_btn.config(state="disabled")
         self.status_var.set("Vernieuwen...")
-        # Verwijder bazaar cache niet — die is sowieso live
-        # Verwijder AH cache voor verse data
-        if AH_CACHE_FILE.exists():
+        if force_ah and AH_CACHE_FILE.exists():
             AH_CACHE_FILE.unlink()
+            self.status_var.set("Vernieuwen (AH cache gewist)...")
         threading.Thread(target=self._load_data, daemon=True).start()
+
+    def _refresh_force_ah(self):
+        self._refresh(force_ah=True)
 
     def _load_data(self):
         try:

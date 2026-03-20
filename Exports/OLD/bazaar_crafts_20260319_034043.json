@@ -1,0 +1,3358 @@
+[
+  {
+    "rank": 1,
+    "name": "Braided Griffin Feather",
+    "requires": "",
+    "input_cost": 22100000.0,
+    "output_value": 46700000.0,
+    "volume": 100.0,
+    "profit": 24500000.0,
+    "score": 0.5,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Griffin Feather"
+      },
+      {
+        "amount": 256,
+        "name": "Soul String"
+      }
+    ]
+  },
+  {
+    "rank": 184,
+    "name": "Wheat",
+    "requires": "",
+    "input_cost": 0.0,
+    "output_value": 6.0,
+    "volume": 662700000.0,
+    "profit": 6.0,
+    "score": 0.5,
+    "materials": [
+      {
+        "amount": 1,
+        "name": "Hay Block"
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "name": "Entropy Suppressor",
+    "requires": "Chili Pepper IV",
+    "input_cost": 8500000.0,
+    "output_value": 21900000.0,
+    "volume": 1.0,
+    "profit": 13400000.0,
+    "score": 0.2735,
+    "materials": [
+      {
+        "amount": 32,
+        "name": "Chili Pepper"
+      },
+      {
+        "amount": 16,
+        "name": "Heavy Gabagool"
+      },
+      {
+        "amount": 4,
+        "name": "Kelvin Inverter"
+      }
+    ]
+  },
+  {
+    "rank": 177,
+    "name": "Enchanted Melon Slice",
+    "requires": "Melon Slice IV",
+    "input_cost": 48.0,
+    "output_value": 320.0,
+    "volume": 281500000.0,
+    "profit": 272.0,
+    "score": 0.2124,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Melon"
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "name": "Jalapeno Book",
+    "requires": "Chili Pepper VII",
+    "input_cost": 13400000.0,
+    "output_value": 23100000.0,
+    "volume": 10.0,
+    "profit": 9700000.0,
+    "score": 0.198,
+    "materials": [
+      {
+        "amount": 3,
+        "name": "Enchanted Paper"
+      },
+      {
+        "amount": 1,
+        "name": "Stuffed Chili Pepper"
+      }
+    ]
+  },
+  {
+    "rank": 171,
+    "name": "Enchanted Potato",
+    "requires": "Potato IV",
+    "input_cost": 160.0,
+    "output_value": 478.0,
+    "volume": 187900000.0,
+    "profit": 318.0,
+    "score": 0.1418,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Potato Item"
+      }
+    ]
+  },
+  {
+    "rank": 147,
+    "name": "Enchanted Nether Wart",
+    "requires": "Nether Wart IV",
+    "input_cost": 144.0,
+    "output_value": 640.0,
+    "volume": 166600000.0,
+    "profit": 496.0,
+    "score": 0.1257,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Nether Stalk"
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "name": "Hotspot Water Orb",
+    "requires": "",
+    "input_cost": 12800000.0,
+    "output_value": 18600000.0,
+    "volume": 8.0,
+    "profit": 5900000.0,
+    "score": 0.1204,
+    "materials": [
+      {
+        "amount": 64,
+        "name": "Half Eaten Mushroom"
+      },
+      {
+        "amount": 8,
+        "name": "Blue Ring"
+      },
+      {
+        "amount": 64,
+        "name": "Fried Feather"
+      },
+      {
+        "amount": 8,
+        "name": "Singed Powder"
+      },
+      {
+        "amount": 1,
+        "name": "Water Orb"
+      },
+      {
+        "amount": 8,
+        "name": "Scorched Crab Stick"
+      },
+      {
+        "amount": 64,
+        "name": "Enchanted Jungle Log"
+      },
+      {
+        "amount": 8,
+        "name": "Broken Radar"
+      },
+      {
+        "amount": 64,
+        "name": "Enchanted Coal"
+      }
+    ]
+  },
+  {
+    "rank": 173,
+    "name": "Enchanted Seeds",
+    "requires": "Seeds III",
+    "input_cost": 166.0,
+    "output_value": 477.0,
+    "volume": 146300000.0,
+    "profit": 311.0,
+    "score": 0.1104,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Seeds"
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "name": "Winter Water Orb",
+    "requires": "",
+    "input_cost": 4300000.0,
+    "output_value": 9700000.0,
+    "volume": 9.0,
+    "profit": 5400000.0,
+    "score": 0.1102,
+    "materials": [
+      {
+        "amount": 128,
+        "name": "Ice Hunk"
+      },
+      {
+        "amount": 64,
+        "name": "Enchanted Snow Block"
+      },
+      {
+        "amount": 64,
+        "name": "White Gift"
+      },
+      {
+        "amount": 1,
+        "name": "Water Orb"
+      },
+      {
+        "amount": 16,
+        "name": "Green Gift"
+      },
+      {
+        "amount": 32,
+        "name": "Blue Ice Hunk"
+      }
+    ]
+  },
+  {
+    "rank": 153,
+    "name": "Enchanted Wheat",
+    "requires": "Wheat V",
+    "input_cost": 560.0,
+    "output_value": 986.0,
+    "volume": 131199999.99999999,
+    "profit": 426.0,
+    "score": 0.099,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Wheat"
+      }
+    ]
+  },
+  {
+    "rank": 6,
+    "name": "Null Blade",
+    "requires": "",
+    "input_cost": 18100000.0,
+    "output_value": 22000000.0,
+    "volume": 141.0,
+    "profit": 3900000.0,
+    "score": 0.0796,
+    "materials": [
+      {
+        "amount": 64,
+        "name": "Null Ovoid"
+      },
+      {
+        "amount": 3,
+        "name": "Null Edge"
+      },
+      {
+        "amount": 64,
+        "name": "Enchanted Quartz Block"
+      }
+    ]
+  },
+  {
+    "rank": 156,
+    "name": "Enchanted Carrot",
+    "requires": "Carrot IV",
+    "input_cost": 112.0,
+    "output_value": 525.0,
+    "volume": 97700000.0,
+    "profit": 413.0,
+    "score": 0.0737,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Carrot Item"
+      }
+    ]
+  },
+  {
+    "rank": 7,
+    "name": "Blood-Soaked Coins",
+    "requires": "",
+    "input_cost": 1500000.0,
+    "output_value": 5000000.0,
+    "volume": 16.0,
+    "profit": 3500000.0,
+    "score": 0.0714,
+    "materials": [
+      {
+        "amount": 32,
+        "name": "Hemoglass"
+      },
+      {
+        "amount": 1,
+        "name": "Blood Stained Coins"
+      }
+    ]
+  },
+  {
+    "rank": 158,
+    "name": "Enchanted Snow Block",
+    "requires": "",
+    "input_cost": 176.0,
+    "output_value": 580.0,
+    "volume": 81200000.0,
+    "profit": 404.0,
+    "score": 0.0613,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Snow Block"
+      }
+    ]
+  },
+  {
+    "rank": 8,
+    "name": "Shark Water Orb",
+    "requires": "",
+    "input_cost": 2000000.0,
+    "output_value": 5000000.0,
+    "volume": 2.0,
+    "profit": 3000000.0,
+    "score": 0.0612,
+    "materials": [
+      {
+        "amount": 4,
+        "name": "Enchanted Shark Fin"
+      },
+      {
+        "amount": 1,
+        "name": "Great White Shark Tooth"
+      },
+      {
+        "amount": 6,
+        "name": "Blue Shark Tooth"
+      },
+      {
+        "amount": 1,
+        "name": "Water Orb"
+      },
+      {
+        "amount": 12,
+        "name": "Nurse Shark Tooth"
+      },
+      {
+        "amount": 4,
+        "name": "Tiger Shark Tooth"
+      }
+    ]
+  },
+  {
+    "rank": 137,
+    "name": "Enchanted Red Mushroom",
+    "requires": "Mushroom VI",
+    "input_cost": 930.0,
+    "output_value": 1600.0,
+    "volume": 72600000.0,
+    "profit": 667.0,
+    "score": 0.0548,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Red Mushroom"
+      }
+    ]
+  },
+  {
+    "rank": 9,
+    "name": "❂ Flawless Opal Gemstone",
+    "requires": "",
+    "input_cost": 53400.0,
+    "output_value": 2600000.0,
+    "volume": 838.0,
+    "profit": 2600000.0,
+    "score": 0.0531,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Fine Opal Gem"
+      }
+    ]
+  },
+  {
+    "rank": 10,
+    "name": "Bayou Water Orb",
+    "requires": "",
+    "input_cost": 9100000.0,
+    "output_value": 11500000.0,
+    "volume": 6.0,
+    "profit": 2400000.0,
+    "score": 0.049,
+    "materials": [
+      {
+        "amount": 8,
+        "name": "Busted Belt Buckle"
+      },
+      {
+        "amount": 1,
+        "name": "Old Leather Boot"
+      },
+      {
+        "amount": 8,
+        "name": "Alligator Skin"
+      },
+      {
+        "amount": 16,
+        "name": "Bronze Bowl"
+      },
+      {
+        "amount": 1,
+        "name": "Water Orb"
+      },
+      {
+        "amount": 16,
+        "name": "Torn Cloth"
+      },
+      {
+        "amount": 1,
+        "name": "Enchanted Clay Block"
+      },
+      {
+        "amount": 64,
+        "name": "Rusty Coin"
+      },
+      {
+        "amount": 1,
+        "name": "Poison Sample"
+      }
+    ]
+  },
+  {
+    "rank": 134,
+    "name": "Enchanted Brown Mushroom",
+    "requires": "Mushroom VI",
+    "input_cost": 928.0,
+    "output_value": 1600.0,
+    "volume": 61300000.0,
+    "profit": 678.0,
+    "score": 0.0463,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Brown Mushroom"
+      }
+    ]
+  },
+  {
+    "rank": 154,
+    "name": "Enchanted Sugar",
+    "requires": "Sugar Cane IV",
+    "input_cost": 272.0,
+    "output_value": 690.0,
+    "volume": 60200000.0,
+    "profit": 418.0,
+    "score": 0.0454,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Sugar Cane"
+      }
+    ]
+  },
+  {
+    "rank": 11,
+    "name": "Flycatcher",
+    "requires": "Spider Slayer 6",
+    "input_cost": 28200000.0,
+    "output_value": 29900000.0,
+    "volume": 765.0,
+    "profit": 1700000.0,
+    "score": 0.0347,
+    "materials": [
+      {
+        "amount": 102,
+        "name": "Tarantula Silk"
+      },
+      {
+        "amount": 1,
+        "name": "Fly Swatter"
+      }
+    ]
+  },
+  {
+    "rank": 12,
+    "name": "Stuffed Chili Pepper",
+    "requires": "Chili Pepper VI",
+    "input_cost": 17900000.0,
+    "output_value": 19400000.0,
+    "volume": 20.0,
+    "profit": 1500000.0,
+    "score": 0.0306,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Chili Pepper"
+      }
+    ]
+  },
+  {
+    "rank": 132,
+    "name": "Enchanted Pumpkin",
+    "requires": "Pumpkin III",
+    "input_cost": 998.0,
+    "output_value": 1700.0,
+    "volume": 38300000.0,
+    "profit": 687.0,
+    "score": 0.0289,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Pumpkin"
+      }
+    ]
+  },
+  {
+    "rank": 14,
+    "name": "Lava Water Orb",
+    "requires": "",
+    "input_cost": 409800.0,
+    "output_value": 1700000.0,
+    "volume": 20.0,
+    "profit": 1300000.0,
+    "score": 0.0265,
+    "materials": [
+      {
+        "amount": 32,
+        "name": "Magma Fish Silver"
+      },
+      {
+        "amount": 2,
+        "name": "Thunder Shards"
+      },
+      {
+        "amount": 64,
+        "name": "Moogma Pelt"
+      },
+      {
+        "amount": 1,
+        "name": "Water Orb"
+      },
+      {
+        "amount": 64,
+        "name": "Lump Of Magma"
+      },
+      {
+        "amount": 32,
+        "name": "Cup Of Blood"
+      },
+      {
+        "amount": 16,
+        "name": "Horn Of Taurus"
+      },
+      {
+        "amount": 32,
+        "name": "Flaming Heart"
+      }
+    ]
+  },
+  {
+    "rank": 13,
+    "name": "Great White Tooth Meal",
+    "requires": "",
+    "input_cost": 5400000.0,
+    "output_value": 6700000.0,
+    "volume": 15.0,
+    "profit": 1300000.0,
+    "score": 0.0265,
+    "materials": [
+      {
+        "amount": 4,
+        "name": "Great White Shark Tooth"
+      },
+      {
+        "amount": 1,
+        "name": "Enchanted Bone"
+      }
+    ]
+  },
+  {
+    "rank": 17,
+    "name": "Diamond Magmafish",
+    "requires": "Magmafish X",
+    "input_cost": 10700000.0,
+    "output_value": 11800000.0,
+    "volume": 442.0,
+    "profit": 1000000.0,
+    "score": 0.0204,
+    "materials": [
+      {
+        "amount": 20,
+        "name": "Magma Fish Gold"
+      }
+    ]
+  },
+  {
+    "rank": 15,
+    "name": "Meteor Shard",
+    "requires": "",
+    "input_cost": 453000.0,
+    "output_value": 1500000.0,
+    "volume": 16.0,
+    "profit": 1000000.0,
+    "score": 0.0204,
+    "materials": [
+      {
+        "amount": 40,
+        "name": "Silver Fang"
+      },
+      {
+        "amount": 20,
+        "name": "Starfall"
+      },
+      {
+        "amount": 10,
+        "name": "Tentacle Meat"
+      }
+    ]
+  },
+  {
+    "rank": 16,
+    "name": "Presumed Gallon of Red Paint",
+    "requires": "Hemovibe VIII",
+    "input_cost": 697900.0,
+    "output_value": 1700000.0,
+    "volume": 12.0,
+    "profit": 1000000.0,
+    "score": 0.0204,
+    "materials": [
+      {
+        "amount": 32,
+        "name": "Enchanted Cobblestone"
+      },
+      {
+        "amount": 32,
+        "name": "Hemoglass"
+      },
+      {
+        "amount": 80,
+        "name": "Enchanted Dark Oak Log"
+      }
+    ]
+  },
+  {
+    "rank": 18,
+    "name": "Hypergolic Gabagool",
+    "requires": "",
+    "input_cost": 3400000.0,
+    "output_value": 4400000.0,
+    "volume": 3700.0,
+    "profit": 967400.0,
+    "score": 0.0197,
+    "materials": [
+      {
+        "amount": 12,
+        "name": "Heavy Gabagool"
+      },
+      {
+        "amount": 1,
+        "name": "Sulphuric Coal"
+      }
+    ]
+  },
+  {
+    "rank": 19,
+    "name": "Spooky Water Orb",
+    "requires": "",
+    "input_cost": 1700000.0,
+    "output_value": 2600000.0,
+    "volume": 9.0,
+    "profit": 872700.0,
+    "score": 0.0178,
+    "materials": [
+      {
+        "amount": 64,
+        "name": "Purple Candy"
+      },
+      {
+        "amount": 1,
+        "name": "Soul Fragment"
+      },
+      {
+        "amount": 24,
+        "name": "Werewolf Skin"
+      },
+      {
+        "amount": 1,
+        "name": "Water Orb"
+      }
+    ]
+  },
+  {
+    "rank": 129,
+    "name": "Enchanted Mithril",
+    "requires": "Mithril III",
+    "input_cost": 640.0,
+    "output_value": 1400.0,
+    "volume": 22400000.0,
+    "profit": 803.0,
+    "score": 0.0169,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Mithril Ore"
+      }
+    ]
+  },
+  {
+    "rank": 145,
+    "name": "Enchanted Hard Stone",
+    "requires": "Hard Stone III",
+    "input_cost": 58.0,
+    "output_value": 654.0,
+    "volume": 19100000.0,
+    "profit": 596.0,
+    "score": 0.0144,
+    "materials": [
+      {
+        "amount": 576,
+        "name": "Hard Stone"
+      }
+    ]
+  },
+  {
+    "rank": 20,
+    "name": "Tessellated Ender Pearl",
+    "requires": "",
+    "input_cost": 4000000.0,
+    "output_value": 4600000.0,
+    "volume": 329.0,
+    "profit": 589800.0,
+    "score": 0.012,
+    "materials": [
+      {
+        "amount": 32,
+        "name": "Enchanted Lapis Lazuli Block"
+      },
+      {
+        "amount": 80,
+        "name": "Absolute Ender Pearl"
+      }
+    ]
+  },
+  {
+    "rank": 183,
+    "name": "Snow Block",
+    "requires": "",
+    "input_cost": 0.0,
+    "output_value": 8.0,
+    "volume": 15000000.0,
+    "profit": 8.0,
+    "score": 0.0113,
+    "materials": [
+      {
+        "amount": 4,
+        "name": "Snow Ball"
+      }
+    ]
+  },
+  {
+    "rank": 21,
+    "name": "❁ Flawless Jasper Gemstone",
+    "requires": "Gemstone IX",
+    "input_cost": 4900000.0,
+    "output_value": 5500000.0,
+    "volume": 2800.0,
+    "profit": 548100.0,
+    "score": 0.0112,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Fine Jasper Gem"
+      }
+    ]
+  },
+  {
+    "rank": 22,
+    "name": "☘ Flawless Peridot Gemstone",
+    "requires": "",
+    "input_cost": 4000000.0,
+    "output_value": 4600000.0,
+    "volume": 8700.0,
+    "profit": 543400.0,
+    "score": 0.0111,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Fine Peridot Gem"
+      }
+    ]
+  },
+  {
+    "rank": 139,
+    "name": "☘ Flawed Peridot Gemstone",
+    "requires": "",
+    "input_cost": 336.0,
+    "output_value": 998.0,
+    "volume": 14000000.0,
+    "profit": 662.0,
+    "score": 0.0106,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Rough Peridot Gem"
+      }
+    ]
+  },
+  {
+    "rank": 152,
+    "name": "Enchanted String",
+    "requires": "String IV",
+    "input_cost": 192.0,
+    "output_value": 625.0,
+    "volume": 13700000.0,
+    "profit": 433.0,
+    "score": 0.0103,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "String"
+      }
+    ]
+  },
+  {
+    "rank": 23,
+    "name": "Acacia Birdhouse",
+    "requires": "Acacia Log IX",
+    "input_cost": 421400.0,
+    "output_value": 908400.0,
+    "volume": 349.0,
+    "profit": 486900.0,
+    "score": 0.0099,
+    "materials": [
+      {
+        "amount": 384,
+        "name": "Enchanted Acacia Log"
+      }
+    ]
+  },
+  {
+    "rank": 141,
+    "name": "☘ Flawed Jade Gemstone",
+    "requires": "Gemstone II",
+    "input_cost": 108.0,
+    "output_value": 755.0,
+    "volume": 12900000.0,
+    "profit": 646.0,
+    "score": 0.0097,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Rough Jade Gem"
+      }
+    ]
+  },
+  {
+    "rank": 24,
+    "name": "Silex",
+    "requires": "Hard Stone VII",
+    "input_cost": 2700000.0,
+    "output_value": 3200000.0,
+    "volume": 346.0,
+    "profit": 471900.0,
+    "score": 0.0096,
+    "materials": [
+      {
+        "amount": 9,
+        "name": "Concentrated Stone"
+      }
+    ]
+  },
+  {
+    "rank": 167,
+    "name": "✎ Flawed Sapphire Gemstone",
+    "requires": "Gemstone II",
+    "input_cost": 144.0,
+    "output_value": 481.0,
+    "volume": 12500000.0,
+    "profit": 337.0,
+    "score": 0.0094,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Rough Sapphire Gem"
+      }
+    ]
+  },
+  {
+    "rank": 25,
+    "name": "Obsidian Tablet",
+    "requires": "Obsidian IX",
+    "input_cost": 1800000.0,
+    "output_value": 2200000.0,
+    "volume": 233.0,
+    "profit": 439800.0,
+    "score": 0.009,
+    "materials": [
+      {
+        "amount": 192,
+        "name": "Enchanted Obsidian"
+      },
+      {
+        "amount": 1,
+        "name": "Summoning Eye"
+      }
+    ]
+  },
+  {
+    "rank": 172,
+    "name": "⸕ Flawed Amber Gemstone",
+    "requires": "Gemstone II",
+    "input_cost": 154.0,
+    "output_value": 471.0,
+    "volume": 11700000.0,
+    "profit": 317.0,
+    "score": 0.0088,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Rough Amber Gem"
+      }
+    ]
+  },
+  {
+    "rank": 26,
+    "name": "Superb Carrot Candy",
+    "requires": "Carrot VIII",
+    "input_cost": 2000000.0,
+    "output_value": 2500000.0,
+    "volume": 238.0,
+    "profit": 421900.0,
+    "score": 0.0086,
+    "materials": [
+      {
+        "amount": 24,
+        "name": "Enchanted Golden Carrot"
+      },
+      {
+        "amount": 1,
+        "name": "Great Carrot Candy"
+      }
+    ]
+  },
+  {
+    "rank": 122,
+    "name": "Enchanted Obsidian",
+    "requires": "Obsidian IV",
+    "input_cost": 2100.0,
+    "output_value": 3100.0,
+    "volume": 11100000.0,
+    "profit": 978.0,
+    "score": 0.0084,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Obsidian"
+      }
+    ]
+  },
+  {
+    "rank": 149,
+    "name": "☂ Flawed Aquamarine Gemstone",
+    "requires": "",
+    "input_cost": 24.0,
+    "output_value": 497.0,
+    "volume": 10900000.0,
+    "profit": 473.0,
+    "score": 0.0082,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Rough Aquamarine Gem"
+      }
+    ]
+  },
+  {
+    "rank": 126,
+    "name": "❈ Flawed Amethyst Gemstone",
+    "requires": "Gemstone II",
+    "input_cost": 96.0,
+    "output_value": 1000.0,
+    "volume": 10800000.0,
+    "profit": 943.0,
+    "score": 0.0082,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Rough Amethyst Gem"
+      }
+    ]
+  },
+  {
+    "rank": 162,
+    "name": "☠ Flawed Onyx Gemstone",
+    "requires": "",
+    "input_cost": 16.0,
+    "output_value": 398.0,
+    "volume": 10800000.0,
+    "profit": 382.0,
+    "score": 0.0082,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Rough Onyx Gem"
+      }
+    ]
+  },
+  {
+    "rank": 181,
+    "name": "Leather",
+    "requires": "",
+    "input_cost": 4.0,
+    "output_value": 156.0,
+    "volume": 10800000.0,
+    "profit": 151.0,
+    "score": 0.0082,
+    "materials": [
+      {
+        "amount": 4,
+        "name": "Rabbit Hide"
+      }
+    ]
+  },
+  {
+    "rank": 179,
+    "name": "☘ Flawed Citrine Gemstone",
+    "requires": "",
+    "input_cost": 88.0,
+    "output_value": 320.0,
+    "volume": 10600000.0,
+    "profit": 232.0,
+    "score": 0.008,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Rough Citrine Gem"
+      }
+    ]
+  },
+  {
+    "rank": 159,
+    "name": "Enchanted Rotten Flesh",
+    "requires": "Rotten Flesh IV",
+    "input_cost": 128.0,
+    "output_value": 529.0,
+    "volume": 10000000.0,
+    "profit": 401.0,
+    "score": 0.0076,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Rotten Flesh"
+      }
+    ]
+  },
+  {
+    "rank": 27,
+    "name": "Compost Bundle",
+    "requires": "",
+    "input_cost": 3000000.0,
+    "output_value": 3300000.0,
+    "volume": 5700.0,
+    "profit": 369700.0,
+    "score": 0.0075,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Compost"
+      }
+    ]
+  },
+  {
+    "rank": 135,
+    "name": "✧ Flawed Topaz Gemstone",
+    "requires": "Gemstone II",
+    "input_cost": 123.0,
+    "output_value": 799.0,
+    "volume": 9800000.0,
+    "profit": 676.0,
+    "score": 0.0074,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Rough Topaz Gem"
+      }
+    ]
+  },
+  {
+    "rank": 28,
+    "name": "Mithril Infusion",
+    "requires": "Mithril VIII",
+    "input_cost": 3700000.0,
+    "output_value": 4000000.0,
+    "volume": 554.0,
+    "profit": 355600.0,
+    "score": 0.0073,
+    "materials": [
+      {
+        "amount": 512,
+        "name": "Enchanted Mithril"
+      },
+      {
+        "amount": 1,
+        "name": "Magma Bucket"
+      }
+    ]
+  },
+  {
+    "rank": 169,
+    "name": "Enchanted Ender Pearl",
+    "requires": "Ender Pearl II",
+    "input_cost": 35.0,
+    "output_value": 358.0,
+    "volume": 9200000.0,
+    "profit": 323.0,
+    "score": 0.0069,
+    "materials": [
+      {
+        "amount": 20,
+        "name": "Ender Pearl"
+      }
+    ]
+  },
+  {
+    "rank": 176,
+    "name": "Enchanted Wool",
+    "requires": "",
+    "input_cost": 33.0,
+    "output_value": 317.0,
+    "volume": 9200000.0,
+    "profit": 285.0,
+    "score": 0.0069,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Wool"
+      }
+    ]
+  },
+  {
+    "rank": 29,
+    "name": "❈ Flawless Amethyst Gemstone",
+    "requires": "Gemstone IX",
+    "input_cost": 2100000.0,
+    "output_value": 2400000.0,
+    "volume": 1900.0,
+    "profit": 339800.0,
+    "score": 0.0069,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Fine Amethyst Gem"
+      }
+    ]
+  },
+  {
+    "rank": 178,
+    "name": "Enchanted Cobblestone",
+    "requires": "",
+    "input_cost": 64.0,
+    "output_value": 299.0,
+    "volume": 8800000.0,
+    "profit": 235.0,
+    "score": 0.0066,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Cobblestone"
+      }
+    ]
+  },
+  {
+    "rank": 143,
+    "name": "Enchanted Flint",
+    "requires": "Gravel V",
+    "input_cost": 848.0,
+    "output_value": 1500.0,
+    "volume": 8700000.0,
+    "profit": 626.0,
+    "score": 0.0066,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Flint"
+      }
+    ]
+  },
+  {
+    "rank": 30,
+    "name": "Shiny Prism",
+    "requires": "",
+    "input_cost": 76300.0,
+    "output_value": 398000.0,
+    "volume": 338.0,
+    "profit": 321700.0,
+    "score": 0.0066,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Enchanted Glowstone Dust"
+      },
+      {
+        "amount": 10,
+        "name": "Gazing Pearl"
+      }
+    ]
+  },
+  {
+    "rank": 31,
+    "name": "Horns of Torment",
+    "requires": "Raw Mutton IX",
+    "input_cost": 165700.0,
+    "output_value": 468700.0,
+    "volume": 143.0,
+    "profit": 302900.0,
+    "score": 0.0062,
+    "materials": [
+      {
+        "amount": 192,
+        "name": "Enchanted Mutton"
+      },
+      {
+        "amount": 32,
+        "name": "Horn Of Taurus"
+      }
+    ]
+  },
+  {
+    "rank": 32,
+    "name": "✎ Flawless Sapphire Gemstone",
+    "requires": "Gemstone IX",
+    "input_cost": 2300000.0,
+    "output_value": 2500000.0,
+    "volume": 5500.0,
+    "profit": 273400.0,
+    "score": 0.0056,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Fine Sapphire Gem"
+      }
+    ]
+  },
+  {
+    "rank": 138,
+    "name": "Enchanted Spider Eye",
+    "requires": "Spider Eye IV",
+    "input_cost": 320.0,
+    "output_value": 983.0,
+    "volume": 6300000.0,
+    "profit": 663.0,
+    "score": 0.0048,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Spider Eye"
+      }
+    ]
+  },
+  {
+    "rank": 142,
+    "name": "❤ Flawed Ruby Gemstone",
+    "requires": "Gemstone II",
+    "input_cost": 88.0,
+    "output_value": 719.0,
+    "volume": 6100000.0,
+    "profit": 631.0,
+    "score": 0.0046,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Rough Ruby Gem"
+      }
+    ]
+  },
+  {
+    "rank": 140,
+    "name": "❁ Flawed Jasper Gemstone",
+    "requires": "Gemstone II",
+    "input_cost": 512.0,
+    "output_value": 1200.0,
+    "volume": 5900000.0,
+    "profit": 649.0,
+    "score": 0.0045,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Rough Jasper Gem"
+      }
+    ]
+  },
+  {
+    "rank": 155,
+    "name": "Enchanted Clay Ball",
+    "requires": "Clay Ball II",
+    "input_cost": 224.0,
+    "output_value": 641.0,
+    "volume": 5900000.0,
+    "profit": 417.0,
+    "score": 0.0045,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Clay Ball"
+      }
+    ]
+  },
+  {
+    "rank": 33,
+    "name": "☘ Flawless Jade Gemstone",
+    "requires": "Gemstone IX",
+    "input_cost": 2200000.0,
+    "output_value": 2400000.0,
+    "volume": 4800.0,
+    "profit": 200200.0,
+    "score": 0.0041,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Fine Jade Gem"
+      }
+    ]
+  },
+  {
+    "rank": 144,
+    "name": "Enchanted Glacite",
+    "requires": "Glacite II",
+    "input_cost": 1500.0,
+    "output_value": 2100.0,
+    "volume": 5200000.0,
+    "profit": 616.0,
+    "score": 0.0039,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Glacite"
+      }
+    ]
+  },
+  {
+    "rank": 34,
+    "name": "✧ Flawless Topaz Gemstone",
+    "requires": "Gemstone IX",
+    "input_cost": 2400000.0,
+    "output_value": 2600000.0,
+    "volume": 1900.0,
+    "profit": 187400.0,
+    "score": 0.0038,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Fine Topaz Gem"
+      }
+    ]
+  },
+  {
+    "rank": 161,
+    "name": "Enchanted Ghast Tear",
+    "requires": "Ghast Tear IV",
+    "input_cost": 182.0,
+    "output_value": 578.0,
+    "volume": 5000000.0,
+    "profit": 395.0,
+    "score": 0.0038,
+    "materials": [
+      {
+        "amount": 5,
+        "name": "Ghast Tear"
+      }
+    ]
+  },
+  {
+    "rank": 150,
+    "name": "Enchanted Feather",
+    "requires": "Feather V",
+    "input_cost": 48.0,
+    "output_value": 505.0,
+    "volume": 4700000.0,
+    "profit": 457.0,
+    "score": 0.0036,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Feather"
+      }
+    ]
+  },
+  {
+    "rank": 164,
+    "name": "❂ Flawed Opal Gemstone",
+    "requires": "",
+    "input_cost": 123.0,
+    "output_value": 495.0,
+    "volume": 4700000.0,
+    "profit": 371.0,
+    "score": 0.0036,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Rough Opal Gem"
+      }
+    ]
+  },
+  {
+    "rank": 35,
+    "name": "Blood-Stained Coins",
+    "requires": "",
+    "input_cost": 2300000.0,
+    "output_value": 2500000.0,
+    "volume": 55.0,
+    "profit": 162500.0,
+    "score": 0.0033,
+    "materials": [
+      {
+        "amount": 4,
+        "name": "Hemoglass"
+      },
+      {
+        "amount": 1,
+        "name": "Freshly Minted Coins"
+      }
+    ]
+  },
+  {
+    "rank": 36,
+    "name": "Condensed Fermento",
+    "requires": "",
+    "input_cost": 2200000.0,
+    "output_value": 2400000.0,
+    "volume": 2600.0,
+    "profit": 162400.0,
+    "score": 0.0033,
+    "materials": [
+      {
+        "amount": 9,
+        "name": "Fermento"
+      }
+    ]
+  },
+  {
+    "rank": 118,
+    "name": "Enchanted Mycelium",
+    "requires": "",
+    "input_cost": 308.0,
+    "output_value": 1600.0,
+    "volume": 4200000.0,
+    "profit": 1300.0,
+    "score": 0.0032,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Mycel"
+      }
+    ]
+  },
+  {
+    "rank": 37,
+    "name": "❤ Flawless Ruby Gemstone",
+    "requires": "Gemstone IX",
+    "input_cost": 1800000.0,
+    "output_value": 1900000.0,
+    "volume": 4000.0,
+    "profit": 147100.0,
+    "score": 0.003,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Fine Ruby Gem"
+      }
+    ]
+  },
+  {
+    "rank": 38,
+    "name": "Blaze Wax",
+    "requires": "Blaze Rod VI",
+    "input_cost": 136400.0,
+    "output_value": 282100.0,
+    "volume": 147.0,
+    "profit": 145700.0,
+    "score": 0.003,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Enchanted Blaze Powder"
+      },
+      {
+        "amount": 10,
+        "name": "Bezos"
+      }
+    ]
+  },
+  {
+    "rank": 117,
+    "name": "Enchanted Sulphur",
+    "requires": "Sulphur II",
+    "input_cost": 624.0,
+    "output_value": 1900.0,
+    "volume": 3800000.0,
+    "profit": 1300.0,
+    "score": 0.0029,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Sulphur Ore"
+      }
+    ]
+  },
+  {
+    "rank": 166,
+    "name": "Enchanted End Stone",
+    "requires": "End Stone IV",
+    "input_cost": 16.0,
+    "output_value": 358.0,
+    "volume": 3800000.0,
+    "profit": 342.0,
+    "score": 0.0029,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Ender Stone"
+      }
+    ]
+  },
+  {
+    "rank": 40,
+    "name": "Precursor Apparatus",
+    "requires": "",
+    "input_cost": 980800.0,
+    "output_value": 1100000.0,
+    "volume": 12400.0,
+    "profit": 122000.0,
+    "score": 0.0025,
+    "materials": [
+      {
+        "amount": 1,
+        "name": "Control Switch"
+      },
+      {
+        "amount": 1,
+        "name": "Electron Transmitter"
+      },
+      {
+        "amount": 1,
+        "name": "Ftx 3070"
+      },
+      {
+        "amount": 1,
+        "name": "Robotron Reflector"
+      },
+      {
+        "amount": 1,
+        "name": "Superlite Motor"
+      },
+      {
+        "amount": 1,
+        "name": "Synthetic Heart"
+      }
+    ]
+  },
+  {
+    "rank": 39,
+    "name": "⸕ Flawless Amber Gemstone",
+    "requires": "Gemstone IX",
+    "input_cost": 2400000.0,
+    "output_value": 2500000.0,
+    "volume": 5100.0,
+    "profit": 122100.0,
+    "score": 0.0025,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Fine Amber Gem"
+      }
+    ]
+  },
+  {
+    "rank": 127,
+    "name": "Enchanted Nether Quartz",
+    "requires": "Nether Quartz IV",
+    "input_cost": 160.0,
+    "output_value": 1100.0,
+    "volume": 3100000.0,
+    "profit": 940.0,
+    "score": 0.0024,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Quartz"
+      }
+    ]
+  },
+  {
+    "rank": 110,
+    "name": "Enchanted Umber",
+    "requires": "Umber II",
+    "input_cost": 14400.0,
+    "output_value": 16800.0,
+    "volume": 3000000.0,
+    "profit": 2400.0,
+    "score": 0.0023,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Umber"
+      }
+    ]
+  },
+  {
+    "rank": 88,
+    "name": "Enchanted Tungsten",
+    "requires": "Tungsten II",
+    "input_cost": 12000.0,
+    "output_value": 17600.0,
+    "volume": 2900000.0,
+    "profit": 5600.0,
+    "score": 0.0023,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Tungsten"
+      }
+    ]
+  },
+  {
+    "rank": 41,
+    "name": "Searing Stone",
+    "requires": "",
+    "input_cost": 88200.0,
+    "output_value": 200000.0,
+    "volume": 140.0,
+    "profit": 111800.0,
+    "score": 0.0023,
+    "materials": [
+      {
+        "amount": 50,
+        "name": "Enchanted Magma Cream"
+      },
+      {
+        "amount": 50,
+        "name": "Magma Chunk"
+      },
+      {
+        "amount": 30,
+        "name": "Enchanted Netherrack"
+      }
+    ]
+  },
+  {
+    "rank": 131,
+    "name": "Enchanted Rabbit Foot",
+    "requires": "Raw Rabbit IV",
+    "input_cost": 92.0,
+    "output_value": 783.0,
+    "volume": 3000000.0,
+    "profit": 691.0,
+    "score": 0.0023,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Rabbit Foot"
+      }
+    ]
+  },
+  {
+    "rank": 99,
+    "name": "Enchanted Melon",
+    "requires": "Melon Slice VI",
+    "input_cost": 47500.0,
+    "output_value": 51200.0,
+    "volume": 2900000.0,
+    "profit": 3700.0,
+    "score": 0.0023,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Enchanted Melon"
+      }
+    ]
+  },
+  {
+    "rank": 163,
+    "name": "Enchanted Raw Beef",
+    "requires": "Leather IV",
+    "input_cost": 272.0,
+    "output_value": 650.0,
+    "volume": 2800000.0,
+    "profit": 378.0,
+    "score": 0.0021,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Raw Beef"
+      }
+    ]
+  },
+  {
+    "rank": 42,
+    "name": "Dwarven Super Compactor",
+    "requires": "",
+    "input_cost": 181400.0,
+    "output_value": 280000.0,
+    "volume": 3900.0,
+    "profit": 98600.0,
+    "score": 0.002,
+    "materials": [
+      {
+        "amount": 56,
+        "name": "Enchanted Mithril"
+      },
+      {
+        "amount": 1,
+        "name": "Auto Smelter"
+      },
+      {
+        "amount": 1,
+        "name": "Super Compactor 3000"
+      }
+    ]
+  },
+  {
+    "rank": 43,
+    "name": "Corrupt Soil",
+    "requires": "Mycelium VI",
+    "input_cost": 187900.0,
+    "output_value": 285000.0,
+    "volume": 6500.0,
+    "profit": 97100.0,
+    "score": 0.002,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Enchanted Mycelium"
+      },
+      {
+        "amount": 20,
+        "name": "Corrupted Fragment"
+      }
+    ]
+  },
+  {
+    "rank": 44,
+    "name": "Re-heated Gummy Polar Bear",
+    "requires": "Chili Pepper I",
+    "input_cost": 454500.0,
+    "output_value": 550000.0,
+    "volume": 923.0,
+    "profit": 95400.0,
+    "score": 0.0019,
+    "materials": [
+      {
+        "amount": 4,
+        "name": "Chili Pepper"
+      },
+      {
+        "amount": 4,
+        "name": "Enchanted Slime Ball"
+      },
+      {
+        "amount": 4,
+        "name": "Enchanted Snow Block"
+      }
+    ]
+  },
+  {
+    "rank": 45,
+    "name": "Gold Magmafish",
+    "requires": "Magmafish VII",
+    "input_cost": 514100.0,
+    "output_value": 605700.0,
+    "volume": 5800.0,
+    "profit": 91600.0,
+    "score": 0.0019,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Magma Fish Silver"
+      }
+    ]
+  },
+  {
+    "rank": 160,
+    "name": "Enchanted Prismarine Shard",
+    "requires": "Prismarine Shard III",
+    "input_cost": 40.0,
+    "output_value": 439.0,
+    "volume": 2300000.0,
+    "profit": 399.0,
+    "score": 0.0017,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Prismarine Shard"
+      }
+    ]
+  },
+  {
+    "rank": 46,
+    "name": "Null Edge",
+    "requires": "",
+    "input_cost": 367400.0,
+    "output_value": 449500.0,
+    "volume": 128.0,
+    "profit": 82100.0,
+    "score": 0.0017,
+    "materials": [
+      {
+        "amount": 192,
+        "name": "Enchanted Mithril"
+      },
+      {
+        "amount": 3,
+        "name": "Null Atom"
+      }
+    ]
+  },
+  {
+    "rank": 47,
+    "name": "Large Storage",
+    "requires": "Oak Log IX",
+    "input_cost": 323100.0,
+    "output_value": 400600.0,
+    "volume": 4300.0,
+    "profit": 77600.0,
+    "score": 0.0016,
+    "materials": [
+      {
+        "amount": 256,
+        "name": "Enchanted Oak Log"
+      },
+      {
+        "amount": 1,
+        "name": "Medium Enchanted Chest"
+      }
+    ]
+  },
+  {
+    "rank": 170,
+    "name": "Enchanted Ice",
+    "requires": "Ice IV",
+    "input_cost": 64.0,
+    "output_value": 386.0,
+    "volume": 2000000.0,
+    "profit": 322.0,
+    "score": 0.0015,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Ice"
+      }
+    ]
+  },
+  {
+    "rank": 81,
+    "name": "Enchanted Clay Block",
+    "requires": "Clay Ball VII",
+    "input_cost": 70200.0,
+    "output_value": 76600.0,
+    "volume": 1800000.0,
+    "profit": 6400.0,
+    "score": 0.0015,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Enchanted Clay Ball"
+      }
+    ]
+  },
+  {
+    "rank": 48,
+    "name": "Super Compactor 3000",
+    "requires": "Cobblestone X",
+    "input_cost": 66700.0,
+    "output_value": 138500.0,
+    "volume": 30300.0,
+    "profit": 71800.0,
+    "score": 0.0015,
+    "materials": [
+      {
+        "amount": 224,
+        "name": "Enchanted Cobblestone"
+      },
+      {
+        "amount": 1,
+        "name": "Compactor"
+      },
+      {
+        "amount": 32,
+        "name": "Enchanted Redstone"
+      }
+    ]
+  },
+  {
+    "rank": 113,
+    "name": "Enchanted Egg",
+    "requires": "Raw Chicken V",
+    "input_cost": 2200.0,
+    "output_value": 4000.0,
+    "volume": 1900000.0,
+    "profit": 1800.0,
+    "score": 0.0015,
+    "materials": [
+      {
+        "amount": 144,
+        "name": "Egg"
+      }
+    ]
+  },
+  {
+    "rank": 136,
+    "name": "Enchanted Bone",
+    "requires": "Bone V",
+    "input_cost": 192.0,
+    "output_value": 864.0,
+    "volume": 1700000.0,
+    "profit": 672.0,
+    "score": 0.0013,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Bone"
+      }
+    ]
+  },
+  {
+    "rank": 49,
+    "name": "Water Orb",
+    "requires": "",
+    "input_cost": 183700.0,
+    "output_value": 247200.0,
+    "volume": 180.0,
+    "profit": 63500.0,
+    "score": 0.0013,
+    "materials": [
+      {
+        "amount": 16,
+        "name": "Enchanted Raw Fish"
+      },
+      {
+        "amount": 8,
+        "name": "Enchanted Sponge"
+      },
+      {
+        "amount": 16,
+        "name": "Enchanted Raw Salmon"
+      },
+      {
+        "amount": 16,
+        "name": "Enchanted Prismarine Shard"
+      },
+      {
+        "amount": 16,
+        "name": "Enchanted Water Lily"
+      },
+      {
+        "amount": 16,
+        "name": "Enchanted Prismarine Crystals"
+      },
+      {
+        "amount": 16,
+        "name": "Enchanted Clay Ball"
+      },
+      {
+        "amount": 16,
+        "name": "Enchanted Pufferfish"
+      },
+      {
+        "amount": 16,
+        "name": "Enchanted Clownfish"
+      }
+    ]
+  },
+  {
+    "rank": 157,
+    "name": "Enchanted Sand",
+    "requires": "Sand V",
+    "input_cost": 384.0,
+    "output_value": 789.0,
+    "volume": 1600000.0,
+    "profit": 405.0,
+    "score": 0.0012,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Sand"
+      }
+    ]
+  },
+  {
+    "rank": 83,
+    "name": "Enchanted Diamond Block",
+    "requires": "Diamond VIII",
+    "input_cost": 198900.0,
+    "output_value": 205000.0,
+    "volume": 1400000.0,
+    "profit": 6100.0,
+    "score": 0.0012,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Enchanted Diamond"
+      }
+    ]
+  },
+  {
+    "rank": 50,
+    "name": "Enchanted Redstone Lamp",
+    "requires": "Glowstone Dust VII",
+    "input_cost": 122700.0,
+    "output_value": 180000.0,
+    "volume": 2300.0,
+    "profit": 57300.0,
+    "score": 0.0012,
+    "materials": [
+      {
+        "amount": 128,
+        "name": "Enchanted Redstone"
+      },
+      {
+        "amount": 32,
+        "name": "Enchanted Glowstone Dust"
+      }
+    ]
+  },
+  {
+    "rank": 121,
+    "name": "Enchanted Blaze Powder",
+    "requires": "Blaze Rod IV",
+    "input_cost": 784.0,
+    "output_value": 1900.0,
+    "volume": 1500000.0,
+    "profit": 1200.0,
+    "score": 0.0012,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Blaze Rod"
+      }
+    ]
+  },
+  {
+    "rank": 51,
+    "name": "Great Carrot Candy",
+    "requires": "Carrot VI",
+    "input_cost": 156100.0,
+    "output_value": 207600.0,
+    "volume": 4400.0,
+    "profit": 51500.0,
+    "score": 0.0011,
+    "materials": [
+      {
+        "amount": 320,
+        "name": "Enchanted Carrot"
+      },
+      {
+        "amount": 1,
+        "name": "Simple Carrot Candy"
+      }
+    ]
+  },
+  {
+    "rank": 119,
+    "name": "Enchanted Sponge",
+    "requires": "Sponge III",
+    "input_cost": 1200.0,
+    "output_value": 2400.0,
+    "volume": 1300000.0,
+    "profit": 1200.0,
+    "score": 0.001,
+    "materials": [
+      {
+        "amount": 40,
+        "name": "Sponge"
+      }
+    ]
+  },
+  {
+    "rank": 124,
+    "name": "Enchanted Magma Cream",
+    "requires": "Magma Cream V",
+    "input_cost": 705.0,
+    "output_value": 1700.0,
+    "volume": 1300000.0,
+    "profit": 955.0,
+    "score": 0.001,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Magma Cream"
+      }
+    ]
+  },
+  {
+    "rank": 52,
+    "name": "Molten Powder",
+    "requires": "",
+    "input_cost": 267200.0,
+    "output_value": 314600.0,
+    "volume": 38100.0,
+    "profit": 47400.0,
+    "score": 0.001,
+    "materials": [
+      {
+        "amount": 128,
+        "name": "Derelict Ashe"
+      },
+      {
+        "amount": 1,
+        "name": "Amalgamated Crimsonite New"
+      }
+    ]
+  },
+  {
+    "rank": 148,
+    "name": "Silver Magmafish",
+    "requires": "Magmafish III",
+    "input_cost": 6500.0,
+    "output_value": 7000.0,
+    "volume": 1300000.0,
+    "profit": 487.0,
+    "score": 0.001,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Magma Fish"
+      }
+    ]
+  },
+  {
+    "rank": 53,
+    "name": "Golden Tooth",
+    "requires": "",
+    "input_cost": 149900.0,
+    "output_value": 196900.0,
+    "volume": 21100.0,
+    "profit": 47000.0,
+    "score": 0.001,
+    "materials": [
+      {
+        "amount": 128,
+        "name": "Wolf Tooth"
+      },
+      {
+        "amount": 32,
+        "name": "Enchanted Gold"
+      }
+    ]
+  },
+  {
+    "rank": 168,
+    "name": "Enchanted Gunpowder",
+    "requires": "Gunpowder IV",
+    "input_cost": 768.0,
+    "output_value": 1100.0,
+    "volume": 1200000.0,
+    "profit": 329.0,
+    "score": 0.0009,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Sulphur"
+      }
+    ]
+  },
+  {
+    "rank": 128,
+    "name": "Enchanted Glowstone Dust",
+    "requires": "Glowstone Dust IV",
+    "input_cost": 336.0,
+    "output_value": 1200.0,
+    "volume": 1100000.0,
+    "profit": 893.0,
+    "score": 0.0008,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Glowstone Dust"
+      }
+    ]
+  },
+  {
+    "rank": 174,
+    "name": "Hot Bait",
+    "requires": "Magmafish II",
+    "input_cost": 87.0,
+    "output_value": 384.0,
+    "volume": 1100000.0,
+    "profit": 297.0,
+    "score": 0.0008,
+    "materials": [
+      {
+        "amount": 1,
+        "name": "Blaze Ashes"
+      },
+      {
+        "amount": 1,
+        "name": "Magma Fish"
+      }
+    ]
+  },
+  {
+    "rank": 94,
+    "name": "Enchanted Baked Potato",
+    "requires": "Potato VII",
+    "input_cost": 72300.0,
+    "output_value": 76800.0,
+    "volume": 961700.0,
+    "profit": 4400.0,
+    "score": 0.0008,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Enchanted Potato"
+      }
+    ]
+  },
+  {
+    "rank": 82,
+    "name": "Mutant Nether Wart",
+    "requires": "Nether Wart XI",
+    "input_cost": 96000.0,
+    "output_value": 102300.0,
+    "volume": 893700.0,
+    "profit": 6300.0,
+    "score": 0.0008,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Enchanted Nether Stalk"
+      }
+    ]
+  },
+  {
+    "rank": 54,
+    "name": "Heavy Gabagool",
+    "requires": "",
+    "input_cost": 318200.0,
+    "output_value": 355600.0,
+    "volume": 400.0,
+    "profit": 37300.0,
+    "score": 0.0008,
+    "materials": [
+      {
+        "amount": 24,
+        "name": "Fuel Gabagool"
+      },
+      {
+        "amount": 1,
+        "name": "Sulphuric Coal"
+      }
+    ]
+  },
+  {
+    "rank": 55,
+    "name": "Mixed Mite Gel",
+    "requires": "",
+    "input_cost": 304100.0,
+    "output_value": 341000.0,
+    "volume": 415.0,
+    "profit": 36800.0,
+    "score": 0.0008,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Mite Gel"
+      }
+    ]
+  },
+  {
+    "rank": 56,
+    "name": "Enchanted Red Sand Cube",
+    "requires": "",
+    "input_cost": 165600.0,
+    "output_value": 200500.0,
+    "volume": 9300.0,
+    "profit": 34900.0,
+    "score": 0.0007,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Enchanted Red Sand"
+      }
+    ]
+  },
+  {
+    "rank": 105,
+    "name": "Enchanted Titanium",
+    "requires": "",
+    "input_cost": 14300.0,
+    "output_value": 17300.0,
+    "volume": 832200.0,
+    "profit": 3000.0,
+    "score": 0.0007,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Titanium Ore"
+      }
+    ]
+  },
+  {
+    "rank": 100,
+    "name": "Enchanted Lush Berberis",
+    "requires": "",
+    "input_cost": 192.0,
+    "output_value": 3900.0,
+    "volume": 772700.0,
+    "profit": 3700.0,
+    "score": 0.0007,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Lush Berberis"
+      }
+    ]
+  },
+  {
+    "rank": 78,
+    "name": "☘ Fine Peridot Gemstone",
+    "requires": "",
+    "input_cost": 51800.0,
+    "output_value": 60000.0,
+    "volume": 609400.0,
+    "profit": 8200.0,
+    "score": 0.0006,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Flawed Peridot Gem"
+      }
+    ]
+  },
+  {
+    "rank": 68,
+    "name": "Enchanted Gold Block",
+    "requires": "Gold Ingot VII",
+    "input_cost": 71000.0,
+    "output_value": 87500.0,
+    "volume": 374400.0,
+    "profit": 16500.0,
+    "score": 0.0006,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Enchanted Gold"
+      }
+    ]
+  },
+  {
+    "rank": 96,
+    "name": "Enchanted Lapis Lazuli Block",
+    "requires": "Lapis Lazuli VII",
+    "input_cost": 91900.0,
+    "output_value": 95900.0,
+    "volume": 693700.0,
+    "profit": 4000.0,
+    "score": 0.0006,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Enchanted Lapis Lazuli"
+      }
+    ]
+  },
+  {
+    "rank": 151,
+    "name": "Melon",
+    "requires": "",
+    "input_cost": 3.0,
+    "output_value": 447.0,
+    "volume": 744500.0,
+    "profit": 444.0,
+    "score": 0.0006,
+    "materials": [
+      {
+        "amount": 9,
+        "name": "Melon"
+      }
+    ]
+  },
+  {
+    "rank": 57,
+    "name": "Minion Expander",
+    "requires": "Nether Quartz V",
+    "input_cost": 12400.0,
+    "output_value": 40000.0,
+    "volume": 4100.0,
+    "profit": 27600.0,
+    "score": 0.0006,
+    "materials": [
+      {
+        "amount": 16,
+        "name": "Enchanted Quartz"
+      },
+      {
+        "amount": 2,
+        "name": "Enchanted Redstone"
+      }
+    ]
+  },
+  {
+    "rank": 133,
+    "name": "Enchanted Bread",
+    "requires": "Wheat V",
+    "input_cost": 210.0,
+    "output_value": 895.0,
+    "volume": 710600.0,
+    "profit": 685.0,
+    "score": 0.0005,
+    "materials": [
+      {
+        "amount": 60,
+        "name": "Wheat"
+      }
+    ]
+  },
+  {
+    "rank": 60,
+    "name": "Enchanted Quartz Block",
+    "requires": "Nether Quartz VI",
+    "input_cost": 110000.0,
+    "output_value": 132100.0,
+    "volume": 133600.0,
+    "profit": 22000.0,
+    "score": 0.0005,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Enchanted Quartz"
+      }
+    ]
+  },
+  {
+    "rank": 67,
+    "name": "Enchanted Sulphur Cube",
+    "requires": "Sulphur VI",
+    "input_cost": 239300.0,
+    "output_value": 256100.00000000003,
+    "volume": 267200.0,
+    "profit": 16800.0,
+    "score": 0.0005,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Enchanted Sulphur"
+      }
+    ]
+  },
+  {
+    "rank": 58,
+    "name": "Concentrated Stone",
+    "requires": "Hard Stone VI",
+    "input_cost": 297800.0,
+    "output_value": 323800.0,
+    "volume": 10700.0,
+    "profit": 26000.0,
+    "score": 0.0005,
+    "materials": [
+      {
+        "amount": 576,
+        "name": "Enchanted Hard Stone"
+      }
+    ]
+  },
+  {
+    "rank": 69,
+    "name": "❤ Fine Ruby Gemstone",
+    "requires": "Gemstone V",
+    "input_cost": 21300.0,
+    "output_value": 34300.0,
+    "volume": 361800.0,
+    "profit": 13000.0,
+    "score": 0.0005,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Flawed Ruby Gem"
+      }
+    ]
+  },
+  {
+    "rank": 72,
+    "name": "Enchanted Hay Bale",
+    "requires": "Wheat XI",
+    "input_cost": 142000.0,
+    "output_value": 153800.0,
+    "volume": 385800.0,
+    "profit": 11800.0,
+    "score": 0.0005,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Enchanted Wheat"
+      }
+    ]
+  },
+  {
+    "rank": 62,
+    "name": "Tarantula Silk",
+    "requires": "",
+    "input_cost": 257899.99999999997,
+    "output_value": 278700.0,
+    "volume": 134700.0,
+    "profit": 20800.0,
+    "score": 0.0005,
+    "materials": [
+      {
+        "amount": 128,
+        "name": "Tarantula Web"
+      },
+      {
+        "amount": 32,
+        "name": "Enchanted Flint"
+      }
+    ]
+  },
+  {
+    "rank": 59,
+    "name": "Revenant Viscera",
+    "requires": "",
+    "input_cost": 60900.0,
+    "output_value": 83300.0,
+    "volume": 89800.0,
+    "profit": 22400.0,
+    "score": 0.0005,
+    "materials": [
+      {
+        "amount": 128,
+        "name": "Revenant Flesh"
+      },
+      {
+        "amount": 32,
+        "name": "Enchanted String"
+      }
+    ]
+  },
+  {
+    "rank": 106,
+    "name": "✎ Fine Sapphire Gemstone",
+    "requires": "Gemstone V",
+    "input_cost": 27100.0,
+    "output_value": 30100.0,
+    "volume": 554400.0,
+    "profit": 3000.0,
+    "score": 0.0005,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Flawed Sapphire Gem"
+      }
+    ]
+  },
+  {
+    "rank": 74,
+    "name": "Enchanted Dandelion",
+    "requires": "",
+    "input_cost": 23000.0,
+    "output_value": 33000.0,
+    "volume": 341900.0,
+    "profit": 10000.0,
+    "score": 0.0005,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Yellow Flower"
+      }
+    ]
+  },
+  {
+    "rank": 61,
+    "name": "Enchanted Lava Bucket",
+    "requires": "Coal VIII",
+    "input_cost": 55900.0,
+    "output_value": 77200.0,
+    "volume": 27700.0,
+    "profit": 21300.0,
+    "score": 0.0005,
+    "materials": [
+      {
+        "amount": 3,
+        "name": "Enchanted Iron"
+      },
+      {
+        "amount": 2,
+        "name": "Enchanted Coal Block"
+      }
+    ]
+  },
+  {
+    "rank": 130,
+    "name": "Very Crude Gabagool",
+    "requires": "",
+    "input_cost": 48200.0,
+    "output_value": 48900.0,
+    "volume": 572800.0,
+    "profit": 750.0,
+    "score": 0.0004,
+    "materials": [
+      {
+        "amount": 192,
+        "name": "Crude Gabagool"
+      }
+    ]
+  },
+  {
+    "rank": 93,
+    "name": "Box of Seeds",
+    "requires": "Seeds VII",
+    "input_cost": 72200.0,
+    "output_value": 76800.0,
+    "volume": 464300.0,
+    "profit": 4500.0,
+    "score": 0.0004,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Enchanted Seeds"
+      }
+    ]
+  },
+  {
+    "rank": 98,
+    "name": "☘ Fine Citrine Gemstone",
+    "requires": "",
+    "input_cost": 22400.0,
+    "output_value": 26200.0,
+    "volume": 481800.0,
+    "profit": 3800.0,
+    "score": 0.0004,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Flawed Citrine Gem"
+      }
+    ]
+  },
+  {
+    "rank": 107,
+    "name": "☠ Fine Onyx Gemstone",
+    "requires": "",
+    "input_cost": 22800.0,
+    "output_value": 25800.0,
+    "volume": 493000.0,
+    "profit": 2900.0,
+    "score": 0.0004,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Flawed Onyx Gem"
+      }
+    ]
+  },
+  {
+    "rank": 104,
+    "name": "☂ Fine Aquamarine Gemstone",
+    "requires": "",
+    "input_cost": 22800.0,
+    "output_value": 25900.0,
+    "volume": 487300.0,
+    "profit": 3100.0,
+    "score": 0.0004,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Flawed Aquamarine Gem"
+      }
+    ]
+  },
+  {
+    "rank": 95,
+    "name": "⸕ Fine Amber Gemstone",
+    "requires": "Gemstone V",
+    "input_cost": 26900.0,
+    "output_value": 31100.0,
+    "volume": 450900.0,
+    "profit": 4200.0,
+    "score": 0.0004,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Flawed Amber Gem"
+      }
+    ]
+  },
+  {
+    "rank": 63,
+    "name": "Enchanted Ink Sac",
+    "requires": "Ink Sac III",
+    "input_cost": 101000.0,
+    "output_value": 120000.0,
+    "volume": 33100.0,
+    "profit": 19000.0,
+    "score": 0.0004,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Ink Sack"
+      }
+    ]
+  },
+  {
+    "rank": 165,
+    "name": "Enchanted Netherrack",
+    "requires": "Netherrack IV",
+    "input_cost": 16.0,
+    "output_value": 376.0,
+    "volume": 518299.99999999994,
+    "profit": 360.0,
+    "score": 0.0004,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Netherrack"
+      }
+    ]
+  },
+  {
+    "rank": 65,
+    "name": "Null Ovoid",
+    "requires": "",
+    "input_cost": 134400.0,
+    "output_value": 152400.0,
+    "volume": 25500.0,
+    "profit": 17900.0,
+    "score": 0.0004,
+    "materials": [
+      {
+        "amount": 128,
+        "name": "Null Sphere"
+      },
+      {
+        "amount": 32,
+        "name": "Enchanted Obsidian"
+      }
+    ]
+  },
+  {
+    "rank": 77,
+    "name": "☘ Fine Jade Gemstone",
+    "requires": "Gemstone V",
+    "input_cost": 25900.0,
+    "output_value": 34200.0,
+    "volume": 280200.0,
+    "profit": 8300.0,
+    "score": 0.0004,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Flawed Jade Gem"
+      }
+    ]
+  },
+  {
+    "rank": 64,
+    "name": "Catalyst",
+    "requires": "End Stone IX",
+    "input_cost": 111600.0,
+    "output_value": 130000.0,
+    "volume": 1900.0,
+    "profit": 18400.0,
+    "score": 0.0004,
+    "materials": [
+      {
+        "amount": 8,
+        "name": "Ender Stone"
+      },
+      {
+        "amount": 1,
+        "name": "Crystal Fragment"
+      }
+    ]
+  },
+  {
+    "rank": 86,
+    "name": "Enchanted Sugar Cane",
+    "requires": "Sugar Cane VIII",
+    "input_cost": 98600.0,
+    "output_value": 104300.0,
+    "volume": 327800.0,
+    "profit": 5700.0,
+    "score": 0.0004,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Enchanted Sugar"
+      }
+    ]
+  },
+  {
+    "rank": 66,
+    "name": "Hemobomb",
+    "requires": "Hemovibe IX",
+    "input_cost": 255000.0,
+    "output_value": 272500.0,
+    "volume": 4700.0,
+    "profit": 17500.0,
+    "score": 0.0004,
+    "materials": [
+      {
+        "amount": 15,
+        "name": "Hemoglass"
+      }
+    ]
+  },
+  {
+    "rank": 87,
+    "name": "✧ Fine Topaz Gemstone",
+    "requires": "Gemstone V",
+    "input_cost": 25500.0,
+    "output_value": 31100.0,
+    "volume": 268500.0,
+    "profit": 5600.0,
+    "score": 0.0003,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Flawed Topaz Gem"
+      }
+    ]
+  },
+  {
+    "rank": 120,
+    "name": "Hemoglass",
+    "requires": "Hemovibe III",
+    "input_cost": 17700.0,
+    "output_value": 18900.0,
+    "volume": 360900.0,
+    "profit": 1200.0,
+    "score": 0.0003,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Hemovibe"
+      }
+    ]
+  },
+  {
+    "rank": 70,
+    "name": "Enchanted Cooked Salmon",
+    "requires": "Raw Salmon VIII",
+    "input_cost": 243300.0,
+    "output_value": 256000.0,
+    "volume": 42200.0,
+    "profit": 12700.0,
+    "score": 0.0003,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Enchanted Raw Salmon"
+      }
+    ]
+  },
+  {
+    "rank": 89,
+    "name": "❈ Fine Amethyst Gemstone",
+    "requires": "Gemstone V",
+    "input_cost": 23200.0,
+    "output_value": 28800.0,
+    "volume": 235600.0,
+    "profit": 5500.0,
+    "score": 0.0003,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Flawed Amethyst Gem"
+      }
+    ]
+  },
+  {
+    "rank": 73,
+    "name": "❂ Fine Opal Gemstone",
+    "requires": "",
+    "input_cost": 26300.0,
+    "output_value": 37600.0,
+    "volume": 45900.0,
+    "profit": 11300.0,
+    "score": 0.0003,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Flawed Opal Gem"
+      }
+    ]
+  },
+  {
+    "rank": 71,
+    "name": "Compactor",
+    "requires": "Cobblestone V",
+    "input_cost": 2000.0,
+    "output_value": 14600.0,
+    "volume": 5500.0,
+    "profit": 12600.0,
+    "score": 0.0003,
+    "materials": [
+      {
+        "amount": 7,
+        "name": "Enchanted Cobblestone"
+      },
+      {
+        "amount": 1,
+        "name": "Enchanted Redstone"
+      }
+    ]
+  },
+  {
+    "rank": 114,
+    "name": "Enchanted Lily Pad",
+    "requires": "Lily Pad IV",
+    "input_cost": 440.0,
+    "output_value": 2100.0,
+    "volume": 287800.0,
+    "profit": 1700.0,
+    "score": 0.0003,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Water Lily"
+      }
+    ]
+  },
+  {
+    "rank": 90,
+    "name": "Enchanted Cactus",
+    "requires": "Cactus VIII",
+    "input_cost": 97700.0,
+    "output_value": 103100.0,
+    "volume": 179000.0,
+    "profit": 5500.0,
+    "score": 0.0002,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Enchanted Cactus Green"
+      }
+    ]
+  },
+  {
+    "rank": 92,
+    "name": "❁ Fine Jasper Gemstone",
+    "requires": "Gemstone V",
+    "input_cost": 62300.0,
+    "output_value": 66800.0,
+    "volume": 188100.0,
+    "profit": 4600.0,
+    "score": 0.0002,
+    "materials": [
+      {
+        "amount": 80,
+        "name": "Flawed Jasper Gem"
+      }
+    ]
+  },
+  {
+    "rank": 76,
+    "name": "Enchanted Poisonous Potato",
+    "requires": "",
+    "input_cost": 330.0,
+    "output_value": 9400.0,
+    "volume": 53800.0,
+    "profit": 9100.0,
+    "score": 0.0002,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Poisonous Potato"
+      }
+    ]
+  },
+  {
+    "rank": 101,
+    "name": "Polished Pumpkin",
+    "requires": "Pumpkin X",
+    "input_cost": 252000.0,
+    "output_value": 255600.0,
+    "volume": 201600.0,
+    "profit": 3500.0,
+    "score": 0.0002,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Enchanted Pumpkin"
+      }
+    ]
+  },
+  {
+    "rank": 102,
+    "name": "Silver Fang",
+    "requires": "Ghast Tear V",
+    "input_cost": 6400.0,
+    "output_value": 9800.0,
+    "volume": 192700.0,
+    "profit": 3500.0,
+    "score": 0.0002,
+    "materials": [
+      {
+        "amount": 25,
+        "name": "Enchanted Ghast Tear"
+      }
+    ]
+  },
+  {
+    "rank": 109,
+    "name": "Enchanted Packed Ice",
+    "requires": "Ice VII",
+    "input_cost": 36900.0,
+    "output_value": 39500.0,
+    "volume": 207700.0,
+    "profit": 2700.0,
+    "score": 0.0002,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Enchanted Ice"
+      }
+    ]
+  },
+  {
+    "rank": 75,
+    "name": "Simple Carrot Candy",
+    "requires": "Carrot II",
+    "input_cost": 403.0,
+    "output_value": 10000.0,
+    "volume": 2800.0,
+    "profit": 9600.0,
+    "score": 0.0002,
+    "materials": [
+      {
+        "amount": 576,
+        "name": "Carrot Item"
+      }
+    ]
+  },
+  {
+    "rank": 123,
+    "name": "Red Mushroom Block",
+    "requires": "Mushroom V",
+    "input_cost": 52.0,
+    "output_value": 1000.0,
+    "volume": 233300.0,
+    "profit": 975.0,
+    "score": 0.0002,
+    "materials": [
+      {
+        "amount": 9,
+        "name": "Red Mushroom"
+      }
+    ]
+  },
+  {
+    "rank": 85,
+    "name": "Enchanted Wet Sponge",
+    "requires": "Sponge VII",
+    "input_cost": 74100.0,
+    "output_value": 80000.0,
+    "volume": 95800.0,
+    "profit": 5900.0,
+    "score": 0.0002,
+    "materials": [
+      {
+        "amount": 40,
+        "name": "Enchanted Sponge"
+      }
+    ]
+  },
+  {
+    "rank": 97,
+    "name": "Enchanted Cooked Mutton",
+    "requires": "Raw Mutton VIII",
+    "input_cost": 124700.0,
+    "output_value": 128600.0,
+    "volume": 149100.0,
+    "profit": 3900.0,
+    "score": 0.0002,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Enchanted Mutton"
+      }
+    ]
+  },
+  {
+    "rank": 79,
+    "name": "Enchanted Ancient Claw",
+    "requires": "",
+    "input_cost": 29000.0,
+    "output_value": 36000.0,
+    "volume": 36300.0,
+    "profit": 7000.0,
+    "score": 0.0002,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Ancient Claw"
+      }
+    ]
+  },
+  {
+    "rank": 182,
+    "name": "Corrupted Bait",
+    "requires": "Magmafish V",
+    "input_cost": 82.0,
+    "output_value": 149.0,
+    "volume": 217000.0,
+    "profit": 68.0,
+    "score": 0.0002,
+    "materials": [
+      {
+        "amount": 1,
+        "name": "Corrupted Fragment"
+      },
+      {
+        "amount": 1,
+        "name": "Magma Fish"
+      }
+    ]
+  },
+  {
+    "rank": 91,
+    "name": "Enchanted Blaze Rod",
+    "requires": "Blaze Rod VII",
+    "input_cost": 250900.0,
+    "output_value": 255900.0,
+    "volume": 60600.0,
+    "profit": 4900.0,
+    "score": 0.0001,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Enchanted Blaze Powder"
+      }
+    ]
+  },
+  {
+    "rank": 84,
+    "name": "Full Chum Bucket",
+    "requires": "",
+    "input_cost": 6600.0,
+    "output_value": 12500.0,
+    "volume": 32700.000000000004,
+    "profit": 5900.0,
+    "score": 0.0001,
+    "materials": [
+      {
+        "amount": 10,
+        "name": "Chum"
+      },
+      {
+        "amount": 1,
+        "name": "Empty Chum Bucket"
+      }
+    ]
+  },
+  {
+    "rank": 112,
+    "name": "Enchanted Cooked Cod",
+    "requires": "Raw Cod VIII",
+    "input_cost": 151300.0,
+    "output_value": 153400.0,
+    "volume": 132100.0,
+    "profit": 2100.0,
+    "score": 0.0001,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Enchanted Raw Fish"
+      }
+    ]
+  },
+  {
+    "rank": 125,
+    "name": "Brown Mushroom Block",
+    "requires": "Mushroom V",
+    "input_cost": 52.0,
+    "output_value": 999.0,
+    "volume": 162700.0,
+    "profit": 947.0,
+    "score": 0.0001,
+    "materials": [
+      {
+        "amount": 9,
+        "name": "Brown Mushroom"
+      }
+    ]
+  },
+  {
+    "rank": 80,
+    "name": "Medium Storage",
+    "requires": "Oak Log VII",
+    "input_cost": 10300.0,
+    "output_value": 16800.0,
+    "volume": 10100.0,
+    "profit": 6500.0,
+    "score": 0.0001,
+    "materials": [
+      {
+        "amount": 8,
+        "name": "Enchanted Oak Log"
+      },
+      {
+        "amount": 1,
+        "name": "Small Enchanted Chest"
+      }
+    ]
+  },
+  {
+    "rank": 115,
+    "name": "Enchanted Paper",
+    "requires": "Sugar Cane V",
+    "input_cost": 326.0,
+    "output_value": 1800.0,
+    "volume": 139900.0,
+    "profit": 1400.0,
+    "score": 0.0001,
+    "materials": [
+      {
+        "amount": 192,
+        "name": "Sugar Cane"
+      }
+    ]
+  },
+  {
+    "rank": 175,
+    "name": "Spooky Bait",
+    "requires": "",
+    "input_cost": 31.0,
+    "output_value": 321.0,
+    "volume": 168800.0,
+    "profit": 290.0,
+    "score": 0.0001,
+    "materials": [
+      {
+        "amount": 1,
+        "name": "Pumpkin"
+      },
+      {
+        "amount": 1,
+        "name": "Raw Fish"
+      }
+    ]
+  },
+  {
+    "rank": 180,
+    "name": "Carrot Bait",
+    "requires": "",
+    "input_cost": 26.0,
+    "output_value": 190.0,
+    "volume": 125700.0,
+    "profit": 164.0,
+    "score": 0.0001,
+    "materials": [
+      {
+        "amount": 1,
+        "name": "Carrot Item"
+      },
+      {
+        "amount": 1,
+        "name": "Raw Fish"
+      }
+    ]
+  },
+  {
+    "rank": 103,
+    "name": "Enchanted Charcoal",
+    "requires": "Coal V",
+    "input_cost": 857.0,
+    "output_value": 4300.0,
+    "volume": 11200.0,
+    "profit": 3400.0,
+    "score": 0.0001,
+    "materials": [
+      {
+        "amount": 128,
+        "name": "Coal"
+      },
+      {
+        "amount": 32,
+        "name": "Log"
+      }
+    ]
+  },
+  {
+    "rank": 108,
+    "name": "Auto Smelter",
+    "requires": "Cobblestone III",
+    "input_cost": 31.0,
+    "output_value": 2700.0,
+    "volume": 3400.0,
+    "profit": 2700.0,
+    "score": 0.0001,
+    "materials": [
+      {
+        "amount": 64,
+        "name": "Cobblestone"
+      },
+      {
+        "amount": 1,
+        "name": "Coal"
+      }
+    ]
+  },
+  {
+    "rank": 111,
+    "name": "Enchanted Shark Fin",
+    "requires": "",
+    "input_cost": 48100.0,
+    "output_value": 50200.0,
+    "volume": 5000.0,
+    "profit": 2100.0,
+    "score": 0.0,
+    "materials": [
+      {
+        "amount": 160,
+        "name": "Shark Fin"
+      }
+    ]
+  },
+  {
+    "rank": 116,
+    "name": "Light Bait",
+    "requires": "Prismarine Crystals II",
+    "input_cost": 1200.0,
+    "output_value": 2600.0,
+    "volume": 9700.0,
+    "profit": 1400.0,
+    "score": 0.0,
+    "materials": [
+      {
+        "amount": 2,
+        "name": "Prismarine Crystals"
+      },
+      {
+        "amount": 1,
+        "name": "Raw Fish"
+      }
+    ]
+  },
+  {
+    "rank": 146,
+    "name": "Small Storage",
+    "requires": "Oak Log IV",
+    "input_cost": 226.0,
+    "output_value": 807.0,
+    "volume": 3500.0,
+    "profit": 581.0,
+    "score": 0.0,
+    "materials": [
+      {
+        "amount": 64,
+        "name": "Log"
+      }
+    ]
+  }
+]

@@ -1,0 +1,5515 @@
+[
+  {
+    "name": "Pulse Ring",
+    "item_id": "PULSE_RING",
+    "material_cost": 114131.90645724257,
+    "ah_price": 34444444,
+    "profit": 33641423.21354275,
+    "margin_pct": 29475.91454292047,
+    "ah_sales": 65,
+    "ingredients": [
+      {
+        "name": "Orb Of Energy",
+        "amount": 8,
+        "price": 14266.488307155321
+      }
+    ],
+    "score": 0.8355572010238974
+  },
+  {
+    "name": "Catacombs Expert Ring",
+    "item_id": "CATACOMBS_EXPERT_RING",
+    "material_cost": 9698263.666666666,
+    "ah_price": 33500000,
+    "profit": 23131736.333333336,
+    "margin_pct": 238.51420345311988,
+    "ah_sales": 39,
+    "ingredients": [
+      {
+        "name": "Wither Catalyst",
+        "amount": 8,
+        "price": 1212282.9583333333
+      }
+    ],
+    "score": 0.7116782038546348
+  },
+  {
+    "name": "Inferno Minion Fuel",
+    "item_id": "INFERNO_FUEL_NETHER_STALK",
+    "material_cost": 181701.18370742837,
+    "ah_price": 5200000,
+    "profit": 4914298.816292572,
+    "margin_pct": 2704.6047340040877,
+    "ah_sales": 46,
+    "ingredients": [
+      {
+        "name": "Nether Stalk Distillate",
+        "amount": 6,
+        "price": 9540.331475559617
+      },
+      {
+        "name": "Inferno Fuel Block",
+        "amount": 2,
+        "price": 51994.3
+      },
+      {
+        "name": "Fuel Gabagool",
+        "amount": 1,
+        "price": 20470.59485407066
+      }
+    ],
+    "score": 0.6967009395575369
+  },
+  {
+    "name": "Inferno Minion Fuel",
+    "item_id": "INFERNO_FUEL_BLAZE_ROD",
+    "material_cost": 199796.2617685688,
+    "ah_price": 5200000,
+    "profit": 4896203.738231431,
+    "margin_pct": 2450.5982719050467,
+    "ah_sales": 46,
+    "ingredients": [
+      {
+        "name": "Blaze Rod Distillate",
+        "amount": 6,
+        "price": 12556.177819083023
+      },
+      {
+        "name": "Inferno Fuel Block",
+        "amount": 2,
+        "price": 51994.3
+      },
+      {
+        "name": "Fuel Gabagool",
+        "amount": 1,
+        "price": 20470.59485407066
+      }
+    ],
+    "score": 0.6953238051763111
+  },
+  {
+    "name": "Inferno Minion Fuel",
+    "item_id": "INFERNO_FUEL_GLOWSTONE_DUST",
+    "material_cost": 200206.4490913588,
+    "ah_price": 5200000,
+    "profit": 4895793.550908641,
+    "margin_pct": 2445.3725507486415,
+    "ah_sales": 46,
+    "ingredients": [
+      {
+        "name": "Glowstone Dust Distillate",
+        "amount": 6,
+        "price": 12624.542372881357
+      },
+      {
+        "name": "Inferno Fuel Block",
+        "amount": 2,
+        "price": 51994.3
+      },
+      {
+        "name": "Fuel Gabagool",
+        "amount": 1,
+        "price": 20470.59485407066
+      }
+    ],
+    "score": 0.6952938419594017
+  },
+  {
+    "name": "Inferno Minion Fuel",
+    "item_id": "INFERNO_FUEL_CRUDE_GABAGOOL",
+    "material_cost": 207833.6882950956,
+    "ah_price": 5200000,
+    "profit": 4888166.311704905,
+    "margin_pct": 2351.960527575478,
+    "ah_sales": 46,
+    "ingredients": [
+      {
+        "name": "Crude Gabagool Distillate",
+        "amount": 6,
+        "price": 13895.748906837487
+      },
+      {
+        "name": "Inferno Fuel Block",
+        "amount": 2,
+        "price": 51994.3
+      },
+      {
+        "name": "Fuel Gabagool",
+        "amount": 1,
+        "price": 20470.59485407066
+      }
+    ],
+    "score": 0.6947459500384343
+  },
+  {
+    "name": "Inferno Minion Fuel",
+    "item_id": "INFERNO_HEAVY_NETHER_STALK",
+    "material_cost": 516781.98436020705,
+    "ah_price": 5200000,
+    "profit": 4579218.015639793,
+    "margin_pct": 886.1024869721443,
+    "ah_sales": 46,
+    "ingredients": [
+      {
+        "name": "Nether Stalk Distillate",
+        "amount": 6,
+        "price": 9540.331475559617
+      },
+      {
+        "name": "Inferno Fuel Block",
+        "amount": 2,
+        "price": 51994.3
+      },
+      {
+        "name": "Heavy Gabagool",
+        "amount": 1,
+        "price": 355551.39550684934
+      }
+    ],
+    "score": 0.6799797458275791
+  },
+  {
+    "name": "Inferno Minion Fuel",
+    "item_id": "INFERNO_HEAVY_BLAZE_ROD",
+    "material_cost": 534877.0624213475,
+    "ah_price": 5200000,
+    "profit": 4561122.937578652,
+    "margin_pct": 852.7422950108942,
+    "ah_sales": 46,
+    "ingredients": [
+      {
+        "name": "Blaze Rod Distillate",
+        "amount": 6,
+        "price": 12556.177819083023
+      },
+      {
+        "name": "Inferno Fuel Block",
+        "amount": 2,
+        "price": 51994.3
+      },
+      {
+        "name": "Heavy Gabagool",
+        "amount": 1,
+        "price": 355551.39550684934
+      }
+    ],
+    "score": 0.6793443050704546
+  },
+  {
+    "name": "Inferno Minion Fuel",
+    "item_id": "INFERNO_HEAVY_GLOWSTONE_DUST",
+    "material_cost": 535287.2497441375,
+    "ah_price": 5200000,
+    "profit": 4560712.750255862,
+    "margin_pct": 852.0122144579087,
+    "ah_sales": 46,
+    "ingredients": [
+      {
+        "name": "Glowstone Dust Distillate",
+        "amount": 6,
+        "price": 12624.542372881357
+      },
+      {
+        "name": "Inferno Fuel Block",
+        "amount": 2,
+        "price": 51994.3
+      },
+      {
+        "name": "Heavy Gabagool",
+        "amount": 1,
+        "price": 355551.39550684934
+      }
+    ],
+    "score": 0.6793300605722805
+  },
+  {
+    "name": "Inferno Minion Fuel",
+    "item_id": "INFERNO_HEAVY_CRUDE_GABAGOOL",
+    "material_cost": 542914.4889478743,
+    "ah_price": 5200000,
+    "profit": 4553085.511052126,
+    "margin_pct": 838.6376867332549,
+    "ah_sales": 46,
+    "ingredients": [
+      {
+        "name": "Crude Gabagool Distillate",
+        "amount": 6,
+        "price": 13895.748906837487
+      },
+      {
+        "name": "Inferno Fuel Block",
+        "amount": 2,
+        "price": 51994.3
+      },
+      {
+        "name": "Heavy Gabagool",
+        "amount": 1,
+        "price": 355551.39550684934
+      }
+    ],
+    "score": 0.6790664382309811
+  },
+  {
+    "name": "Inferno Minion Fuel",
+    "item_id": "INFERNO_FUEL_MAGMA_CREAM",
+    "material_cost": 581090.9377112135,
+    "ah_price": 5200000,
+    "profit": 4514909.062288786,
+    "margin_pct": 776.9711708243116,
+    "ah_sales": 46,
+    "ingredients": [
+      {
+        "name": "Magma Cream Distillate",
+        "amount": 6,
+        "price": 76105.29047619046
+      },
+      {
+        "name": "Inferno Fuel Block",
+        "amount": 2,
+        "price": 51994.3
+      },
+      {
+        "name": "Fuel Gabagool",
+        "amount": 1,
+        "price": 20470.59485407066
+      }
+    ],
+    "score": 0.6777804593793448
+  },
+  {
+    "name": "Magnetic Talisman",
+    "item_id": "MAGNETIC_TALISMAN",
+    "material_cost": 43.49330476594167,
+    "ah_price": 1900000,
+    "profit": 1861956.506695234,
+    "margin_pct": 4281018.691762594,
+    "ah_sales": 20,
+    "ingredients": [
+      {
+        "name": "Emerald",
+        "amount": 4,
+        "price": 8.781898653157388
+      },
+      {
+        "name": "Redstone",
+        "amount": 1,
+        "price": 8.36571015331212
+      }
+    ],
+    "score": 0.6705937940033723
+  },
+  {
+    "name": "Inferno Minion Fuel",
+    "item_id": "INFERNO_HEAVY_MAGMA_CREAM",
+    "material_cost": 916171.7383639922,
+    "ah_price": 5200000,
+    "profit": 4179828.2616360076,
+    "margin_pct": 456.2275921215303,
+    "ah_sales": 46,
+    "ingredients": [
+      {
+        "name": "Magma Cream Distillate",
+        "amount": 6,
+        "price": 76105.29047619046
+      },
+      {
+        "name": "Inferno Fuel Block",
+        "amount": 2,
+        "price": 51994.3
+      },
+      {
+        "name": "Heavy Gabagool",
+        "amount": 1,
+        "price": 355551.39550684934
+      }
+    ],
+    "score": 0.6680892154785977
+  },
+  {
+    "name": "Prismarine Sinker",
+    "item_id": "PRISMARINE_SINKER",
+    "material_cost": 853.7507696930195,
+    "ah_price": 249000000,
+    "profit": 244019146.2492303,
+    "margin_pct": 28582011.860085525,
+    "ah_sales": 2,
+    "ingredients": [
+      {
+        "name": "Water Lily",
+        "amount": 1,
+        "price": 10.15
+      },
+      {
+        "name": "Prismarine Crystals",
+        "amount": 1,
+        "price": 840.3041446968971
+      },
+      {
+        "name": "Prismarine Shard",
+        "amount": 1,
+        "price": 3.296624996122468
+      }
+    ],
+    "score": 0.6660351883470174
+  },
+  {
+    "name": "Enchanted Clock",
+    "item_id": "ENCHANTED_TIME_CLOCK",
+    "material_cost": 2992701.304710321,
+    "ah_price": 112999998,
+    "profit": 107747296.73528966,
+    "margin_pct": 3600.3358091802306,
+    "ah_sales": 9,
+    "ingredients": [
+      {
+        "name": "Enchanted Gold Block",
+        "amount": 2,
+        "price": 83129.90901766348
+      },
+      {
+        "name": "Highlite",
+        "amount": 2,
+        "price": 1399999.1545454545
+      },
+      {
+        "name": "Enchanted Redstone Block",
+        "amount": 1,
+        "price": 26443.177584085308
+      }
+    ],
+    "score": 0.665772418901907
+  },
+  {
+    "name": "Night Crystal",
+    "item_id": "NIGHT_CRYSTAL",
+    "material_cost": 134396.99802115068,
+    "ah_price": 6850000,
+    "profit": 6578603.001978849,
+    "margin_pct": 4894.90323358528,
+    "ah_sales": 25,
+    "ingredients": [
+      {
+        "name": "Enchanted Quartz",
+        "amount": 4,
+        "price": 1099.9693814137945
+      },
+      {
+        "name": "Enchanted Quartz Block",
+        "amount": 1,
+        "price": 129997.12049549549
+      }
+    ],
+    "score": 0.6571881354929168
+  },
+  {
+    "name": "Day Crystal",
+    "item_id": "DAY_CRYSTAL",
+    "material_cost": 134396.99802115068,
+    "ah_price": 8990000,
+    "profit": 8675803.00197885,
+    "margin_pct": 6455.354754734551,
+    "ah_sales": 20,
+    "ingredients": [
+      {
+        "name": "Enchanted Quartz",
+        "amount": 4,
+        "price": 1099.9693814137945
+      },
+      {
+        "name": "Enchanted Quartz Block",
+        "amount": 1,
+        "price": 129997.12049549549
+      }
+    ],
+    "score": 0.6501795672651898
+  },
+  {
+    "name": "Enchanted Bookshelf",
+    "item_id": "ENCHANTED_BOOKSHELF",
+    "material_cost": 13628.231832704914,
+    "ah_price": 800000,
+    "profit": 770371.768167295,
+    "margin_pct": 5652.763892074124,
+    "ah_sales": 52,
+    "ingredients": [
+      {
+        "name": "Enchanted Oak Log",
+        "amount": 6,
+        "price": 1439.9820963526054
+      },
+      {
+        "name": "Enchanted Paper",
+        "amount": 3,
+        "price": 1662.7797515297607
+      }
+    ],
+    "score": 0.6445418870449686
+  },
+  {
+    "name": "Juju Shortbow",
+    "item_id": "JUJU_SHORTBOW",
+    "material_cost": 292837.347293114,
+    "ah_price": 11333333,
+    "profit": 10813828.992706886,
+    "margin_pct": 3692.7765849083594,
+    "ah_sales": 17,
+    "ingredients": [
+      {
+        "name": "Enchanted Eye Of Ender",
+        "amount": 1,
+        "price": 8497.237113535984
+      },
+      {
+        "name": "Enchanted String",
+        "amount": 3,
+        "price": 667.9865289983942
+      },
+      {
+        "name": "Null Ovoid",
+        "amount": 1,
+        "price": 152339.03009708735
+      },
+      {
+        "name": "Enchanted Quartz Block",
+        "amount": 1,
+        "price": 129997.12049549549
+      }
+    ],
+    "score": 0.6363234636694128
+  },
+  {
+    "name": "Sorrow Boots",
+    "item_id": "SORROW_BOOTS",
+    "material_cost": 852877.5981609195,
+    "ah_price": 3599900,
+    "profit": 2675024.4018390803,
+    "margin_pct": 313.64692982994274,
+    "ah_sales": 37,
+    "ingredients": [
+      {
+        "name": "Sorrow",
+        "amount": 4,
+        "price": 213219.39954022988
+      }
+    ],
+    "score": 0.6249373617317459
+  },
+  {
+    "name": "Everburning Flame",
+    "item_id": "EVERBURNING_FLAME",
+    "material_cost": 10479010.103793532,
+    "ah_price": 17888000,
+    "profit": 7051229.896206468,
+    "margin_pct": 67.28908385777618,
+    "ah_sales": 29,
+    "ingredients": [
+      {
+        "name": "Flames",
+        "amount": 4,
+        "price": 66310.00156250001
+      },
+      {
+        "name": "Enchanted Red Sand Cube",
+        "amount": 2,
+        "price": 209999.99830985916
+      },
+      {
+        "name": "Enchanted Sulphur Cube",
+        "amount": 2,
+        "price": 255153.57482088023
+      },
+      {
+        "name": "Plasma Bucket",
+        "amount": 1,
+        "price": 9283462.951282052
+      }
+    ],
+    "score": 0.6206132408671523
+  },
+  {
+    "name": "Soul Whip",
+    "item_id": "SOUL_WHIP",
+    "material_cost": 1354028.3761904761,
+    "ah_price": 8000000,
+    "profit": 6485971.623809524,
+    "margin_pct": 479.012976231535,
+    "ah_sales": 22,
+    "ingredients": [
+      {
+        "name": "Ectoplasm",
+        "amount": 3,
+        "price": 199213.6
+      },
+      {
+        "name": "Soul Fragment",
+        "amount": 2,
+        "price": 378193.7880952381
+      }
+    ],
+    "score": 0.6153550567053436
+  },
+  {
+    "name": "Launch Pad",
+    "item_id": "LAUNCH_PAD",
+    "material_cost": 9341.957034014138,
+    "ah_price": 5000000,
+    "profit": 4890658.042965986,
+    "margin_pct": 52351.53646242498,
+    "ah_sales": 13,
+    "ingredients": [
+      {
+        "name": "Enchanted Slime Ball",
+        "amount": 8,
+        "price": 1048.6623196331664
+      },
+      {
+        "name": "Enchanted Redstone",
+        "amount": 1,
+        "price": 952.6584769488074
+      }
+    ],
+    "score": 0.612422074354476
+  },
+  {
+    "name": "Gyrokinetic Wand",
+    "item_id": "GYROKINETIC_WAND",
+    "material_cost": 1431522.1490613737,
+    "ah_price": 26000000,
+    "profit": 24048477.850938626,
+    "margin_pct": 1679.9235601563573,
+    "ah_sales": 10,
+    "ingredients": [
+      {
+        "name": "Null Ovoid",
+        "amount": 6,
+        "price": 152339.03009708735
+      },
+      {
+        "name": "Enchanted Eye Of Ender",
+        "amount": 1,
+        "price": 8497.237113535984
+      },
+      {
+        "name": "Enchanted Blaze Rod",
+        "amount": 2,
+        "price": 254495.36568265682
+      }
+    ],
+    "score": 0.6071765802782608
+  },
+  {
+    "name": "Melon Chestplate",
+    "item_id": "MELON_CHESTPLATE",
+    "material_cost": 407677.08125000005,
+    "ah_price": 2600000,
+    "profit": 2140322.91875,
+    "margin_pct": 525.00447466594,
+    "ah_sales": 31,
+    "ingredients": [
+      {
+        "name": "Enchanted Melon Block",
+        "amount": 8,
+        "price": 50959.635156250006
+      }
+    ],
+    "score": 0.6056176178966366
+  },
+  {
+    "name": "Zombie's Heart",
+    "item_id": "ZOMBIE_HEART",
+    "material_cost": 4199.480858686714,
+    "ah_price": 417000,
+    "profit": 404460.51914131327,
+    "margin_pct": 9631.202826051182,
+    "ah_sales": 41,
+    "ingredients": [
+      {
+        "name": "Enchanted Rotten Flesh",
+        "amount": 8,
+        "price": 524.9351073358392
+      }
+    ],
+    "score": 0.6029997052651
+  },
+  {
+    "name": "Superior Dragon Helmet",
+    "item_id": "SUPERIOR_DRAGON_HELMET",
+    "material_cost": 1229613.9372294373,
+    "ah_price": 6898999,
+    "profit": 5531405.082770562,
+    "margin_pct": 449.8489253654613,
+    "ah_sales": 20,
+    "ingredients": [
+      {
+        "name": "Superior Fragment",
+        "amount": 5,
+        "price": 245922.78744588746
+      }
+    ],
+    "score": 0.5991564120119539
+  },
+  {
+    "name": "Blazetekk™ Ham Radio",
+    "item_id": "BLAZETEKK_HAM_RADIO",
+    "material_cost": 3230860.6820597434,
+    "ah_price": 67900000,
+    "profit": 63311139.31794026,
+    "margin_pct": 1959.5750342778026,
+    "ah_sales": 6,
+    "ingredients": [
+      {
+        "name": "Molten Powder",
+        "amount": 6,
+        "price": 318874.3022779043
+      },
+      {
+        "name": "Inferno Vertex",
+        "amount": 2,
+        "price": 561313.4348101265
+      },
+      {
+        "name": "Enchanted Redstone Lamp",
+        "amount": 1,
+        "price": 194987.99877206446
+      }
+    ],
+    "score": 0.5983437252342226
+  },
+  {
+    "name": "Werewolf Helmet",
+    "item_id": "WEREWOLF_HELMET",
+    "material_cost": 16347.242550073277,
+    "ah_price": 1800000,
+    "profit": 1747652.7574499268,
+    "margin_pct": 10690.810710715814,
+    "ah_sales": 21,
+    "ingredients": [
+      {
+        "name": "Werewolf Skin",
+        "amount": 5,
+        "price": 3269.4485100146553
+      }
+    ],
+    "score": 0.5979358007357226
+  },
+  {
+    "name": "Magmafish Hat",
+    "item_id": "MAGMA_FISH_HAT",
+    "material_cost": 1875.1171399774707,
+    "ah_price": 250000,
+    "profit": 243124.88286002254,
+    "margin_pct": 12965.850382176319,
+    "ah_sales": 46,
+    "ingredients": [
+      {
+        "name": "Magma Fish",
+        "amount": 8,
+        "price": 234.38964249718384
+      }
+    ],
+    "score": 0.5976564722017733
+  },
+  {
+    "name": "Silent Pearl",
+    "item_id": "SILENT_PEARL",
+    "material_cost": 17.031030834938733,
+    "ah_price": 500000,
+    "profit": 489982.96896916506,
+    "margin_pct": 2877001.243894041,
+    "ah_sales": 16,
+    "ingredients": [
+      {
+        "name": "Ender Stone",
+        "amount": 8,
+        "price": 15.0
+      },
+      {
+        "name": "Ender Pearl",
+        "amount": 1,
+        "price": 16.24824667950985
+      }
+    ],
+    "score": 0.5915744250317201
+  },
+  {
+    "name": "Travel Scroll to Deep Caverns",
+    "item_id": "MINING_2_TRAVEL_SCROLL",
+    "material_cost": 6946.094378956308,
+    "ah_price": 380000,
+    "profit": 365453.9056210437,
+    "margin_pct": 5261.2862089552455,
+    "ah_sales": 41,
+    "ingredients": [
+      {
+        "name": "Enchanted Redstone",
+        "amount": 3,
+        "price": 952.6584769488074
+      },
+      {
+        "name": "Enchanted Lapis Lazuli",
+        "amount": 5,
+        "price": 744.023789621977
+      },
+      {
+        "name": "Enchanted Ender Pearl",
+        "amount": 1,
+        "price": 368.0
+      }
+    ],
+    "score": 0.5914478421861762
+  },
+  {
+    "name": "Magical Lava Bucket",
+    "item_id": "MAGICAL_LAVA_BUCKET",
+    "material_cost": 350.19207635966933,
+    "ah_price": 750000,
+    "profit": 734649.8079236404,
+    "margin_pct": 209784.8173952139,
+    "ah_sales": 19,
+    "ingredients": [
+      {
+        "name": "Iron Ingot",
+        "amount": 3,
+        "price": 6.528017519000387
+      },
+      {
+        "name": "Enchanted Netherrack",
+        "amount": 1,
+        "price": 330.6080238026682
+      }
+    ],
+    "score": 0.5913239363794183
+  },
+  {
+    "name": "Mithril Coat",
+    "item_id": "MITHRIL_COAT",
+    "material_cost": 11947.222300928888,
+    "ah_price": 500000,
+    "profit": 478052.7776990711,
+    "margin_pct": 4001.371746986769,
+    "ah_sales": 37,
+    "ingredients": [
+      {
+        "name": "Enchanted Mithril",
+        "amount": 8,
+        "price": 1493.402787616111
+      }
+    ],
+    "score": 0.5887899916494805
+  },
+  {
+    "name": "Hardened Diamond Leggings",
+    "item_id": "HARDENED_DIAMOND_LEGGINGS",
+    "material_cost": 9305.752101304257,
+    "ah_price": 99000000,
+    "profit": 97010694.2478987,
+    "margin_pct": 1042480.9643736595,
+    "ah_sales": 2,
+    "ingredients": [
+      {
+        "name": "Enchanted Diamond",
+        "amount": 7,
+        "price": 1329.3931573291795
+      }
+    ],
+    "score": 0.5882910577536509
+  },
+  {
+    "name": "Blaze Talisman",
+    "item_id": "BLAZE_TALISMAN",
+    "material_cost": 284143.19813548704,
+    "ah_price": 4200000,
+    "profit": 3831856.801864513,
+    "margin_pct": 1348.565380768813,
+    "ah_sales": 18,
+    "ingredients": [
+      {
+        "name": "Millenia Old Blaze Ashes",
+        "amount": 8,
+        "price": 3705.9790566037736
+      },
+      {
+        "name": "Enchanted Blaze Rod",
+        "amount": 1,
+        "price": 254495.36568265682
+      }
+    ],
+    "score": 0.5882866563547474
+  },
+  {
+    "name": "Ghoul Buster",
+    "item_id": "GHOUL_BUSTER",
+    "material_cost": 446677.1671506801,
+    "ah_price": 10500000,
+    "profit": 9843322.83284932,
+    "margin_pct": 2203.67718718177,
+    "ah_sales": 11,
+    "ingredients": [
+      {
+        "name": "Ectoplasm",
+        "amount": 2,
+        "price": 199213.6
+      },
+      {
+        "name": "Spooky Shard",
+        "amount": 2,
+        "price": 13998.87594771242
+      },
+      {
+        "name": "Purple Candy",
+        "amount": 1,
+        "price": 20252.215255255254
+      }
+    ],
+    "score": 0.5844532854786388
+  },
+  {
+    "name": "Travel Scroll to the Crimson Isle",
+    "item_id": "DANGER_2_TRAVEL_SCROLL",
+    "material_cost": 10292.295950056026,
+    "ah_price": 788000,
+    "profit": 761947.704049944,
+    "margin_pct": 7403.08778281678,
+    "ah_sales": 26,
+    "ingredients": [
+      {
+        "name": "Enchanted Glowstone Dust",
+        "amount": 8,
+        "price": 1240.5369937570033
+      },
+      {
+        "name": "Enchanted Ender Pearl",
+        "amount": 1,
+        "price": 368.0
+      }
+    ],
+    "score": 0.5810575972332505
+  },
+  {
+    "name": "Aspect of the End",
+    "item_id": "ASPECT_OF_THE_END",
+    "material_cost": 18323.86738440115,
+    "ah_price": 580000,
+    "profit": 550076.1326155988,
+    "margin_pct": 3001.965256984292,
+    "ah_sales": 33,
+    "ingredients": [
+      {
+        "name": "Enchanted Eye Of Ender",
+        "amount": 2,
+        "price": 8497.237113535984
+      },
+      {
+        "name": "Enchanted Diamond",
+        "amount": 1,
+        "price": 1329.3931573291795
+      }
+    ],
+    "score": 0.5797753707031091
+  },
+  {
+    "name": "Ruby Power Scroll",
+    "item_id": "RUBY_POWER_SCROLL",
+    "material_cost": 32592.435419609617,
+    "ah_price": 2000000,
+    "profit": 1927407.5645803905,
+    "margin_pct": 5913.665363652891,
+    "ah_sales": 18,
+    "ingredients": [
+      {
+        "name": "Enchanted Paper",
+        "amount": 3,
+        "price": 1662.7797515297607
+      },
+      {
+        "name": "Fine Ruby Gem",
+        "amount": 1,
+        "price": 27604.096165020335
+      }
+    ],
+    "score": 0.579633303997117
+  },
+  {
+    "name": "Melon Boots",
+    "item_id": "MELON_BOOTS",
+    "material_cost": 203838.54062500002,
+    "ah_price": 1800000,
+    "profit": 1560161.459375,
+    "margin_pct": 765.390811075917,
+    "ah_sales": 25,
+    "ingredients": [
+      {
+        "name": "Enchanted Melon Block",
+        "amount": 4,
+        "price": 50959.635156250006
+      }
+    ],
+    "score": 0.5772380869779391
+  },
+  {
+    "name": "Pumpkin Launcher",
+    "item_id": "PUMPKIN_LAUNCHER",
+    "material_cost": 3545418.334863388,
+    "ah_price": 23998000,
+    "profit": 19972621.665136613,
+    "margin_pct": 563.3361081466342,
+    "ah_sales": 9,
+    "ingredients": [
+      {
+        "name": "Pumpkin Guts",
+        "amount": 6,
+        "price": 522807.0739842726
+      },
+      {
+        "name": "Ectoplasm",
+        "amount": 2,
+        "price": 199213.6
+      },
+      {
+        "name": "Pumpkin Bomb",
+        "amount": 1,
+        "price": 10148.690957751865
+      }
+    ],
+    "score": 0.5761089275854924
+  },
+  {
+    "name": "Flower of Truth",
+    "item_id": "FLOWER_OF_TRUTH",
+    "material_cost": 889906.9500000001,
+    "ah_price": 4000000,
+    "profit": 3030093.05,
+    "margin_pct": 340.4954922534316,
+    "ah_sales": 20,
+    "ingredients": [
+      {
+        "name": "Golem Poppy",
+        "amount": 3,
+        "price": 296635.65
+      }
+    ],
+    "score": 0.571932008784558
+  },
+  {
+    "name": "Implosion Belt",
+    "item_id": "IMPLOSION_BELT",
+    "material_cost": 1022738.2873498192,
+    "ah_price": 1700000,
+    "profit": 643261.7126501808,
+    "margin_pct": 62.896023411525846,
+    "ah_sales": 47,
+    "ingredients": [
+      {
+        "name": "Match Sticks",
+        "amount": 4,
+        "price": 530.9970165745856
+      },
+      {
+        "name": "Enchanted Sulphur Cube",
+        "amount": 4,
+        "price": 255153.57482088023
+      }
+    ],
+    "score": 0.5715648537788592
+  },
+  {
+    "name": "Repelling Candle",
+    "item_id": "REPELLING_CANDLE",
+    "material_cost": 11652.999179385186,
+    "ah_price": 900000,
+    "profit": 870347.0008206149,
+    "margin_pct": 7468.866919344745,
+    "ah_sales": 22,
+    "ingredients": [
+      {
+        "name": "Enchanted Coal",
+        "amount": 1,
+        "price": 1611.1770222276314
+      },
+      {
+        "name": "Enchanted Acacia Log",
+        "amount": 6,
+        "price": 1673.6370261929258
+      }
+    ],
+    "score": 0.5704087171814467
+  },
+  {
+    "name": "Prismarine Bow",
+    "item_id": "PRISMARINE_BOW",
+    "material_cost": 23.687127577868054,
+    "ah_price": 199999,
+    "profit": 195975.33287242212,
+    "margin_pct": 827349.50545684,
+    "ah_sales": 22,
+    "ingredients": [
+      {
+        "name": "Prismarine Shard",
+        "amount": 3,
+        "price": 3.296624996122468
+      },
+      {
+        "name": "String",
+        "amount": 3,
+        "price": 4.599084196500217
+      }
+    ],
+    "score": 0.5703696497741022
+  },
+  {
+    "name": "Farm Armor Helmet",
+    "item_id": "FARM_ARMOR_HELMET",
+    "material_cost": 4916.278461292169,
+    "ah_price": 3000000,
+    "profit": 2935083.7215387076,
+    "margin_pct": 59701.331904768995,
+    "ah_sales": 10,
+    "ingredients": [
+      {
+        "name": "Enchanted Wheat",
+        "amount": 5,
+        "price": 983.2556922584337
+      }
+    ],
+    "score": 0.5687764415814884
+  },
+  {
+    "name": "Slime Bow",
+    "item_id": "SLIME_BOW",
+    "material_cost": 384260.94695280853,
+    "ah_price": 2500000,
+    "profit": 2065739.0530471914,
+    "margin_pct": 537.5875611166093,
+    "ah_sales": 21,
+    "ingredients": [
+      {
+        "name": "Enchanted Slime Block",
+        "amount": 3,
+        "price": 127418.99578860446
+      },
+      {
+        "name": "Enchanted String",
+        "amount": 3,
+        "price": 667.9865289983942
+      }
+    ],
+    "score": 0.5671944753340998
+  },
+  {
+    "name": "Bonemerang",
+    "item_id": "BONE_BOOMERANG",
+    "material_cost": 4008925.958930396,
+    "ah_price": 25000000,
+    "profit": 20491074.041069604,
+    "margin_pct": 511.13625572014155,
+    "ah_sales": 8,
+    "ingredients": [
+      {
+        "name": "Enchanted String",
+        "amount": 3,
+        "price": 667.9865289983942
+      },
+      {
+        "name": "Enchanted Bone Block",
+        "amount": 2,
+        "price": 53461.59967170059
+      },
+      {
+        "name": "Spirit Bone",
+        "amount": 1,
+        "price": 3899998.8
+      }
+    ],
+    "score": 0.5646194925862724
+  },
+  {
+    "name": "Wise Dragon Helmet",
+    "item_id": "WISE_DRAGON_HELMET",
+    "material_cost": 230397.5983050847,
+    "ah_price": 1392999,
+    "profit": 1134741.4216949153,
+    "margin_pct": 492.5144315924374,
+    "ah_sales": 26,
+    "ingredients": [
+      {
+        "name": "Wise Fragment",
+        "amount": 5,
+        "price": 46079.519661016944
+      }
+    ],
+    "score": 0.5629288039693588
+  },
+  {
+    "name": "Jasper Power Scroll",
+    "item_id": "JASPER_POWER_SCROLL",
+    "material_cost": 71757.08946796056,
+    "ah_price": 1980000,
+    "profit": 1868642.9105320394,
+    "margin_pct": 2604.1230551392223,
+    "ah_sales": 17,
+    "ingredients": [
+      {
+        "name": "Enchanted Paper",
+        "amount": 3,
+        "price": 1662.7797515297607
+      },
+      {
+        "name": "Fine Jasper Gem",
+        "amount": 1,
+        "price": 66768.75021337127
+      }
+    ],
+    "score": 0.5626924973383203
+  },
+  {
+    "name": "Wise Dragon Leggings",
+    "item_id": "WISE_DRAGON_LEGGINGS",
+    "material_cost": 322556.6376271186,
+    "ah_price": 3350000,
+    "profit": 2960443.3623728813,
+    "margin_pct": 917.805748519492,
+    "ah_sales": 16,
+    "ingredients": [
+      {
+        "name": "Wise Fragment",
+        "amount": 7,
+        "price": 46079.519661016944
+      }
+    ],
+    "score": 0.562014961711894
+  },
+  {
+    "name": "Unstable Dragon Chestplate",
+    "item_id": "UNSTABLE_DRAGON_CHESTPLATE",
+    "material_cost": 66934.4,
+    "ah_price": 95000000,
+    "profit": 93033065.6,
+    "margin_pct": 138991.40890185017,
+    "ah_sales": 2,
+    "ingredients": [
+      {
+        "name": "Unstable Fragment",
+        "amount": 8,
+        "price": 8366.8
+      }
+    ],
+    "score": 0.5614770808813695
+  },
+  {
+    "name": "Sorrow Helmet",
+    "item_id": "SORROW_HELMET",
+    "material_cost": 1066096.9977011494,
+    "ah_price": 4090000,
+    "profit": 2942103.0022988506,
+    "margin_pct": 275.969542043827,
+    "ah_sales": 18,
+    "ingredients": [
+      {
+        "name": "Sorrow",
+        "amount": 5,
+        "price": 213219.39954022988
+      }
+    ],
+    "score": 0.5580495797555526
+  },
+  {
+    "name": "Gauntlet of Contagion",
+    "item_id": "GAUNTLET_OF_CONTAGION",
+    "material_cost": 702920.3894117647,
+    "ah_price": 3100000,
+    "profit": 2335079.6105882353,
+    "margin_pct": 332.19688114927703,
+    "ah_sales": 19,
+    "ingredients": [
+      {
+        "name": "Enchanted Mycelium Cube",
+        "amount": 3,
+        "price": 131284.59647058824
+      },
+      {
+        "name": "Leather Cloth",
+        "amount": 6,
+        "price": 51511.1
+      }
+    ],
+    "score": 0.556428719290554
+  },
+  {
+    "name": "Synthesizer v1",
+    "item_id": "SYNTHESIZER_V1",
+    "material_cost": 209953.5,
+    "ah_price": 21000000,
+    "profit": 20370046.5,
+    "margin_pct": 9702.170480606419,
+    "ah_sales": 5,
+    "ingredients": [
+      {
+        "name": "X",
+        "amount": 5,
+        "price": 41990.7
+      }
+    ],
+    "score": 0.5561061058097513
+  },
+  {
+    "name": "Soulflow Pile",
+    "item_id": "SOULFLOW_PILE",
+    "material_cost": 7635.767490089196,
+    "ah_price": 440000,
+    "profit": 423564.2325099108,
+    "margin_pct": 5547.10751813323,
+    "ah_sales": 25,
+    "ingredients": [
+      {
+        "name": "Null Sphere",
+        "amount": 9,
+        "price": 848.4186100099107
+      }
+    ],
+    "score": 0.5505277561131935
+  },
+  {
+    "name": "Superior Dragon Boots",
+    "item_id": "SUPERIOR_DRAGON_BOOTS",
+    "material_cost": 983691.1497835498,
+    "ah_price": 8497000,
+    "profit": 7343368.85021645,
+    "margin_pct": 746.5116314030349,
+    "ah_sales": 10,
+    "ingredients": [
+      {
+        "name": "Superior Fragment",
+        "amount": 4,
+        "price": 245922.78744588746
+      }
+    ],
+    "score": 0.5502424271532829
+  },
+  {
+    "name": "Etherwarp Conduit",
+    "item_id": "ETHERWARP_CONDUIT",
+    "material_cost": 1737772.1161191645,
+    "ah_price": 14500000,
+    "profit": 12472227.883880835,
+    "margin_pct": 717.713661543501,
+    "ah_sales": 8,
+    "ingredients": [
+      {
+        "name": "Null Ovoid",
+        "amount": 8,
+        "price": 152339.03009708735
+      },
+      {
+        "name": "Refined Titanium",
+        "amount": 1,
+        "price": 519059.8753424658
+      }
+    ],
+    "score": 0.5492690212751198
+  },
+  {
+    "name": "Sponge Sinker",
+    "item_id": "SPONGE_SINKER",
+    "material_cost": 137.32560562425886,
+    "ah_price": 160000,
+    "profit": 156662.67439437573,
+    "margin_pct": 114081.18222542245,
+    "ah_sales": 25,
+    "ingredients": [
+      {
+        "name": "Water Lily",
+        "amount": 1,
+        "price": 10.15
+      },
+      {
+        "name": "Sponge",
+        "amount": 2,
+        "price": 63.58780281212943
+      }
+    ],
+    "score": 0.5490428824022846
+  },
+  {
+    "name": "Final Destination Leggings",
+    "item_id": "FINAL_DESTINATION_LEGGINGS",
+    "material_cost": 460827.72419905727,
+    "ah_price": 1760000,
+    "profit": 1263972.2758009427,
+    "margin_pct": 274.283036680962,
+    "ah_sales": 23,
+    "ingredients": [
+      {
+        "name": "Null Ovoid",
+        "amount": 3,
+        "price": 152339.03009708735
+      },
+      {
+        "name": "Enchanted Redstone",
+        "amount": 4,
+        "price": 952.6584769488074
+      }
+    ],
+    "score": 0.5481263854115165
+  },
+  {
+    "name": "Common Hook",
+    "item_id": "COMMON_HOOK",
+    "material_cost": 5381.124808638107,
+    "ah_price": 195000,
+    "profit": 185718.8751913619,
+    "margin_pct": 3451.3021309826286,
+    "ah_sales": 36,
+    "ingredients": [
+      {
+        "name": "Enchanted Water Lily",
+        "amount": 2,
+        "price": 2083.042468455879
+      },
+      {
+        "name": "Enchanted Raw Fish",
+        "amount": 1,
+        "price": 1215.0398717263497
+      }
+    ],
+    "score": 0.5470128027966067
+  },
+  {
+    "name": "Opal Power Scroll",
+    "item_id": "OPAL_POWER_SCROLL",
+    "material_cost": 33556.075311560795,
+    "ah_price": 1700000,
+    "profit": 1632443.9246884391,
+    "margin_pct": 4864.823760024245,
+    "ah_sales": 14,
+    "ingredients": [
+      {
+        "name": "Enchanted Paper",
+        "amount": 3,
+        "price": 1662.7797515297607
+      },
+      {
+        "name": "Fine Opal Gem",
+        "amount": 1,
+        "price": 28567.736056971513
+      }
+    ],
+    "score": 0.5465601707040774
+  },
+  {
+    "name": "Spirit Sceptre",
+    "item_id": "BAT_WAND",
+    "material_cost": 3113729.6053418806,
+    "ah_price": 12270000,
+    "profit": 8910870.394658118,
+    "margin_pct": 286.1799682082454,
+    "ah_sales": 10,
+    "ingredients": [
+      {
+        "name": "Spirit Wing",
+        "amount": 1,
+        "price": 2921296.0
+      },
+      {
+        "name": "Enchanted Lapis Lazuli Block",
+        "amount": 2,
+        "price": 96216.80267094017
+      }
+    ],
+    "score": 0.545903002525371
+  },
+  {
+    "name": "Ichthyic Belt",
+    "item_id": "ICHTHYIC_BELT",
+    "material_cost": 226031.09752629168,
+    "ah_price": 3100000,
+    "profit": 2811968.902473708,
+    "margin_pct": 1244.0628450015038,
+    "ah_sales": 13,
+    "ingredients": [
+      {
+        "name": "Blue Shark Tooth",
+        "amount": 2,
+        "price": 47900.23682361209
+      },
+      {
+        "name": "Nurse Shark Tooth",
+        "amount": 2,
+        "price": 39999.18158682635
+      },
+      {
+        "name": "Enchanted Shark Fin",
+        "amount": 1,
+        "price": 50232.26070541481
+      }
+    ],
+    "score": 0.5438864517642663
+  },
+  {
+    "name": "Sorrow Leggings",
+    "item_id": "SORROW_LEGGINGS",
+    "material_cost": 1492535.796781609,
+    "ah_price": 5999000,
+    "profit": 4386484.203218391,
+    "margin_pct": 293.8947402586305,
+    "ah_sales": 13,
+    "ingredients": [
+      {
+        "name": "Sorrow",
+        "amount": 7,
+        "price": 213219.39954022988
+      }
+    ],
+    "score": 0.5434114783683177
+  },
+  {
+    "name": "Inferno Minion Fuel",
+    "item_id": "INFERNO_HYPERGOLIC_NETHER_STALK",
+    "material_cost": 4540207.289562576,
+    "ah_price": 5200000,
+    "profit": 555792.7104374235,
+    "margin_pct": 12.24157125413917,
+    "ah_sales": 46,
+    "ingredients": [
+      {
+        "name": "Nether Stalk Distillate",
+        "amount": 6,
+        "price": 9540.331475559617
+      },
+      {
+        "name": "Inferno Fuel Block",
+        "amount": 2,
+        "price": 51994.3
+      },
+      {
+        "name": "Hypergolic Gabagool",
+        "amount": 1,
+        "price": 4378976.700709219
+      }
+    ],
+    "score": 0.5432993726027338
+  },
+  {
+    "name": "Unstable Dragon Boots",
+    "item_id": "UNSTABLE_DRAGON_BOOTS",
+    "material_cost": 33467.2,
+    "ah_price": 700000,
+    "profit": 652532.8,
+    "margin_pct": 1949.7681311851607,
+    "ah_sales": 22,
+    "ingredients": [
+      {
+        "name": "Unstable Fragment",
+        "amount": 4,
+        "price": 8366.8
+      }
+    ],
+    "score": 0.5422727941285649
+  },
+  {
+    "name": "Lucky Clover",
+    "item_id": "PET_ITEM_LUCKY_CLOVER",
+    "material_cost": 3507851.7687272066,
+    "ah_price": 4320000,
+    "profit": 725748.2312727934,
+    "margin_pct": 20.68925026259376,
+    "ah_sales": 38,
+    "ingredients": [
+      {
+        "name": "Enchanted Emerald",
+        "amount": 8,
+        "price": 981.5242159008023
+      },
+      {
+        "name": "Pet Item Lucky Clover Drop",
+        "amount": 1,
+        "price": 3499999.575
+      }
+    ],
+    "score": 0.5420723885746166
+  },
+  {
+    "name": "Inferno Minion Fuel",
+    "item_id": "INFERNO_HYPERGOLIC_BLAZE_ROD",
+    "material_cost": 4558302.3676237175,
+    "ah_price": 5200000,
+    "profit": 537697.6323762825,
+    "margin_pct": 11.796006254332552,
+    "ah_sales": 46,
+    "ingredients": [
+      {
+        "name": "Blaze Rod Distillate",
+        "amount": 6,
+        "price": 12556.177819083023
+      },
+      {
+        "name": "Inferno Fuel Block",
+        "amount": 2,
+        "price": 51994.3
+      },
+      {
+        "name": "Hypergolic Gabagool",
+        "amount": 1,
+        "price": 4378976.700709219
+      }
+    ],
+    "score": 0.5415304197431487
+  },
+  {
+    "name": "Superior Dragon Chestplate",
+    "item_id": "SUPERIOR_DRAGON_CHESTPLATE",
+    "material_cost": 1967382.2995670997,
+    "ah_price": 13300000,
+    "profit": 11066617.7004329,
+    "margin_pct": 562.5046897528755,
+    "ah_sales": 8,
+    "ingredients": [
+      {
+        "name": "Superior Fragment",
+        "amount": 8,
+        "price": 245922.78744588746
+      }
+    ],
+    "score": 0.5415083358089225
+  },
+  {
+    "name": "Inferno Minion Fuel",
+    "item_id": "INFERNO_HYPERGOLIC_GLOWSTONE_DUST",
+    "material_cost": 4558712.554946507,
+    "ah_price": 5200000,
+    "profit": 537287.4450534927,
+    "margin_pct": 11.785946987828833,
+    "ah_sales": 46,
+    "ingredients": [
+      {
+        "name": "Glowstone Dust Distillate",
+        "amount": 6,
+        "price": 12624.542372881357
+      },
+      {
+        "name": "Inferno Fuel Block",
+        "amount": 2,
+        "price": 51994.3
+      },
+      {
+        "name": "Hypergolic Gabagool",
+        "amount": 1,
+        "price": 4378976.700709219
+      }
+    ],
+    "score": 0.541489655326447
+  },
+  {
+    "name": "Bait Ring",
+    "item_id": "BAIT_RING",
+    "material_cost": 928625.4,
+    "ah_price": 34499000,
+    "profit": 32880394.6,
+    "margin_pct": 3540.759772455072,
+    "ah_sales": 4,
+    "ingredients": [
+      {
+        "name": "Enchanted Ink Sack",
+        "amount": 9,
+        "price": 103180.6
+      }
+    ],
+    "score": 0.5410281076821456
+  },
+  {
+    "name": "Inferno Minion Fuel",
+    "item_id": "INFERNO_HYPERGOLIC_CRUDE_GABAGOOL",
+    "material_cost": 4566339.794150244,
+    "ah_price": 5200000,
+    "profit": 529660.2058497556,
+    "margin_pct": 11.599228916960627,
+    "ah_sales": 46,
+    "ingredients": [
+      {
+        "name": "Crude Gabagool Distillate",
+        "amount": 6,
+        "price": 13895.748906837487
+      },
+      {
+        "name": "Inferno Fuel Block",
+        "amount": 2,
+        "price": 51994.3
+      },
+      {
+        "name": "Hypergolic Gabagool",
+        "amount": 1,
+        "price": 4378976.700709219
+      }
+    ],
+    "score": 0.5407261134122874
+  },
+  {
+    "name": "Magma Lord Leggings",
+    "item_id": "MAGMA_LORD_LEGGINGS",
+    "material_cost": 32333251.066666663,
+    "ah_price": 59999999,
+    "profit": 26466747.953333333,
+    "margin_pct": 81.85612977415288,
+    "ah_sales": 7,
+    "ingredients": [
+      {
+        "name": "Magma Lord Fragment",
+        "amount": 7,
+        "price": 4619035.866666666
+      }
+    ],
+    "score": 0.5390474936432289
+  },
+  {
+    "name": "Devour Ring",
+    "item_id": "DEVOUR_RING",
+    "material_cost": 74066.84871813506,
+    "ah_price": 4900000,
+    "profit": 4727933.151281865,
+    "margin_pct": 6383.332399187444,
+    "ah_sales": 8,
+    "ingredients": [
+      {
+        "name": "Enchanted Raw Chicken",
+        "amount": 1,
+        "price": 899.9494062084461
+      },
+      {
+        "name": "Enchanted Raw Salmon",
+        "amount": 2,
+        "price": 1584.8
+      },
+      {
+        "name": "Revenant Viscera",
+        "amount": 1,
+        "price": 69997.29931192662
+      }
+    ],
+    "score": 0.5382865745572869
+  },
+  {
+    "name": "Mineral Talisman",
+    "item_id": "MINERAL_TALISMAN",
+    "material_cost": 1176961.3468604651,
+    "ah_price": 2000000,
+    "profit": 783038.6531395349,
+    "margin_pct": 66.53053264903593,
+    "ah_sales": 29,
+    "ingredients": [
+      {
+        "name": "Refined Mineral",
+        "amount": 9,
+        "price": 130773.48298449614
+      }
+    ],
+    "score": 0.5337565718945413
+  },
+  {
+    "name": "Radiant Power Orb",
+    "item_id": "RADIANT_POWER_ORB",
+    "material_cost": 10305.204521133359,
+    "ah_price": 300000,
+    "profit": 283694.79547886667,
+    "margin_pct": 2752.927366915238,
+    "ah_sales": 27,
+    "ingredients": [
+      {
+        "name": "Wolf Tooth",
+        "amount": 8,
+        "price": 1165.4600381540695
+      },
+      {
+        "name": "Enchanted Emerald",
+        "amount": 1,
+        "price": 981.5242159008023
+      }
+    ],
+    "score": 0.5333391516687258
+  },
+  {
+    "name": "Werewolf Chestplate",
+    "item_id": "WEREWOLF_CHESTPLATE",
+    "material_cost": 26155.588080117242,
+    "ah_price": 599000,
+    "profit": 560864.4119198828,
+    "margin_pct": 2144.3387554579067,
+    "ah_sales": 21,
+    "ingredients": [
+      {
+        "name": "Werewolf Skin",
+        "amount": 8,
+        "price": 3269.4485100146553
+      }
+    ],
+    "score": 0.5330300605556885
+  },
+  {
+    "name": "Young Dragon Chestplate",
+    "item_id": "YOUNG_DRAGON_CHESTPLATE",
+    "material_cost": 67326.1798879961,
+    "ah_price": 1300000,
+    "profit": 1206673.820112004,
+    "margin_pct": 1792.2802424249048,
+    "ah_sales": 15,
+    "ingredients": [
+      {
+        "name": "Young Fragment",
+        "amount": 8,
+        "price": 8415.772485999512
+      }
+    ],
+    "score": 0.5287777409067896
+  },
+  {
+    "name": "Blaze Belt",
+    "item_id": "BLAZE_BELT",
+    "material_cost": 7786.555741243813,
+    "ah_price": 438000,
+    "profit": 421453.4442587562,
+    "margin_pct": 5412.578529765124,
+    "ah_sales": 20,
+    "ingredients": [
+      {
+        "name": "Enchanted Blaze Powder",
+        "amount": 4,
+        "price": 1922.2206371625866
+      },
+      {
+        "name": "Blaze Ashes",
+        "amount": 1,
+        "price": 97.67319259346621
+      }
+    ],
+    "score": 0.5286418929328539
+  },
+  {
+    "name": "Melon Leggings",
+    "item_id": "MELON_LEGGINGS",
+    "material_cost": 356717.44609375007,
+    "ah_price": 2190000,
+    "profit": 1789482.5539062498,
+    "margin_pct": 501.6526591289707,
+    "ah_sales": 15,
+    "ingredients": [
+      {
+        "name": "Enchanted Melon Block",
+        "amount": 7,
+        "price": 50959.635156250006
+      }
+    ],
+    "score": 0.5284245919209665
+  },
+  {
+    "name": "Leggings of the Pack",
+    "item_id": "LEGGINGS_OF_THE_PACK",
+    "material_cost": 180162.91922387958,
+    "ah_price": 1090000,
+    "profit": 888037.0807761204,
+    "margin_pct": 492.90779956368294,
+    "ah_sales": 20,
+    "ingredients": [
+      {
+        "name": "Enchanted Mutton",
+        "amount": 6,
+        "price": 1190.1701836801803
+      },
+      {
+        "name": "Golden Tooth",
+        "amount": 1,
+        "price": 173021.8981217985
+      }
+    ],
+    "score": 0.5281259210556717
+  },
+  {
+    "name": "Travel Scroll to the Gold Mine",
+    "item_id": "MINING_1_TRAVEL_SCROLL",
+    "material_cost": 6208.906666125164,
+    "ah_price": 495000,
+    "profit": 478891.09333387483,
+    "margin_pct": 7712.969755957691,
+    "ah_sales": 18,
+    "ingredients": [
+      {
+        "name": "Enchanted Iron",
+        "amount": 3,
+        "price": 901.0121673580896
+      },
+      {
+        "name": "Enchanted Gold",
+        "amount": 5,
+        "price": 627.574032810179
+      },
+      {
+        "name": "Enchanted Ender Pearl",
+        "amount": 1,
+        "price": 368.0
+      }
+    ],
+    "score": 0.5280098990217328
+  },
+  {
+    "name": "Explosive Bow",
+    "item_id": "EXPLOSIVE_BOW",
+    "material_cost": 281942.8839658762,
+    "ah_price": 794999,
+    "profit": 497156.13603412383,
+    "margin_pct": 176.33221631310798,
+    "ah_sales": 29,
+    "ingredients": [
+      {
+        "name": "Enchanted Firework Rocket",
+        "amount": 3,
+        "price": 93976.36223776224
+      },
+      {
+        "name": "String",
+        "amount": 3,
+        "price": 4.599084196500217
+      }
+    ],
+    "score": 0.5280045499643526
+  },
+  {
+    "name": "Hotspot Hook",
+    "item_id": "HOTSPOT_HOOK",
+    "material_cost": 927786.8190507344,
+    "ah_price": 10000000,
+    "profit": 8872213.180949265,
+    "margin_pct": 956.2771316396665,
+    "ah_sales": 7,
+    "ingredients": [
+      {
+        "name": "Enchanted Water Lily",
+        "amount": 1,
+        "price": 2083.042468455879
+      },
+      {
+        "name": "Singed Powder",
+        "amount": 1,
+        "price": 127655.47658227848
+      },
+      {
+        "name": "Broken Radar",
+        "amount": 1,
+        "price": 798048.3
+      }
+    ],
+    "score": 0.5266195298058046
+  },
+  {
+    "name": "Final Destination Chestplate",
+    "item_id": "FINAL_DESTINATION_CHESTPLATE",
+    "material_cost": 613166.7542961446,
+    "ah_price": 1591999,
+    "profit": 946992.2657038554,
+    "margin_pct": 154.44285898880963,
+    "ah_sales": 22,
+    "ingredients": [
+      {
+        "name": "Enchanted Redstone",
+        "amount": 4,
+        "price": 952.6584769488074
+      },
+      {
+        "name": "Null Ovoid",
+        "amount": 4,
+        "price": 152339.03009708735
+      }
+    ],
+    "score": 0.5253029113050802
+  },
+  {
+    "name": "Shimmering Light Tunic",
+    "item_id": "SHIMMERING_LIGHT_TUNIC",
+    "material_cost": 1117917.5823529412,
+    "ah_price": 13399999,
+    "profit": 12014081.437647058,
+    "margin_pct": 1074.684004196479,
+    "ah_sales": 6,
+    "ingredients": [
+      {
+        "name": "Enchanted Mycelium Cube",
+        "amount": 5,
+        "price": 131284.59647058824
+      },
+      {
+        "name": "Y",
+        "amount": 2,
+        "price": 113174.80000000002
+      },
+      {
+        "name": "Z",
+        "amount": 1,
+        "price": 235145.0
+      }
+    ],
+    "score": 0.5252674236795515
+  },
+  {
+    "name": "Experience Artifact",
+    "item_id": "EXPERIENCE_ARTIFACT",
+    "material_cost": 865951.2240384616,
+    "ah_price": 1250000,
+    "profit": 359048.7759615384,
+    "margin_pct": 41.46293301452636,
+    "ah_sales": 37,
+    "ingredients": [
+      {
+        "name": "Enchanted Lapis Lazuli Block",
+        "amount": 9,
+        "price": 96216.80267094017
+      }
+    ],
+    "score": 0.5204314066350969
+  },
+  {
+    "name": "Melon Helmet",
+    "item_id": "MELON_HELMET",
+    "material_cost": 254798.17578125003,
+    "ah_price": 1899000,
+    "profit": 1606221.82421875,
+    "margin_pct": 630.3898445480738,
+    "ah_sales": 14,
+    "ingredients": [
+      {
+        "name": "Enchanted Melon Block",
+        "amount": 5,
+        "price": 50959.635156250006
+      }
+    ],
+    "score": 0.520403223906907
+  },
+  {
+    "name": "Souls Rebound",
+    "item_id": "SOULS_REBOUND",
+    "material_cost": 22892.589159169616,
+    "ah_price": 2599999,
+    "profit": 2525106.4308408303,
+    "margin_pct": 11030.23521404262,
+    "ah_sales": 8,
+    "ingredients": [
+      {
+        "name": "Enchanted Ghast Tear",
+        "amount": 3,
+        "price": 385.4438821752266
+      },
+      {
+        "name": "Soul String",
+        "amount": 3,
+        "price": 5433.193175074183
+      },
+      {
+        "name": "Dark Queens Soul Drop",
+        "amount": 1,
+        "price": 5436.677987421385
+      }
+    ],
+    "score": 0.5203698322807702
+  },
+  {
+    "name": "Wise Dragon Boots",
+    "item_id": "WISE_DRAGON_BOOTS",
+    "material_cost": 184318.07864406778,
+    "ah_price": 1799900,
+    "profit": 1579583.9213559323,
+    "margin_pct": 856.9880572628086,
+    "ah_sales": 13,
+    "ingredients": [
+      {
+        "name": "Wise Fragment",
+        "amount": 4,
+        "price": 46079.519661016944
+      }
+    ],
+    "score": 0.5164769878257823
+  },
+  {
+    "name": "Final Destination Helmet",
+    "item_id": "FINAL_DESTINATION_HELMET",
+    "material_cost": 458922.4072451596,
+    "ah_price": 1450000,
+    "profit": 962077.5927548404,
+    "margin_pct": 209.63840021018885,
+    "ah_sales": 19,
+    "ingredients": [
+      {
+        "name": "Null Ovoid",
+        "amount": 3,
+        "price": 152339.03009708735
+      },
+      {
+        "name": "Enchanted Redstone",
+        "amount": 2,
+        "price": 952.6584769488074
+      }
+    ],
+    "score": 0.5156943253439207
+  },
+  {
+    "name": "Farm Armor Leggings",
+    "item_id": "FARM_ARMOR_LEGGINGS",
+    "material_cost": 6882.789845809036,
+    "ah_price": 3000000,
+    "profit": 2933117.210154191,
+    "margin_pct": 42615.23707483501,
+    "ah_sales": 6,
+    "ingredients": [
+      {
+        "name": "Enchanted Wheat",
+        "amount": 7,
+        "price": 983.2556922584337
+      }
+    ],
+    "score": 0.5155912923345749
+  },
+  {
+    "name": "Travel Scroll to The Barn",
+    "item_id": "FARMING_1_TRAVEL_SCROLL",
+    "material_cost": 4378.041056019261,
+    "ah_price": 350000,
+    "profit": 338621.95894398075,
+    "margin_pct": 7734.554212971981,
+    "ah_sales": 18,
+    "ingredients": [
+      {
+        "name": "Enchanted Carrot",
+        "amount": 3,
+        "price": 537.1034194914268
+      },
+      {
+        "name": "Enchanted Potato",
+        "amount": 5,
+        "price": 479.746159508996
+      },
+      {
+        "name": "Enchanted Ender Pearl",
+        "amount": 1,
+        "price": 368.0
+      }
+    ],
+    "score": 0.5143698368791234
+  },
+  {
+    "name": "Hay Bale",
+    "item_id": "HAY_BLOCK",
+    "material_cost": 58.07709095804525,
+    "ah_price": 899999,
+    "profit": 881940.942909042,
+    "margin_pct": 1518569.419301931,
+    "ah_sales": 6,
+    "ingredients": [
+      {
+        "name": "Wheat",
+        "amount": 9,
+        "price": 6.453010106449472
+      }
+    ],
+    "score": 0.5127999123760872
+  },
+  {
+    "name": "Scoville Belt",
+    "item_id": "SCOVILLE_BELT",
+    "material_cost": 383174.1744771098,
+    "ah_price": 3870000,
+    "profit": 3409425.8255228903,
+    "margin_pct": 889.7848687677055,
+    "ah_sales": 9,
+    "ingredients": [
+      {
+        "name": "Compact Ooze",
+        "amount": 4,
+        "price": 62999.89827044025
+      },
+      {
+        "name": "Rekindled Ember Fragment",
+        "amount": 1,
+        "price": 131174.58139534883
+      }
+    ],
+    "score": 0.5120663244659772
+  },
+  {
+    "name": "Dragonfuse Glove",
+    "item_id": "DRAGONFUSE_GLOVE",
+    "material_cost": 4648646.8060217295,
+    "ah_price": 17990000,
+    "profit": 12981553.19397827,
+    "margin_pct": 279.25445265409974,
+    "ah_sales": 6,
+    "ingredients": [
+      {
+        "name": "Ritual Residue",
+        "amount": 2,
+        "price": 2301071.8727272726
+      },
+      {
+        "name": "Mite Gel",
+        "amount": 3,
+        "price": 2239.5
+      },
+      {
+        "name": "Absolute Ender Pearl",
+        "amount": 3,
+        "price": 13261.52018906144
+      }
+    ],
+    "score": 0.5114940813314529
+  },
+  {
+    "name": "Personal Compactor 4000",
+    "item_id": "PERSONAL_COMPACTOR_4000",
+    "material_cost": 155180.39132621928,
+    "ah_price": 784000,
+    "profit": 613139.6086737807,
+    "margin_pct": 395.1141013588774,
+    "ah_sales": 20,
+    "ingredients": [
+      {
+        "name": "Enchanted Redstone",
+        "amount": 7,
+        "price": 952.6584769488074
+      },
+      {
+        "name": "Super Compactor 3000",
+        "amount": 1,
+        "price": 148511.78198757762
+      }
+    ],
+    "score": 0.5107490203810043
+  },
+  {
+    "name": "Ichthyic Gloves",
+    "item_id": "ICHTHYIC_GLOVES",
+    "material_cost": 273931.33434990374,
+    "ah_price": 4000000,
+    "profit": 3646068.6656500963,
+    "margin_pct": 1331.015553333093,
+    "ah_sales": 8,
+    "ingredients": [
+      {
+        "name": "Blue Shark Tooth",
+        "amount": 3,
+        "price": 47900.23682361209
+      },
+      {
+        "name": "Nurse Shark Tooth",
+        "amount": 2,
+        "price": 39999.18158682635
+      },
+      {
+        "name": "Enchanted Shark Fin",
+        "amount": 1,
+        "price": 50232.26070541481
+      }
+    ],
+    "score": 0.5084568058855776
+  },
+  {
+    "name": "Wise Dragon Chestplate",
+    "item_id": "WISE_DRAGON_CHESTPLATE",
+    "material_cost": 368636.15728813555,
+    "ah_price": 2250000,
+    "profit": 1836363.8427118645,
+    "margin_pct": 498.1507663873881,
+    "ah_sales": 12,
+    "ingredients": [
+      {
+        "name": "Wise Fragment",
+        "amount": 8,
+        "price": 46079.519661016944
+      }
+    ],
+    "score": 0.5079753175110886
+  },
+  {
+    "name": "Werewolf Boots",
+    "item_id": "WEREWOLF_BOOTS",
+    "material_cost": 13077.794040058621,
+    "ah_price": 850000,
+    "profit": 819922.2059599414,
+    "margin_pct": 6269.575766741973,
+    "ah_sales": 12,
+    "ingredients": [
+      {
+        "name": "Werewolf Skin",
+        "amount": 4,
+        "price": 3269.4485100146553
+      }
+    ],
+    "score": 0.5077866921485262
+  },
+  {
+    "name": "Hotspot Radar",
+    "item_id": "HOTSPOT_RADAR",
+    "material_cost": 814314.7158157208,
+    "ah_price": 2000000,
+    "profit": 1145685.2841842792,
+    "margin_pct": 140.69318187828836,
+    "ah_sales": 17,
+    "ingredients": [
+      {
+        "name": "Bronze Bowl",
+        "amount": 2,
+        "price": 8115.050171428573
+      },
+      {
+        "name": "Redstone",
+        "amount": 2,
+        "price": 8.36571015331212
+      },
+      {
+        "name": "Broken Radar",
+        "amount": 1,
+        "price": 798048.3
+      },
+      {
+        "name": "Iron Ingot",
+        "amount": 3,
+        "price": 6.528017519000387
+      }
+    ],
+    "score": 0.5069477559561829
+  },
+  {
+    "name": "Lava Talisman",
+    "item_id": "LAVA_TALISMAN",
+    "material_cost": 15145.788801771185,
+    "ah_price": 1000000,
+    "profit": 964854.2111982288,
+    "margin_pct": 6370.445434214666,
+    "ah_sales": 11,
+    "ingredients": [
+      {
+        "name": "Enchanted Magma Cream",
+        "amount": 9,
+        "price": 1682.8654224190204
+      }
+    ],
+    "score": 0.5060704943276363
+  },
+  {
+    "name": "Haste Ring",
+    "item_id": "HASTE_RING",
+    "material_cost": 2397.2503955514303,
+    "ah_price": 250000,
+    "profit": 242602.74960444856,
+    "margin_pct": 10120.04211385868,
+    "ah_sales": 18,
+    "ingredients": [
+      {
+        "name": "Enchanted Cobblestone",
+        "amount": 8,
+        "price": 299.6562994439288
+      }
+    ],
+    "score": 0.504569879705391
+  },
+  {
+    "name": "Travel Scroll to the Smoldering Tomb",
+    "item_id": "SMOLDERING_CHAMBERS_TRAVEL_SCROLL",
+    "material_cost": 3520058.665465629,
+    "ah_price": 24999969,
+    "profit": 20979910.95453437,
+    "margin_pct": 596.0102642709556,
+    "ah_sales": 4,
+    "ingredients": [
+      {
+        "name": "Molten Powder",
+        "amount": 4,
+        "price": 318874.3022779043
+      },
+      {
+        "name": "Enchanted Blaze Rod",
+        "amount": 2,
+        "price": 254495.36568265682
+      },
+      {
+        "name": "Magma Fish Gold",
+        "amount": 2,
+        "price": 587128.6450892858
+      },
+      {
+        "name": "Inferno Vertex",
+        "amount": 1,
+        "price": 561313.4348101265
+      }
+    ],
+    "score": 0.5010490306151321
+  },
+  {
+    "name": "Wisp Upgrade Stone",
+    "item_id": "UPGRADE_STONE_FROST",
+    "material_cost": 2118882.577937636,
+    "ah_price": 8850000,
+    "profit": 6554117.4220623635,
+    "margin_pct": 309.31952012374643,
+    "ah_sales": 7,
+    "ingredients": [
+      {
+        "name": "Molten Powder",
+        "amount": 4,
+        "price": 318874.3022779043
+      },
+      {
+        "name": "Enchanted Packed Ice",
+        "amount": 3,
+        "price": 39533.8113386308
+      },
+      {
+        "name": "Inferno Vertex",
+        "amount": 1,
+        "price": 561313.4348101265
+      },
+      {
+        "name": "Kelvin Inverter",
+        "amount": 1,
+        "price": 163470.5
+      }
+    ],
+    "score": 0.5005765191105781
+  },
+  {
+    "name": "Shimmering Light Trousers",
+    "item_id": "SHIMMERING_LIGHT_TROUSERS",
+    "material_cost": 986632.985882353,
+    "ah_price": 16600000,
+    "profit": 15281367.014117647,
+    "margin_pct": 1548.840068473021,
+    "ah_sales": 4,
+    "ingredients": [
+      {
+        "name": "Enchanted Mycelium Cube",
+        "amount": 4,
+        "price": 131284.59647058824
+      },
+      {
+        "name": "Z",
+        "amount": 1,
+        "price": 235145.0
+      },
+      {
+        "name": "Y",
+        "amount": 2,
+        "price": 113174.80000000002
+      }
+    ],
+    "score": 0.5004700717616166
+  },
+  {
+    "name": "Ender Bow",
+    "item_id": "ENDER_BOW",
+    "material_cost": 1117.7972525895007,
+    "ah_price": 120000,
+    "profit": 116482.2027474105,
+    "margin_pct": 10420.691451653385,
+    "ah_sales": 23,
+    "ingredients": [
+      {
+        "name": "Enchanted Ender Pearl",
+        "amount": 3,
+        "price": 368.0
+      },
+      {
+        "name": "String",
+        "amount": 3,
+        "price": 4.599084196500217
+      }
+    ],
+    "score": 0.4994754597603854
+  },
+  {
+    "name": "Hurricane Bow",
+    "item_id": "HURRICANE_BOW",
+    "material_cost": 2549.7235469857123,
+    "ah_price": 400000,
+    "profit": 389450.2764530143,
+    "margin_pct": 15274.215783645372,
+    "ah_sales": 13,
+    "ingredients": [
+      {
+        "name": "Enchanted Bone",
+        "amount": 3,
+        "price": 845.3087647987372
+      },
+      {
+        "name": "String",
+        "amount": 3,
+        "price": 4.599084196500217
+      }
+    ],
+    "score": 0.4972025457788952
+  },
+  {
+    "name": "Young Dragon Boots",
+    "item_id": "YOUNG_DRAGON_BOOTS",
+    "material_cost": 33663.08994399805,
+    "ah_price": 599999,
+    "profit": 554335.930056002,
+    "margin_pct": 1646.717312576462,
+    "ah_sales": 15,
+    "ingredients": [
+      {
+        "name": "Young Fragment",
+        "amount": 4,
+        "price": 8415.772485999512
+      }
+    ],
+    "score": 0.4970291533181471
+  },
+  {
+    "name": "Lush Talisman",
+    "item_id": "LUSH_TALISMAN",
+    "material_cost": 795.8634472511145,
+    "ah_price": 399999,
+    "profit": 391203.15655274893,
+    "margin_pct": 49154.55759451592,
+    "ah_sales": 11,
+    "ingredients": [
+      {
+        "name": "Lush Berberis",
+        "amount": 9,
+        "price": 88.4292719167905
+      }
+    ],
+    "score": 0.4959679046218866
+  },
+  {
+    "name": "Spider's Boots",
+    "item_id": "SPIDER_BOOTS",
+    "material_cost": 2671.9461159935768,
+    "ah_price": 770000,
+    "profit": 751928.0538840065,
+    "margin_pct": 28141.587488728164,
+    "ah_sales": 9,
+    "ingredients": [
+      {
+        "name": "Enchanted String",
+        "amount": 4,
+        "price": 667.9865289983942
+      }
+    ],
+    "score": 0.49555546876625645
+  },
+  {
+    "name": "Old Dragon Helmet",
+    "item_id": "OLD_DRAGON_HELMET",
+    "material_cost": 49394.40260545905,
+    "ah_price": 649999,
+    "profit": 587604.6173945409,
+    "margin_pct": 1189.6178238819293,
+    "ah_sales": 15,
+    "ingredients": [
+      {
+        "name": "Old Fragment",
+        "amount": 5,
+        "price": 9878.88052109181
+      }
+    ],
+    "score": 0.49526836900087756
+  },
+  {
+    "name": "Farm Armor Chestplate",
+    "item_id": "FARM_ARMOR_CHESTPLATE",
+    "material_cost": 7866.045538067469,
+    "ah_price": 350000,
+    "profit": 335133.95446193253,
+    "margin_pct": 4260.51378472274,
+    "ah_sales": 16,
+    "ingredients": [
+      {
+        "name": "Enchanted Wheat",
+        "amount": 8,
+        "price": 983.2556922584337
+      }
+    ],
+    "score": 0.49522851790363265
+  },
+  {
+    "name": "Travel Scroll to Spider's Den",
+    "item_id": "DANGER_1_TRAVEL_SCROLL",
+    "material_cost": 12723.44065653251,
+    "ah_price": 650000,
+    "profit": 624276.5593434675,
+    "margin_pct": 4906.507415688297,
+    "ah_sales": 12,
+    "ingredients": [
+      {
+        "name": "Enchanted Flint",
+        "amount": 8,
+        "price": 1544.4300820665637
+      },
+      {
+        "name": "Enchanted Ender Pearl",
+        "amount": 1,
+        "price": 368.0
+      }
+    ],
+    "score": 0.493969075017067
+  },
+  {
+    "name": "Sorrow Chestplate",
+    "item_id": "SORROW_CHESTPLATE",
+    "material_cost": 1705755.196321839,
+    "ah_price": 8800000,
+    "profit": 6918244.8036781605,
+    "margin_pct": 405.5825137508675,
+    "ah_sales": 6,
+    "ingredients": [
+      {
+        "name": "Sorrow",
+        "amount": 8,
+        "price": 213219.39954022988
+      }
+    ],
+    "score": 0.49132229251026127
+  },
+  {
+    "name": "Ghast Cloak",
+    "item_id": "GHAST_CLOAK",
+    "material_cost": 18048.86329305136,
+    "ah_price": 450000,
+    "profit": 422951.13670694863,
+    "margin_pct": 2343.367168556154,
+    "ah_sales": 15,
+    "ingredients": [
+      {
+        "name": "Enchanted Ghast Tear",
+        "amount": 6,
+        "price": 385.4438821752266
+      },
+      {
+        "name": "Tentacle Meat",
+        "amount": 1,
+        "price": 15736.2
+      }
+    ],
+    "score": 0.4907615186936306
+  },
+  {
+    "name": "Final Destination Boots",
+    "item_id": "FINAL_DESTINATION_BOOTS",
+    "material_cost": 306583.3771480723,
+    "ah_price": 1800000,
+    "profit": 1457416.6228519278,
+    "margin_pct": 475.3736606365423,
+    "ah_sales": 11,
+    "ingredients": [
+      {
+        "name": "Enchanted Redstone",
+        "amount": 2,
+        "price": 952.6584769488074
+      },
+      {
+        "name": "Null Ovoid",
+        "amount": 2,
+        "price": 152339.03009708735
+      }
+    ],
+    "score": 0.4899341126429024
+  },
+  {
+    "name": "Gravity Talisman",
+    "item_id": "GRAVITY_TALISMAN",
+    "material_cost": 178.76302699470222,
+    "ah_price": 75000,
+    "profit": 73321.2369730053,
+    "margin_pct": 41015.88466343112,
+    "ah_sales": 21,
+    "ingredients": [
+      {
+        "name": "Obsidian",
+        "amount": 9,
+        "price": 19.862558554966913
+      }
+    ],
+    "score": 0.4896049364591081
+  },
+  {
+    "name": "Guardian Chestplate",
+    "item_id": "GUARDIAN_CHESTPLATE",
+    "material_cost": 3374.403078772078,
+    "ah_price": 1499000,
+    "profit": 1465645.5969212279,
+    "margin_pct": 43434.21822192523,
+    "ah_sales": 6,
+    "ingredients": [
+      {
+        "name": "Prismarine Shard",
+        "amount": 4,
+        "price": 3.296624996122468
+      },
+      {
+        "name": "Prismarine Crystals",
+        "amount": 4,
+        "price": 840.3041446968971
+      }
+    ],
+    "score": 0.48845572179472907
+  },
+  {
+    "name": "Wisp Upgrade Stone",
+    "item_id": "UPGRADE_STONE_GLACIAL",
+    "material_cost": 3125540.466473576,
+    "ah_price": 8850000,
+    "profit": 5547459.533526424,
+    "margin_pct": 177.48800865104153,
+    "ah_sales": 7,
+    "ingredients": [
+      {
+        "name": "Inferno Vertex",
+        "amount": 4,
+        "price": 561313.4348101265
+      },
+      {
+        "name": "Enchanted Packed Ice",
+        "amount": 2,
+        "price": 39533.8113386308
+      },
+      {
+        "name": "Molten Powder",
+        "amount": 2,
+        "price": 318874.3022779043
+      },
+      {
+        "name": "Kelvin Inverter",
+        "amount": 1,
+        "price": 163470.5
+      }
+    ],
+    "score": 0.4870605412967409
+  },
+  {
+    "name": "Savanna Bow",
+    "item_id": "SAVANA_BOW",
+    "material_cost": 7024.87066557396,
+    "ah_price": 490000,
+    "profit": 473175.129334426,
+    "margin_pct": 6735.71303815265,
+    "ah_sales": 12,
+    "ingredients": [
+      {
+        "name": "Enchanted Acacia Log",
+        "amount": 3,
+        "price": 1673.6370261929258
+      },
+      {
+        "name": "Enchanted String",
+        "amount": 3,
+        "price": 667.9865289983942
+      }
+    ],
+    "score": 0.4869916360357851
+  },
+  {
+    "name": "Creeper Pants",
+    "item_id": "CREEPER_LEGGINGS",
+    "material_cost": 6083.418930342192,
+    "ah_price": 6000000,
+    "profit": 5873916.581069658,
+    "margin_pct": 96556.17422256418,
+    "ah_sales": 3,
+    "ingredients": [
+      {
+        "name": "Enchanted Gunpowder",
+        "amount": 7,
+        "price": 869.0598471917417
+      }
+    ],
+    "score": 0.4867864596482705
+  },
+  {
+    "name": "Thunder Boots",
+    "item_id": "THUNDER_BOOTS",
+    "material_cost": 256777.18257425743,
+    "ah_price": 990000,
+    "profit": 713422.8174257425,
+    "margin_pct": 277.83731026000635,
+    "ah_sales": 15,
+    "ingredients": [
+      {
+        "name": "Thunder Shards",
+        "amount": 4,
+        "price": 64194.29564356436
+      }
+    ],
+    "score": 0.48476204101892806
+  },
+  {
+    "name": "Warning Flare",
+    "item_id": "WARNING_FLARE",
+    "material_cost": 639481.6602806118,
+    "ah_price": 7500000,
+    "profit": 6710518.339719389,
+    "margin_pct": 1049.368380130673,
+    "ah_sales": 5,
+    "ingredients": [
+      {
+        "name": "Enchanted Sulphur",
+        "amount": 1,
+        "price": 1733.0557248032494
+      },
+      {
+        "name": "Molten Powder",
+        "amount": 2,
+        "price": 318874.3022779043
+      }
+    ],
+    "score": 0.4845200257936667
+  },
+  {
+    "name": "Tier Boost",
+    "item_id": "PET_ITEM_TIER_BOOST",
+    "material_cost": 159264911.94458193,
+    "ah_price": 171000000,
+    "profit": 8315088.055418074,
+    "margin_pct": 5.2209164930888265,
+    "ah_sales": 9,
+    "ingredients": [
+      {
+        "name": "Enchanted Iron Block",
+        "amount": 5,
+        "price": 52983.86891638545
+      },
+      {
+        "name": "Pet Item Tier Boost Drop",
+        "amount": 1,
+        "price": 158999992.6
+      }
+    ],
+    "score": 0.4830765266889555
+  },
+  {
+    "name": "Helmet of Growth",
+    "item_id": "GROWTH_HELMET",
+    "material_cost": 11348.5,
+    "ah_price": 2500000,
+    "profit": 2438651.5,
+    "margin_pct": 21488.756223289423,
+    "ah_sales": 5,
+    "ingredients": [
+      {
+        "name": "Enchanted Dark Oak Log",
+        "amount": 5,
+        "price": 2269.7
+      }
+    ],
+    "score": 0.482286310270434
+  },
+  {
+    "name": "Bone Necklace",
+    "item_id": "BONE_NECKLACE",
+    "material_cost": 10737593.179525223,
+    "ah_price": 13499999,
+    "profit": 2492405.840474777,
+    "margin_pct": 23.211960062217425,
+    "ah_sales": 12,
+    "ingredients": [
+      {
+        "name": "Soul String",
+        "amount": 3,
+        "price": 5433.193175074183
+      },
+      {
+        "name": "Spirit Bone",
+        "amount": 2,
+        "price": 3899998.8
+      },
+      {
+        "name": "Spirit Wing",
+        "amount": 1,
+        "price": 2921296.0
+      }
+    ],
+    "score": 0.4817372257787465
+  },
+  {
+    "name": "Farmer Boots",
+    "item_id": "FARMER_BOOTS",
+    "material_cost": 6482.443597910401,
+    "ah_price": 900000,
+    "profit": 875517.5564020897,
+    "margin_pct": 13505.98031711854,
+    "ah_sales": 8,
+    "ingredients": [
+      {
+        "name": "Enchanted Pumpkin",
+        "amount": 4,
+        "price": 1620.6108994776002
+      }
+    ],
+    "score": 0.4811059460360418
+  },
+  {
+    "name": "Superior Dragon Leggings",
+    "item_id": "SUPERIOR_DRAGON_LEGGINGS",
+    "material_cost": 1721459.5121212122,
+    "ah_price": 13999999,
+    "profit": 11998539.507878788,
+    "margin_pct": 696.9980660825406,
+    "ah_sales": 4,
+    "ingredients": [
+      {
+        "name": "Superior Fragment",
+        "amount": 7,
+        "price": 245922.78744588746
+      }
+    ],
+    "score": 0.4809565118876187
+  },
+  {
+    "name": "Old Dragon Boots",
+    "item_id": "OLD_DRAGON_BOOTS",
+    "material_cost": 39515.52208436724,
+    "ah_price": 950000,
+    "profit": 891484.4779156328,
+    "margin_pct": 2256.0361875322747,
+    "ah_sales": 10,
+    "ingredients": [
+      {
+        "name": "Old Fragment",
+        "amount": 4,
+        "price": 9878.88052109181
+      }
+    ],
+    "score": 0.48085410330502326
+  },
+  {
+    "name": "Inferno Minion Fuel",
+    "item_id": "INFERNO_HYPERGOLIC_MAGMA_CREAM",
+    "material_cost": 4939597.043566362,
+    "ah_price": 5200000,
+    "profit": 156402.956433638,
+    "margin_pct": 3.166310025983737,
+    "ah_sales": 46,
+    "ingredients": [
+      {
+        "name": "Magma Cream Distillate",
+        "amount": 6,
+        "price": 76105.29047619046
+      },
+      {
+        "name": "Inferno Fuel Block",
+        "amount": 2,
+        "price": 51994.3
+      },
+      {
+        "name": "Hypergolic Gabagool",
+        "amount": 1,
+        "price": 4378976.700709219
+      }
+    ],
+    "score": 0.476384152092016
+  },
+  {
+    "name": "Hotspot Sinker",
+    "item_id": "HOTSPOT_SINKER",
+    "material_cost": 926396.2697256382,
+    "ah_price": 10000000,
+    "profit": 8873603.730274362,
+    "margin_pct": 957.8626361375971,
+    "ah_sales": 4,
+    "ingredients": [
+      {
+        "name": "Broken Radar",
+        "amount": 1,
+        "price": 798048.3
+      },
+      {
+        "name": "Singed Powder",
+        "amount": 1,
+        "price": 127655.47658227848
+      },
+      {
+        "name": "Enchanted Clay Ball",
+        "amount": 1,
+        "price": 692.4931433597186
+      }
+    ],
+    "score": 0.47302264695408686
+  },
+  {
+    "name": "Sulphur Bow",
+    "item_id": "SULPHUR_BOW",
+    "material_cost": 9667.74994071127,
+    "ah_price": 1439998,
+    "profit": 1401530.2900592887,
+    "margin_pct": 14496.964636594399,
+    "ah_sales": 6,
+    "ingredients": [
+      {
+        "name": "Enchanted String",
+        "amount": 3,
+        "price": 667.9865289983942
+      },
+      {
+        "name": "Enchanted Sulphur",
+        "amount": 2,
+        "price": 1733.0557248032494
+      },
+      {
+        "name": "Bezos",
+        "amount": 1,
+        "price": 4197.678904109589
+      }
+    ],
+    "score": 0.4729879279813483
+  },
+  {
+    "name": "Emerald Ring",
+    "item_id": "EMERALD_RING",
+    "material_cost": 7852.193727206419,
+    "ah_price": 230000,
+    "profit": 217547.8062727936,
+    "margin_pct": 2770.5353921545534,
+    "ah_sales": 16,
+    "ingredients": [
+      {
+        "name": "Enchanted Emerald",
+        "amount": 8,
+        "price": 981.5242159008023
+      }
+    ],
+    "score": 0.47280509892009354
+  },
+  {
+    "name": "Magma Lord Helmet",
+    "item_id": "MAGMA_LORD_HELMET",
+    "material_cost": 23095179.333333332,
+    "ah_price": 275000000,
+    "profit": 246404820.66666666,
+    "margin_pct": 1066.9101854993173,
+    "ah_sales": 1,
+    "ingredients": [
+      {
+        "name": "Magma Lord Fragment",
+        "amount": 5,
+        "price": 4619035.866666666
+      }
+    ],
+    "score": 0.47267802810621956
+  },
+  {
+    "name": "Titan Line",
+    "item_id": "TITAN_LINE",
+    "material_cost": 149502073.04246846,
+    "ah_price": 166999999,
+    "profit": 14157925.977531552,
+    "margin_pct": 9.470053283816181,
+    "ah_sales": 6,
+    "ingredients": [
+      {
+        "name": "Enchanted Water Lily",
+        "amount": 1,
+        "price": 2083.042468455879
+      },
+      {
+        "name": "Bayou Water Orb",
+        "amount": 1,
+        "price": 11499994.9
+      },
+      {
+        "name": "Titanoboa Shed",
+        "amount": 1,
+        "price": 137999995.1
+      }
+    ],
+    "score": 0.4726583502242979
+  },
+  {
+    "name": "Unstable Dragon Helmet",
+    "item_id": "UNSTABLE_DRAGON_HELMET",
+    "material_cost": 41834.0,
+    "ah_price": 690000,
+    "profit": 634366.0,
+    "margin_pct": 1516.3885834488694,
+    "ah_sales": 11,
+    "ingredients": [
+      {
+        "name": "Unstable Fragment",
+        "amount": 5,
+        "price": 8366.8
+      }
+    ],
+    "score": 0.4716005350333619
+  },
+  {
+    "name": "Old Dragon Chestplate",
+    "item_id": "OLD_DRAGON_CHESTPLATE",
+    "material_cost": 79031.04416873449,
+    "ah_price": 800000,
+    "profit": 704968.9558312655,
+    "margin_pct": 892.0152368556946,
+    "ah_sales": 11,
+    "ingredients": [
+      {
+        "name": "Old Fragment",
+        "amount": 8,
+        "price": 9878.88052109181
+      }
+    ],
+    "score": 0.46913818509691974
+  },
+  {
+    "name": "Red Claw Talisman",
+    "item_id": "RED_CLAW_TALISMAN",
+    "material_cost": 3176.228841106876,
+    "ah_price": 100000,
+    "profit": 94823.77115889313,
+    "margin_pct": 2985.420002856224,
+    "ah_sales": 21,
+    "ingredients": [
+      {
+        "name": "Wolf Tooth",
+        "amount": 2,
+        "price": 1165.4600381540695
+      },
+      {
+        "name": "Enchanted Bone",
+        "amount": 1,
+        "price": 845.3087647987372
+      }
+    ],
+    "score": 0.4670312045470353
+  },
+  {
+    "name": "Unstable Dragon Leggings",
+    "item_id": "UNSTABLE_DRAGON_LEGGINGS",
+    "material_cost": 58567.59999999999,
+    "ah_price": 2000000,
+    "profit": 1901432.4,
+    "margin_pct": 3246.560214179854,
+    "ah_sales": 6,
+    "ingredients": [
+      {
+        "name": "Unstable Fragment",
+        "amount": 7,
+        "price": 8366.8
+      }
+    ],
+    "score": 0.4663377208768778
+  },
+  {
+    "name": "Salmon Boots",
+    "item_id": "SALMON_BOOTS_NEW",
+    "material_cost": 6339.2,
+    "ah_price": 190000,
+    "profit": 179860.8,
+    "margin_pct": 2837.2791519434627,
+    "ah_sales": 16,
+    "ingredients": [
+      {
+        "name": "Enchanted Raw Salmon",
+        "amount": 4,
+        "price": 1584.8
+      }
+    ],
+    "score": 0.46559646889331985
+  },
+  {
+    "name": "Exp Share",
+    "item_id": "PET_ITEM_EXP_SHARE",
+    "material_cost": 1389905.744196861,
+    "ah_price": 2400000,
+    "profit": 962094.255803139,
+    "margin_pct": 69.22010789724973,
+    "ah_sales": 13,
+    "ingredients": [
+      {
+        "name": "Enchanted Gold",
+        "amount": 6,
+        "price": 627.574032810179
+      },
+      {
+        "name": "Pet Item Exp Share Drop",
+        "amount": 1,
+        "price": 1386140.3
+      }
+    ],
+    "score": 0.4654938219677882
+  },
+  {
+    "name": "Agarimoo Talisman",
+    "item_id": "AGARIMOO_TALISMAN",
+    "material_cost": 107999.97874015747,
+    "ah_price": 350000,
+    "profit": 235000.02125984253,
+    "margin_pct": 217.5926551108318,
+    "ah_sales": 20,
+    "ingredients": [
+      {
+        "name": "Agarimoo Tongue",
+        "amount": 9,
+        "price": 11999.997637795275
+      }
+    ],
+    "score": 0.46546102737984196
+  },
+  {
+    "name": "Tactical Insertion",
+    "item_id": "TACTICAL_INSERTION",
+    "material_cost": 5478183.23708803,
+    "ah_price": 48500000,
+    "profit": 42051816.76291197,
+    "margin_pct": 767.6234062091163,
+    "ah_sales": 2,
+    "ingredients": [
+      {
+        "name": "Tessellated Ender Pearl",
+        "amount": 1,
+        "price": 4597995.5
+      },
+      {
+        "name": "Inferno Vertex",
+        "amount": 1,
+        "price": 561313.4348101265
+      },
+      {
+        "name": "Molten Powder",
+        "amount": 1,
+        "price": 318874.3022779043
+      }
+    ],
+    "score": 0.4652250069877716
+  },
+  {
+    "name": "Farmer Orb",
+    "item_id": "FARMER_ORB",
+    "material_cost": 65869.72728798671,
+    "ah_price": 7000000,
+    "profit": 6794130.272712014,
+    "margin_pct": 10314.49582751062,
+    "ah_sales": 3,
+    "ingredients": [
+      {
+        "name": "Enchanted Pumpkin",
+        "amount": 8,
+        "price": 1620.6108994776002
+      },
+      {
+        "name": "Enchanted Glowstone",
+        "amount": 1,
+        "price": 52904.840092165905
+      }
+    ],
+    "score": 0.4645990217583687
+  },
+  {
+    "name": "Shimmering Light Slippers",
+    "item_id": "SHIMMERING_LIGHT_SLIPPERS",
+    "material_cost": 346550.5929411765,
+    "ah_price": 10499999,
+    "profit": 9943448.427058823,
+    "margin_pct": 2869.2631406770165,
+    "ah_sales": 3,
+    "ingredients": [
+      {
+        "name": "Enchanted Mycelium Cube",
+        "amount": 2,
+        "price": 131284.59647058824
+      },
+      {
+        "name": "X",
+        "amount": 2,
+        "price": 41990.7
+      }
+    ],
+    "score": 0.4636479857365787
+  },
+  {
+    "name": "Strong Dragon Helmet",
+    "item_id": "STRONG_DRAGON_HELMET",
+    "material_cost": 296245.4355828221,
+    "ah_price": 1900000,
+    "profit": 1565754.5644171778,
+    "margin_pct": 528.5328907555222,
+    "ah_sales": 8,
+    "ingredients": [
+      {
+        "name": "Strong Fragment",
+        "amount": 5,
+        "price": 59249.08711656441
+      }
+    ],
+    "score": 0.4635719252813304
+  },
+  {
+    "name": "Strong Dragon Leggings",
+    "item_id": "STRONG_DRAGON_LEGGINGS",
+    "material_cost": 414743.6098159509,
+    "ah_price": 4499000,
+    "profit": 3994276.390184049,
+    "margin_pct": 963.0712313943964,
+    "ah_sales": 5,
+    "ingredients": [
+      {
+        "name": "Strong Fragment",
+        "amount": 7,
+        "price": 59249.08711656441
+      }
+    ],
+    "score": 0.46297813566097995
+  },
+  {
+    "name": "Farm Armor Boots",
+    "item_id": "FARM_ARMOR_BOOTS",
+    "material_cost": 3933.0227690337347,
+    "ah_price": 125000,
+    "profit": 118566.97723096627,
+    "margin_pct": 3014.6527033733855,
+    "ah_sales": 18,
+    "ingredients": [
+      {
+        "name": "Enchanted Wheat",
+        "amount": 4,
+        "price": 983.2556922584337
+      }
+    ],
+    "score": 0.4611985131487644
+  },
+  {
+    "name": "Ice Cube",
+    "item_id": "ICE_CUBE",
+    "material_cost": 3107.8586595158376,
+    "ah_price": 140000,
+    "profit": 134092.14134048417,
+    "margin_pct": 4314.615174982698,
+    "ah_sales": 16,
+    "ingredients": [
+      {
+        "name": "Enchanted Ice",
+        "amount": 8,
+        "price": 386.0
+      },
+      {
+        "name": "Packed Ice",
+        "amount": 1,
+        "price": 19.858659515837505
+      }
+    ],
+    "score": 0.45924440921876347
+  },
+  {
+    "name": "Sapphire Power Scroll",
+    "item_id": "SAPPHIRE_POWER_SCROLL",
+    "material_cost": 37426.8630362657,
+    "ah_price": 1118999,
+    "profit": 1059192.1569637344,
+    "margin_pct": 2830.031883616331,
+    "ah_sales": 7,
+    "ingredients": [
+      {
+        "name": "Enchanted Paper",
+        "amount": 3,
+        "price": 1662.7797515297607
+      },
+      {
+        "name": "Fine Sapphire Gem",
+        "amount": 1,
+        "price": 32438.523781676417
+      }
+    ],
+    "score": 0.4563084920854898
+  },
+  {
+    "name": "Web",
+    "item_id": "WEB",
+    "material_cost": 41.391757768501954,
+    "ah_price": 1000000,
+    "profit": 979958.6082422315,
+    "margin_pct": 2367521.122738968,
+    "ah_sales": 3,
+    "ingredients": [
+      {
+        "name": "String",
+        "amount": 9,
+        "price": 4.599084196500217
+      }
+    ],
+    "score": 0.4560844037056133
+  },
+  {
+    "name": "Holy Dragon Leggings",
+    "item_id": "HOLY_DRAGON_LEGGINGS",
+    "material_cost": 83667.18888888888,
+    "ah_price": 1390000,
+    "profit": 1278532.8111111112,
+    "margin_pct": 1528.117327820132,
+    "ah_sales": 7,
+    "ingredients": [
+      {
+        "name": "Holy Fragment",
+        "amount": 7,
+        "price": 11952.455555555554
+      }
+    ],
+    "score": 0.45603876452613623
+  },
+  {
+    "name": "Werewolf Leggings",
+    "item_id": "WEREWOLF_LEGGINGS",
+    "material_cost": 22886.139570102587,
+    "ah_price": 1800000,
+    "profit": 1741113.8604298974,
+    "margin_pct": 7607.721936225582,
+    "ah_sales": 5,
+    "ingredients": [
+      {
+        "name": "Werewolf Skin",
+        "amount": 7,
+        "price": 3269.4485100146553
+      }
+    ],
+    "score": 0.45602600347693945
+  },
+  {
+    "name": "Runaan's Bow",
+    "item_id": "RUNAANS_BOW",
+    "material_cost": 4539.885881391394,
+    "ah_price": 3000000,
+    "profit": 2935460.1141186086,
+    "margin_pct": 64659.33705846683,
+    "ah_sales": 3,
+    "ingredients": [
+      {
+        "name": "Enchanted Bone",
+        "amount": 3,
+        "price": 845.3087647987372
+      },
+      {
+        "name": "Enchanted String",
+        "amount": 3,
+        "price": 667.9865289983942
+      }
+    ],
+    "score": 0.4544101301294621
+  },
+  {
+    "name": "Amber Power Scroll",
+    "item_id": "AMBER_POWER_SCROLL",
+    "material_cost": 35635.266708832205,
+    "ah_price": 1900000,
+    "profit": 1826364.7332911678,
+    "margin_pct": 5125.1608363534515,
+    "ah_sales": 5,
+    "ingredients": [
+      {
+        "name": "Enchanted Paper",
+        "amount": 3,
+        "price": 1662.7797515297607
+      },
+      {
+        "name": "Fine Amber Gem",
+        "amount": 1,
+        "price": 30646.927454242927
+      }
+    ],
+    "score": 0.45297941317451695
+  },
+  {
+    "name": "Travel Scroll to Mushroom Island",
+    "item_id": "FARMING_2_TRAVEL_SCROLL",
+    "material_cost": 5357.604425646385,
+    "ah_price": 495999,
+    "profit": 480721.41557435365,
+    "margin_pct": 8972.693341695445,
+    "ah_sales": 8,
+    "ingredients": [
+      {
+        "name": "Enchanted Cocoa",
+        "amount": 3,
+        "price": 573.2015547047222
+      },
+      {
+        "name": "Enchanted Cactus Green",
+        "amount": 5,
+        "price": 653.9999523064437
+      },
+      {
+        "name": "Enchanted Ender Pearl",
+        "amount": 1,
+        "price": 368.0
+      }
+    ],
+    "score": 0.45234427097493457
+  },
+  {
+    "name": "Salmon Leggings",
+    "item_id": "SALMON_LEGGINGS_NEW",
+    "material_cost": 11093.6,
+    "ah_price": 222000,
+    "profit": 206466.4,
+    "margin_pct": 1861.1307420494697,
+    "ah_sales": 13,
+    "ingredients": [
+      {
+        "name": "Enchanted Raw Salmon",
+        "amount": 7,
+        "price": 1584.8
+      }
+    ],
+    "score": 0.445877475431131
+  },
+  {
+    "name": "Shimmering Light Hood",
+    "item_id": "SHIMMERING_LIGHT_HOOD",
+    "material_cost": 388541.29294117645,
+    "ah_price": 16000000,
+    "profit": 15291458.707058823,
+    "margin_pct": 3935.6070988763313,
+    "ah_sales": 2,
+    "ingredients": [
+      {
+        "name": "X",
+        "amount": 3,
+        "price": 41990.7
+      },
+      {
+        "name": "Enchanted Mycelium Cube",
+        "amount": 2,
+        "price": 131284.59647058824
+      }
+    ],
+    "score": 0.44572260390426843
+  },
+  {
+    "name": "Edible Mace",
+    "item_id": "EDIBLE_MACE",
+    "material_cost": 175402.23848915886,
+    "ah_price": 3666666,
+    "profit": 3417930.4415108413,
+    "margin_pct": 1948.6241857295877,
+    "ah_sales": 4,
+    "ingredients": [
+      {
+        "name": "Enchanted Mutton",
+        "amount": 2,
+        "price": 1190.1701836801803
+      },
+      {
+        "name": "Golden Tooth",
+        "amount": 1,
+        "price": 173021.8981217985
+      }
+    ],
+    "score": 0.4442484258933559
+  },
+  {
+    "name": "Ancient Cloak",
+    "item_id": "ANCIENT_CLOAK",
+    "material_cost": 1262089.3109756599,
+    "ah_price": 2150000,
+    "profit": 844910.6890243401,
+    "margin_pct": 66.94539615197127,
+    "ah_sales": 11,
+    "ingredients": [
+      {
+        "name": "Enchanted Red Sand Cube",
+        "amount": 6,
+        "price": 209999.99830985916
+      },
+      {
+        "name": "Wither Soul",
+        "amount": 1,
+        "price": 2089.3211165048547
+      }
+    ],
+    "score": 0.4439444396954086
+  },
+  {
+    "name": "Fel Rose",
+    "item_id": "FEL_ROSE",
+    "material_cost": 345552.0159101883,
+    "ah_price": 15000000,
+    "profit": 14354447.984089812,
+    "margin_pct": 4154.0628684454405,
+    "ah_sales": 2,
+    "ingredients": [
+      {
+        "name": "Fel Pearl",
+        "amount": 4,
+        "price": 12229.09147754708
+      },
+      {
+        "name": "Golem Poppy",
+        "amount": 1,
+        "price": 296635.65
+      }
+    ],
+    "score": 0.44390223898971537
+  },
+  {
+    "name": "Magma Necklace",
+    "item_id": "MAGMA_NECKLACE",
+    "material_cost": 7834.363941442761,
+    "ah_price": 99999,
+    "profit": 90164.65605855724,
+    "margin_pct": 1150.8867437418628,
+    "ah_sales": 19,
+    "ingredients": [
+      {
+        "name": "Enchanted Magma Cream",
+        "amount": 4,
+        "price": 1682.8654224190204
+      },
+      {
+        "name": "Magma Chunk",
+        "amount": 1,
+        "price": 1102.9022517666788
+      }
+    ],
+    "score": 0.44354967320141003
+  },
+  {
+    "name": "Shaman Sword",
+    "item_id": "SHAMAN_SWORD",
+    "material_cost": 174768.21905395534,
+    "ah_price": 700000,
+    "profit": 511231.78094604466,
+    "margin_pct": 292.5198778779193,
+    "ah_sales": 11,
+    "ingredients": [
+      {
+        "name": "Golden Tooth",
+        "amount": 1,
+        "price": 173021.8981217985
+      },
+      {
+        "name": "Enchanted Iron",
+        "amount": 1,
+        "price": 901.0121673580896
+      },
+      {
+        "name": "Enchanted Bone",
+        "amount": 1,
+        "price": 845.3087647987372
+      }
+    ],
+    "score": 0.4425366070329817
+  },
+  {
+    "name": "Raggedy Shark Tooth Necklace",
+    "item_id": "RAGGEDY_SHARK_TOOTH_NECKLACE",
+    "material_cost": 47868.46163436758,
+    "ah_price": 290000,
+    "profit": 236331.5383656324,
+    "margin_pct": 493.71032679261225,
+    "ah_sales": 14,
+    "ingredients": [
+      {
+        "name": "Shark Fin",
+        "amount": 8,
+        "price": 983.6600059426534
+      },
+      {
+        "name": "Nurse Shark Tooth",
+        "amount": 1,
+        "price": 39999.18158682635
+      }
+    ],
+    "score": 0.4417379880663112
+  },
+  {
+    "name": "Scourge Cloak",
+    "item_id": "SCOURGE_CLOAK",
+    "material_cost": 386155.6220033467,
+    "ah_price": 4350000,
+    "profit": 3876844.3779966533,
+    "margin_pct": 1003.959066524494,
+    "ah_sales": 4,
+    "ingredients": [
+      {
+        "name": "Mutated Blaze Ashes",
+        "amount": 4,
+        "price": 745.3618815592203
+      },
+      {
+        "name": "Compact Ooze",
+        "amount": 4,
+        "price": 62999.89827044025
+      },
+      {
+        "name": "Rekindled Ember Fragment",
+        "amount": 1,
+        "price": 131174.58139534883
+      }
+    ],
+    "score": 0.44093780516414843
+  },
+  {
+    "name": "Flamebreaker Chestplate",
+    "item_id": "FLAME_BREAKER_CHESTPLATE",
+    "material_cost": 4905.98917366416,
+    "ah_price": 378000,
+    "profit": 365534.0108263358,
+    "margin_pct": 7450.770841251728,
+    "ah_sales": 8,
+    "ingredients": [
+      {
+        "name": "Enchanted Hard Stone",
+        "amount": 8,
+        "price": 613.24864670802
+      }
+    ],
+    "score": 0.4392151105842956
+  },
+  {
+    "name": "Leggings of Growth",
+    "item_id": "GROWTH_LEGGINGS",
+    "material_cost": 15887.899999999998,
+    "ah_price": 3000000,
+    "profit": 2924112.1,
+    "margin_pct": 18404.648191390937,
+    "ah_sales": 3,
+    "ingredients": [
+      {
+        "name": "Enchanted Dark Oak Log",
+        "amount": 7,
+        "price": 2269.7
+      }
+    ],
+    "score": 0.43856610657087874
+  },
+  {
+    "name": "Sponge Boots",
+    "item_id": "SPONGE_BOOTS",
+    "material_cost": 319814.4,
+    "ah_price": 875000,
+    "profit": 537685.6,
+    "margin_pct": 168.12426207200176,
+    "ah_sales": 11,
+    "ingredients": [
+      {
+        "name": "Enchanted Wet Sponge",
+        "amount": 4,
+        "price": 79953.6
+      }
+    ],
+    "score": 0.4376111213346357
+  },
+  {
+    "name": "Tarantula Leggings",
+    "item_id": "TARANTULA_LEGGINGS",
+    "material_cost": 839619.4463880636,
+    "ah_price": 2100000,
+    "profit": 1218380.5536119365,
+    "margin_pct": 145.11104511136028,
+    "ah_sales": 8,
+    "ingredients": [
+      {
+        "name": "Tarantula Silk",
+        "amount": 3,
+        "price": 278671.79923954373
+      },
+      {
+        "name": "Enchanted Iron",
+        "amount": 4,
+        "price": 901.0121673580896
+      }
+    ],
+    "score": 0.437532899005593
+  },
+  {
+    "name": "Gemstone Gauntlet",
+    "item_id": "GEMSTONE_GAUNTLET",
+    "material_cost": 15374422.12523388,
+    "ah_price": 19749000,
+    "profit": 3979597.8747661207,
+    "margin_pct": 25.884536292485738,
+    "ah_sales": 6,
+    "ingredients": [
+      {
+        "name": "Flawless Ruby Gem",
+        "amount": 8,
+        "price": 1911411.527027027
+      },
+      {
+        "name": "Enchanted Gold Block",
+        "amount": 1,
+        "price": 83129.90901766348
+      }
+    ],
+    "score": 0.4351417246699998
+  },
+  {
+    "name": "Sponge Leggings",
+    "item_id": "SPONGE_LEGGINGS",
+    "material_cost": 559675.2000000001,
+    "ah_price": 1000000,
+    "profit": 420324.79999999993,
+    "margin_pct": 75.10155890416439,
+    "ah_sales": 13,
+    "ingredients": [
+      {
+        "name": "Enchanted Wet Sponge",
+        "amount": 7,
+        "price": 79953.6
+      }
+    ],
+    "score": 0.4338394091166211
+  },
+  {
+    "name": "Skeleton's Helmet",
+    "item_id": "SKELETON_HELMET",
+    "material_cost": 4226.543823993687,
+    "ah_price": 1980000,
+    "profit": 1936173.4561760062,
+    "margin_pct": 45809.8516614103,
+    "ah_sales": 3,
+    "ingredients": [
+      {
+        "name": "Enchanted Bone",
+        "amount": 5,
+        "price": 845.3087647987372
+      }
+    ],
+    "score": 0.4336868645030402
+  },
+  {
+    "name": "Chestplate of the Pack",
+    "item_id": "CHESTPLATE_OF_THE_PACK",
+    "material_cost": 696848.2732219147,
+    "ah_price": 3200000,
+    "profit": 2439151.7267780853,
+    "margin_pct": 350.0262281630604,
+    "ah_sales": 5,
+    "ingredients": [
+      {
+        "name": "Enchanted Mutton",
+        "amount": 4,
+        "price": 1190.1701836801803
+      },
+      {
+        "name": "Golden Tooth",
+        "amount": 4,
+        "price": 173021.8981217985
+      }
+    ],
+    "score": 0.43087895968817397
+  },
+  {
+    "name": "Holy Dragon Helmet",
+    "item_id": "HOLY_DRAGON_HELMET",
+    "material_cost": 59762.277777777774,
+    "ah_price": 1349000,
+    "profit": 1262257.7222222222,
+    "margin_pct": 2112.1312124612236,
+    "ah_sales": 5,
+    "ingredients": [
+      {
+        "name": "Holy Fragment",
+        "amount": 5,
+        "price": 11952.455555555554
+      }
+    ],
+    "score": 0.42733348551243466
+  },
+  {
+    "name": "Old Dragon Leggings",
+    "item_id": "OLD_DRAGON_LEGGINGS",
+    "material_cost": 69152.16364764268,
+    "ah_price": 1400000,
+    "profit": 1302847.8363523574,
+    "margin_pct": 1884.0304737113893,
+    "ah_sales": 5,
+    "ingredients": [
+      {
+        "name": "Old Fragment",
+        "amount": 7,
+        "price": 9878.88052109181
+      }
+    ],
+    "score": 0.42715513550246204
+  },
+  {
+    "name": "Revenant Boots",
+    "item_id": "REVENANT_BOOTS",
+    "material_cost": 142653.3849385116,
+    "ah_price": 994998,
+    "profit": 832444.6550614885,
+    "margin_pct": 583.5435699056845,
+    "ah_sales": 7,
+    "ingredients": [
+      {
+        "name": "Enchanted Diamond",
+        "amount": 2,
+        "price": 1329.3931573291795
+      },
+      {
+        "name": "Revenant Viscera",
+        "amount": 2,
+        "price": 69997.29931192662
+      }
+    ],
+    "score": 0.42708659502004853
+  },
+  {
+    "name": "Lava Shell Necklace",
+    "item_id": "LAVA_SHELL_NECKLACE",
+    "material_cost": 2891099.9538106606,
+    "ah_price": 4700000,
+    "profit": 1714900.0461893394,
+    "margin_pct": 59.316525667989715,
+    "ah_sales": 7,
+    "ingredients": [
+      {
+        "name": "Lava Shell",
+        "amount": 8,
+        "price": 361233.71
+      },
+      {
+        "name": "Gazing Pearl",
+        "amount": 1,
+        "price": 1230.2738106603024
+      }
+    ],
+    "score": 0.42705321162472487
+  },
+  {
+    "name": "Sponge Helmet",
+    "item_id": "SPONGE_HELMET",
+    "material_cost": 399768.0,
+    "ah_price": 795998,
+    "profit": 380310.04000000004,
+    "margin_pct": 95.1326869584359,
+    "ah_sales": 12,
+    "ingredients": [
+      {
+        "name": "Enchanted Wet Sponge",
+        "amount": 5,
+        "price": 79953.6
+      }
+    ],
+    "score": 0.42517481120375694
+  },
+  {
+    "name": "Helmet of the Pack",
+    "item_id": "HELMET_OF_THE_PACK",
+    "material_cost": 523826.3751001162,
+    "ah_price": 2600000,
+    "profit": 2024173.6248998838,
+    "margin_pct": 386.4207151678863,
+    "ah_sales": 5,
+    "ingredients": [
+      {
+        "name": "Golden Tooth",
+        "amount": 3,
+        "price": 173021.8981217985
+      },
+      {
+        "name": "Enchanted Mutton",
+        "amount": 4,
+        "price": 1190.1701836801803
+      }
+    ],
+    "score": 0.4247561544947561
+  },
+  {
+    "name": "Thunder Helmet",
+    "item_id": "THUNDER_HELMET",
+    "material_cost": 320971.4782178218,
+    "ah_price": 3000000,
+    "profit": 2619028.5217821784,
+    "margin_pct": 815.9692369939548,
+    "ah_sales": 4,
+    "ingredients": [
+      {
+        "name": "Thunder Shards",
+        "amount": 5,
+        "price": 64194.29564356436
+      }
+    ],
+    "score": 0.422873428043806
+  },
+  {
+    "name": "Golem Armor Chestplate",
+    "item_id": "GOLEM_ARMOR_CHESTPLATE",
+    "material_cost": 7208.097338864717,
+    "ah_price": 500000,
+    "profit": 482791.9026611353,
+    "margin_pct": 6697.910418856462,
+    "ah_sales": 6,
+    "ingredients": [
+      {
+        "name": "Enchanted Iron",
+        "amount": 8,
+        "price": 901.0121673580896
+      }
+    ],
+    "score": 0.4212961531346314
+  },
+  {
+    "name": "Burststopper Talisman",
+    "item_id": "BURSTSTOPPER_TALISMAN",
+    "material_cost": 2616034.971267892,
+    "ah_price": 57989999,
+    "profit": 54214164.0487321,
+    "margin_pct": 2072.3791785725466,
+    "ah_sales": 1,
+    "ingredients": [
+      {
+        "name": "Whipped Magma Cream",
+        "amount": 4,
+        "price": 205369.4717034522
+      },
+      {
+        "name": "Molten Powder",
+        "amount": 4,
+        "price": 318874.3022779043
+      },
+      {
+        "name": "Refined Titanium",
+        "amount": 1,
+        "price": 519059.8753424658
+      }
+    ],
+    "score": 0.42123152827410054
+  },
+  {
+    "name": "Demonslayer Gauntlet",
+    "item_id": "DEMONLORD_GAUNTLET",
+    "material_cost": 1064811.411831121,
+    "ah_price": 44800000,
+    "profit": 42839188.58816888,
+    "margin_pct": 4023.1714378886822,
+    "ah_sales": 1,
+    "ingredients": [
+      {
+        "name": "Enchanted Glowstone",
+        "amount": 2,
+        "price": 52904.840092165905
+      },
+      {
+        "name": "Molten Powder",
+        "amount": 3,
+        "price": 318874.3022779043
+      },
+      {
+        "name": "Enchanted Rabbit Hide",
+        "amount": 3,
+        "price": 792.941604358799
+      }
+    ],
+    "score": 0.42022413850450413
+  },
+  {
+    "name": "Boots of the Pack",
+    "item_id": "BOOTS_OF_THE_PACK",
+    "material_cost": 348424.1366109573,
+    "ah_price": 2799995,
+    "profit": 2395570.9633890428,
+    "margin_pct": 687.5444929533927,
+    "ah_sales": 4,
+    "ingredients": [
+      {
+        "name": "Golden Tooth",
+        "amount": 2,
+        "price": 173021.8981217985
+      },
+      {
+        "name": "Enchanted Mutton",
+        "amount": 2,
+        "price": 1190.1701836801803
+      }
+    ],
+    "score": 0.4172161568883639
+  },
+  {
+    "name": "Stereo Pants",
+    "item_id": "MUSIC_PANTS",
+    "material_cost": 7653.08817636933,
+    "ah_price": 430000,
+    "profit": 413746.9118236307,
+    "margin_pct": 5406.27394182089,
+    "ah_sales": 6,
+    "ingredients": [
+      {
+        "name": "Enchanted Sponge",
+        "amount": 3,
+        "price": 2546.63389212828
+      },
+      {
+        "name": "Prismarine Shard",
+        "amount": 4,
+        "price": 3.296624996122468
+      }
+    ],
+    "score": 0.41253156726096685
+  },
+  {
+    "name": "Travel Scroll to the End",
+    "item_id": "DANGER_3_TRAVEL_SCROLL",
+    "material_cost": 9096.005816834668,
+    "ah_price": 445000,
+    "profit": 427003.9941831653,
+    "margin_pct": 4694.412061532289,
+    "ah_sales": 6,
+    "ingredients": [
+      {
+        "name": "Enchanted Obsidian",
+        "amount": 3,
+        "price": 2327.0696472782224
+      },
+      {
+        "name": "Enchanted Endstone",
+        "amount": 5,
+        "price": 349.359375
+      },
+      {
+        "name": "Enchanted Ender Pearl",
+        "amount": 1,
+        "price": 368.0
+      }
+    ],
+    "score": 0.4120128534611005
+  },
+  {
+    "name": "Blobfish Hat",
+    "item_id": "BLOBFISH_HAT",
+    "material_cost": 109.14154672293786,
+    "ah_price": 150000,
+    "profit": 146890.85845327706,
+    "margin_pct": 134587.4809949029,
+    "ah_sales": 6,
+    "ingredients": [
+      {
+        "name": "Water Lily",
+        "amount": 5,
+        "price": 10.15
+      },
+      {
+        "name": "Clay Ball",
+        "amount": 4,
+        "price": 14.597886680734465
+      }
+    ],
+    "score": 0.4118162178485584
+  },
+  {
+    "name": "Cropie Talisman",
+    "item_id": "CROPIE_TALISMAN",
+    "material_cost": 201838.77047244096,
+    "ah_price": 6998998,
+    "profit": 6657179.269527559,
+    "margin_pct": 3298.2658653464846,
+    "ah_sales": 2,
+    "ingredients": [
+      {
+        "name": "Cropie",
+        "amount": 8,
+        "price": 25229.84630905512
+      }
+    ],
+    "score": 0.4107049884643886
+  },
+  {
+    "name": "Salmon Helmet",
+    "item_id": "SALMON_HELMET_NEW",
+    "material_cost": 7924.0,
+    "ah_price": 200000,
+    "profit": 188076.0,
+    "margin_pct": 2373.4982332155478,
+    "ah_sales": 9,
+    "ingredients": [
+      {
+        "name": "Enchanted Raw Salmon",
+        "amount": 5,
+        "price": 1584.8
+      }
+    ],
+    "score": 0.40999706455494755
+  },
+  {
+    "name": "Travel Scroll to the Void Sepulture",
+    "item_id": "VOID_SEPULTURE_TRAVEL_SCROLL",
+    "material_cost": 472953.61048032343,
+    "ah_price": 1489999,
+    "profit": 987245.4095196766,
+    "margin_pct": 208.74043196689996,
+    "ah_sales": 6,
+    "ingredients": [
+      {
+        "name": "Null Ovoid",
+        "amount": 3,
+        "price": 152339.03009708735
+      },
+      {
+        "name": "Raw Soulflow",
+        "amount": 5,
+        "price": 535.0
+      },
+      {
+        "name": "Absolute Ender Pearl",
+        "amount": 1,
+        "price": 13261.52018906144
+      }
+    ],
+    "score": 0.4062070398552139
+  },
+  {
+    "name": "Thunderbolt Necklace",
+    "item_id": "THUNDERBOLT_NECKLACE",
+    "material_cost": 320971.4782178218,
+    "ah_price": 1000000,
+    "profit": 659028.5217821782,
+    "margin_pct": 205.3230789979849,
+    "ah_sales": 7,
+    "ingredients": [
+      {
+        "name": "Thunder Shards",
+        "amount": 5,
+        "price": 64194.29564356436
+      }
+    ],
+    "score": 0.4048258478277078
+  },
+  {
+    "name": "Protector Dragon Leggings",
+    "item_id": "PROTECTOR_DRAGON_LEGGINGS",
+    "material_cost": 68519.1893214683,
+    "ah_price": 1350000,
+    "profit": 1254480.8106785316,
+    "margin_pct": 1830.8459616954053,
+    "ah_sales": 4,
+    "ingredients": [
+      {
+        "name": "Protector Fragment",
+        "amount": 7,
+        "price": 9788.455617352614
+      }
+    ],
+    "score": 0.40392274235311965
+  },
+  {
+    "name": "Soul Esoward",
+    "item_id": "SOUL_ESOWARD",
+    "material_cost": 1985418.8419598117,
+    "ah_price": 4700000,
+    "profit": 2620581.1580401883,
+    "margin_pct": 131.99135127847413,
+    "ah_sales": 4,
+    "ingredients": [
+      {
+        "name": "Enchanted Birch Log",
+        "amount": 4,
+        "price": 399.89837532169673
+      },
+      {
+        "name": "Summoning Eye",
+        "amount": 1,
+        "price": 1374463.1280701754
+      },
+      {
+        "name": "Null Ovoid",
+        "amount": 4,
+        "price": 152339.03009708735
+      }
+    ],
+    "score": 0.4001486603300955
+  },
+  {
+    "name": "Berserker Boots",
+    "item_id": "BERSERKER_BOOTS",
+    "material_cost": 422205.8011232517,
+    "ah_price": 1225000,
+    "profit": 778294.1988767483,
+    "margin_pct": 184.34000594168677,
+    "ah_sales": 6,
+    "ingredients": [
+      {
+        "name": "Enchanted Red Sand Cube",
+        "amount": 2,
+        "price": 209999.99830985916
+      },
+      {
+        "name": "Magma Chunk",
+        "amount": 2,
+        "price": 1102.9022517666788
+      }
+    ],
+    "score": 0.39527153907563184
+  },
+  {
+    "name": "Protector Dragon Helmet",
+    "item_id": "PROTECTOR_DRAGON_HELMET",
+    "material_cost": 48942.27808676307,
+    "ah_price": 999999,
+    "profit": 931056.7419132369,
+    "margin_pct": 1902.3567727327563,
+    "ah_sales": 4,
+    "ingredients": [
+      {
+        "name": "Protector Fragment",
+        "amount": 5,
+        "price": 9788.455617352614
+      }
+    ],
+    "score": 0.39263718229921096
+  },
+  {
+    "name": "Amethyst Power Scroll",
+    "item_id": "AMETHYST_POWER_SCROLL",
+    "material_cost": 33152.41492229653,
+    "ah_price": 1440000,
+    "profit": 1378047.5850777035,
+    "margin_pct": 4156.703480900581,
+    "ah_sales": 3,
+    "ingredients": [
+      {
+        "name": "Enchanted Paper",
+        "amount": 3,
+        "price": 1662.7797515297607
+      },
+      {
+        "name": "Fine Amethyst Gem",
+        "amount": 1,
+        "price": 28164.075667707246
+      }
+    ],
+    "score": 0.3903023000112792
+  },
+  {
+    "name": "Rabbit Boots",
+    "item_id": "RABBIT_BOOTS",
+    "material_cost": 3150.779715832734,
+    "ah_price": 450000,
+    "profit": 437849.22028416727,
+    "margin_pct": 13896.535453874028,
+    "ah_sales": 4,
+    "ingredients": [
+      {
+        "name": "Enchanted Rabbit Hide",
+        "amount": 2,
+        "price": 792.941604358799
+      },
+      {
+        "name": "Enchanted Rabbit Foot",
+        "amount": 2,
+        "price": 782.448253557568
+      }
+    ],
+    "score": 0.3877023136510457
+  },
+  {
+    "name": "Small Backpack",
+    "item_id": "SMALL_BACKPACK",
+    "material_cost": 1128.0,
+    "ah_price": 74000,
+    "profit": 71392.0,
+    "margin_pct": 6329.078014184397,
+    "ah_sales": 9,
+    "ingredients": [
+      {
+        "name": "Leather",
+        "amount": 8,
+        "price": 141.0
+      }
+    ],
+    "score": 0.38402558305897017
+  },
+  {
+    "name": "Holy Dragon Boots",
+    "item_id": "HOLY_DRAGON_BOOTS",
+    "material_cost": 47809.82222222222,
+    "ah_price": 1400000,
+    "profit": 1324190.177777778,
+    "margin_pct": 2769.7032037117433,
+    "ah_sales": 3,
+    "ingredients": [
+      {
+        "name": "Holy Fragment",
+        "amount": 4,
+        "price": 11952.455555555554
+      }
+    ],
+    "score": 0.3836595331177574
+  },
+  {
+    "name": "Emerald Armor Leggings",
+    "item_id": "EMERALD_ARMOR_LEGGINGS",
+    "material_cost": 741999.2459605027,
+    "ah_price": 3299999,
+    "profit": 2491999.7740394976,
+    "margin_pct": 335.8493674496469,
+    "ah_sales": 3,
+    "ingredients": [
+      {
+        "name": "Enchanted Emerald Block",
+        "amount": 7,
+        "price": 105999.89228007181
+      }
+    ],
+    "score": 0.3822598327911048
+  },
+  {
+    "name": "Young Dragon Leggings",
+    "item_id": "YOUNG_DRAGON_LEGGINGS",
+    "material_cost": 58910.407401996585,
+    "ah_price": 1390000,
+    "profit": 1303289.5925980033,
+    "margin_pct": 2212.324867666477,
+    "ah_sales": 3,
+    "ingredients": [
+      {
+        "name": "Young Fragment",
+        "amount": 7,
+        "price": 8415.772485999512
+      }
+    ],
+    "score": 0.38022586200280156
+  },
+  {
+    "name": "Berserker Helmet",
+    "item_id": "BERSERKER_HELMET",
+    "material_cost": 423458.60112325166,
+    "ah_price": 1250000,
+    "profit": 801541.3988767483,
+    "margin_pct": 189.28447710132875,
+    "ah_sales": 5,
+    "ingredients": [
+      {
+        "name": "Magma Chunk",
+        "amount": 2,
+        "price": 1102.9022517666788
+      },
+      {
+        "name": "Burning Eye",
+        "amount": 1,
+        "price": 1252.8
+      },
+      {
+        "name": "Enchanted Red Sand Cube",
+        "amount": 2,
+        "price": 209999.99830985916
+      }
+    ],
+    "score": 0.37929284648751344
+  },
+  {
+    "name": "Emerald Armor Boots",
+    "item_id": "EMERALD_ARMOR_BOOTS",
+    "material_cost": 423999.56912028725,
+    "ah_price": 999888,
+    "profit": 555890.6708797128,
+    "margin_pct": 131.10642353554104,
+    "ah_sales": 6,
+    "ingredients": [
+      {
+        "name": "Enchanted Emerald Block",
+        "amount": 4,
+        "price": 105999.89228007181
+      }
+    ],
+    "score": 0.37773786931043973
+  },
+  {
+    "name": "Delirium Necklace",
+    "item_id": "DELIRIUM_NECKLACE",
+    "material_cost": 136095.67663799002,
+    "ah_price": 1600000,
+    "profit": 1431904.32336201,
+    "margin_pct": 1052.1306471555506,
+    "ah_sales": 3,
+    "ingredients": [
+      {
+        "name": "Gazing Pearl",
+        "amount": 4,
+        "price": 1230.2738106603024
+      },
+      {
+        "name": "Rekindled Ember Fragment",
+        "amount": 1,
+        "price": 131174.58139534883
+      }
+    ],
+    "score": 0.374657985799415
+  },
+  {
+    "name": "Rabbit Chestplate",
+    "item_id": "RABBIT_CHESTPLATE",
+    "material_cost": 6322.546133267931,
+    "ah_price": 699000,
+    "profit": 678697.4538667321,
+    "margin_pct": 10734.559140589996,
+    "ah_sales": 3,
+    "ingredients": [
+      {
+        "name": "Enchanted Rabbit Hide",
+        "amount": 6,
+        "price": 792.941604358799
+      },
+      {
+        "name": "Enchanted Rabbit Foot",
+        "amount": 2,
+        "price": 782.448253557568
+      }
+    ],
+    "score": 0.37420547471504106
+  },
+  {
+    "name": "Prismarine Bricks",
+    "item_id": "PRISMARINE-1",
+    "material_cost": 29.669624965102212,
+    "ah_price": 399000,
+    "profit": 390990.3303750349,
+    "margin_pct": 1317813.524218532,
+    "ah_sales": 2,
+    "ingredients": [
+      {
+        "name": "Prismarine Shard",
+        "amount": 9,
+        "price": 3.296624996122468
+      }
+    ],
+    "score": 0.37366244311303953
+  },
+  {
+    "name": "Golem Armor Leggings",
+    "item_id": "GOLEM_ARMOR_LEGGINGS",
+    "material_cost": 6307.085171506627,
+    "ah_price": 650000,
+    "profit": 630692.9148284934,
+    "margin_pct": 9999.75262230103,
+    "ah_sales": 3,
+    "ingredients": [
+      {
+        "name": "Enchanted Iron",
+        "amount": 7,
+        "price": 901.0121673580896
+      }
+    ],
+    "score": 0.3704256565222273
+  },
+  {
+    "name": "Golem Armor Helmet",
+    "item_id": "GOLEM_ARMOR_HELMET",
+    "material_cost": 4505.060836790448,
+    "ah_price": 350000,
+    "profit": 338494.9391632096,
+    "margin_pct": 7513.65966911924,
+    "ah_sales": 4,
+    "ingredients": [
+      {
+        "name": "Enchanted Iron",
+        "amount": 5,
+        "price": 901.0121673580896
+      }
+    ],
+    "score": 0.3698688238898786
+  },
+  {
+    "name": "Deepterror Mixin",
+    "item_id": "DEEPTERROR_MIXIN",
+    "material_cost": 2310029.8727272726,
+    "ah_price": 3800000,
+    "profit": 1413970.1272727274,
+    "margin_pct": 61.21003645737979,
+    "ah_sales": 4,
+    "ingredients": [
+      {
+        "name": "Mite Gel",
+        "amount": 4,
+        "price": 2239.5
+      },
+      {
+        "name": "Ritual Residue",
+        "amount": 1,
+        "price": 2301071.8727272726
+      }
+    ],
+    "score": 0.3662087235937532
+  },
+  {
+    "name": "Hardened Diamond Helmet",
+    "item_id": "HARDENED_DIAMOND_HELMET",
+    "material_cost": 6646.965786645897,
+    "ah_price": 350000,
+    "profit": 336353.0342133541,
+    "margin_pct": 5060.249217607002,
+    "ah_sales": 4,
+    "ingredients": [
+      {
+        "name": "Enchanted Diamond",
+        "amount": 5,
+        "price": 1329.3931573291795
+      }
+    ],
+    "score": 0.36468187861081935
+  },
+  {
+    "name": "Salmon Chestplate",
+    "item_id": "SALMON_CHESTPLATE_NEW",
+    "material_cost": 12678.4,
+    "ah_price": 200000,
+    "profit": 183321.6,
+    "margin_pct": 1445.9363957597175,
+    "ah_sales": 6,
+    "ingredients": [
+      {
+        "name": "Enchanted Raw Salmon",
+        "amount": 8,
+        "price": 1584.8
+      }
+    ],
+    "score": 0.363945156467066
+  },
+  {
+    "name": "Dragonfade Cloak",
+    "item_id": "DRAGONFADE_CLOAK",
+    "material_cost": 6938696.65855994,
+    "ah_price": 13400000,
+    "profit": 6193303.34144006,
+    "margin_pct": 89.2574448228642,
+    "ah_sales": 2,
+    "ingredients": [
+      {
+        "name": "Ritual Residue",
+        "amount": 3,
+        "price": 2301071.8727272726
+      },
+      {
+        "name": "Mite Gel",
+        "amount": 4,
+        "price": 2239.5
+      },
+      {
+        "name": "Absolute Ender Pearl",
+        "amount": 2,
+        "price": 13261.52018906144
+      }
+    ],
+    "score": 0.36277915012672335
+  },
+  {
+    "name": "Portal to The Barn",
+    "item_id": "FARMING_1_PORTAL",
+    "material_cost": 79.0500983990045,
+    "ah_price": 399000,
+    "profit": 390940.949901601,
+    "margin_pct": 494548.3406337218,
+    "ah_sales": 2,
+    "ingredients": [
+      {
+        "name": "Carrot Item",
+        "amount": 3,
+        "price": 8.33848398678373
+      },
+      {
+        "name": "Potato Item",
+        "amount": 5,
+        "price": 7.557279951828691
+      },
+      {
+        "name": "Ender Pearl",
+        "amount": 1,
+        "price": 16.24824667950985
+      }
+    ],
+    "score": 0.36141843150287045
+  },
+  {
+    "name": "Tarantula Chestplate",
+    "item_id": "TARANTULA_CHESTPLATE",
+    "material_cost": 1118291.2456276072,
+    "ah_price": 4999000,
+    "profit": 3780728.754372393,
+    "margin_pct": 338.08086839225615,
+    "ah_sales": 2,
+    "ingredients": [
+      {
+        "name": "Enchanted Iron",
+        "amount": 4,
+        "price": 901.0121673580896
+      },
+      {
+        "name": "Tarantula Silk",
+        "amount": 4,
+        "price": 278671.79923954373
+      }
+    ],
+    "score": 0.3599363055110541
+  },
+  {
+    "name": "Boots of Growth",
+    "item_id": "GROWTH_BOOTS",
+    "material_cost": 9078.8,
+    "ah_price": 1190000,
+    "profit": 1157121.2,
+    "margin_pct": 12745.309952857207,
+    "ah_sales": 2,
+    "ingredients": [
+      {
+        "name": "Enchanted Dark Oak Log",
+        "amount": 4,
+        "price": 2269.7
+      }
+    ],
+    "score": 0.3585471864478402
+  },
+  {
+    "name": "Hardened Diamond Chestplate",
+    "item_id": "HARDENED_DIAMOND_CHESTPLATE",
+    "material_cost": 10635.145258633436,
+    "ah_price": 350000,
+    "profit": 332364.8547413666,
+    "margin_pct": 3125.155761004376,
+    "ah_sales": 4,
+    "ingredients": [
+      {
+        "name": "Enchanted Diamond",
+        "amount": 8,
+        "price": 1329.3931573291795
+      }
+    ],
+    "score": 0.35819301827326727
+  },
+  {
+    "name": "Magma Lord Gauntlet",
+    "item_id": "MAGMA_LORD_GAUNTLET",
+    "material_cost": 27714215.199999996,
+    "ah_price": 31999999,
+    "profit": 3645783.820000004,
+    "margin_pct": 13.154923542630225,
+    "ah_sales": 3,
+    "ingredients": [
+      {
+        "name": "Magma Lord Fragment",
+        "amount": 6,
+        "price": 4619035.866666666
+      }
+    ],
+    "score": 0.3568136475086066
+  },
+  {
+    "name": "Draconic Talisman",
+    "item_id": "DRACONIC_TALISMAN",
+    "material_cost": 4628842.265643607,
+    "ah_price": 7000000,
+    "profit": 2231157.734356393,
+    "margin_pct": 48.201204670908496,
+    "ah_sales": 3,
+    "ingredients": [
+      {
+        "name": "Ritual Residue",
+        "amount": 2,
+        "price": 2301071.8727272726
+      },
+      {
+        "name": "Mite Gel",
+        "amount": 6,
+        "price": 2239.5
+      },
+      {
+        "name": "Absolute Ender Pearl",
+        "amount": 1,
+        "price": 13261.52018906144
+      }
+    ],
+    "score": 0.3536552362864809
+  },
+  {
+    "name": "Thunder Leggings",
+    "item_id": "THUNDER_LEGGINGS",
+    "material_cost": 449360.0695049505,
+    "ah_price": 3130000,
+    "profit": 2618039.9304950493,
+    "margin_pct": 582.6151694740663,
+    "ah_sales": 2,
+    "ingredients": [
+      {
+        "name": "Thunder Shards",
+        "amount": 7,
+        "price": 64194.29564356436
+      }
+    ],
+    "score": 0.35223298458997204
+  },
+  {
+    "name": "Protector Dragon Boots",
+    "item_id": "PROTECTOR_DRAGON_BOOTS",
+    "material_cost": 39153.82246941046,
+    "ah_price": 1500000,
+    "profit": 1430846.1775305895,
+    "margin_pct": 3654.4227032966214,
+    "ah_sales": 2,
+    "ingredients": [
+      {
+        "name": "Protector Fragment",
+        "amount": 4,
+        "price": 9788.455617352614
+      }
+    ],
+    "score": 0.35132489210047774
+  },
+  {
+    "name": "Emerald Armor Chestplate",
+    "item_id": "EMERALD_ARMOR_CHESTPLATE",
+    "material_cost": 847999.1382405745,
+    "ah_price": 3900000,
+    "profit": 2974000.8617594256,
+    "margin_pct": 350.70800519088635,
+    "ah_sales": 2,
+    "ingredients": [
+      {
+        "name": "Enchanted Emerald Block",
+        "amount": 8,
+        "price": 105999.89228007181
+      }
+    ],
+    "score": 0.3509244708415351
+  },
+  {
+    "name": "Young Dragon Helmet",
+    "item_id": "YOUNG_DRAGON_HELMET",
+    "material_cost": 42078.86242999756,
+    "ah_price": 5000000,
+    "profit": 4857921.137570002,
+    "margin_pct": 11544.801491845565,
+    "ah_sales": 1,
+    "ingredients": [
+      {
+        "name": "Young Fragment",
+        "amount": 5,
+        "price": 8415.772485999512
+      }
+    ],
+    "score": 0.34749908016329706
+  },
+  {
+    "name": "Rekindled Ember Boots",
+    "item_id": "REKINDLED_EMBER_BOOTS",
+    "material_cost": 524698.3255813953,
+    "ah_price": 1000000,
+    "profit": 455301.6744186047,
+    "margin_pct": 86.77399035228572,
+    "ah_sales": 5,
+    "ingredients": [
+      {
+        "name": "Rekindled Ember Fragment",
+        "amount": 4,
+        "price": 131174.58139534883
+      }
+    ],
+    "score": 0.34723781633841366
+  },
+  {
+    "name": "Hardened Diamond Boots",
+    "item_id": "HARDENED_DIAMOND_BOOTS",
+    "material_cost": 5317.572629316718,
+    "ah_price": 350000,
+    "profit": 337682.4273706833,
+    "margin_pct": 6350.311522008752,
+    "ah_sales": 3,
+    "ingredients": [
+      {
+        "name": "Enchanted Diamond",
+        "amount": 4,
+        "price": 1329.3931573291795
+      }
+    ],
+    "score": 0.34010693089635036
+  },
+  {
+    "name": "Sponge Chestplate",
+    "item_id": "SPONGE_CHESTPLATE",
+    "material_cost": 639628.8,
+    "ah_price": 949000,
+    "profit": 290391.19999999995,
+    "margin_pct": 45.39995697504551,
+    "ah_sales": 6,
+    "ingredients": [
+      {
+        "name": "Enchanted Wet Sponge",
+        "amount": 8,
+        "price": 79953.6
+      }
+    ],
+    "score": 0.3388742862856203
+  },
+  {
+    "name": "Golem Armor Boots",
+    "item_id": "GOLEM_ARMOR_BOOTS",
+    "material_cost": 3604.0486694323586,
+    "ah_price": 299000,
+    "profit": 289415.95133056765,
+    "margin_pct": 8030.300860952329,
+    "ah_sales": 3,
+    "ingredients": [
+      {
+        "name": "Enchanted Iron",
+        "amount": 4,
+        "price": 901.0121673580896
+      }
+    ],
+    "score": 0.3369523190477496
+  },
+  {
+    "name": "Weird Tuba",
+    "item_id": "WEIRD_TUBA",
+    "material_cost": 177526.95895858895,
+    "ah_price": 5600000,
+    "profit": 5310473.041041411,
+    "margin_pct": 2991.361465432507,
+    "ah_sales": 1,
+    "ingredients": [
+      {
+        "name": "Enchanted Iron",
+        "amount": 5,
+        "price": 901.0121673580896
+      },
+      {
+        "name": "Golden Tooth",
+        "amount": 1,
+        "price": 173021.8981217985
+      }
+    ],
+    "score": 0.3341486635885171
+  },
+  {
+    "name": "Personal Bank Item",
+    "item_id": "PERSONAL_BANK_ITEM",
+    "material_cost": 1051.7794051260614,
+    "ah_price": 80000,
+    "profit": 77348.22059487394,
+    "margin_pct": 7354.034526432217,
+    "ah_sales": 5,
+    "ingredients": [
+      {
+        "name": "Emerald",
+        "amount": 8,
+        "price": 8.781898653157388
+      },
+      {
+        "name": "Enchanted Emerald",
+        "amount": 1,
+        "price": 981.5242159008023
+      }
+    ],
+    "score": 0.3327384331529669
+  },
+  {
+    "name": "Crystal Leggings",
+    "item_id": "CRYSTAL_LEGGINGS",
+    "material_cost": 833332.5518518519,
+    "ah_price": 1850000,
+    "profit": 979667.4481481481,
+    "margin_pct": 117.56020402312465,
+    "ah_sales": 3,
+    "ingredients": [
+      {
+        "name": "Crystal Fragment",
+        "amount": 7,
+        "price": 119047.50740740741
+      }
+    ],
+    "score": 0.332314238212085
+  },
+  {
+    "name": "Emerald Armor Helmet",
+    "item_id": "EMERALD_ARMOR_HELMET",
+    "material_cost": 529999.461400359,
+    "ah_price": 1399999,
+    "profit": 841999.558599641,
+    "margin_pct": 158.8680026909685,
+    "ah_sales": 3,
+    "ingredients": [
+      {
+        "name": "Enchanted Emerald Block",
+        "amount": 5,
+        "price": 105999.89228007181
+      }
+    ],
+    "score": 0.33009963722056357
+  },
+  {
+    "name": "Strong Dragon Boots",
+    "item_id": "STRONG_DRAGON_BOOTS",
+    "material_cost": 236996.34846625765,
+    "ah_price": 4999000,
+    "profit": 4662023.651533742,
+    "margin_pct": 1967.1288953203,
+    "ah_sales": 1,
+    "ingredients": [
+      {
+        "name": "Strong Fragment",
+        "amount": 4,
+        "price": 59249.08711656441
+      }
+    ],
+    "score": 0.32377600026606446
+  },
+  {
+    "name": "Lesser Orb of Healing",
+    "item_id": "LESSER_ORB_OF_HEALING",
+    "material_cost": 12396.967435158502,
+    "ah_price": 40000,
+    "profit": 26803.0325648415,
+    "margin_pct": 216.20636421796658,
+    "ah_sales": 11,
+    "ingredients": [
+      {
+        "name": "Mimic Fragment",
+        "amount": 9,
+        "price": 1377.4408261287224
+      }
+    ],
+    "score": 0.3224335710209524
+  },
+  {
+    "name": "Blaze Boots",
+    "item_id": "BLAZE_BOOTS",
+    "material_cost": 1017981.4627306273,
+    "ah_price": 1888888,
+    "profit": 833128.7772693727,
+    "margin_pct": 81.84125229889679,
+    "ah_sales": 3,
+    "ingredients": [
+      {
+        "name": "Enchanted Blaze Rod",
+        "amount": 4,
+        "price": 254495.36568265682
+      }
+    ],
+    "score": 0.3213987352563775
+  },
+  {
+    "name": "Revenant Leggings",
+    "item_id": "REVENANT_LEGGINGS",
+    "material_cost": 215309.47056509656,
+    "ah_price": 800000,
+    "profit": 568690.5294349034,
+    "margin_pct": 264.12703906722294,
+    "ah_sales": 3,
+    "ingredients": [
+      {
+        "name": "Revenant Viscera",
+        "amount": 3,
+        "price": 69997.29931192662
+      },
+      {
+        "name": "Enchanted Diamond",
+        "amount": 4,
+        "price": 1329.3931573291795
+      }
+    ],
+    "score": 0.32096367970699624
+  },
+  {
+    "name": "Crystal Chestplate",
+    "item_id": "CRYSTAL_CHESTPLATE",
+    "material_cost": 952380.0592592593,
+    "ah_price": 1800000,
+    "profit": 811619.9407407407,
+    "margin_pct": 85.22017369536289,
+    "ah_sales": 3,
+    "ingredients": [
+      {
+        "name": "Crystal Fragment",
+        "amount": 8,
+        "price": 119047.50740740741
+      }
+    ],
+    "score": 0.3208719392549587
+  },
+  {
+    "name": "Flamebreaker Leggings",
+    "item_id": "FLAME_BREAKER_LEGGINGS",
+    "material_cost": 4292.7405269561405,
+    "ah_price": 200000,
+    "profit": 191707.25947304387,
+    "margin_pct": 4465.84782539787,
+    "ah_sales": 3,
+    "ingredients": [
+      {
+        "name": "Enchanted Hard Stone",
+        "amount": 7,
+        "price": 613.24864670802
+      }
+    ],
+    "score": 0.3133732979886122
+  },
+  {
+    "name": "Strong Dragon Chestplate",
+    "item_id": "STRONG_DRAGON_CHESTPLATE",
+    "material_cost": 473992.6969325153,
+    "ah_price": 4900000,
+    "profit": 4328007.303067485,
+    "margin_pct": 913.0957778625195,
+    "ah_sales": 1,
+    "ingredients": [
+      {
+        "name": "Strong Fragment",
+        "amount": 8,
+        "price": 59249.08711656441
+      }
+    ],
+    "score": 0.31125855581339207
+  },
+  {
+    "name": "Speedster Leggings",
+    "item_id": "SPEEDSTER_LEGGINGS",
+    "material_cost": 738301.9,
+    "ah_price": 1390000,
+    "profit": 623898.1,
+    "margin_pct": 84.50446897129751,
+    "ah_sales": 3,
+    "ingredients": [
+      {
+        "name": "Enchanted Sugar Cane",
+        "amount": 7,
+        "price": 105471.7
+      }
+    ],
+    "score": 0.3103879513034658
+  },
+  {
+    "name": "Tarantula Helmet",
+    "item_id": "TARANTULA_HELMET",
+    "material_cost": 837817.4220533473,
+    "ah_price": 1500000,
+    "profit": 632182.5779466527,
+    "margin_pct": 75.4558882766225,
+    "ah_sales": 3,
+    "ingredients": [
+      {
+        "name": "Tarantula Silk",
+        "amount": 3,
+        "price": 278671.79923954373
+      },
+      {
+        "name": "Enchanted Iron",
+        "amount": 2,
+        "price": 901.0121673580896
+      }
+    ],
+    "score": 0.30949410807588734
+  },
+  {
+    "name": "Blaze Helmet",
+    "item_id": "BLAZE_HELMET",
+    "material_cost": 1272476.8284132842,
+    "ah_price": 2000000,
+    "profit": 687523.1715867158,
+    "margin_pct": 54.03030972627009,
+    "ah_sales": 3,
+    "ingredients": [
+      {
+        "name": "Enchanted Blaze Rod",
+        "amount": 5,
+        "price": 254495.36568265682
+      }
+    ],
+    "score": 0.3086341964993231
+  },
+  {
+    "name": "Blaze Leggings",
+    "item_id": "BLAZE_LEGGINGS",
+    "material_cost": 1781467.5597785977,
+    "ah_price": 3250000,
+    "profit": 1403532.4402214023,
+    "margin_pct": 78.7851809322778,
+    "ah_sales": 2,
+    "ingredients": [
+      {
+        "name": "Enchanted Blaze Rod",
+        "amount": 7,
+        "price": 254495.36568265682
+      }
+    ],
+    "score": 0.30264940310783056
+  },
+  {
+    "name": "Berserker Leggings",
+    "item_id": "BERSERKER_LEGGINGS",
+    "material_cost": 843458.5977429701,
+    "ah_price": 1150000,
+    "profit": 283541.4022570299,
+    "margin_pct": 33.616516923979994,
+    "ah_sales": 4,
+    "ingredients": [
+      {
+        "name": "Enchanted Red Sand Cube",
+        "amount": 4,
+        "price": 209999.99830985916
+      },
+      {
+        "name": "Burning Eye",
+        "amount": 1,
+        "price": 1252.8
+      },
+      {
+        "name": "Magma Chunk",
+        "amount": 2,
+        "price": 1102.9022517666788
+      }
+    ],
+    "score": 0.2953273005758057
+  },
+  {
+    "name": "Hyper Furnace",
+    "item_id": "HYPER_FURNACE",
+    "material_cost": 4008.4274177790617,
+    "ah_price": 80000,
+    "profit": 74391.57258222094,
+    "margin_pct": 1855.8792471147917,
+    "ah_sales": 4,
+    "ingredients": [
+      {
+        "name": "Enchanted Cobblestone",
+        "amount": 8,
+        "price": 299.6562994439288
+      },
+      {
+        "name": "Enchanted Coal",
+        "amount": 1,
+        "price": 1611.1770222276314
+      }
+    ],
+    "score": 0.29262424732740877
+  },
+  {
+    "name": "Chestplate of Growth",
+    "item_id": "GROWTH_CHESTPLATE",
+    "material_cost": 18157.6,
+    "ah_price": 1370000,
+    "profit": 1324442.4,
+    "margin_pct": 7294.149006476627,
+    "ah_sales": 1,
+    "ingredients": [
+      {
+        "name": "Enchanted Dark Oak Log",
+        "amount": 8,
+        "price": 2269.7
+      }
+    ],
+    "score": 0.2904876034512434
+  },
+  {
+    "name": "Rekindled Ember Helmet",
+    "item_id": "REKINDLED_EMBER_HELMET",
+    "material_cost": 655872.9069767441,
+    "ah_price": 1497000,
+    "profit": 811187.0930232559,
+    "margin_pct": 123.68053084589741,
+    "ah_sales": 2,
+    "ingredients": [
+      {
+        "name": "Rekindled Ember Fragment",
+        "amount": 5,
+        "price": 131174.58139534883
+      }
+    ],
+    "score": 0.2866494587060014
+  },
+  {
+    "name": "Thunder Chestplate",
+    "item_id": "THUNDER_CHESTPLATE",
+    "material_cost": 513554.36514851486,
+    "ah_price": 3280000,
+    "profit": 2700845.634851485,
+    "margin_pct": 525.9123119458691,
+    "ah_sales": 1,
+    "ingredients": [
+      {
+        "name": "Thunder Shards",
+        "amount": 8,
+        "price": 64194.29564356436
+      }
+    ],
+    "score": 0.2857638934551381
+  },
+  {
+    "name": "Revenant Chestplate",
+    "item_id": "REVENANT_CHESTPLATE",
+    "material_cost": 285306.7698770232,
+    "ah_price": 945249,
+    "profit": 641037.2501229768,
+    "margin_pct": 224.6835048461295,
+    "ah_sales": 2,
+    "ingredients": [
+      {
+        "name": "Enchanted Diamond",
+        "amount": 4,
+        "price": 1329.3931573291795
+      },
+      {
+        "name": "Revenant Viscera",
+        "amount": 4,
+        "price": 69997.29931192662
+      }
+    ],
+    "score": 0.28481617209690746
+  },
+  {
+    "name": "Rekindled Ember Leggings",
+    "item_id": "REKINDLED_EMBER_LEGGINGS",
+    "material_cost": 918222.0697674418,
+    "ah_price": 1790000,
+    "profit": 835977.9302325582,
+    "margin_pct": 91.04311013176653,
+    "ah_sales": 2,
+    "ingredients": [
+      {
+        "name": "Rekindled Ember Fragment",
+        "amount": 7,
+        "price": 131174.58139534883
+      }
+    ],
+    "score": 0.2840113674928858
+  },
+  {
+    "name": "Holy Dragon Chestplate",
+    "item_id": "HOLY_DRAGON_CHESTPLATE",
+    "material_cost": 95619.64444444444,
+    "ah_price": 1700000,
+    "profit": 1570380.3555555556,
+    "margin_pct": 1642.3198022535582,
+    "ah_sales": 1,
+    "ingredients": [
+      {
+        "name": "Holy Fragment",
+        "amount": 8,
+        "price": 11952.455555555554
+      }
+    ],
+    "score": 0.2785892330171464
+  },
+  {
+    "name": "Speedster Boots",
+    "item_id": "SPEEDSTER_BOOTS",
+    "material_cost": 421886.8,
+    "ah_price": 1050000,
+    "profit": 607113.2,
+    "margin_pct": 143.90428901781235,
+    "ah_sales": 2,
+    "ingredients": [
+      {
+        "name": "Enchanted Sugar Cane",
+        "amount": 4,
+        "price": 105471.7
+      }
+    ],
+    "score": 0.27710702912743346
+  },
+  {
+    "name": "Ichthyic Cloak",
+    "item_id": "ICHTHYIC_CLOAK",
+    "material_cost": 336728.69805570977,
+    "ah_price": 2400000,
+    "profit": 2015271.3019442903,
+    "margin_pct": 598.485164341673,
+    "ah_sales": 1,
+    "ingredients": [
+      {
+        "name": "Blue Shark Tooth",
+        "amount": 2,
+        "price": 47900.23682361209
+      },
+      {
+        "name": "Nurse Shark Tooth",
+        "amount": 1,
+        "price": 39999.18158682635
+      },
+      {
+        "name": "Enchanted Shark Fin",
+        "amount": 4,
+        "price": 50232.26070541481
+      }
+    ],
+    "score": 0.27582503679475523
+  },
+  {
+    "name": "Berserker Chestplate",
+    "item_id": "BERSERKER_CHESTPLATE",
+    "material_cost": 1053458.5960528292,
+    "ah_price": 1250000,
+    "profit": 171541.40394717082,
+    "margin_pct": 16.283639868706175,
+    "ah_sales": 4,
+    "ingredients": [
+      {
+        "name": "Enchanted Red Sand Cube",
+        "amount": 5,
+        "price": 209999.99830985916
+      },
+      {
+        "name": "Burning Eye",
+        "amount": 1,
+        "price": 1252.8
+      },
+      {
+        "name": "Magma Chunk",
+        "amount": 2,
+        "price": 1102.9022517666788
+      }
+    ],
+    "score": 0.26644760020657626
+  },
+  {
+    "name": "Rabbit Helmet",
+    "item_id": "RABBIT_HELMET",
+    "material_cost": 3954.2146709927642,
+    "ah_price": 500000,
+    "profit": 486045.78532900725,
+    "margin_pct": 12291.841130794708,
+    "ah_sales": 1,
+    "ingredients": [
+      {
+        "name": "Enchanted Rabbit Hide",
+        "amount": 4,
+        "price": 792.941604358799
+      },
+      {
+        "name": "Enchanted Rabbit Foot",
+        "amount": 1,
+        "price": 782.448253557568
+      }
+    ],
+    "score": 0.25745220871560964
+  },
+  {
+    "name": "Tera Shell Necklace",
+    "item_id": "TERA_SHELL_NECKLACE",
+    "material_cost": 1366368.65293245,
+    "ah_price": 3298000,
+    "profit": 1865671.34706755,
+    "margin_pct": 136.54231184706376,
+    "ah_sales": 1,
+    "ingredients": [
+      {
+        "name": "Enchanted Red Sand Cube",
+        "amount": 4,
+        "price": 209999.99830985916
+      },
+      {
+        "name": "Enchanted Mycelium Cube",
+        "amount": 4,
+        "price": 131284.59647058824
+      },
+      {
+        "name": "Gazing Pearl",
+        "amount": 1,
+        "price": 1230.2738106603024
+      }
+    ],
+    "score": 0.25432773635018135
+  },
+  {
+    "name": "Crystal Helmet",
+    "item_id": "CRYSTAL_HELMET",
+    "material_cost": 595237.5370370371,
+    "ah_price": 799000,
+    "profit": 187782.46296296292,
+    "margin_pct": 31.54748336230661,
+    "ah_sales": 2,
+    "ingredients": [
+      {
+        "name": "Crystal Fragment",
+        "amount": 5,
+        "price": 119047.50740740741
+      }
+    ],
+    "score": 0.21185624580106596
+  },
+  {
+    "name": "Speedster Chestplate",
+    "item_id": "SPEEDSTER_CHESTPLATE",
+    "material_cost": 843773.6,
+    "ah_price": 1599999,
+    "profit": 724225.42,
+    "margin_pct": 85.83172310676703,
+    "ah_sales": 1,
+    "ingredients": [
+      {
+        "name": "Enchanted Sugar Cane",
+        "amount": 8,
+        "price": 105471.7
+      }
+    ],
+    "score": 0.21119433089881995
+  },
+  {
+    "name": "Blaze Chestplate",
+    "item_id": "BLAZE_CHESTPLATE",
+    "material_cost": 2035962.9254612545,
+    "ah_price": 2900000,
+    "profit": 806037.0745387455,
+    "margin_pct": 39.58996818943228,
+    "ah_sales": 1,
+    "ingredients": [
+      {
+        "name": "Enchanted Blaze Rod",
+        "amount": 8,
+        "price": 254495.36568265682
+      }
+    ],
+    "score": 0.20575400737945876
+  },
+  {
+    "name": "Speedster Helmet",
+    "item_id": "SPEEDSTER_HELMET",
+    "material_cost": 527358.5,
+    "ah_price": 1099999,
+    "profit": 550640.52,
+    "margin_pct": 104.41483734499397,
+    "ah_sales": 1,
+    "ingredients": [
+      {
+        "name": "Enchanted Sugar Cane",
+        "amount": 5,
+        "price": 105471.7
+      }
+    ],
+    "score": 0.20283000230322173
+  },
+  {
+    "name": "Perfect Boots - Tier I",
+    "item_id": "PERFECT_BOOTS_1",
+    "material_cost": 816758.7970802919,
+    "ah_price": 900000,
+    "profit": 65241.2029197081,
+    "margin_pct": 7.987817597181573,
+    "ah_sales": 3,
+    "ingredients": [
+      {
+        "name": "Enchanted Diamond Block",
+        "amount": 4,
+        "price": 204189.69927007298
+      }
+    ],
+    "score": 0.19184360663410008
+  },
+  {
+    "name": "Rekindled Ember Chestplate",
+    "item_id": "REKINDLED_EMBER_CHESTPLATE",
+    "material_cost": 1049396.6511627906,
+    "ah_price": 1500000,
+    "profit": 420603.3488372094,
+    "margin_pct": 40.08049276421429,
+    "ah_sales": 1,
+    "ingredients": [
+      {
+        "name": "Rekindled Ember Fragment",
+        "amount": 8,
+        "price": 131174.58139534883
+      }
+    ],
+    "score": 0.18024413625199692
+  },
+  {
+    "name": "Diamond Leggings",
+    "item_id": "DIAMOND_LEGGINGS",
+    "material_cost": 54.38107377985084,
+    "ah_price": 10000,
+    "profit": 9745.61892622015,
+    "margin_pct": 17920.97553217325,
+    "ah_sales": 1,
+    "ingredients": [
+      {
+        "name": "Diamond",
+        "amount": 7,
+        "price": 7.768724825692977
+      }
+    ],
+    "score": 0.10790847458655564
+  }
+]
