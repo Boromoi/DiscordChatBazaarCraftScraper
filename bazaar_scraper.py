@@ -22,6 +22,7 @@ import csv
 import json
 import asyncio
 import tkinter as tk
+import math
 from tkinter import ttk, messagebox, filedialog
 from datetime import datetime
 from pathlib import Path
@@ -58,8 +59,9 @@ MAX_PAGES    = 50
 PAGE_TIMEOUT = 30.0
 
 # Gewichten combined score
-WEIGHT_PROFIT = 0.5
-WEIGHT_VOLUME = 0.5
+WEIGHT_PROFIT = 0.4
+WEIGHT_VOLUME = 0.4
+WEIGHT_MARGIN = 0.2   # profit/input_cost % — beloont efficiency
 
 # ══════════════════════════════════════════════════════
 #  DATA MODEL
@@ -213,15 +215,23 @@ def get_button(message: discord.Message, label_keywords: list):
 def compute_scores(crafts: list) -> None:
     if not crafts:
         return
-    min_p, max_p = min(c.profit for c in crafts), max(c.profit for c in crafts)
-    min_v, max_v = min(c.volume for c in crafts), max(c.volume for c in crafts)
-    rng_p = max_p - min_p or 1
-    rng_v = max_v - min_v or 1
-    for c in crafts:
-        norm_p = (c.profit - min_p) / rng_p
-        norm_v = (c.volume - min_v) / rng_v
-        c.score = WEIGHT_PROFIT * norm_p + WEIGHT_VOLUME * norm_v
 
+    def log_norm(values: list) -> list:
+        log_vals = [math.log10(max(v, 1)) for v in values]
+        mn, mx = min(log_vals), max(log_vals)
+        r = mx - mn or 1
+        return [(v - mn) / r for v in log_vals]
+
+    profits = [c.profit for c in crafts]
+    volumes = [c.volume for c in crafts]
+    margins = [c.profit / max(c.input_cost, 1) * 100 for c in crafts]
+
+    lp = log_norm(profits)
+    lv = log_norm(volumes)
+    lm = log_norm(margins)
+
+    for i, c in enumerate(crafts):
+        c.score = WEIGHT_PROFIT * lp[i] + WEIGHT_VOLUME * lv[i] + WEIGHT_MARGIN * lm[i]
 
 # ══════════════════════════════════════════════════════
 #  SORTERING
