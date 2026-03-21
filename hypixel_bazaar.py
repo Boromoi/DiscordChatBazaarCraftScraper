@@ -166,42 +166,46 @@ class AHCraftFlip:
 
 INGREDIENT_ID_MAP = {
     # ── Vis / inkt varianten (NEU damage suffix) ──────────────────────────
-    "RAW_FISH-1":               "ENCHANTED_RAW_SALMON",
-    "RAW_FISH-2":               "RAW_FISH",
-    "RAW_FISH-3":               "ENCHANTED_PUFFERFISH",
-    "INK_SACK-3":               "INK_SACK",
-    "INK_SACK-4":               "INK_SACK",
-    "INK_SACK-15":              "INK_SACK",          # Bonemeal variant
+    # "RAW_FISH-1":               "ENCHANTED_RAW_SALMON",
+    # "RAW_FISH-2":               "RAW_FISH",
+    # "RAW_FISH-3":               "ENCHANTED_PUFFERFISH",
+    # "INK_SACK-3":               "INK_SACK",
+    # "INK_SACK-4":               "INK_SACK",
+    # "INK_SACK-15":              "INK_SACK",          # Bonemeal variant
 
-    # ── Hout / log varianten (NEU gebruikt damage suffix) ─────────────────
-    "WOOD":                     "LOG",               # Oak Log
-    "WOOD-1":                   "LOG",               # Oak (variant)
-    "WOOD-2":                   "SPRUCE_LOG",
-    "WOOD-3":                   "BIRCH_LOG",
-    "WOOD-4":                   "JUNGLE_LOG",
-    "WOOD-5":                   "ACACIA_LOG",
-    "WOOD-6":                   "DARK_OAK_LOG",
-    "LOG-1":                    "SPRUCE_LOG",
-    "LOG-2":                    "DARK_OAK_LOG",
-    "LOG-3":                    "JUNGLE_LOG",
-    "LOG_2":                    "ACACIA_LOG",
-    "LOG_2-1":                  "DARK_OAK_LOG",
+    # # ── Hout / log varianten (NEU gebruikt damage suffix) ─────────────────
+    # "WOOD":                     "LOG",               # Oak Log
+    # "WOOD-1":                   "LOG",               # Oak (variant)
+    # "WOOD-2":                   "SPRUCE_LOG",
+    # "WOOD-3":                   "BIRCH_LOG",
+    # "WOOD-4":                   "JUNGLE_LOG",
+    # "WOOD-5":                   "ACACIA_LOG",
+    # "WOOD-6":                   "DARK_OAK_LOG",
+    # "LOG-1":                    "LOG:1",
+    # "LOG-2":                    "DARK_OAK_LOG",
+    # "LOG-3":                    "JUNGLE_LOG",
+    # "LOG_2":                    "ACACIA_LOG",
+    # "LOG_2-1":                  "DARK_OAK_LOG",
 
-    # ── Naam verschillen NEU vs bazaar ────────────────────────────────────
-    "SAND-1":                   "SAND",              # Red Sand → gewone zand als fallback
-    "HARD_CLAY":                "CLAY_BALL",         # Clay Ball in bazaar
-    "NETHER_STALK":             "NETHER_STALK",      # Nether Wart Misschien nog hernoemen
-    "ENCHANTED_NETHER_STALK":   "ENCHANTED_NETHER_STALK",
-    "WATER_LILY":               "WATER_LILY",        # Lily Pad Misschien nog hernoemen
-    "ENCHANTED_WATER_LILY":     "ENCHANTED_WATER_LILY",
-    "ENCHANTED_COCOA":          "ENCHANTED_COCOA",   # Enchanted Cocoa Beans
-    "ENCHANTED_MELON_BLOCK":    "ENCHANTED_MELON",   # Enkelvoud in bazaar
-    "ENCHANTED_ENDSTONE":       "ENCHANTED_END_STONE",
-    "ENDER_STONE":              "END_STONE",
-    "DOUBLE_PLANT":             "DOUBLE_PLANT",      # Sunflower / tall grass
-    "POTATO_ITEM":              "POTATO_ITEM",
-    "CARROT_ITEM":              "CARROT_ITEM",
-
+    # # ── Naam verschillen NEU vs bazaar ────────────────────────────────────
+    # "SAND-1":                   "SAND",              # Red Sand → gewone zand als fallback
+    # "HARD_CLAY":                "CLAY_BALL",         # Clay Ball in bazaar
+    # "NETHER_STALK":             "NETHER_STALK",      # Nether Wart Misschien nog hernoemen
+    # "ENCHANTED_NETHER_STALK":   "ENCHANTED_NETHER_STALK",
+    # "WATER_LILY":               "WATER_LILY",        # Lily Pad Misschien nog hernoemen
+    # "ENCHANTED_WATER_LILY":     "ENCHANTED_WATER_LILY",
+    # "ENCHANTED_COCOA":          "ENCHANTED_COCOA",   # Enchanted Cocoa Beans
+    # "ENCHANTED_MELON_BLOCK":    "ENCHANTED_MELON",   # Enkelvoud in bazaar
+    # "ENCHANTED_ENDSTONE":       "ENCHANTED_END_STONE",
+    # "ENDER_STONE":              "END_STONE",
+    # "DOUBLE_PLANT":             "DOUBLE_PLANT",      # Sunflower / tall grass
+    # "POTATO_ITEM":              "POTATO_ITEM",
+    # "CARROT_ITEM":              "CARROT_ITEM",
+    
+    # # --- Naam verschillen ---
+    # "COLOSSAL_EXP_BOTTLE_UPGRADE": "Colossal Experience Bottle Upgrade",
+    # "MINION_STORAGE_EXPANDER":      "Minion Storage X-pender",
+    
     # ── Rift-only / unobtainables → prijs 0, recept blijft geldig ─────────
     # (worden afgehandeld via ZERO_COST_ITEMS hieronder)
 }
@@ -210,87 +214,87 @@ INGREDIENT_ID_MAP = {
 # We geven ze prijs 0 zodat het recept niet wordt weggegooid maar de kosten
 # ook niet worden opgeblazen. Zet ze gewoon als bekende kosten van 0.
 ZERO_COST_ITEMS = {
-    "LIVING_METAL",             # Rift only
-    "YOUNGITE",                 # Rift only
-    "COVEN_SEAL",               # Rift only (Vampire Slayer drop)
-    "BLOODBADGE",               # Rift only (Vampire Slayer drop)
-    #"ZOMBIE_HEART",             # AH only sell item
-    "LEECH_SUPREME_FRAGMENT",   # Rift only
-    "METAL_HEART",              # Rift only (Living Metal Heart)
-    #"GIANT_FRAGMENT_BIGFOOT",   # Bigfoot's Bola fragment
-    #"GIANT_FRAGMENT_BOULDER",   # Jolly Pink Rock fragment
+    # "LIVING_METAL",             # Rift only
+    # "YOUNGITE",                 # Rift only
+    # "COVEN_SEAL",               # Rift only (Vampire Slayer drop)
+    # "BLOODBADGE",               # Rift only (Vampire Slayer drop)
+    # #"ZOMBIE_HEART",             # AH only sell item
+    # "LEECH_SUPREME_FRAGMENT",   # Rift only
+    # "METAL_HEART",              # Rift only (Living Metal Heart)
+    # #"GIANT_FRAGMENT_BIGFOOT",   # Bigfoot's Bola fragment
+    # #"GIANT_FRAGMENT_BOULDER",   # Jolly Pink Rock fragment
 
-    "WILTED_BERBERIS",          # Rift only
-    "TIMITE",                   # Rift only
-    "FROSTY_CRUX",              # Rift only
-    #"COLOSSAL_EXP_BOTTLE_UPGRADE",   # Upgrade item AH
-    #"ULTIMATE_CARROT_CANDY_UPGRADE", # Upgrade item AH 
-    "OBSOLITE",                 # NEU typo / onbekend item
+    # "WILTED_BERBERIS",          # Rift only
+    # "TIMITE",                   # Rift only
+    # "FROSTY_CRUX",              # Rift only
+    # #"COLOSSAL_EXP_BOTTLE_UPGRADE",   # Upgrade item AH
+    # #"ULTIMATE_CARROT_CANDY_UPGRADE", # Upgrade item AH 
+    # "OBSOLITE",                 # NEU typo / onbekend item
 }
 
 # Vaste NPC prijzen voor items die niet in de bazaar zitten
 # Bron: Hypixel SkyBlock NPC shops
 NPC_PRICES = {
-    "GLASS_BOTTLE":             3,
-    #"HEAT_CORE":                200_000,    # Forging item, koopt via NPC (~200K)
-    #"MINION_STORAGE_EXPANDER":  500_000,    # Dungeon shop item
-    "BOWL":                     4,
-    "STICK":                    4,
-    "BLAZE_POWDER":             80,
-    "PAPER":                    6,
-    "GOLD_BLOCK":               204,   # 9x gold ingot à ~20 coins
-    "GOLD_INGOT":               24,
-    "IRON_INGOT":               6,
-    "WOOD_SWORD":               8,
-    "COAL":                     3,
-    "FEATHER":                  4,
-    "FLINT":                    2,
-    "STRING":                   4,
-    "ARROW":                    5,
-    "BONE":                     6,
-    "ROTTEN_FLESH":             2,
-    "SPIDER_EYE":               12,
-    "GUNPOWDER":                7,
-    "ENDER_PEARL":              12,
-    "BLAZE_ROD":                80,
-    "MAGMA_CREAM":              16,
-    "GHAST_TEAR":               400,
-    "NETHER_BRICK":             8,
-    "QUARTZ":                   4,
-    "PRISMARINE_SHARD":         6,
-    "PRISMARINE_CRYSTALS":      8,
-    "OAK_LOG":                  2,
-    "SAND":                     2,
-    "GRAVEL":                   2,
-    "CLAY_BALL":                3,
-    "CACTUS":                   4,
-    "SUGAR_CANE":               2,
-    "POTATO_ITEM":              2,
-    "CARROT_ITEM":              2,
-    "WHEAT":                    2,
-    "SEEDS":                    1,
-    "MELON":                    2,
-    "PUMPKIN":                  4,
-    "RED_MUSHROOM":             4,
-    "BROWN_MUSHROOM":           4,
-    "COBBLESTONE":              2,
-    "NETHERRACK":               1,
-    "OBSIDIAN":                 4,
-    "ICE":                      3,
-    "SNOW_BALL":                1,
-    "WATER_LILY":               4, #misschien nog naam veranderen
-    "SPONGE":                   60,
-    "RAW_FISH":                 4,
-    "RAW_SALMON":               6,
-    "PUFFERFISH":               6,
-    "INK_SACK":                 8,
-    "EGG":                      3,
-    "RABBIT":                   6,
-    "RABBIT_HIDE":              3,
-    "RAW_BEEF":                 4,
-    "RAW_CHICKEN":              4,
-    "PORK":                     4,
-    "MUTTON":                   4,
+    # "GLASS_BOTTLE":             3,
+    # #"HEAT_CORE":                200_000,    # Forging item, koopt via NPC (~200K)
+    # #"MINION_STORAGE_EXPANDER":  500_000,    # Dungeon shop item
+    # "BOWL":                     4,
+    # "STICK":                    4,
+    # "BLAZE_POWDER":             80,
+    # "PAPER":                    6,
+    # "GOLD_BLOCK":               204,   # 9x gold ingot à ~20 coins
+    # "GOLD_INGOT":               24,
+    # "IRON_INGOT":               6,
+    # "WOOD_SWORD":               8,
+    # "COAL":                     3,
+    # "FEATHER":                  4,
+    # "FLINT":                    2,
+    # "STRING":                   4,
+    # "ARROW":                    5,
+    # "BONE":                     6,
+    # "ROTTEN_FLESH":             2,
+    # "SPIDER_EYE":               12,
+    # "GUNPOWDER":                7,
+    # "ENDER_PEARL":              12,
+    # "BLAZE_ROD":                80,
+    # "MAGMA_CREAM":              16,
+    # "GHAST_TEAR":               400,
+    # "NETHER_BRICK":             8,
+    # "QUARTZ":                   4,
+    # "PRISMARINE_SHARD":         6,
+    # "PRISMARINE_CRYSTALS":      8,
+    # "OAK_LOG":                  2,
+    # "SAND":                     2,
+    # "GRAVEL":                   2,
+    # "CLAY_BALL":                3,
+    # "CACTUS":                   4,
+    # "SUGAR_CANE":               2,
+    # "POTATO_ITEM":              2,
+    # "CARROT_ITEM":              2,
+    # "WHEAT":                    2,
+    # "SEEDS":                    1,
+    # "MELON":                    2,
+    # "PUMPKIN":                  4,
+    # "RED_MUSHROOM":             4,
+    # "BROWN_MUSHROOM":           4,
+    # "COBBLESTONE":              2,
+    # "NETHERRACK":               1,
+    # "OBSIDIAN":                 4,
+    # "ICE":                      3,
+    # "SNOW_BALL":                1,
+    # "WATER_LILY":               4, #misschien nog naam veranderen
+    # "SPONGE":                   60,
+    # "RAW_FISH":                 4,
+    # "RAW_SALMON":               6,
+    # "PUFFERFISH":               6,
+    # "INK_SACK":                 8,
+    # "EGG":                      3,
+    # "RABBIT":                   6,
+    # "RABBIT_HIDE":              3,
+    # "RAW_BEEF":                 4,
+    # "RAW_CHICKEN":              4,
+    # "PORK":                     4,
+    # "MUTTON":                   4,
 }
 
 
@@ -299,40 +303,48 @@ def _normalize_ingredient_id(ing_id: str) -> str:
     return INGREDIENT_ID_MAP.get(ing_id, ing_id)
 
 
-def _get_ingredient_price(ing_id: str, bazaar: dict,
-                          ah_prices: dict = None) -> tuple[float, str]:
+def _get_ingredient_price(ing_id: str, bazaar: dict, ah_prices: dict = None) -> tuple[float, str]:
     """
     Geeft (prijs, display_naam) van een ingredient.
     Volgorde: bazaar → NPC → AH → ZERO_COST (0.0) → niet gevonden (-1.0)
     """
-    # Rift-only / unobtainables → prijs 0, recept blijft geldig
-    if ing_id in ZERO_COST_ITEMS or ing_id.upper() in ZERO_COST_ITEMS:
-        return 0.0, _clean_name(ing_id)
+    # Haal de gemapte versie op (voor onze AH fixes zoals 'Minion Storage X-pender')
+    mapped_id = INGREDIENT_ID_MAP.get(ing_id, ing_id)
 
-    # Bazaar — probeer meerdere varianten
+    # 1. Rift-only / unobtainables
+    if mapped_id in ZERO_COST_ITEMS or ing_id in ZERO_COST_ITEMS:
+        return 0.0, mapped_id
+
+    # 2. Bazaar — probeer meerdere varianten
     for candidate in [
         ing_id,
-        ing_id.upper(),
-        _normalize_ingredient_id(ing_id),
-        _normalize_ingredient_id(ing_id.upper()),
+        mapped_id,
+        _normalize_ingredient_id(ing_id)
     ]:
         if candidate in bazaar:
             return bazaar[candidate].buy_price, bazaar[candidate].display_name
 
-    # NPC prijs
-    npc = NPC_PRICES.get(ing_id) or NPC_PRICES.get(ing_id.upper())
+    # 3. NPC prijs
+    npc = NPC_PRICES.get(mapped_id) or NPC_PRICES.get(ing_id)
     if npc:
-        return float(npc), _clean_name(ing_id)
+        return float(npc), mapped_id
 
-    # AH prijs — gebruik mediaan van actieve listings
+    # 4. AH prijs — CHECK EERST DE GEMAPTE NAAM!
     if ah_prices:
-        name = _clean_name(ing_id)
-        ah_data = ah_prices.get(name) or ah_prices.get(_clean_name(ing_id.upper()))
+        # Check 1: Staat de exact gemapte naam (bijv. "Minion Storage X-pender") in de AH?
+        if mapped_id in ah_prices:
+            ah_data = ah_prices[mapped_id]
+            price = ah_data["price"] if isinstance(ah_data, dict) else float(ah_data)
+            return price, mapped_id
+            
+        # Check 2: Fallback naar de _clean_name methode voor normale items
+        clean_name = _clean_name(ing_id)
+        ah_data = ah_prices.get(clean_name) or ah_prices.get(_clean_name(ing_id.upper()))
         if ah_data:
             price = ah_data["price"] if isinstance(ah_data, dict) else float(ah_data)
-            return price, name
+            return price, clean_name
 
-    return -1.0, _clean_name(ing_id)  # niet gevonden
+    return -1.0, mapped_id  # Niet gevonden
 
 
 def _fmt(n: float) -> str:
@@ -638,79 +650,76 @@ def load_recipes(api_key: str = "") -> dict[str, dict]:
 #  ANALYSE: CRAFT FLIPS
 # ══════════════════════════════════════════════════════
 
-def analyze_craft_flips(bazaar: dict, recipes: dict,
-                        ah_prices: dict = None) -> list[CraftFlip]:
-    """
-    Koop materials via buy order → craft → verkoop via sell offer.
-    Alleen items die zowel craftbaar zijn als in de bazaar staan.
-    """
+def analyze_craft_flips(bazaar_data: dict, recipes: dict, ah_prices: dict = None) -> list[CraftFlip]:
+    """Bereken craft flips op basis van buy order (materialen) -> sell offer (gecraft)."""
     results = []
-    _dbg_missing_ids = defaultdict(int)
-
-    for item_id, recipe in recipes.items():
-        # Gecraftte item moet in bazaar staan
-        if item_id not in bazaar:
+    missing_ingredients = set()  # 🚨 DEBUG: Voor het opsporen van onbekende items
+    
+    for recipe_name, recipe_data in recipes.items():
+        # Het gemaakte item
+        output_id = recipe_name
+        # Probeer de prijs te vinden in bazaar
+        output_bazaar = bazaar_data.get(output_id) or bazaar_data.get(_normalize_ingredient_id(output_id))
+        
+        if not output_bazaar:
             continue
-
-        crafted = bazaar[item_id]
-        output_count = recipe["output_count"]
-
-        # Bereken kosten per ingredient
+            
+        # Om te craften kopen we materialen in via buy orders (die vervullen we aan instasell prijzen)
+        # Het gecraftte item verkopen we via een sell offer
+        output_value = output_bazaar.buy_price * (1 - BAZAAR_SELL_TAX)
+        
         total_cost = 0.0
-        ingredient_details = []
-        valid = True
-
-        for ing_id, amount_per_craft in recipe["ingredients"]:
-            price, ing_name = _get_ingredient_price(ing_id, bazaar, ah_prices)
+        valid_recipe = True
+        used_ingredients = []
+        
+        for ing_id, count in recipe_data.get("ingredients", []):
+            # Haal de prijs op via jouw helper functie
+            price, disp_name = _get_ingredient_price(ing_id, bazaar_data, ah_prices)
+            
+            # 🚨 DEBUG CHECK: Omdat jouw functie -1.0 geeft bij 'niet gevonden'
             if price < 0:
-                _dbg_missing_ids[ing_id] += 1
-                valid = False
+                mapped_id = _normalize_ingredient_id(ing_id)
+                missing_ingredients.add((ing_id, mapped_id, recipe_data.get("display_name", recipe_name)))
+                valid_recipe = False
                 break
-
-            cost_this = price * amount_per_craft
-            total_cost += cost_this
-            ingredient_details.append((ing_name, amount_per_craft, price))
-
-        if not valid or total_cost <= 0:
+                
+            total_cost += price * count
+            used_ingredients.append((disp_name, count, price))
+            
+        if not valid_recipe or total_cost <= 0:
             continue
+            
+        # Vermenigvuldig met hoeveel het recept oplevert (vaak 1, soms meer)
+        output_count = recipe_data.get("output_count", 1)
+        profit = (output_value * output_count) - total_cost
+        margin = (profit / total_cost * 100) if total_cost > 0 else 0
+        
+        # Geen hardcoded filters meer, zodat de Tkinter GUI filters 100% werken!
+        flip = CraftFlip(
+            name=recipe_data.get("display_name", output_id),
+            item_id=output_id,
+            input_cost=total_cost,
+            output_value=(output_value * output_count),
+            profit=profit,
+            margin_pct=margin,
+            volume=output_bazaar.buy_volume,
+            ingredients=used_ingredients
+        )
+        results.append(flip)
+        
+    # 🚨 DEBUG: Print de ontbrekende ingrediënten naar de console
+    if missing_ingredients:
+        print("\n" + "═"*70)
+        print(" 🚨 DEBUG: Ontbrekende of onbekende ingrediënten 🚨")
+        print("═"*70)
+        for orig, mapped, recipe in sorted(missing_ingredients):
+            print(f"Onbekend: {orig:<25} | Gezocht als: {mapped:<25} | Recept: {recipe}")
+        print("═"*70 + "\n")
 
-        # Kosten per gecraft item
-        cost_per_item = total_cost / output_count
-
-        # Opbrengst: we plaatsen een sell offer op buy_price niveau (insta-buy prijs)
-        # Dit is de prijs die kopers betalen — hoger dan sell_price (buy order prijs)
-        output_value = crafted.buy_price * (1 - BAZAAR_SELL_TAX)
-
-        profit = output_value - cost_per_item
-        if profit <= 0:
-            continue
-
-        margin_pct = profit / cost_per_item * 100
-        volume = crafted.sell_volume  # orders/week van het gecraftte item
-
-        results.append(CraftFlip(
-            name         = recipe["display_name"],
-            item_id      = item_id,
-            input_cost   = cost_per_item,
-            output_value = output_value,
-            profit       = profit,
-            margin_pct   = margin_pct,
-            volume       = volume,
-            ingredients  = ingredient_details,
-        ))
-
-    in_bz = sum(1 for i in recipes if i in bazaar)
-    top_missing = sorted(_dbg_missing_ids.items(), key=lambda x: x[1], reverse=True)[:10]
-    print(f"  Craft: {in_bz} in bazaar | {len(results)} winstgevend | "
-          f"{sum(_dbg_missing_ids.values())} ingredient mismatches"
-          + (f" | ontbrekend: {[x[0] for x in top_missing]}" if top_missing else ""))
-
-
-    _compute_scores(results,
-                    profit_fn=lambda x: x.profit,
-                    volume_fn=lambda x: x.volume,
-                    margin_fn=lambda x: x.margin_pct)
-
+    # Bereken de scores voordat we returnen
+    _compute_scores(results, lambda x: x.profit, lambda x: x.volume, lambda x: x.margin_pct)
+    
+    # Sorteer standaard op score
     return sorted(results, key=lambda x: x.score, reverse=True)
 
 
