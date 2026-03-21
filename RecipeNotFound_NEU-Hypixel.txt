@@ -1,0 +1,1354 @@
+#=========================================#
+#=========Zonder Generator================#
+#=========================================#
+
+PS G:\GameDevelopment\Python\PythonProjects\Hypixel-Skyblock-Tools-Den> python hypixel_bazaar.py
+
+╔════════════════════════════════════════════╗
+  ║   Hypixel SkyBlock Bazaar Tool  🪙        ║
+  ╚════════════════════════════════════════════╝
+
+API key geladen (********a6ce)
+
+Recepten cache gebruikt (0u oud, 2093 items)
+  AH cache gebruikt (4min oud)
+
+══════════════════════════════════════════════════════════════════════
+ 🚨 DEBUG: Ontbrekende of onbekende ingrediënten 🚨
+══════════════════════════════════════════════════════════════════════
+Onbekend: AGARICUS_CAP              | Gezocht als: AGARICUS_CAP              | Recept: Agaricus Cap Bunch
+Onbekend: AGARICUS_CAP              | Gezocht als: AGARICUS_CAP              | Recept: Agaricus Cap Cap
+Onbekend: AGARICUS_CAP              | Gezocht als: AGARICUS_CAP              | Recept: Agaricus Chumcap
+Onbekend: AGARICUS_CAP              | Gezocht als: AGARICUS_CAP              | Recept: Agaricus Soup
+Onbekend: AGARICUS_CHUM_CAP         | Gezocht als: AGARICUS_CHUM_CAP         | Recept: Empty Chumcap Bucket
+Onbekend: ARMOR_SHOWCASE            | Gezocht als: ARMOR_SHOWCASE            | Recept: Training Dummy
+Onbekend: ARTIFACT_OF_COINS         | Gezocht als: ARTIFACT_OF_COINS         | Recept: Relic of Coins
+Onbekend: ASPECT_OF_THE_LEECH_1     | Gezocht als: ASPECT_OF_THE_LEECH_1     | Recept: Aspect of the Leech
+Onbekend: ASSISTANT                 | Gezocht als: ASSISTANT                 | Recept: Aspect of the Jerry
+Onbekend: BACTE_FRAGMENT            | Gezocht als: BACTE_FRAGMENT            | Recept: Globulate Timecharm
+Onbekend: BAT_WAND                  | Gezocht als: BAT_WAND                  | Recept: ⚚ Spirit Sceptre
+Onbekend: BEASTMASTER_CREST_COMMON  | Gezocht als: BEASTMASTER_CREST_COMMON  | Recept: Beastmaster Crest
+Onbekend: BEASTMASTER_CREST_EPIC    | Gezocht als: BEASTMASTER_CREST_EPIC    | Recept: Beastmaster Crest
+Onbekend: BEASTMASTER_CREST_RARE    | Gezocht als: BEASTMASTER_CREST_RARE    | Recept: Beastmaster Crest
+Onbekend: BEASTMASTER_CREST_UNCOMMON | Gezocht als: BEASTMASTER_CREST_UNCOMMON | Recept: Beastmaster Crest
+Onbekend: BLOODBADGE                | Gezocht als: BLOODBADGE                | Recept: Anti-Bite Scarf
+Onbekend: BLOODBADGE                | Gezocht als: BLOODBADGE                | Recept: Luscious Healing Melon
+Onbekend: BLOODBADGE                | Gezocht als: BLOODBADGE                | Recept: Vampire Dentist Relic
+Onbekend: BLOODBADGE                | Gezocht als: BLOODBADGE                | Recept: Vampiric Timecharm
+Onbekend: BONE_BOOMERANG            | Gezocht als: BONE_BOOMERANG            | Recept: ⚚ Bonemerang
+Onbekend: BONZO_MASK                | Gezocht als: BONZO_MASK                | Recept: ⚚ Bonzo's Mask
+Onbekend: BONZO_STAFF               | Gezocht als: BONZO_STAFF               | Recept: ⚚ Bonzo's Staff
+Onbekend: BOTTLED_ODONATA           | Gezocht als: BOTTLED_ODONATA           | Recept: Supreme Timecharm
+Onbekend: BURSTFIRE_DAGGER          | Gezocht als: BURSTFIRE_DAGGER          | Recept: Pyrochaos Dagger
+Onbekend: BURSTMAW_DAGGER           | Gezocht als: BURSTMAW_DAGGER           | Recept: Deathripper Dagger
+Onbekend: BURSTSTOPPER_TALISMAN     | Gezocht als: BURSTSTOPPER_TALISMAN     | Recept: Burststopper Artifact
+Onbekend: CADUCOUS_STEM             | Gezocht als: CADUCOUS_STEM             | Recept: Caducous Feeder
+Onbekend: CADUCOUS_STEM             | Gezocht als: CADUCOUS_STEM             | Recept: Caducous Legume
+Onbekend: CADUCOUS_STEM             | Gezocht als: CADUCOUS_STEM             | Recept: Caducous Stem Bunch
+Onbekend: CADUCOUS_STEM_BUNCH       | Gezocht als: CADUCOUS_STEM_BUNCH       | Recept: Chicken N Egg Timecharm
+Onbekend: COLOSSAL_EXP_BOTTLE_UPGRADE | Gezocht als: COLOSSAL_EXP_BOTTLE_UPGRADE | Recept: Colossal Experience Bottle
+Onbekend: COVEN_SEAL                | Gezocht als: COVEN_SEAL                | Recept: Anti-Bite Scarf
+Onbekend: COVEN_SEAL                | Gezocht als: COVEN_SEAL                | Recept: Bloodbadge
+Onbekend: COVEN_SEAL                | Gezocht als: COVEN_SEAL                | Recept: Holy Ice
+Onbekend: COVEN_SEAL                | Gezocht als: COVEN_SEAL                | Recept: Juicy Healing Melon
+Onbekend: COVEN_SEAL                | Gezocht als: COVEN_SEAL                | Recept: Maddox Badphone
+Onbekend: COVEN_SEAL                | Gezocht als: COVEN_SEAL                | Recept: Steak Stake
+Onbekend: CRUXMOTION                | Gezocht als: CRUXMOTION                | Recept: Super Sharp 'n Stabby Steak Stake
+Onbekend: DEADGEHOG_SPINE           | Gezocht als: DEADGEHOG_SPINE           | Recept: Leech Sword
+Onbekend: DEADGEHOG_SPINE           | Gezocht als: DEADGEHOG_SPINE           | Recept: Not-Dead-Gehog Mask
+Onbekend: DESTRUCTION_CLOAK         | Gezocht als: DESTRUCTION_CLOAK         | Recept: Annihilation Cloak
+Onbekend: EXCEEDINGLY_RARE_ENDER_ARTIFACT_UPGRADER | Gezocht als: EXCEEDINGLY_RARE_ENDER_ARTIFACT_UPGRADER | Recept: Ender Relic
+Onbekend: FEMURGROWTH_LEGGINGS      | Gezocht als: FEMURGROWTH_LEGGINGS      | Recept: Leggings of the Coven
+Onbekend: FLAME_BREAKER_BOOTS       | Gezocht als: FLAME_BREAKER_BOOTS       | Recept: Yog Boots
+Onbekend: FLAME_BREAKER_CHESTPLATE  | Gezocht als: FLAME_BREAKER_CHESTPLATE  | Recept: Yog Chestplate
+Onbekend: FLAME_BREAKER_HELMET      | Gezocht als: FLAME_BREAKER_HELMET      | Recept: Yog Helmet
+Onbekend: FLAME_BREAKER_LEGGINGS    | Gezocht als: FLAME_BREAKER_LEGGINGS    | Recept: Yog Leggings
+Onbekend: FROSTY_CRUX               | Gezocht als: FROSTY_CRUX               | Recept: Crux Heirloom
+Onbekend: FROSTY_CRUX               | Gezocht als: FROSTY_CRUX               | Recept: Polarvoid Book
+Onbekend: FROZEN_WATER              | Gezocht als: FROZEN_WATER              | Recept: Frozen Water Pungi
+Onbekend: GOLDEN_APPLE-1            | Gezocht als: GOLDEN_APPLE-1            | Recept: Enchanted Book
+Onbekend: GOLDEN_APPLE-1            | Gezocht als: GOLDEN_APPLE-1            | Recept: Saving Grace
+Onbekend: GRIZZLY_BAIT              | Gezocht als: GRIZZLY_BAIT              | Recept: Hunter Ring
+Onbekend: HALF_EATEN_CARROT         | Gezocht als: HALF_EATEN_CARROT         | Recept: Nearly-Whole Carrot
+Onbekend: HALF_EATEN_CARROT         | Gezocht als: HALF_EATEN_CARROT         | Recept: Orange Chestplate
+Onbekend: INK_SACK-1                | Gezocht als: INK_SACK-1                | Recept: Red Hardened Clay
+Onbekend: INK_SACK-1                | Gezocht als: INK_SACK-1                | Recept: Red Stained Glass
+Onbekend: INK_SACK-1                | Gezocht als: INK_SACK-1                | Recept: Red Wool
+Onbekend: INK_SACK-10               | Gezocht als: INK_SACK-10               | Recept: Lime Hardened Clay
+Onbekend: INK_SACK-10               | Gezocht als: INK_SACK-10               | Recept: Lime Stained Glass
+Onbekend: INK_SACK-10               | Gezocht als: INK_SACK-10               | Recept: Lime Wool
+Onbekend: INK_SACK-11               | Gezocht als: INK_SACK-11               | Recept: Yellow Hardened Clay
+Onbekend: INK_SACK-11               | Gezocht als: INK_SACK-11               | Recept: Yellow Stained Glass
+Onbekend: INK_SACK-11               | Gezocht als: INK_SACK-11               | Recept: Yellow Wool
+Onbekend: INK_SACK-12               | Gezocht als: INK_SACK-12               | Recept: Light Blue Hardened Clay
+Onbekend: INK_SACK-12               | Gezocht als: INK_SACK-12               | Recept: Light Blue Stained Glass
+Onbekend: INK_SACK-12               | Gezocht als: INK_SACK-12               | Recept: Light Blue Wool
+Onbekend: INK_SACK-13               | Gezocht als: INK_SACK-13               | Recept: Magenta Hardened Clay
+Onbekend: INK_SACK-13               | Gezocht als: INK_SACK-13               | Recept: Magenta Stained Glass
+Onbekend: INK_SACK-13               | Gezocht als: INK_SACK-13               | Recept: Magenta Wool
+Onbekend: INK_SACK-14               | Gezocht als: INK_SACK-14               | Recept: Orange Hardened Clay
+Onbekend: INK_SACK-14               | Gezocht als: INK_SACK-14               | Recept: Orange Stained Glass
+Onbekend: INK_SACK-14               | Gezocht als: INK_SACK-14               | Recept: Orange Wool
+Onbekend: INK_SACK-15               | Gezocht als: INK_SACK-15               | Recept: White Hardened Clay
+Onbekend: INK_SACK-15               | Gezocht als: INK_SACK-15               | Recept: White Stained Glass
+Onbekend: INK_SACK-15               | Gezocht als: INK_SACK-15               | Recept: White Wool
+Onbekend: INK_SACK-2                | Gezocht als: INK_SACK-2                | Recept: Green Hardened Clay
+Onbekend: INK_SACK-2                | Gezocht als: INK_SACK-2                | Recept: Green Stained Glass
+Onbekend: INK_SACK-2                | Gezocht als: INK_SACK-2                | Recept: Green Wool
+Onbekend: INK_SACK-3                | Gezocht als: INK_SACK-3                | Recept: Brown Hardened Clay
+Onbekend: INK_SACK-3                | Gezocht als: INK_SACK-3                | Recept: Brown Stained Glass
+Onbekend: INK_SACK-3                | Gezocht als: INK_SACK-3                | Recept: Brown Wool
+Onbekend: INK_SACK-3                | Gezocht als: INK_SACK-3                | Recept: Cocoa Beans Minion I
+Onbekend: INK_SACK-3                | Gezocht als: INK_SACK-3                | Recept: Cocoa Beans Minion II
+Onbekend: INK_SACK-3                | Gezocht als: INK_SACK-3                | Recept: Cocoa Beans Minion III
+Onbekend: INK_SACK-3                | Gezocht als: INK_SACK-3                | Recept: Cocoa Beans Minion IV
+Onbekend: INK_SACK-3                | Gezocht als: INK_SACK-3                | Recept: Cookie
+Onbekend: INK_SACK-3                | Gezocht als: INK_SACK-3                | Recept: Enchanted Cocoa Beans
+Onbekend: INK_SACK-3                | Gezocht als: INK_SACK-3                | Recept: Portal to Mushroom Island
+Onbekend: INK_SACK-4                | Gezocht als: INK_SACK-4                | Recept: Blue Hardened Clay
+Onbekend: INK_SACK-4                | Gezocht als: INK_SACK-4                | Recept: Blue Stained Glass
+Onbekend: INK_SACK-4                | Gezocht als: INK_SACK-4                | Recept: Blue Wool
+Onbekend: INK_SACK-4                | Gezocht als: INK_SACK-4                | Recept: Cyan Dye
+Onbekend: INK_SACK-4                | Gezocht als: INK_SACK-4                | Recept: Experience Bottle
+Onbekend: INK_SACK-4                | Gezocht als: INK_SACK-4                | Recept: Lapis Lazuli Block
+Onbekend: INK_SACK-4                | Gezocht als: INK_SACK-4                | Recept: Lapis Minion I
+Onbekend: INK_SACK-4                | Gezocht als: INK_SACK-4                | Recept: Lapis Minion II
+Onbekend: INK_SACK-4                | Gezocht als: INK_SACK-4                | Recept: Lapis Pickaxe
+Onbekend: INK_SACK-4                | Gezocht als: INK_SACK-4                | Recept: Purple Dye
+Onbekend: INK_SACK-5                | Gezocht als: INK_SACK-5                | Recept: Purple Hardened Clay
+Onbekend: INK_SACK-5                | Gezocht als: INK_SACK-5                | Recept: Purple Stained Glass
+Onbekend: INK_SACK-5                | Gezocht als: INK_SACK-5                | Recept: Purple Wool
+Onbekend: INK_SACK-6                | Gezocht als: INK_SACK-6                | Recept: Cyan Hardened Clay
+Onbekend: INK_SACK-6                | Gezocht als: INK_SACK-6                | Recept: Cyan Stained Glass
+Onbekend: INK_SACK-6                | Gezocht als: INK_SACK-6                | Recept: Cyan Wool
+Onbekend: INK_SACK-7                | Gezocht als: INK_SACK-7                | Recept: Light Gray Hardened Clay
+Onbekend: INK_SACK-7                | Gezocht als: INK_SACK-7                | Recept: Light Gray Stained Glass
+Onbekend: INK_SACK-7                | Gezocht als: INK_SACK-7                | Recept: Light Gray Wool
+Onbekend: INK_SACK-8                | Gezocht als: INK_SACK-8                | Recept: Gray Hardened Clay
+Onbekend: INK_SACK-8                | Gezocht als: INK_SACK-8                | Recept: Gray Stained Glass
+Onbekend: INK_SACK-8                | Gezocht als: INK_SACK-8                | Recept: Gray Wool
+Onbekend: INK_SACK-9                | Gezocht als: INK_SACK-9                | Recept: Pink Hardened Clay
+Onbekend: INK_SACK-9                | Gezocht als: INK_SACK-9                | Recept: Pink Stained Glass
+Onbekend: INK_SACK-9                | Gezocht als: INK_SACK-9                | Recept: Pink Wool
+Onbekend: IQ_POINT                  | Gezocht als: IQ_POINT                  | Recept: 2 IQ Points
+Onbekend: ITEM_SPIRIT_BOW           | Gezocht als: ITEM_SPIRIT_BOW           | Recept: ⚚ Spirit Shortbow
+Onbekend: JERRY_TALISMAN_BLUE       | Gezocht als: JERRY_TALISMAN_BLUE       | Recept: Purple Jerry Talisman
+Onbekend: JERRY_TALISMAN_GREEN      | Gezocht als: JERRY_TALISMAN_GREEN      | Recept: Blue Jerry Talisman
+Onbekend: JERRY_TALISMAN_PURPLE     | Gezocht als: JERRY_TALISMAN_PURPLE     | Recept: Golden Jerry Artifact
+Onbekend: KUUDRA_BURNING_TIER_KEY   | Gezocht als: KUUDRA_BURNING_TIER_KEY   | Recept: Fiery Kuudra Key
+Onbekend: KUUDRA_FIERY_TIER_KEY     | Gezocht als: KUUDRA_FIERY_TIER_KEY     | Recept: Infernal Kuudra Key
+Onbekend: KUUDRA_HOT_TIER_KEY       | Gezocht als: KUUDRA_HOT_TIER_KEY       | Recept: Burning Kuudra Key
+Onbekend: KUUDRA_TIER_KEY           | Gezocht als: KUUDRA_TIER_KEY           | Recept: Hot Kuudra Key
+Onbekend: LEAVES-1                  | Gezocht als: LEAVES-1                  | Recept: Taiga Biome Stick
+Onbekend: LEAVES-2                  | Gezocht als: LEAVES-2                  | Recept: Birch Forest Biome Stick
+Onbekend: LEAVES-3                  | Gezocht als: LEAVES-3                  | Recept: Jungle Biome Stick
+Onbekend: LEAVES_2-1                | Gezocht als: LEAVES_2-1                | Recept: Roofed Forest Biome Stick
+Onbekend: LEECH_SUPREME_FRAGMENT    | Gezocht als: LEECH_SUPREME_FRAGMENT    | Recept: Leech Belt
+Onbekend: LIL_PAD                   | Gezocht als: LIL_PAD                   | Recept: Aspect of the Leech
+Onbekend: LIVING_METAL              | Gezocht als: LIVING_METAL              | Recept: Living Metal Bootspawn
+Onbekend: LIVING_METAL              | Gezocht als: LIVING_METAL              | Recept: Living Metal Capspawn
+Onbekend: LIVING_METAL              | Gezocht als: LIVING_METAL              | Recept: Living Metal Chestspawn
+Onbekend: LIVING_METAL              | Gezocht als: LIVING_METAL              | Recept: Living Metal Pantspawn
+Onbekend: LIVING_METAL              | Gezocht als: LIVING_METAL              | Recept: Living Timecharm
+Onbekend: LOG-1                     | Gezocht als: LOG-1                     | Recept: Portal to Spruce Woods
+Onbekend: LOG-1                     | Gezocht als: LOG-1                     | Recept: Spruce Minion I
+Onbekend: LOG-1                     | Gezocht als: LOG-1                     | Recept: Spruce Minion II
+Onbekend: LOG-1                     | Gezocht als: LOG-1                     | Recept: Spruce Minion III
+Onbekend: LOG-1                     | Gezocht als: LOG-1                     | Recept: Spruce Minion IV
+Onbekend: LOG-1                     | Gezocht als: LOG-1                     | Recept: Spruce Planks
+Onbekend: LOG-2                     | Gezocht als: LOG-2                     | Recept: Birch Minion I
+Onbekend: LOG-2                     | Gezocht als: LOG-2                     | Recept: Birch Minion II
+Onbekend: LOG-2                     | Gezocht als: LOG-2                     | Recept: Birch Minion III
+Onbekend: LOG-2                     | Gezocht als: LOG-2                     | Recept: Birch Minion IV
+Onbekend: LOG-2                     | Gezocht als: LOG-2                     | Recept: Birch Planks
+Onbekend: LOG-2                     | Gezocht als: LOG-2                     | Recept: Portal to Birch Park
+Onbekend: LOG-2                     | Gezocht als: LOG-2                     | Recept: Sculptor's Axe
+Onbekend: LOG-3                     | Gezocht als: LOG-3                     | Recept: Jungle Minion I
+Onbekend: LOG-3                     | Gezocht als: LOG-3                     | Recept: Jungle Minion II
+Onbekend: LOG-3                     | Gezocht als: LOG-3                     | Recept: Jungle Minion III
+Onbekend: LOG-3                     | Gezocht als: LOG-3                     | Recept: Jungle Minion IV
+Onbekend: LOG-3                     | Gezocht als: LOG-3                     | Recept: Jungle Planks
+Onbekend: LOG-3                     | Gezocht als: LOG-3                     | Recept: Portal to Jungle Island
+Onbekend: LOG_2-1                   | Gezocht als: LOG_2-1                   | Recept: Bronze Ship Helm
+Onbekend: LOG_2-1                   | Gezocht als: LOG_2-1                   | Recept: Dark Oak Minion I
+Onbekend: LOG_2-1                   | Gezocht als: LOG_2-1                   | Recept: Dark Oak Minion II
+Onbekend: LOG_2-1                   | Gezocht als: LOG_2-1                   | Recept: Dark Oak Minion III
+Onbekend: LOG_2-1                   | Gezocht als: LOG_2-1                   | Recept: Dark Oak Minion IV
+Onbekend: LOG_2-1                   | Gezocht als: LOG_2-1                   | Recept: Dark Oak Planks
+Onbekend: LOG_2-1                   | Gezocht als: LOG_2-1                   | Recept: Portal to Dark Thicket
+Onbekend: LOG_2-1                   | Gezocht als: LOG_2-1                   | Recept: Roofed Forest Island
+Onbekend: MASTER_SKULL_TIER_1       | Gezocht als: MASTER_SKULL_TIER_1       | Recept: Master Skull - Tier 2
+Onbekend: MASTER_SKULL_TIER_2       | Gezocht als: MASTER_SKULL_TIER_2       | Recept: Master Skull - Tier 3
+Onbekend: MASTER_SKULL_TIER_3       | Gezocht als: MASTER_SKULL_TIER_3       | Recept: Master Skull - Tier 4
+Onbekend: MASTER_SKULL_TIER_4       | Gezocht als: MASTER_SKULL_TIER_4       | Recept: Master Skull - Tier 5
+Onbekend: MASTER_SKULL_TIER_5       | Gezocht als: MASTER_SKULL_TIER_5       | Recept: Master Skull - Tier 6
+Onbekend: MASTER_SKULL_TIER_6       | Gezocht als: MASTER_SKULL_TIER_6       | Recept: Master Skull - Tier 7
+Onbekend: MAWDUST_DAGGER            | Gezocht als: MAWDUST_DAGGER            | Recept: Mawdredge Dagger
+Onbekend: MEDIUM_AGRONOMY_SACK      | Gezocht als: MEDIUM_AGRONOMY_SACK      | Recept: Large Agronomy Sack
+Onbekend: MEDIUM_COMBAT_SACK        | Gezocht als: MEDIUM_COMBAT_SACK        | Recept: Large Combat Sack
+Onbekend: MEDIUM_DRAGON_SACK        | Gezocht als: MEDIUM_DRAGON_SACK        | Recept: Large Dragon Sack
+Onbekend: MEDIUM_GEMSTONE_SACK      | Gezocht als: MEDIUM_GEMSTONE_SACK      | Recept: Large Gemstone Sack
+Onbekend: MEDIUM_HUSBANDRY_SACK     | Gezocht als: MEDIUM_HUSBANDRY_SACK     | Recept: Large Husbandry Sack
+Onbekend: MEDIUM_MINING_SACK        | Gezocht als: MEDIUM_MINING_SACK        | Recept: Large Mining Sack
+Onbekend: MEDIUM_SLAYER_SACK        | Gezocht als: MEDIUM_SLAYER_SACK        | Recept: Large Slayer Sack
+Onbekend: METAL_HEART               | Gezocht als: METAL_HEART               | Recept: Bluetooth Ring
+Onbekend: METAL_HEART               | Gezocht als: METAL_HEART               | Recept: Lively Sepulture Chestplate
+Onbekend: METAL_HEART               | Gezocht als: METAL_HEART               | Recept: Living Metal Anchor
+Onbekend: METAL_HEART               | Gezocht als: METAL_HEART               | Recept: Snake-in-a-Boot
+Onbekend: METAL_HEART               | Gezocht als: METAL_HEART               | Recept: Weirder Tuba
+Onbekend: MIDAS_SWORD               | Gezocht als: MIDAS_SWORD               | Recept: ⚚ Midas' Sword
+Onbekend: MINION_STORAGE_EXPANDER   | Gezocht als: MINION_STORAGE_EXPANDER   | Recept: X-Large Storage
+Onbekend: MINION_STORAGE_EXPANDER   | Gezocht als: MINION_STORAGE_EXPANDER   | Recept: XX-Large Storage
+Onbekend: MIRRORED_LEASH            | Gezocht als: MIRRORED_LEASH            | Recept: remmaH yniT
+Onbekend: MIRRORED_STICK            | Gezocht als: MIRRORED_STICK            | Recept: Nearly Coherent doR gnihsiF
+Onbekend: MIRRORED_STICK            | Gezocht als: MIRRORED_STICK            | Recept: doR gnihsiF
+Onbekend: MIRRORED_STRING           | Gezocht als: MIRRORED_STRING           | Recept: daeL
+Onbekend: MIRRORED_STRING           | Gezocht als: MIRRORED_STRING           | Recept: woB
+Onbekend: MIRRORED_WOOD             | Gezocht als: MIRRORED_WOOD             | Recept: kcitS
+Onbekend: NEARLY_WHOLE_CARROT       | Gezocht als: NEARLY_WHOLE_CARROT       | Recept: Perma-Jelled Garlic-Flavored Re-Heated Gummy Polar Bear
+Onbekend: NECRON_BLADE              | Gezocht als: NECRON_BLADE              | Recept: Astraea
+Onbekend: NECRON_BLADE              | Gezocht als: NECRON_BLADE              | Recept: Hyperion
+Onbekend: NECRON_BLADE              | Gezocht als: NECRON_BLADE              | Recept: Scylla
+Onbekend: NECRON_BLADE              | Gezocht als: NECRON_BLADE              | Recept: Valkyrie
+Onbekend: NECRON_HANDLE             | Gezocht als: NECRON_HANDLE             | Recept: Necron's Blade (Unrefined)
+Onbekend: OBSOLITE                  | Gezocht als: OBSOLITE                  | Recept: Discrite
+Onbekend: PERSONAL_DELETOR_4000     | Gezocht als: PERSONAL_DELETOR_4000     | Recept: Personal Deletor 5000
+Onbekend: PERSONAL_DELETOR_5000     | Gezocht als: PERSONAL_DELETOR_5000     | Recept: Personal Deletor 6000
+Onbekend: PERSONAL_DELETOR_6000     | Gezocht als: PERSONAL_DELETOR_6000     | Recept: Personal Deletor 7000
+Onbekend: PET_ITEM_ALL_SKILLS_BOOST_COMMON | Gezocht als: PET_ITEM_ALL_SKILLS_BOOST_COMMON | Recept: All Skills Exp Super-Boost
+Onbekend: PET_ITEM_BIG_TEETH_COMMON | Gezocht als: PET_ITEM_BIG_TEETH_COMMON | Recept: Bigger Teeth
+Onbekend: PET_ITEM_HARDENED_SCALES_UNCOMMON | Gezocht als: PET_ITEM_HARDENED_SCALES_UNCOMMON | Recept: Reinforced Scales
+Onbekend: PET_ITEM_IRON_CLAWS_COMMON | Gezocht als: PET_ITEM_IRON_CLAWS_COMMON | Recept: Gold Claws
+Onbekend: PET_ITEM_LUCKY_CLOVER     | Gezocht als: PET_ITEM_LUCKY_CLOVER     | Recept: Four-Eyed Fish
+Onbekend: PET_ITEM_SHARPENED_CLAWS_UNCOMMON | Gezocht als: PET_ITEM_SHARPENED_CLAWS_UNCOMMON | Recept: Serrated Claws
+Onbekend: POWER_RING                | Gezocht als: POWER_RING                | Recept: Artifact of Power
+Onbekend: POWER_TALISMAN            | Gezocht als: POWER_TALISMAN            | Recept: Ring of Power
+Onbekend: PRE_DIGESTION_FISH        | Gezocht als: PRE_DIGESTION_FISH        | Recept: Future Calories Talisman
+Onbekend: PUFF_CRUX                 | Gezocht als: PUFF_CRUX                 | Recept: Celestial Starstone
+Onbekend: RAW_FISH-1                | Gezocht als: RAW_FISH-1                | Recept: Enchanted Raw Salmon
+Onbekend: RAW_FISH-1                | Gezocht als: RAW_FISH-1                | Recept: Fish Bait
+Onbekend: RAW_FISH-1                | Gezocht als: RAW_FISH-1                | Recept: Salmon Hat
+Onbekend: RAW_FISH-2                | Gezocht als: RAW_FISH-2                | Recept: Enchanted Tropical Fish
+Onbekend: RAW_FISH-2                | Gezocht als: RAW_FISH-2                | Recept: Tropical Cloak
+Onbekend: RAW_FISH-2                | Gezocht als: RAW_FISH-2                | Recept: Tropical Fish Hat
+Onbekend: RAW_FISH-3                | Gezocht als: RAW_FISH-3                | Recept: Enchanted Pufferfish
+Onbekend: RAW_FISH-3                | Gezocht als: RAW_FISH-3                | Recept: Pufferfish Hat
+Onbekend: RAW_FISH-3                | Gezocht als: RAW_FISH-3                | Recept: Spiked Bait
+Onbekend: REAPER_SWORD              | Gezocht als: REAPER_SWORD              | Recept: Reaper Scythe
+Onbekend: REVENANT_CHESTPLATE       | Gezocht als: REVENANT_CHESTPLATE       | Recept: Reaper Chestplate
+Onbekend: REVENANT_SWORD            | Gezocht als: REVENANT_SWORD            | Recept: Reaper Falchion
+Onbekend: RIFT_BUCKET               | Gezocht als: RIFT_BUCKET               | Recept: Caducous Extract
+Onbekend: RING_OF_COINS             | Gezocht als: RING_OF_COINS             | Recept: Artifact of Coins
+Onbekend: SAND-1                    | Gezocht als: SAND-1                    | Recept: Enchanted Red Sand
+Onbekend: SAND-1                    | Gezocht als: SAND-1                    | Recept: Red Sand Minion I
+Onbekend: SAND-1                    | Gezocht als: SAND-1                    | Recept: Red Sand Minion II
+Onbekend: SAND-1                    | Gezocht als: SAND-1                    | Recept: Red Sand Minion III
+Onbekend: SAND-1                    | Gezocht als: SAND-1                    | Recept: Red Sandstone
+Onbekend: SCRIBE_CRUX               | Gezocht als: SCRIBE_CRUX               | Recept: Crux Relic
+Onbekend: SELF_RECURSIVE_PICKAXE    | Gezocht als: SELF_RECURSIVE_PICKAXE    | Recept: Silver-Laced Karambit
+Onbekend: SHADOW_CRUX               | Gezocht als: SHADOW_CRUX               | Recept: Crux Ring
+Onbekend: SHADOW_CRUX               | Gezocht als: SHADOW_CRUX               | Recept: Femurgrowth Leggings
+Onbekend: SHADOW_CRUX               | Gezocht als: SHADOW_CRUX               | Recept: Gunther's Sneakers
+Onbekend: SHAMAN_SWORD              | Gezocht als: SHAMAN_SWORD              | Recept: Pooch Sword
+Onbekend: SHAME_CRUX                | Gezocht als: SHAME_CRUX                | Recept: Crux Talisman
+Onbekend: SHAME_CRUX                | Gezocht als: SHAME_CRUX                | Recept: Cruxmotion
+Onbekend: SILKY_LICHEN              | Gezocht als: SILKY_LICHEN              | Recept: Silk-Edge Sword
+Onbekend: SILVER_LACED_KARAMBIT     | Gezocht als: SILVER_LACED_KARAMBIT     | Recept: Silver-Twist Karambit
+Onbekend: SMALL_AGRONOMY_SACK       | Gezocht als: SMALL_AGRONOMY_SACK       | Recept: Medium Agronomy Sack
+Onbekend: SMALL_COMBAT_SACK         | Gezocht als: SMALL_COMBAT_SACK         | Recept: Medium Combat Sack
+Onbekend: SMALL_DRAGON_SACK         | Gezocht als: SMALL_DRAGON_SACK         | Recept: Medium Dragon Sack
+Onbekend: SMALL_GEMSTONE_SACK       | Gezocht als: SMALL_GEMSTONE_SACK       | Recept: Medium Gemstone Sack
+Onbekend: SMALL_HUSBANDRY_SACK      | Gezocht als: SMALL_HUSBANDRY_SACK      | Recept: Medium Husbandry Sack
+Onbekend: SMALL_MINING_SACK         | Gezocht als: SMALL_MINING_SACK         | Recept: Medium Mining Sack
+Onbekend: SMALL_SLAYER_SACK         | Gezocht als: SMALL_SLAYER_SACK         | Recept: Medium Slayer Sack
+Onbekend: SPLATTER_CRUX             | Gezocht als: SPLATTER_CRUX             | Recept: Crux Chronomicon
+Onbekend: STAINED_GLASS-1           | Gezocht als: STAINED_GLASS-1           | Recept: Orange Stained Glass Pane
+Onbekend: STAINED_GLASS-10          | Gezocht als: STAINED_GLASS-10          | Recept: Purple Stained Glass Pane
+Onbekend: STAINED_GLASS-11          | Gezocht als: STAINED_GLASS-11          | Recept: Blue Stained Glass Pane
+Onbekend: STAINED_GLASS-12          | Gezocht als: STAINED_GLASS-12          | Recept: Brown Stained Glass Pane
+Onbekend: STAINED_GLASS-13          | Gezocht als: STAINED_GLASS-13          | Recept: Green Stained Glass Pane
+Onbekend: STAINED_GLASS-14          | Gezocht als: STAINED_GLASS-14          | Recept: Red Stained Glass Pane
+Onbekend: STAINED_GLASS-15          | Gezocht als: STAINED_GLASS-15          | Recept: Black Stained Glass Pane
+Onbekend: STAINED_GLASS-2           | Gezocht als: STAINED_GLASS-2           | Recept: Magenta Stained Glass Pane
+Onbekend: STAINED_GLASS-3           | Gezocht als: STAINED_GLASS-3           | Recept: Light Blue Stained Glass Pane
+Onbekend: STAINED_GLASS-4           | Gezocht als: STAINED_GLASS-4           | Recept: Yellow Stained Glass Pane
+Onbekend: STAINED_GLASS-5           | Gezocht als: STAINED_GLASS-5           | Recept: Lime Stained Glass Pane
+Onbekend: STAINED_GLASS-6           | Gezocht als: STAINED_GLASS-6           | Recept: Pink Stained Glass Pane
+Onbekend: STAINED_GLASS-7           | Gezocht als: STAINED_GLASS-7           | Recept: Gray Stained Glass Pane
+Onbekend: STAINED_GLASS-8           | Gezocht als: STAINED_GLASS-8           | Recept: Light Gray Stained Glass Pane
+Onbekend: STAINED_GLASS-9           | Gezocht als: STAINED_GLASS-9           | Recept: Cyan Stained Glass Pane
+Onbekend: STEP-1                    | Gezocht als: STEP-1                    | Recept: Chiseled Sandstone
+Onbekend: STEP-5                    | Gezocht als: STEP-5                    | Recept: Chiseled Stone Bricks
+Onbekend: STEP-7                    | Gezocht als: STEP-7                    | Recept: Chiseled Quartz Block
+Onbekend: STONE-1                   | Gezocht als: STONE-1                   | Recept: Polished Granite
+Onbekend: STONE-3                   | Gezocht als: STONE-3                   | Recept: Andesite
+Onbekend: STONE-3                   | Gezocht als: STONE-3                   | Recept: Granite
+Onbekend: STONE-3                   | Gezocht als: STONE-3                   | Recept: Polished Diorite
+Onbekend: STONE-5                   | Gezocht als: STONE-5                   | Recept: Polished Andesite
+Onbekend: STONE_SLAB2               | Gezocht als: STONE_SLAB2               | Recept: Red Chiseled Sandstone
+Onbekend: SUPER_LEECH_MODIFIER      | Gezocht als: SUPER_LEECH_MODIFIER      | Recept: Aspect of the Leech
+Onbekend: S_LOGO_FRAGMENT           | Gezocht als: S_LOGO_FRAGMENT           | Recept: W Logo
+Onbekend: THEORETICAL_HOE           | Gezocht als: THEORETICAL_HOE           | Recept: Euclid's Wheat Hoe Mk. I
+Onbekend: THEORETICAL_HOE           | Gezocht als: THEORETICAL_HOE           | Recept: Gauss Carrot Hoe Mk. I
+Onbekend: THEORETICAL_HOE           | Gezocht als: THEORETICAL_HOE           | Recept: Newton Nether Wart Hoe Mk. I
+Onbekend: THEORETICAL_HOE           | Gezocht als: THEORETICAL_HOE           | Recept: Pythagorean Potato Hoe Mk. I
+Onbekend: THEORETICAL_HOE           | Gezocht als: THEORETICAL_HOE           | Recept: Turing Sugar Cane Hoe Mk. I
+Onbekend: TIGHT_PANTS_FRAGMENT      | Gezocht als: TIGHT_PANTS_FRAGMENT      | Recept: Wizardman Leggings
+Onbekend: TIMITE                    | Gezocht als: TIMITE                    | Recept: Chrono Pickaxe
+Onbekend: TOKEN_OF_THE_CENTURY      | Gezocht als: TOKEN_OF_THE_CENTURY      | Recept: Ring of the Century
+Onbekend: TRICK_OR_TREAT_BAG        | Gezocht als: TRICK_OR_TREAT_BAG        | Recept: Spooky Sack
+Onbekend: TUTTI_FRUTTI_POISON       | Gezocht als: TUTTI_FRUTTI_POISON       | Recept: Poisoned Candy
+Onbekend: UGLY_BOOTS_FRAGMENT       | Gezocht als: UGLY_BOOTS_FRAGMENT       | Recept: Ugly Boots
+Onbekend: VAMPIRIC_MELON            | Gezocht als: VAMPIRIC_MELON            | Recept: Enchanted Vampiric Melon
+Onbekend: VAMPIRIC_MELON            | Gezocht als: VAMPIRIC_MELON            | Recept: Healing Melon
+Onbekend: VOLT_CRUX                 | Gezocht als: VOLT_CRUX                 | Recept: Chicken Leggs
+Onbekend: VOLT_CRUX                 | Gezocht als: VOLT_CRUX                 | Recept: Crux Artifact
+Onbekend: WAND_OF_HEALING           | Gezocht als: WAND_OF_HEALING           | Recept: Wand of Mending
+Onbekend: WAND_OF_MENDING           | Gezocht als: WAND_OF_MENDING           | Recept: Wand of Restoration
+Onbekend: WAND_OF_RESTORATION       | Gezocht als: WAND_OF_RESTORATION       | Recept: Wand of Atonement
+Onbekend: WILSON_ENGINEERING_PLANS  | Gezocht als: WILSON_ENGINEERING_PLANS  | Recept: SOS Flare
+Onbekend: WILTED_BERBERIS           | Gezocht als: WILTED_BERBERIS           | Recept: Berberis Blowgun
+Onbekend: WILTED_BERBERIS           | Gezocht als: WILTED_BERBERIS           | Recept: Berberis Fuel Injector
+Onbekend: WILTED_BERBERIS           | Gezocht als: WILTED_BERBERIS           | Recept: Wilted Berberis Bunch
+Onbekend: WIZARD_FACE               | Gezocht als: WIZARD_FACE               | Recept: Warm Wizard Face
+Onbekend: WOOD-1                    | Gezocht als: WOOD-1                    | Recept: Spruce Door
+Onbekend: WOOD-1                    | Gezocht als: WOOD-1                    | Recept: Spruce Fence
+Onbekend: WOOD-1                    | Gezocht als: WOOD-1                    | Recept: Spruce Fence Gate
+Onbekend: WOOD-1                    | Gezocht als: WOOD-1                    | Recept: Spruce Slab
+Onbekend: WOOD-1                    | Gezocht als: WOOD-1                    | Recept: Spruce Stairs
+Onbekend: WOOD-2                    | Gezocht als: WOOD-2                    | Recept: Birch Door
+Onbekend: WOOD-2                    | Gezocht als: WOOD-2                    | Recept: Birch Fence
+Onbekend: WOOD-2                    | Gezocht als: WOOD-2                    | Recept: Birch Fence Gate
+Onbekend: WOOD-2                    | Gezocht als: WOOD-2                    | Recept: Birch Slab
+Onbekend: WOOD-2                    | Gezocht als: WOOD-2                    | Recept: Birch Stairs
+Onbekend: WOOD-3                    | Gezocht als: WOOD-3                    | Recept: Jungle Door
+Onbekend: WOOD-3                    | Gezocht als: WOOD-3                    | Recept: Jungle Fence
+Onbekend: WOOD-3                    | Gezocht als: WOOD-3                    | Recept: Jungle Fence Gate
+Onbekend: WOOD-3                    | Gezocht als: WOOD-3                    | Recept: Jungle Slab
+Onbekend: WOOD-3                    | Gezocht als: WOOD-3                    | Recept: Jungle Stairs
+Onbekend: WOOD-4                    | Gezocht als: WOOD-4                    | Recept: Acacia Door
+Onbekend: WOOD-4                    | Gezocht als: WOOD-4                    | Recept: Acacia Fence
+Onbekend: WOOD-4                    | Gezocht als: WOOD-4                    | Recept: Acacia Fence Gate
+Onbekend: WOOD-4                    | Gezocht als: WOOD-4                    | Recept: Acacia Slab
+Onbekend: WOOD-4                    | Gezocht als: WOOD-4                    | Recept: Acacia Stairs
+Onbekend: WOOD-5                    | Gezocht als: WOOD-5                    | Recept: Dark Oak Door
+Onbekend: WOOD-5                    | Gezocht als: WOOD-5                    | Recept: Dark Oak Fence
+Onbekend: WOOD-5                    | Gezocht als: WOOD-5                    | Recept: Dark Oak Fence Gate
+Onbekend: WOOD-5                    | Gezocht als: WOOD-5                    | Recept: Dark Oak Slab
+Onbekend: WOOD-5                    | Gezocht als: WOOD-5                    | Recept: Dark Oak Stairs
+Onbekend: WOOL-1                    | Gezocht als: WOOL-1                    | Recept: Orange Banner
+Onbekend: WOOL-1                    | Gezocht als: WOOL-1                    | Recept: Orange Carpet
+Onbekend: WOOL-10                   | Gezocht als: WOOL-10                   | Recept: Purple Banner
+Onbekend: WOOL-10                   | Gezocht als: WOOL-10                   | Recept: Purple Carpet
+Onbekend: WOOL-11                   | Gezocht als: WOOL-11                   | Recept: Blue Banner
+Onbekend: WOOL-11                   | Gezocht als: WOOL-11                   | Recept: Blue Carpet
+Onbekend: WOOL-12                   | Gezocht als: WOOL-12                   | Recept: Brown Banner
+Onbekend: WOOL-12                   | Gezocht als: WOOL-12                   | Recept: Brown Carpet
+Onbekend: WOOL-13                   | Gezocht als: WOOL-13                   | Recept: Green Banner
+Onbekend: WOOL-13                   | Gezocht als: WOOL-13                   | Recept: Green Carpet
+Onbekend: WOOL-14                   | Gezocht als: WOOL-14                   | Recept: Red Banner
+Onbekend: WOOL-14                   | Gezocht als: WOOL-14                   | Recept: Red Carpet
+Onbekend: WOOL-15                   | Gezocht als: WOOL-15                   | Recept: Black Banner
+Onbekend: WOOL-15                   | Gezocht als: WOOL-15                   | Recept: Black Carpet
+Onbekend: WOOL-2                    | Gezocht als: WOOL-2                    | Recept: Magenta Banner
+Onbekend: WOOL-2                    | Gezocht als: WOOL-2                    | Recept: Magenta Carpet
+Onbekend: WOOL-3                    | Gezocht als: WOOL-3                    | Recept: Light Blue Banner
+Onbekend: WOOL-3                    | Gezocht als: WOOL-3                    | Recept: Light Blue Carpet
+Onbekend: WOOL-4                    | Gezocht als: WOOL-4                    | Recept: Yellow Banner
+Onbekend: WOOL-4                    | Gezocht als: WOOL-4                    | Recept: Yellow Carpet
+Onbekend: WOOL-5                    | Gezocht als: WOOL-5                    | Recept: Lime Banner
+Onbekend: WOOL-5                    | Gezocht als: WOOL-5                    | Recept: Lime Carpet
+Onbekend: WOOL-6                    | Gezocht als: WOOL-6                    | Recept: Pink Banner
+Onbekend: WOOL-6                    | Gezocht als: WOOL-6                    | Recept: Pink Carpet
+Onbekend: WOOL-7                    | Gezocht als: WOOL-7                    | Recept: Gray Banner
+Onbekend: WOOL-7                    | Gezocht als: WOOL-7                    | Recept: Gray Carpet
+Onbekend: WOOL-8                    | Gezocht als: WOOL-8                    | Recept: Light Gray Banner
+Onbekend: WOOL-8                    | Gezocht als: WOOL-8                    | Recept: Light Gray Carpet
+Onbekend: WOOL-9                    | Gezocht als: WOOL-9                    | Recept: Cyan Banner
+Onbekend: WOOL-9                    | Gezocht als: WOOL-9                    | Recept: Cyan Carpet
+Onbekend: YOUNGITE                  | Gezocht als: YOUNGITE                  | Recept: Eon Pickaxe
+Onbekend: YOUNGITE                  | Gezocht als: YOUNGITE                  | Recept: Highlite
+Onbekend: YOUNGITE                  | Gezocht als: YOUNGITE                  | Recept: Satelite
+Onbekend: YOUNGITE                  | Gezocht als: YOUNGITE                  | Recept: Time Gun
+══════════════════════════════════════════════════════════════════════
+
+✓ Analyse klaar — 248 craft flips, 1420 bazaar flips, 471 AH craft flips
+
+
+
+
+
+
+
+
+
+
+
+
+#=========================================#
+#================Generator================#
+#=========================================#
+
+PS G:\GameDevelopment\Python\PythonProjects\Hypixel-Skyblock-Tools-Den> python hypixel_bazaar.py
+
+  ╔════════════════════════════════════════════╗
+  ║   Hypixel SkyBlock Bazaar Tool  🪙        ║
+  ╚════════════════════════════════════════════╝
+
+  API key geladen (********a6ce)
+
+  Recepten cache gebruikt (0u oud, 2093 items)
+  AH cache gebruikt (4min oud)
+
+══════════════════════════════════════════════════════════════════════
+ 🚨 DEBUG: Ontbrekende of onbekende ingrediënten 🚨
+══════════════════════════════════════════════════════════════════════
+Onbekend: ACACIA_GENERATOR_1        | Gezocht als: ACACIA_GENERATOR_1        | Recept: Acacia Minion II
+Onbekend: ACACIA_GENERATOR_10       | Gezocht als: ACACIA_GENERATOR_10       | Recept: Acacia Minion XI
+Onbekend: ACACIA_GENERATOR_2        | Gezocht als: ACACIA_GENERATOR_2        | Recept: Acacia Minion III
+Onbekend: ACACIA_GENERATOR_3        | Gezocht als: ACACIA_GENERATOR_3        | Recept: Acacia Minion IV
+Onbekend: ACACIA_GENERATOR_4        | Gezocht als: ACACIA_GENERATOR_4        | Recept: Acacia Minion V
+Onbekend: ACACIA_GENERATOR_5        | Gezocht als: ACACIA_GENERATOR_5        | Recept: Acacia Minion VI
+Onbekend: ACACIA_GENERATOR_6        | Gezocht als: ACACIA_GENERATOR_6        | Recept: Acacia Minion VII
+Onbekend: ACACIA_GENERATOR_7        | Gezocht als: ACACIA_GENERATOR_7        | Recept: Acacia Minion VIII
+Onbekend: ACACIA_GENERATOR_8        | Gezocht als: ACACIA_GENERATOR_8        | Recept: Acacia Minion IX
+Onbekend: ACACIA_GENERATOR_9        | Gezocht als: ACACIA_GENERATOR_9        | Recept: Acacia Minion X
+Onbekend: AGARICUS_CAP              | Gezocht als: AGARICUS_CAP              | Recept: Agaricus Cap Bunch
+Onbekend: AGARICUS_CAP              | Gezocht als: AGARICUS_CAP              | Recept: Agaricus Cap Cap
+Onbekend: AGARICUS_CAP              | Gezocht als: AGARICUS_CAP              | Recept: Agaricus Chumcap
+Onbekend: AGARICUS_CAP              | Gezocht als: AGARICUS_CAP              | Recept: Agaricus Soup
+Onbekend: AGARICUS_CHUM_CAP         | Gezocht als: AGARICUS_CHUM_CAP         | Recept: Empty Chumcap Bucket
+Onbekend: ARMOR_SHOWCASE            | Gezocht als: ARMOR_SHOWCASE            | Recept: Training Dummy
+Onbekend: ARTIFACT_OF_COINS         | Gezocht als: ARTIFACT_OF_COINS         | Recept: Relic of Coins
+Onbekend: ASPECT_OF_THE_LEECH_1     | Gezocht als: ASPECT_OF_THE_LEECH_1     | Recept: Aspect of the Leech
+Onbekend: ASSISTANT                 | Gezocht als: ASSISTANT                 | Recept: Aspect of the Jerry
+Onbekend: BACTE_FRAGMENT            | Gezocht als: BACTE_FRAGMENT            | Recept: Globulate Timecharm
+Onbekend: BAT_WAND                  | Gezocht als: BAT_WAND                  | Recept: ⚚ Spirit Sceptre
+Onbekend: BEASTMASTER_CREST_COMMON  | Gezocht als: BEASTMASTER_CREST_COMMON  | Recept: Beastmaster Crest
+Onbekend: BEASTMASTER_CREST_EPIC    | Gezocht als: BEASTMASTER_CREST_EPIC    | Recept: Beastmaster Crest
+Onbekend: BEASTMASTER_CREST_RARE    | Gezocht als: BEASTMASTER_CREST_RARE    | Recept: Beastmaster Crest
+Onbekend: BEASTMASTER_CREST_UNCOMMON | Gezocht als: BEASTMASTER_CREST_UNCOMMON | Recept: Beastmaster Crest
+Onbekend: BIRCH_GENERATOR_10        | Gezocht als: BIRCH_GENERATOR_10        | Recept: Birch Minion XI
+Onbekend: BIRCH_GENERATOR_4         | Gezocht als: BIRCH_GENERATOR_4         | Recept: Birch Minion V
+Onbekend: BIRCH_GENERATOR_5         | Gezocht als: BIRCH_GENERATOR_5         | Recept: Birch Minion VI
+Onbekend: BIRCH_GENERATOR_6         | Gezocht als: BIRCH_GENERATOR_6         | Recept: Birch Minion VII
+Onbekend: BIRCH_GENERATOR_7         | Gezocht als: BIRCH_GENERATOR_7         | Recept: Birch Minion VIII
+Onbekend: BIRCH_GENERATOR_8         | Gezocht als: BIRCH_GENERATOR_8         | Recept: Birch Minion IX
+Onbekend: BIRCH_GENERATOR_9         | Gezocht als: BIRCH_GENERATOR_9         | Recept: Birch Minion X
+Onbekend: BLAZE_GENERATOR_1         | Gezocht als: BLAZE_GENERATOR_1         | Recept: Blaze Minion II
+Onbekend: BLAZE_GENERATOR_1         | Gezocht als: BLAZE_GENERATOR_1         | Recept: Inferno Minion I
+Onbekend: BLAZE_GENERATOR_10        | Gezocht als: BLAZE_GENERATOR_10        | Recept: Blaze Minion XI
+Onbekend: BLAZE_GENERATOR_2         | Gezocht als: BLAZE_GENERATOR_2         | Recept: Blaze Minion III
+Onbekend: BLAZE_GENERATOR_3         | Gezocht als: BLAZE_GENERATOR_3         | Recept: Blaze Minion IV
+Onbekend: BLAZE_GENERATOR_4         | Gezocht als: BLAZE_GENERATOR_4         | Recept: Blaze Minion V
+Onbekend: BLAZE_GENERATOR_5         | Gezocht als: BLAZE_GENERATOR_5         | Recept: Blaze Minion VI
+Onbekend: BLAZE_GENERATOR_6         | Gezocht als: BLAZE_GENERATOR_6         | Recept: Blaze Minion VII
+Onbekend: BLAZE_GENERATOR_7         | Gezocht als: BLAZE_GENERATOR_7         | Recept: Blaze Minion VIII
+Onbekend: BLAZE_GENERATOR_8         | Gezocht als: BLAZE_GENERATOR_8         | Recept: Blaze Minion IX
+Onbekend: BLAZE_GENERATOR_9         | Gezocht als: BLAZE_GENERATOR_9         | Recept: Blaze Minion X
+Onbekend: BLOODBADGE                | Gezocht als: BLOODBADGE                | Recept: Anti-Bite Scarf
+Onbekend: BLOODBADGE                | Gezocht als: BLOODBADGE                | Recept: Luscious Healing Melon
+Onbekend: BLOODBADGE                | Gezocht als: BLOODBADGE                | Recept: Vampire Dentist Relic
+Onbekend: BLOODBADGE                | Gezocht als: BLOODBADGE                | Recept: Vampiric Timecharm
+Onbekend: BONE_BOOMERANG            | Gezocht als: BONE_BOOMERANG            | Recept: ⚚ Bonemerang
+Onbekend: BONZO_MASK                | Gezocht als: BONZO_MASK                | Recept: ⚚ Bonzo's Mask
+Onbekend: BONZO_STAFF               | Gezocht als: BONZO_STAFF               | Recept: ⚚ Bonzo's Staff
+Onbekend: BOTTLED_ODONATA           | Gezocht als: BOTTLED_ODONATA           | Recept: Supreme Timecharm
+Onbekend: BURSTFIRE_DAGGER          | Gezocht als: BURSTFIRE_DAGGER          | Recept: Pyrochaos Dagger
+Onbekend: BURSTMAW_DAGGER           | Gezocht als: BURSTMAW_DAGGER           | Recept: Deathripper Dagger
+Onbekend: BURSTSTOPPER_TALISMAN     | Gezocht als: BURSTSTOPPER_TALISMAN     | Recept: Burststopper Artifact
+Onbekend: CACTUS_GENERATOR_1        | Gezocht als: CACTUS_GENERATOR_1        | Recept: Cactus Minion II
+Onbekend: CACTUS_GENERATOR_10       | Gezocht als: CACTUS_GENERATOR_10       | Recept: Cactus Minion XI
+Onbekend: CACTUS_GENERATOR_2        | Gezocht als: CACTUS_GENERATOR_2        | Recept: Cactus Minion III
+Onbekend: CACTUS_GENERATOR_3        | Gezocht als: CACTUS_GENERATOR_3        | Recept: Cactus Minion IV
+Onbekend: CACTUS_GENERATOR_4        | Gezocht als: CACTUS_GENERATOR_4        | Recept: Cactus Minion V
+Onbekend: CACTUS_GENERATOR_5        | Gezocht als: CACTUS_GENERATOR_5        | Recept: Cactus Minion VI
+Onbekend: CACTUS_GENERATOR_6        | Gezocht als: CACTUS_GENERATOR_6        | Recept: Cactus Minion VII
+Onbekend: CACTUS_GENERATOR_7        | Gezocht als: CACTUS_GENERATOR_7        | Recept: Cactus Minion VIII
+Onbekend: CACTUS_GENERATOR_8        | Gezocht als: CACTUS_GENERATOR_8        | Recept: Cactus Minion IX
+Onbekend: CACTUS_GENERATOR_9        | Gezocht als: CACTUS_GENERATOR_9        | Recept: Cactus Minion X
+Onbekend: CADUCOUS_STEM             | Gezocht als: CADUCOUS_STEM             | Recept: Caducous Feeder
+Onbekend: CADUCOUS_STEM             | Gezocht als: CADUCOUS_STEM             | Recept: Caducous Legume
+Onbekend: CADUCOUS_STEM             | Gezocht als: CADUCOUS_STEM             | Recept: Caducous Stem Bunch
+Onbekend: CADUCOUS_STEM_BUNCH       | Gezocht als: CADUCOUS_STEM_BUNCH       | Recept: Chicken N Egg Timecharm
+Onbekend: CARROT_GENERATOR_1        | Gezocht als: CARROT_GENERATOR_1        | Recept: Carrot Minion II
+Onbekend: CARROT_GENERATOR_10       | Gezocht als: CARROT_GENERATOR_10       | Recept: Carrot Minion XI
+Onbekend: CARROT_GENERATOR_2        | Gezocht als: CARROT_GENERATOR_2        | Recept: Carrot Minion III
+Onbekend: CARROT_GENERATOR_3        | Gezocht als: CARROT_GENERATOR_3        | Recept: Carrot Minion IV
+Onbekend: CARROT_GENERATOR_4        | Gezocht als: CARROT_GENERATOR_4        | Recept: Carrot Minion V
+Onbekend: CARROT_GENERATOR_5        | Gezocht als: CARROT_GENERATOR_5        | Recept: Carrot Minion VI
+Onbekend: CARROT_GENERATOR_6        | Gezocht als: CARROT_GENERATOR_6        | Recept: Carrot Minion VII
+Onbekend: CARROT_GENERATOR_7        | Gezocht als: CARROT_GENERATOR_7        | Recept: Carrot Minion VIII
+Onbekend: CARROT_GENERATOR_8        | Gezocht als: CARROT_GENERATOR_8        | Recept: Carrot Minion IX
+Onbekend: CARROT_GENERATOR_9        | Gezocht als: CARROT_GENERATOR_9        | Recept: Carrot Minion X
+Onbekend: CAVESPIDER_GENERATOR_1    | Gezocht als: CAVESPIDER_GENERATOR_1    | Recept: Cave Spider Minion II
+Onbekend: CAVESPIDER_GENERATOR_10   | Gezocht als: CAVESPIDER_GENERATOR_10   | Recept: Cave Spider Minion XI
+Onbekend: CAVESPIDER_GENERATOR_2    | Gezocht als: CAVESPIDER_GENERATOR_2    | Recept: Cave Spider Minion III
+Onbekend: CAVESPIDER_GENERATOR_3    | Gezocht als: CAVESPIDER_GENERATOR_3    | Recept: Cave Spider Minion IV
+Onbekend: CAVESPIDER_GENERATOR_4    | Gezocht als: CAVESPIDER_GENERATOR_4    | Recept: Cave Spider Minion V
+Onbekend: CAVESPIDER_GENERATOR_5    | Gezocht als: CAVESPIDER_GENERATOR_5    | Recept: Cave Spider Minion VI
+Onbekend: CAVESPIDER_GENERATOR_6    | Gezocht als: CAVESPIDER_GENERATOR_6    | Recept: Cave Spider Minion VII
+Onbekend: CAVESPIDER_GENERATOR_7    | Gezocht als: CAVESPIDER_GENERATOR_7    | Recept: Cave Spider Minion VIII
+Onbekend: CAVESPIDER_GENERATOR_8    | Gezocht als: CAVESPIDER_GENERATOR_8    | Recept: Cave Spider Minion IX
+Onbekend: CAVESPIDER_GENERATOR_9    | Gezocht als: CAVESPIDER_GENERATOR_9    | Recept: Cave Spider Minion X
+Onbekend: CHICKEN_GENERATOR_1       | Gezocht als: CHICKEN_GENERATOR_1       | Recept: Chicken Minion II
+Onbekend: CHICKEN_GENERATOR_10      | Gezocht als: CHICKEN_GENERATOR_10      | Recept: Chicken Minion XI
+Onbekend: CHICKEN_GENERATOR_2       | Gezocht als: CHICKEN_GENERATOR_2       | Recept: Chicken Minion III
+Onbekend: CHICKEN_GENERATOR_3       | Gezocht als: CHICKEN_GENERATOR_3       | Recept: Chicken Minion IV
+Onbekend: CHICKEN_GENERATOR_4       | Gezocht als: CHICKEN_GENERATOR_4       | Recept: Chicken Minion V
+Onbekend: CHICKEN_GENERATOR_5       | Gezocht als: CHICKEN_GENERATOR_5       | Recept: Chicken Minion VI
+Onbekend: CHICKEN_GENERATOR_6       | Gezocht als: CHICKEN_GENERATOR_6       | Recept: Chicken Minion VII
+Onbekend: CHICKEN_GENERATOR_7       | Gezocht als: CHICKEN_GENERATOR_7       | Recept: Chicken Minion VIII
+Onbekend: CHICKEN_GENERATOR_8       | Gezocht als: CHICKEN_GENERATOR_8       | Recept: Chicken Minion IX
+Onbekend: CHICKEN_GENERATOR_9       | Gezocht als: CHICKEN_GENERATOR_9       | Recept: Chicken Minion X
+Onbekend: CLAY_GENERATOR_1          | Gezocht als: CLAY_GENERATOR_1          | Recept: Clay Minion II
+Onbekend: CLAY_GENERATOR_10         | Gezocht als: CLAY_GENERATOR_10         | Recept: Clay Minion XI
+Onbekend: CLAY_GENERATOR_11         | Gezocht als: CLAY_GENERATOR_11         | Recept: Clay Minion XII
+Onbekend: CLAY_GENERATOR_2          | Gezocht als: CLAY_GENERATOR_2          | Recept: Clay Minion III
+Onbekend: CLAY_GENERATOR_3          | Gezocht als: CLAY_GENERATOR_3          | Recept: Clay Minion IV
+Onbekend: CLAY_GENERATOR_4          | Gezocht als: CLAY_GENERATOR_4          | Recept: Clay Minion V
+Onbekend: CLAY_GENERATOR_5          | Gezocht als: CLAY_GENERATOR_5          | Recept: Clay Minion VI
+Onbekend: CLAY_GENERATOR_6          | Gezocht als: CLAY_GENERATOR_6          | Recept: Clay Minion VII
+Onbekend: CLAY_GENERATOR_7          | Gezocht als: CLAY_GENERATOR_7          | Recept: Clay Minion VIII
+Onbekend: CLAY_GENERATOR_8          | Gezocht als: CLAY_GENERATOR_8          | Recept: Clay Minion IX
+Onbekend: CLAY_GENERATOR_9          | Gezocht als: CLAY_GENERATOR_9          | Recept: Clay Minion X
+Onbekend: COAL_GENERATOR_1          | Gezocht als: COAL_GENERATOR_1          | Recept: Coal Minion II
+Onbekend: COAL_GENERATOR_10         | Gezocht als: COAL_GENERATOR_10         | Recept: Coal Minion XI
+Onbekend: COAL_GENERATOR_2          | Gezocht als: COAL_GENERATOR_2          | Recept: Coal Minion III
+Onbekend: COAL_GENERATOR_3          | Gezocht als: COAL_GENERATOR_3          | Recept: Coal Minion IV
+Onbekend: COAL_GENERATOR_4          | Gezocht als: COAL_GENERATOR_4          | Recept: Coal Minion V
+Onbekend: COAL_GENERATOR_5          | Gezocht als: COAL_GENERATOR_5          | Recept: Coal Minion VI
+Onbekend: COAL_GENERATOR_6          | Gezocht als: COAL_GENERATOR_6          | Recept: Coal Minion VII
+Onbekend: COAL_GENERATOR_7          | Gezocht als: COAL_GENERATOR_7          | Recept: Coal Minion VIII
+Onbekend: COAL_GENERATOR_8          | Gezocht als: COAL_GENERATOR_8          | Recept: Coal Minion IX
+Onbekend: COAL_GENERATOR_9          | Gezocht als: COAL_GENERATOR_9          | Recept: Coal Minion X
+Onbekend: COBBLESTONE_GENERATOR_1   | Gezocht als: COBBLESTONE_GENERATOR_1   | Recept: Cobblestone Minion II
+Onbekend: COBBLESTONE_GENERATOR_10  | Gezocht als: COBBLESTONE_GENERATOR_10  | Recept: Cobblestone Minion XI
+Onbekend: COBBLESTONE_GENERATOR_2   | Gezocht als: COBBLESTONE_GENERATOR_2   | Recept: Cobblestone Minion III
+Onbekend: COBBLESTONE_GENERATOR_3   | Gezocht als: COBBLESTONE_GENERATOR_3   | Recept: Cobblestone Minion IV
+Onbekend: COBBLESTONE_GENERATOR_4   | Gezocht als: COBBLESTONE_GENERATOR_4   | Recept: Cobblestone Minion V
+Onbekend: COBBLESTONE_GENERATOR_5   | Gezocht als: COBBLESTONE_GENERATOR_5   | Recept: Cobblestone Minion VI
+Onbekend: COBBLESTONE_GENERATOR_6   | Gezocht als: COBBLESTONE_GENERATOR_6   | Recept: Cobblestone Minion VII
+Onbekend: COBBLESTONE_GENERATOR_7   | Gezocht als: COBBLESTONE_GENERATOR_7   | Recept: Cobblestone Minion VIII
+Onbekend: COBBLESTONE_GENERATOR_8   | Gezocht als: COBBLESTONE_GENERATOR_8   | Recept: Cobblestone Minion IX
+Onbekend: COBBLESTONE_GENERATOR_9   | Gezocht als: COBBLESTONE_GENERATOR_9   | Recept: Cobblestone Minion X
+Onbekend: COCOA_GENERATOR_10        | Gezocht als: COCOA_GENERATOR_10        | Recept: Cocoa Beans Minion XI
+Onbekend: COCOA_GENERATOR_4         | Gezocht als: COCOA_GENERATOR_4         | Recept: Cocoa Beans Minion V
+Onbekend: COCOA_GENERATOR_5         | Gezocht als: COCOA_GENERATOR_5         | Recept: Cocoa Beans Minion VI
+Onbekend: COCOA_GENERATOR_6         | Gezocht als: COCOA_GENERATOR_6         | Recept: Cocoa Beans Minion VII
+Onbekend: COCOA_GENERATOR_7         | Gezocht als: COCOA_GENERATOR_7         | Recept: Cocoa Beans Minion VIII
+Onbekend: COCOA_GENERATOR_8         | Gezocht als: COCOA_GENERATOR_8         | Recept: Cocoa Beans Minion IX
+Onbekend: COCOA_GENERATOR_9         | Gezocht als: COCOA_GENERATOR_9         | Recept: Cocoa Beans Minion X
+Onbekend: COLOSSAL_EXP_BOTTLE_UPGRADE | Gezocht als: COLOSSAL_EXP_BOTTLE_UPGRADE | Recept: Colossal Experience Bottle
+Onbekend: COVEN_SEAL                | Gezocht als: COVEN_SEAL                | Recept: Anti-Bite Scarf
+Onbekend: COVEN_SEAL                | Gezocht als: COVEN_SEAL                | Recept: Bloodbadge
+Onbekend: COVEN_SEAL                | Gezocht als: COVEN_SEAL                | Recept: Holy Ice
+Onbekend: COVEN_SEAL                | Gezocht als: COVEN_SEAL                | Recept: Juicy Healing Melon
+Onbekend: COVEN_SEAL                | Gezocht als: COVEN_SEAL                | Recept: Maddox Badphone
+Onbekend: COVEN_SEAL                | Gezocht als: COVEN_SEAL                | Recept: Steak Stake
+Onbekend: COW_GENERATOR_1           | Gezocht als: COW_GENERATOR_1           | Recept: Cow Minion II
+Onbekend: COW_GENERATOR_10          | Gezocht als: COW_GENERATOR_10          | Recept: Cow Minion XI
+Onbekend: COW_GENERATOR_2           | Gezocht als: COW_GENERATOR_2           | Recept: Cow Minion III
+Onbekend: COW_GENERATOR_3           | Gezocht als: COW_GENERATOR_3           | Recept: Cow Minion IV
+Onbekend: COW_GENERATOR_4           | Gezocht als: COW_GENERATOR_4           | Recept: Cow Minion V
+Onbekend: COW_GENERATOR_5           | Gezocht als: COW_GENERATOR_5           | Recept: Cow Minion VI
+Onbekend: COW_GENERATOR_6           | Gezocht als: COW_GENERATOR_6           | Recept: Cow Minion VII
+Onbekend: COW_GENERATOR_7           | Gezocht als: COW_GENERATOR_7           | Recept: Cow Minion VIII
+Onbekend: COW_GENERATOR_8           | Gezocht als: COW_GENERATOR_8           | Recept: Cow Minion IX
+Onbekend: COW_GENERATOR_9           | Gezocht als: COW_GENERATOR_9           | Recept: Cow Minion X
+Onbekend: CREEPER_GENERATOR_1       | Gezocht als: CREEPER_GENERATOR_1       | Recept: Creeper Minion II
+Onbekend: CREEPER_GENERATOR_10      | Gezocht als: CREEPER_GENERATOR_10      | Recept: Creeper Minion XI
+Onbekend: CREEPER_GENERATOR_2       | Gezocht als: CREEPER_GENERATOR_2       | Recept: Creeper Minion III
+Onbekend: CREEPER_GENERATOR_3       | Gezocht als: CREEPER_GENERATOR_3       | Recept: Creeper Minion IV
+Onbekend: CREEPER_GENERATOR_4       | Gezocht als: CREEPER_GENERATOR_4       | Recept: Creeper Minion V
+Onbekend: CREEPER_GENERATOR_5       | Gezocht als: CREEPER_GENERATOR_5       | Recept: Creeper Minion VI
+Onbekend: CREEPER_GENERATOR_6       | Gezocht als: CREEPER_GENERATOR_6       | Recept: Creeper Minion VII
+Onbekend: CREEPER_GENERATOR_7       | Gezocht als: CREEPER_GENERATOR_7       | Recept: Creeper Minion VIII
+Onbekend: CREEPER_GENERATOR_8       | Gezocht als: CREEPER_GENERATOR_8       | Recept: Creeper Minion IX
+Onbekend: CREEPER_GENERATOR_9       | Gezocht als: CREEPER_GENERATOR_9       | Recept: Creeper Minion X
+Onbekend: CRUXMOTION                | Gezocht als: CRUXMOTION                | Recept: Super Sharp 'n Stabby Steak Stake
+Onbekend: DARK_OAK_GENERATOR_10     | Gezocht als: DARK_OAK_GENERATOR_10     | Recept: Dark Oak Minion XI
+Onbekend: DARK_OAK_GENERATOR_4      | Gezocht als: DARK_OAK_GENERATOR_4      | Recept: Dark Oak Minion V
+Onbekend: DARK_OAK_GENERATOR_5      | Gezocht als: DARK_OAK_GENERATOR_5      | Recept: Dark Oak Minion VI
+Onbekend: DARK_OAK_GENERATOR_6      | Gezocht als: DARK_OAK_GENERATOR_6      | Recept: Dark Oak Minion VII
+Onbekend: DARK_OAK_GENERATOR_7      | Gezocht als: DARK_OAK_GENERATOR_7      | Recept: Dark Oak Minion VIII
+Onbekend: DARK_OAK_GENERATOR_8      | Gezocht als: DARK_OAK_GENERATOR_8      | Recept: Dark Oak Minion IX
+Onbekend: DARK_OAK_GENERATOR_9      | Gezocht als: DARK_OAK_GENERATOR_9      | Recept: Dark Oak Minion X
+Onbekend: DEADGEHOG_SPINE           | Gezocht als: DEADGEHOG_SPINE           | Recept: Leech Sword
+Onbekend: DEADGEHOG_SPINE           | Gezocht als: DEADGEHOG_SPINE           | Recept: Not-Dead-Gehog Mask
+Onbekend: DESTRUCTION_CLOAK         | Gezocht als: DESTRUCTION_CLOAK         | Recept: Annihilation Cloak
+Onbekend: DIAMOND_GENERATOR_1       | Gezocht als: DIAMOND_GENERATOR_1       | Recept: Diamond Minion II
+Onbekend: DIAMOND_GENERATOR_10      | Gezocht als: DIAMOND_GENERATOR_10      | Recept: Diamond Minion XI
+Onbekend: DIAMOND_GENERATOR_2       | Gezocht als: DIAMOND_GENERATOR_2       | Recept: Diamond Minion III
+Onbekend: DIAMOND_GENERATOR_3       | Gezocht als: DIAMOND_GENERATOR_3       | Recept: Diamond Minion IV
+Onbekend: DIAMOND_GENERATOR_4       | Gezocht als: DIAMOND_GENERATOR_4       | Recept: Diamond Minion V
+Onbekend: DIAMOND_GENERATOR_5       | Gezocht als: DIAMOND_GENERATOR_5       | Recept: Diamond Minion VI
+Onbekend: DIAMOND_GENERATOR_6       | Gezocht als: DIAMOND_GENERATOR_6       | Recept: Diamond Minion VII
+Onbekend: DIAMOND_GENERATOR_7       | Gezocht als: DIAMOND_GENERATOR_7       | Recept: Diamond Minion VIII
+Onbekend: DIAMOND_GENERATOR_8       | Gezocht als: DIAMOND_GENERATOR_8       | Recept: Diamond Minion IX
+Onbekend: DIAMOND_GENERATOR_9       | Gezocht als: DIAMOND_GENERATOR_9       | Recept: Diamond Minion X
+Onbekend: EMERALD_GENERATOR_1       | Gezocht als: EMERALD_GENERATOR_1       | Recept: Emerald Minion II
+Onbekend: EMERALD_GENERATOR_10      | Gezocht als: EMERALD_GENERATOR_10      | Recept: Emerald Minion XI
+Onbekend: EMERALD_GENERATOR_2       | Gezocht als: EMERALD_GENERATOR_2       | Recept: Emerald Minion III
+Onbekend: EMERALD_GENERATOR_3       | Gezocht als: EMERALD_GENERATOR_3       | Recept: Emerald Minion IV
+Onbekend: EMERALD_GENERATOR_4       | Gezocht als: EMERALD_GENERATOR_4       | Recept: Emerald Minion V
+Onbekend: EMERALD_GENERATOR_5       | Gezocht als: EMERALD_GENERATOR_5       | Recept: Emerald Minion VI
+Onbekend: EMERALD_GENERATOR_6       | Gezocht als: EMERALD_GENERATOR_6       | Recept: Emerald Minion VII
+Onbekend: EMERALD_GENERATOR_7       | Gezocht als: EMERALD_GENERATOR_7       | Recept: Emerald Minion VIII
+Onbekend: EMERALD_GENERATOR_8       | Gezocht als: EMERALD_GENERATOR_8       | Recept: Emerald Minion IX
+Onbekend: EMERALD_GENERATOR_9       | Gezocht als: EMERALD_GENERATOR_9       | Recept: Emerald Minion X
+Onbekend: ENDERMAN_GENERATOR_1      | Gezocht als: ENDERMAN_GENERATOR_1      | Recept: Enderman Minion II
+Onbekend: ENDERMAN_GENERATOR_1      | Gezocht als: ENDERMAN_GENERATOR_1      | Recept: Voidling Minion I
+Onbekend: ENDERMAN_GENERATOR_10     | Gezocht als: ENDERMAN_GENERATOR_10     | Recept: Enderman Minion XI
+Onbekend: ENDERMAN_GENERATOR_2      | Gezocht als: ENDERMAN_GENERATOR_2      | Recept: Enderman Minion III
+Onbekend: ENDERMAN_GENERATOR_3      | Gezocht als: ENDERMAN_GENERATOR_3      | Recept: Enderman Minion IV
+Onbekend: ENDERMAN_GENERATOR_4      | Gezocht als: ENDERMAN_GENERATOR_4      | Recept: Enderman Minion V
+Onbekend: ENDERMAN_GENERATOR_5      | Gezocht als: ENDERMAN_GENERATOR_5      | Recept: Enderman Minion VI
+Onbekend: ENDERMAN_GENERATOR_6      | Gezocht als: ENDERMAN_GENERATOR_6      | Recept: Enderman Minion VII
+Onbekend: ENDERMAN_GENERATOR_7      | Gezocht als: ENDERMAN_GENERATOR_7      | Recept: Enderman Minion VIII
+Onbekend: ENDERMAN_GENERATOR_8      | Gezocht als: ENDERMAN_GENERATOR_8      | Recept: Enderman Minion IX
+Onbekend: ENDERMAN_GENERATOR_9      | Gezocht als: ENDERMAN_GENERATOR_9      | Recept: Enderman Minion X
+Onbekend: ENDER_STONE_GENERATOR_1   | Gezocht als: ENDER_STONE_GENERATOR_1   | Recept: End Stone Minion II
+Onbekend: ENDER_STONE_GENERATOR_10  | Gezocht als: ENDER_STONE_GENERATOR_10  | Recept: End Stone Minion XI
+Onbekend: ENDER_STONE_GENERATOR_2   | Gezocht als: ENDER_STONE_GENERATOR_2   | Recept: End Stone Minion III
+Onbekend: ENDER_STONE_GENERATOR_3   | Gezocht als: ENDER_STONE_GENERATOR_3   | Recept: End Stone Minion IV
+Onbekend: ENDER_STONE_GENERATOR_4   | Gezocht als: ENDER_STONE_GENERATOR_4   | Recept: End Stone Minion V
+Onbekend: ENDER_STONE_GENERATOR_5   | Gezocht als: ENDER_STONE_GENERATOR_5   | Recept: End Stone Minion VI
+Onbekend: ENDER_STONE_GENERATOR_6   | Gezocht als: ENDER_STONE_GENERATOR_6   | Recept: End Stone Minion VII
+Onbekend: ENDER_STONE_GENERATOR_7   | Gezocht als: ENDER_STONE_GENERATOR_7   | Recept: End Stone Minion VIII
+Onbekend: ENDER_STONE_GENERATOR_8   | Gezocht als: ENDER_STONE_GENERATOR_8   | Recept: End Stone Minion IX
+Onbekend: ENDER_STONE_GENERATOR_9   | Gezocht als: ENDER_STONE_GENERATOR_9   | Recept: End Stone Minion X
+Onbekend: EXCEEDINGLY_RARE_ENDER_ARTIFACT_UPGRADER | Gezocht als: EXCEEDINGLY_RARE_ENDER_ARTIFACT_UPGRADER | Recept: Ender Relic
+Onbekend: FEMURGROWTH_LEGGINGS      | Gezocht als: FEMURGROWTH_LEGGINGS      | Recept: Leggings of the Coven
+Onbekend: FISHING_GENERATOR_1       | Gezocht als: FISHING_GENERATOR_1       | Recept: Fishing Minion II
+Onbekend: FISHING_GENERATOR_10      | Gezocht als: FISHING_GENERATOR_10      | Recept: Fishing Minion XI
+Onbekend: FISHING_GENERATOR_11      | Gezocht als: FISHING_GENERATOR_11      | Recept: Fishing Minion XII
+Onbekend: FISHING_GENERATOR_2       | Gezocht als: FISHING_GENERATOR_2       | Recept: Fishing Minion III
+Onbekend: FISHING_GENERATOR_3       | Gezocht als: FISHING_GENERATOR_3       | Recept: Fishing Minion IV
+Onbekend: FISHING_GENERATOR_4       | Gezocht als: FISHING_GENERATOR_4       | Recept: Fishing Minion V
+Onbekend: FISHING_GENERATOR_5       | Gezocht als: FISHING_GENERATOR_5       | Recept: Fishing Minion VI
+Onbekend: FISHING_GENERATOR_6       | Gezocht als: FISHING_GENERATOR_6       | Recept: Fishing Minion VII
+Onbekend: FISHING_GENERATOR_7       | Gezocht als: FISHING_GENERATOR_7       | Recept: Fishing Minion VIII
+Onbekend: FISHING_GENERATOR_8       | Gezocht als: FISHING_GENERATOR_8       | Recept: Fishing Minion IX
+Onbekend: FISHING_GENERATOR_9       | Gezocht als: FISHING_GENERATOR_9       | Recept: Fishing Minion X
+Onbekend: FLAME_BREAKER_BOOTS       | Gezocht als: FLAME_BREAKER_BOOTS       | Recept: Yog Boots
+Onbekend: FLAME_BREAKER_CHESTPLATE  | Gezocht als: FLAME_BREAKER_CHESTPLATE  | Recept: Yog Chestplate
+Onbekend: FLAME_BREAKER_HELMET      | Gezocht als: FLAME_BREAKER_HELMET      | Recept: Yog Helmet
+Onbekend: FLAME_BREAKER_LEGGINGS    | Gezocht als: FLAME_BREAKER_LEGGINGS    | Recept: Yog Leggings
+Onbekend: FLOWER_GENERATOR_1        | Gezocht als: FLOWER_GENERATOR_1        | Recept: Flower Minion II
+Onbekend: FLOWER_GENERATOR_10       | Gezocht als: FLOWER_GENERATOR_10       | Recept: Flower Minion XI
+Onbekend: FLOWER_GENERATOR_11       | Gezocht als: FLOWER_GENERATOR_11       | Recept: Flower Minion XII
+Onbekend: FLOWER_GENERATOR_2        | Gezocht als: FLOWER_GENERATOR_2        | Recept: Flower Minion III
+Onbekend: FLOWER_GENERATOR_3        | Gezocht als: FLOWER_GENERATOR_3        | Recept: Flower Minion IV
+Onbekend: FLOWER_GENERATOR_4        | Gezocht als: FLOWER_GENERATOR_4        | Recept: Flower Minion V
+Onbekend: FLOWER_GENERATOR_5        | Gezocht als: FLOWER_GENERATOR_5        | Recept: Flower Minion VI
+Onbekend: FLOWER_GENERATOR_6        | Gezocht als: FLOWER_GENERATOR_6        | Recept: Flower Minion VII
+Onbekend: FLOWER_GENERATOR_7        | Gezocht als: FLOWER_GENERATOR_7        | Recept: Flower Minion VIII
+Onbekend: FLOWER_GENERATOR_8        | Gezocht als: FLOWER_GENERATOR_8        | Recept: Flower Minion IX
+Onbekend: FLOWER_GENERATOR_9        | Gezocht als: FLOWER_GENERATOR_9        | Recept: Flower Minion X
+Onbekend: FROSTY_CRUX               | Gezocht als: FROSTY_CRUX               | Recept: Crux Heirloom
+Onbekend: FROSTY_CRUX               | Gezocht als: FROSTY_CRUX               | Recept: Polarvoid Book
+Onbekend: FROZEN_WATER              | Gezocht als: FROZEN_WATER              | Recept: Frozen Water Pungi
+Onbekend: GHAST_GENERATOR_1         | Gezocht als: GHAST_GENERATOR_1         | Recept: Ghast Minion II
+Onbekend: GHAST_GENERATOR_10        | Gezocht als: GHAST_GENERATOR_10        | Recept: Ghast Minion XI
+Onbekend: GHAST_GENERATOR_2         | Gezocht als: GHAST_GENERATOR_2         | Recept: Ghast Minion III
+Onbekend: GHAST_GENERATOR_3         | Gezocht als: GHAST_GENERATOR_3         | Recept: Ghast Minion IV
+Onbekend: GHAST_GENERATOR_4         | Gezocht als: GHAST_GENERATOR_4         | Recept: Ghast Minion V
+Onbekend: GHAST_GENERATOR_5         | Gezocht als: GHAST_GENERATOR_5         | Recept: Ghast Minion VI
+Onbekend: GHAST_GENERATOR_6         | Gezocht als: GHAST_GENERATOR_6         | Recept: Ghast Minion VII
+Onbekend: GHAST_GENERATOR_7         | Gezocht als: GHAST_GENERATOR_7         | Recept: Ghast Minion VIII
+Onbekend: GHAST_GENERATOR_8         | Gezocht als: GHAST_GENERATOR_8         | Recept: Ghast Minion IX
+Onbekend: GHAST_GENERATOR_9         | Gezocht als: GHAST_GENERATOR_9         | Recept: Ghast Minion X
+Onbekend: GLOWSTONE_GENERATOR_1     | Gezocht als: GLOWSTONE_GENERATOR_1     | Recept: Glowstone Minion II
+Onbekend: GLOWSTONE_GENERATOR_10    | Gezocht als: GLOWSTONE_GENERATOR_10    | Recept: Glowstone Minion XI
+Onbekend: GLOWSTONE_GENERATOR_2     | Gezocht als: GLOWSTONE_GENERATOR_2     | Recept: Glowstone Minion III
+Onbekend: GLOWSTONE_GENERATOR_3     | Gezocht als: GLOWSTONE_GENERATOR_3     | Recept: Glowstone Minion IV
+Onbekend: GLOWSTONE_GENERATOR_4     | Gezocht als: GLOWSTONE_GENERATOR_4     | Recept: Glowstone Minion V
+Onbekend: GLOWSTONE_GENERATOR_5     | Gezocht als: GLOWSTONE_GENERATOR_5     | Recept: Glowstone Minion VI
+Onbekend: GLOWSTONE_GENERATOR_6     | Gezocht als: GLOWSTONE_GENERATOR_6     | Recept: Glowstone Minion VII
+Onbekend: GLOWSTONE_GENERATOR_7     | Gezocht als: GLOWSTONE_GENERATOR_7     | Recept: Glowstone Minion VIII
+Onbekend: GLOWSTONE_GENERATOR_8     | Gezocht als: GLOWSTONE_GENERATOR_8     | Recept: Glowstone Minion IX
+Onbekend: GLOWSTONE_GENERATOR_9     | Gezocht als: GLOWSTONE_GENERATOR_9     | Recept: Glowstone Minion X
+Onbekend: GOLDEN_APPLE-1            | Gezocht als: GOLDEN_APPLE-1            | Recept: Enchanted Book
+Onbekend: GOLDEN_APPLE-1            | Gezocht als: GOLDEN_APPLE-1            | Recept: Saving Grace
+Onbekend: GOLD_GENERATOR_1          | Gezocht als: GOLD_GENERATOR_1          | Recept: Gold Minion II
+Onbekend: GOLD_GENERATOR_10         | Gezocht als: GOLD_GENERATOR_10         | Recept: Gold Minion XI
+Onbekend: GOLD_GENERATOR_2          | Gezocht als: GOLD_GENERATOR_2          | Recept: Gold Minion III
+Onbekend: GOLD_GENERATOR_3          | Gezocht als: GOLD_GENERATOR_3          | Recept: Gold Minion IV
+Onbekend: GOLD_GENERATOR_4          | Gezocht als: GOLD_GENERATOR_4          | Recept: Gold Minion V
+Onbekend: GOLD_GENERATOR_5          | Gezocht als: GOLD_GENERATOR_5          | Recept: Gold Minion VI
+Onbekend: GOLD_GENERATOR_6          | Gezocht als: GOLD_GENERATOR_6          | Recept: Gold Minion VII
+Onbekend: GOLD_GENERATOR_7          | Gezocht als: GOLD_GENERATOR_7          | Recept: Gold Minion VIII
+Onbekend: GOLD_GENERATOR_8          | Gezocht als: GOLD_GENERATOR_8          | Recept: Gold Minion IX
+Onbekend: GOLD_GENERATOR_9          | Gezocht als: GOLD_GENERATOR_9          | Recept: Gold Minion X
+Onbekend: GRAVEL_GENERATOR_1        | Gezocht als: GRAVEL_GENERATOR_1        | Recept: Gravel Minion II
+Onbekend: GRAVEL_GENERATOR_10       | Gezocht als: GRAVEL_GENERATOR_10       | Recept: Gravel Minion XI
+Onbekend: GRAVEL_GENERATOR_2        | Gezocht als: GRAVEL_GENERATOR_2        | Recept: Gravel Minion III
+Onbekend: GRAVEL_GENERATOR_3        | Gezocht als: GRAVEL_GENERATOR_3        | Recept: Gravel Minion IV
+Onbekend: GRAVEL_GENERATOR_4        | Gezocht als: GRAVEL_GENERATOR_4        | Recept: Gravel Minion V
+Onbekend: GRAVEL_GENERATOR_5        | Gezocht als: GRAVEL_GENERATOR_5        | Recept: Gravel Minion VI
+Onbekend: GRAVEL_GENERATOR_6        | Gezocht als: GRAVEL_GENERATOR_6        | Recept: Gravel Minion VII
+Onbekend: GRAVEL_GENERATOR_7        | Gezocht als: GRAVEL_GENERATOR_7        | Recept: Gravel Minion VIII
+Onbekend: GRAVEL_GENERATOR_8        | Gezocht als: GRAVEL_GENERATOR_8        | Recept: Gravel Minion IX
+Onbekend: GRAVEL_GENERATOR_9        | Gezocht als: GRAVEL_GENERATOR_9        | Recept: Gravel Minion X
+Onbekend: GRIZZLY_BAIT              | Gezocht als: GRIZZLY_BAIT              | Recept: Hunter Ring
+Onbekend: HALF_EATEN_CARROT         | Gezocht als: HALF_EATEN_CARROT         | Recept: Nearly-Whole Carrot
+Onbekend: HALF_EATEN_CARROT         | Gezocht als: HALF_EATEN_CARROT         | Recept: Orange Chestplate
+Onbekend: HARD_STONE_GENERATOR_1    | Gezocht als: HARD_STONE_GENERATOR_1    | Recept: Hard Stone Minion II
+Onbekend: HARD_STONE_GENERATOR_10   | Gezocht als: HARD_STONE_GENERATOR_10   | Recept: Hard Stone Minion XI
+Onbekend: HARD_STONE_GENERATOR_2    | Gezocht als: HARD_STONE_GENERATOR_2    | Recept: Hard Stone Minion III
+Onbekend: HARD_STONE_GENERATOR_3    | Gezocht als: HARD_STONE_GENERATOR_3    | Recept: Hard Stone Minion IV
+Onbekend: HARD_STONE_GENERATOR_4    | Gezocht als: HARD_STONE_GENERATOR_4    | Recept: Hard Stone Minion V
+Onbekend: HARD_STONE_GENERATOR_5    | Gezocht als: HARD_STONE_GENERATOR_5    | Recept: Hard Stone Minion VI
+Onbekend: HARD_STONE_GENERATOR_6    | Gezocht als: HARD_STONE_GENERATOR_6    | Recept: Hard Stone Minion VII
+Onbekend: HARD_STONE_GENERATOR_7    | Gezocht als: HARD_STONE_GENERATOR_7    | Recept: Hard Stone Minion VIII
+Onbekend: HARD_STONE_GENERATOR_8    | Gezocht als: HARD_STONE_GENERATOR_8    | Recept: Hard Stone Minion IX
+Onbekend: HARD_STONE_GENERATOR_9    | Gezocht als: HARD_STONE_GENERATOR_9    | Recept: Hard Stone Minion X
+Onbekend: ICE_GENERATOR_1           | Gezocht als: ICE_GENERATOR_1           | Recept: Ice Minion II
+Onbekend: ICE_GENERATOR_10          | Gezocht als: ICE_GENERATOR_10          | Recept: Ice Minion XI
+Onbekend: ICE_GENERATOR_2           | Gezocht als: ICE_GENERATOR_2           | Recept: Ice Minion III
+Onbekend: ICE_GENERATOR_3           | Gezocht als: ICE_GENERATOR_3           | Recept: Ice Minion IV
+Onbekend: ICE_GENERATOR_4           | Gezocht als: ICE_GENERATOR_4           | Recept: Ice Minion V
+Onbekend: ICE_GENERATOR_5           | Gezocht als: ICE_GENERATOR_5           | Recept: Ice Minion VI
+Onbekend: ICE_GENERATOR_6           | Gezocht als: ICE_GENERATOR_6           | Recept: Ice Minion VII
+Onbekend: ICE_GENERATOR_7           | Gezocht als: ICE_GENERATOR_7           | Recept: Ice Minion VIII
+Onbekend: ICE_GENERATOR_8           | Gezocht als: ICE_GENERATOR_8           | Recept: Ice Minion IX
+Onbekend: ICE_GENERATOR_9           | Gezocht als: ICE_GENERATOR_9           | Recept: Ice Minion X
+Onbekend: INFERNO_GENERATOR_1       | Gezocht als: INFERNO_GENERATOR_1       | Recept: Inferno Minion II
+Onbekend: INFERNO_GENERATOR_10      | Gezocht als: INFERNO_GENERATOR_10      | Recept: Inferno Minion XI
+Onbekend: INFERNO_GENERATOR_2       | Gezocht als: INFERNO_GENERATOR_2       | Recept: Inferno Minion III
+Onbekend: INFERNO_GENERATOR_3       | Gezocht als: INFERNO_GENERATOR_3       | Recept: Inferno Minion IV
+Onbekend: INFERNO_GENERATOR_4       | Gezocht als: INFERNO_GENERATOR_4       | Recept: Inferno Minion V
+Onbekend: INFERNO_GENERATOR_5       | Gezocht als: INFERNO_GENERATOR_5       | Recept: Inferno Minion VI
+Onbekend: INFERNO_GENERATOR_6       | Gezocht als: INFERNO_GENERATOR_6       | Recept: Inferno Minion VII
+Onbekend: INFERNO_GENERATOR_7       | Gezocht als: INFERNO_GENERATOR_7       | Recept: Inferno Minion VIII
+Onbekend: INFERNO_GENERATOR_8       | Gezocht als: INFERNO_GENERATOR_8       | Recept: Inferno Minion IX
+Onbekend: INFERNO_GENERATOR_9       | Gezocht als: INFERNO_GENERATOR_9       | Recept: Inferno Minion X
+Onbekend: INK_SACK-1                | Gezocht als: INK_SACK-1                | Recept: Red Hardened Clay
+Onbekend: INK_SACK-1                | Gezocht als: INK_SACK-1                | Recept: Red Stained Glass
+Onbekend: INK_SACK-1                | Gezocht als: INK_SACK-1                | Recept: Red Wool
+Onbekend: INK_SACK-10               | Gezocht als: INK_SACK-10               | Recept: Lime Hardened Clay
+Onbekend: INK_SACK-10               | Gezocht als: INK_SACK-10               | Recept: Lime Stained Glass
+Onbekend: INK_SACK-10               | Gezocht als: INK_SACK-10               | Recept: Lime Wool
+Onbekend: INK_SACK-11               | Gezocht als: INK_SACK-11               | Recept: Yellow Hardened Clay
+Onbekend: INK_SACK-11               | Gezocht als: INK_SACK-11               | Recept: Yellow Stained Glass
+Onbekend: INK_SACK-11               | Gezocht als: INK_SACK-11               | Recept: Yellow Wool
+Onbekend: INK_SACK-12               | Gezocht als: INK_SACK-12               | Recept: Light Blue Hardened Clay
+Onbekend: INK_SACK-12               | Gezocht als: INK_SACK-12               | Recept: Light Blue Stained Glass
+Onbekend: INK_SACK-12               | Gezocht als: INK_SACK-12               | Recept: Light Blue Wool
+Onbekend: INK_SACK-13               | Gezocht als: INK_SACK-13               | Recept: Magenta Hardened Clay
+Onbekend: INK_SACK-13               | Gezocht als: INK_SACK-13               | Recept: Magenta Stained Glass
+Onbekend: INK_SACK-13               | Gezocht als: INK_SACK-13               | Recept: Magenta Wool
+Onbekend: INK_SACK-14               | Gezocht als: INK_SACK-14               | Recept: Orange Hardened Clay
+Onbekend: INK_SACK-14               | Gezocht als: INK_SACK-14               | Recept: Orange Stained Glass
+Onbekend: INK_SACK-14               | Gezocht als: INK_SACK-14               | Recept: Orange Wool
+Onbekend: INK_SACK-15               | Gezocht als: INK_SACK-15               | Recept: White Hardened Clay
+Onbekend: INK_SACK-15               | Gezocht als: INK_SACK-15               | Recept: White Stained Glass
+Onbekend: INK_SACK-15               | Gezocht als: INK_SACK-15               | Recept: White Wool
+Onbekend: INK_SACK-2                | Gezocht als: INK_SACK-2                | Recept: Green Hardened Clay
+Onbekend: INK_SACK-2                | Gezocht als: INK_SACK-2                | Recept: Green Stained Glass
+Onbekend: INK_SACK-2                | Gezocht als: INK_SACK-2                | Recept: Green Wool
+Onbekend: INK_SACK-3                | Gezocht als: INK_SACK-3                | Recept: Brown Hardened Clay
+Onbekend: INK_SACK-3                | Gezocht als: INK_SACK-3                | Recept: Brown Stained Glass
+Onbekend: INK_SACK-3                | Gezocht als: INK_SACK-3                | Recept: Brown Wool
+Onbekend: INK_SACK-3                | Gezocht als: INK_SACK-3                | Recept: Cocoa Beans Minion I
+Onbekend: INK_SACK-3                | Gezocht als: INK_SACK-3                | Recept: Cocoa Beans Minion II
+Onbekend: INK_SACK-3                | Gezocht als: INK_SACK-3                | Recept: Cocoa Beans Minion III
+Onbekend: INK_SACK-3                | Gezocht als: INK_SACK-3                | Recept: Cocoa Beans Minion IV
+Onbekend: INK_SACK-3                | Gezocht als: INK_SACK-3                | Recept: Cookie
+Onbekend: INK_SACK-3                | Gezocht als: INK_SACK-3                | Recept: Enchanted Cocoa Beans
+Onbekend: INK_SACK-3                | Gezocht als: INK_SACK-3                | Recept: Portal to Mushroom Island
+Onbekend: INK_SACK-4                | Gezocht als: INK_SACK-4                | Recept: Blue Hardened Clay
+Onbekend: INK_SACK-4                | Gezocht als: INK_SACK-4                | Recept: Blue Stained Glass
+Onbekend: INK_SACK-4                | Gezocht als: INK_SACK-4                | Recept: Blue Wool
+Onbekend: INK_SACK-4                | Gezocht als: INK_SACK-4                | Recept: Cyan Dye
+Onbekend: INK_SACK-4                | Gezocht als: INK_SACK-4                | Recept: Experience Bottle
+Onbekend: INK_SACK-4                | Gezocht als: INK_SACK-4                | Recept: Lapis Lazuli Block
+Onbekend: INK_SACK-4                | Gezocht als: INK_SACK-4                | Recept: Lapis Minion I
+Onbekend: INK_SACK-4                | Gezocht als: INK_SACK-4                | Recept: Lapis Minion II
+Onbekend: INK_SACK-4                | Gezocht als: INK_SACK-4                | Recept: Lapis Pickaxe
+Onbekend: INK_SACK-4                | Gezocht als: INK_SACK-4                | Recept: Purple Dye
+Onbekend: INK_SACK-5                | Gezocht als: INK_SACK-5                | Recept: Purple Hardened Clay
+Onbekend: INK_SACK-5                | Gezocht als: INK_SACK-5                | Recept: Purple Stained Glass
+Onbekend: INK_SACK-5                | Gezocht als: INK_SACK-5                | Recept: Purple Wool
+Onbekend: INK_SACK-6                | Gezocht als: INK_SACK-6                | Recept: Cyan Hardened Clay
+Onbekend: INK_SACK-6                | Gezocht als: INK_SACK-6                | Recept: Cyan Stained Glass
+Onbekend: INK_SACK-6                | Gezocht als: INK_SACK-6                | Recept: Cyan Wool
+Onbekend: INK_SACK-7                | Gezocht als: INK_SACK-7                | Recept: Light Gray Hardened Clay
+Onbekend: INK_SACK-7                | Gezocht als: INK_SACK-7                | Recept: Light Gray Stained Glass
+Onbekend: INK_SACK-7                | Gezocht als: INK_SACK-7                | Recept: Light Gray Wool
+Onbekend: INK_SACK-8                | Gezocht als: INK_SACK-8                | Recept: Gray Hardened Clay
+Onbekend: INK_SACK-8                | Gezocht als: INK_SACK-8                | Recept: Gray Stained Glass
+Onbekend: INK_SACK-8                | Gezocht als: INK_SACK-8                | Recept: Gray Wool
+Onbekend: INK_SACK-9                | Gezocht als: INK_SACK-9                | Recept: Pink Hardened Clay
+Onbekend: INK_SACK-9                | Gezocht als: INK_SACK-9                | Recept: Pink Stained Glass
+Onbekend: INK_SACK-9                | Gezocht als: INK_SACK-9                | Recept: Pink Wool
+Onbekend: IQ_POINT                  | Gezocht als: IQ_POINT                  | Recept: 2 IQ Points
+Onbekend: IRON_GENERATOR_1          | Gezocht als: IRON_GENERATOR_1          | Recept: Iron Minion II
+Onbekend: IRON_GENERATOR_10         | Gezocht als: IRON_GENERATOR_10         | Recept: Iron Minion XI
+Onbekend: IRON_GENERATOR_2          | Gezocht als: IRON_GENERATOR_2          | Recept: Iron Minion III
+Onbekend: IRON_GENERATOR_3          | Gezocht als: IRON_GENERATOR_3          | Recept: Iron Minion IV
+Onbekend: IRON_GENERATOR_4          | Gezocht als: IRON_GENERATOR_4          | Recept: Iron Minion V
+Onbekend: IRON_GENERATOR_5          | Gezocht als: IRON_GENERATOR_5          | Recept: Iron Minion VI
+Onbekend: IRON_GENERATOR_6          | Gezocht als: IRON_GENERATOR_6          | Recept: Iron Minion VII
+Onbekend: IRON_GENERATOR_7          | Gezocht als: IRON_GENERATOR_7          | Recept: Iron Minion VIII
+Onbekend: IRON_GENERATOR_8          | Gezocht als: IRON_GENERATOR_8          | Recept: Iron Minion IX
+Onbekend: IRON_GENERATOR_9          | Gezocht als: IRON_GENERATOR_9          | Recept: Iron Minion X
+Onbekend: ITEM_SPIRIT_BOW           | Gezocht als: ITEM_SPIRIT_BOW           | Recept: ⚚ Spirit Shortbow
+Onbekend: JERRY_TALISMAN_BLUE       | Gezocht als: JERRY_TALISMAN_BLUE       | Recept: Purple Jerry Talisman
+Onbekend: JERRY_TALISMAN_GREEN      | Gezocht als: JERRY_TALISMAN_GREEN      | Recept: Blue Jerry Talisman
+Onbekend: JERRY_TALISMAN_PURPLE     | Gezocht als: JERRY_TALISMAN_PURPLE     | Recept: Golden Jerry Artifact
+Onbekend: JUNGLE_GENERATOR_10       | Gezocht als: JUNGLE_GENERATOR_10       | Recept: Jungle Minion XI
+Onbekend: JUNGLE_GENERATOR_4        | Gezocht als: JUNGLE_GENERATOR_4        | Recept: Jungle Minion V
+Onbekend: JUNGLE_GENERATOR_5        | Gezocht als: JUNGLE_GENERATOR_5        | Recept: Jungle Minion VI
+Onbekend: JUNGLE_GENERATOR_6        | Gezocht als: JUNGLE_GENERATOR_6        | Recept: Jungle Minion VII
+Onbekend: JUNGLE_GENERATOR_7        | Gezocht als: JUNGLE_GENERATOR_7        | Recept: Jungle Minion VIII
+Onbekend: JUNGLE_GENERATOR_8        | Gezocht als: JUNGLE_GENERATOR_8        | Recept: Jungle Minion IX
+Onbekend: JUNGLE_GENERATOR_9        | Gezocht als: JUNGLE_GENERATOR_9        | Recept: Jungle Minion X
+Onbekend: KUUDRA_BURNING_TIER_KEY   | Gezocht als: KUUDRA_BURNING_TIER_KEY   | Recept: Fiery Kuudra Key
+Onbekend: KUUDRA_FIERY_TIER_KEY     | Gezocht als: KUUDRA_FIERY_TIER_KEY     | Recept: Infernal Kuudra Key
+Onbekend: KUUDRA_HOT_TIER_KEY       | Gezocht als: KUUDRA_HOT_TIER_KEY       | Recept: Burning Kuudra Key
+Onbekend: KUUDRA_TIER_KEY           | Gezocht als: KUUDRA_TIER_KEY           | Recept: Hot Kuudra Key
+Onbekend: LAPIS_GENERATOR_10        | Gezocht als: LAPIS_GENERATOR_10        | Recept: Lapis Minion XI
+Onbekend: LAPIS_GENERATOR_2         | Gezocht als: LAPIS_GENERATOR_2         | Recept: Lapis Minion III
+Onbekend: LAPIS_GENERATOR_3         | Gezocht als: LAPIS_GENERATOR_3         | Recept: Lapis Minion IV
+Onbekend: LAPIS_GENERATOR_4         | Gezocht als: LAPIS_GENERATOR_4         | Recept: Lapis Minion V
+Onbekend: LAPIS_GENERATOR_5         | Gezocht als: LAPIS_GENERATOR_5         | Recept: Lapis Minion VI
+Onbekend: LAPIS_GENERATOR_6         | Gezocht als: LAPIS_GENERATOR_6         | Recept: Lapis Minion VII
+Onbekend: LAPIS_GENERATOR_7         | Gezocht als: LAPIS_GENERATOR_7         | Recept: Lapis Minion VIII
+Onbekend: LAPIS_GENERATOR_8         | Gezocht als: LAPIS_GENERATOR_8         | Recept: Lapis Minion IX
+Onbekend: LAPIS_GENERATOR_9         | Gezocht als: LAPIS_GENERATOR_9         | Recept: Lapis Minion X
+Onbekend: LEAVES-1                  | Gezocht als: LEAVES-1                  | Recept: Taiga Biome Stick
+Onbekend: LEAVES-2                  | Gezocht als: LEAVES-2                  | Recept: Birch Forest Biome Stick
+Onbekend: LEAVES-3                  | Gezocht als: LEAVES-3                  | Recept: Jungle Biome Stick
+Onbekend: LEAVES_2-1                | Gezocht als: LEAVES_2-1                | Recept: Roofed Forest Biome Stick
+Onbekend: LEECH_SUPREME_FRAGMENT    | Gezocht als: LEECH_SUPREME_FRAGMENT    | Recept: Leech Belt
+Onbekend: LIL_PAD                   | Gezocht als: LIL_PAD                   | Recept: Aspect of the Leech
+Onbekend: LIVING_METAL              | Gezocht als: LIVING_METAL              | Recept: Living Metal Bootspawn
+Onbekend: LIVING_METAL              | Gezocht als: LIVING_METAL              | Recept: Living Metal Capspawn
+Onbekend: LIVING_METAL              | Gezocht als: LIVING_METAL              | Recept: Living Metal Chestspawn
+Onbekend: LIVING_METAL              | Gezocht als: LIVING_METAL              | Recept: Living Metal Pantspawn
+Onbekend: LIVING_METAL              | Gezocht als: LIVING_METAL              | Recept: Living Timecharm
+Onbekend: LOG-1                     | Gezocht als: LOG-1                     | Recept: Portal to Spruce Woods
+Onbekend: LOG-1                     | Gezocht als: LOG-1                     | Recept: Spruce Minion I
+Onbekend: LOG-1                     | Gezocht als: LOG-1                     | Recept: Spruce Minion II
+Onbekend: LOG-1                     | Gezocht als: LOG-1                     | Recept: Spruce Minion III
+Onbekend: LOG-1                     | Gezocht als: LOG-1                     | Recept: Spruce Minion IV
+Onbekend: LOG-1                     | Gezocht als: LOG-1                     | Recept: Spruce Planks
+Onbekend: LOG-2                     | Gezocht als: LOG-2                     | Recept: Birch Minion I
+Onbekend: LOG-2                     | Gezocht als: LOG-2                     | Recept: Birch Minion II
+Onbekend: LOG-2                     | Gezocht als: LOG-2                     | Recept: Birch Minion III
+Onbekend: LOG-2                     | Gezocht als: LOG-2                     | Recept: Birch Minion IV
+Onbekend: LOG-2                     | Gezocht als: LOG-2                     | Recept: Birch Planks
+Onbekend: LOG-2                     | Gezocht als: LOG-2                     | Recept: Portal to Birch Park
+Onbekend: LOG-2                     | Gezocht als: LOG-2                     | Recept: Sculptor's Axe
+Onbekend: LOG-3                     | Gezocht als: LOG-3                     | Recept: Jungle Minion I
+Onbekend: LOG-3                     | Gezocht als: LOG-3                     | Recept: Jungle Minion II
+Onbekend: LOG-3                     | Gezocht als: LOG-3                     | Recept: Jungle Minion III
+Onbekend: LOG-3                     | Gezocht als: LOG-3                     | Recept: Jungle Minion IV
+Onbekend: LOG-3                     | Gezocht als: LOG-3                     | Recept: Jungle Planks
+Onbekend: LOG-3                     | Gezocht als: LOG-3                     | Recept: Portal to Jungle Island
+Onbekend: LOG_2-1                   | Gezocht als: LOG_2-1                   | Recept: Bronze Ship Helm
+Onbekend: LOG_2-1                   | Gezocht als: LOG_2-1                   | Recept: Dark Oak Minion I
+Onbekend: LOG_2-1                   | Gezocht als: LOG_2-1                   | Recept: Dark Oak Minion II
+Onbekend: LOG_2-1                   | Gezocht als: LOG_2-1                   | Recept: Dark Oak Minion III
+Onbekend: LOG_2-1                   | Gezocht als: LOG_2-1                   | Recept: Dark Oak Minion IV
+Onbekend: LOG_2-1                   | Gezocht als: LOG_2-1                   | Recept: Dark Oak Planks
+Onbekend: LOG_2-1                   | Gezocht als: LOG_2-1                   | Recept: Portal to Dark Thicket
+Onbekend: LOG_2-1                   | Gezocht als: LOG_2-1                   | Recept: Roofed Forest Island
+Onbekend: MAGMA_CUBE_GENERATOR_1    | Gezocht als: MAGMA_CUBE_GENERATOR_1    | Recept: Magma Cube Minion II
+Onbekend: MAGMA_CUBE_GENERATOR_10   | Gezocht als: MAGMA_CUBE_GENERATOR_10   | Recept: Magma Cube Minion XI
+Onbekend: MAGMA_CUBE_GENERATOR_2    | Gezocht als: MAGMA_CUBE_GENERATOR_2    | Recept: Magma Cube Minion III
+Onbekend: MAGMA_CUBE_GENERATOR_3    | Gezocht als: MAGMA_CUBE_GENERATOR_3    | Recept: Magma Cube Minion IV
+Onbekend: MAGMA_CUBE_GENERATOR_4    | Gezocht als: MAGMA_CUBE_GENERATOR_4    | Recept: Magma Cube Minion V
+Onbekend: MAGMA_CUBE_GENERATOR_5    | Gezocht als: MAGMA_CUBE_GENERATOR_5    | Recept: Magma Cube Minion VI
+Onbekend: MAGMA_CUBE_GENERATOR_6    | Gezocht als: MAGMA_CUBE_GENERATOR_6    | Recept: Magma Cube Minion VII
+Onbekend: MAGMA_CUBE_GENERATOR_7    | Gezocht als: MAGMA_CUBE_GENERATOR_7    | Recept: Magma Cube Minion VIII
+Onbekend: MAGMA_CUBE_GENERATOR_8    | Gezocht als: MAGMA_CUBE_GENERATOR_8    | Recept: Magma Cube Minion IX
+Onbekend: MAGMA_CUBE_GENERATOR_9    | Gezocht als: MAGMA_CUBE_GENERATOR_9    | Recept: Magma Cube Minion X
+Onbekend: MASTER_SKULL_TIER_1       | Gezocht als: MASTER_SKULL_TIER_1       | Recept: Master Skull - Tier 2
+Onbekend: MASTER_SKULL_TIER_2       | Gezocht als: MASTER_SKULL_TIER_2       | Recept: Master Skull - Tier 3
+Onbekend: MASTER_SKULL_TIER_3       | Gezocht als: MASTER_SKULL_TIER_3       | Recept: Master Skull - Tier 4
+Onbekend: MASTER_SKULL_TIER_4       | Gezocht als: MASTER_SKULL_TIER_4       | Recept: Master Skull - Tier 5
+Onbekend: MASTER_SKULL_TIER_5       | Gezocht als: MASTER_SKULL_TIER_5       | Recept: Master Skull - Tier 6
+Onbekend: MASTER_SKULL_TIER_6       | Gezocht als: MASTER_SKULL_TIER_6       | Recept: Master Skull - Tier 7
+Onbekend: MAWDUST_DAGGER            | Gezocht als: MAWDUST_DAGGER            | Recept: Mawdredge Dagger
+Onbekend: MEDIUM_AGRONOMY_SACK      | Gezocht als: MEDIUM_AGRONOMY_SACK      | Recept: Large Agronomy Sack
+Onbekend: MEDIUM_COMBAT_SACK        | Gezocht als: MEDIUM_COMBAT_SACK        | Recept: Large Combat Sack
+Onbekend: MEDIUM_DRAGON_SACK        | Gezocht als: MEDIUM_DRAGON_SACK        | Recept: Large Dragon Sack
+Onbekend: MEDIUM_GEMSTONE_SACK      | Gezocht als: MEDIUM_GEMSTONE_SACK      | Recept: Large Gemstone Sack
+Onbekend: MEDIUM_HUSBANDRY_SACK     | Gezocht als: MEDIUM_HUSBANDRY_SACK     | Recept: Large Husbandry Sack
+Onbekend: MEDIUM_MINING_SACK        | Gezocht als: MEDIUM_MINING_SACK        | Recept: Large Mining Sack
+Onbekend: MEDIUM_SLAYER_SACK        | Gezocht als: MEDIUM_SLAYER_SACK        | Recept: Large Slayer Sack
+Onbekend: MELON_GENERATOR_1         | Gezocht als: MELON_GENERATOR_1         | Recept: Melon Minion II
+Onbekend: MELON_GENERATOR_10        | Gezocht als: MELON_GENERATOR_10        | Recept: Melon Minion XI
+Onbekend: MELON_GENERATOR_2         | Gezocht als: MELON_GENERATOR_2         | Recept: Melon Minion III
+Onbekend: MELON_GENERATOR_3         | Gezocht als: MELON_GENERATOR_3         | Recept: Melon Minion IV
+Onbekend: MELON_GENERATOR_4         | Gezocht als: MELON_GENERATOR_4         | Recept: Melon Minion V
+Onbekend: MELON_GENERATOR_5         | Gezocht als: MELON_GENERATOR_5         | Recept: Melon Minion VI
+Onbekend: MELON_GENERATOR_6         | Gezocht als: MELON_GENERATOR_6         | Recept: Melon Minion VII
+Onbekend: MELON_GENERATOR_7         | Gezocht als: MELON_GENERATOR_7         | Recept: Melon Minion VIII
+Onbekend: MELON_GENERATOR_8         | Gezocht als: MELON_GENERATOR_8         | Recept: Melon Minion IX
+Onbekend: MELON_GENERATOR_9         | Gezocht als: MELON_GENERATOR_9         | Recept: Melon Minion X
+Onbekend: METAL_HEART               | Gezocht als: METAL_HEART               | Recept: Bluetooth Ring
+Onbekend: METAL_HEART               | Gezocht als: METAL_HEART               | Recept: Lively Sepulture Chestplate
+Onbekend: METAL_HEART               | Gezocht als: METAL_HEART               | Recept: Living Metal Anchor
+Onbekend: METAL_HEART               | Gezocht als: METAL_HEART               | Recept: Snake-in-a-Boot
+Onbekend: METAL_HEART               | Gezocht als: METAL_HEART               | Recept: Weirder Tuba
+Onbekend: MIDAS_SWORD               | Gezocht als: MIDAS_SWORD               | Recept: ⚚ Midas' Sword
+Onbekend: MINION_STORAGE_EXPANDER   | Gezocht als: MINION_STORAGE_EXPANDER   | Recept: X-Large Storage
+Onbekend: MINION_STORAGE_EXPANDER   | Gezocht als: MINION_STORAGE_EXPANDER   | Recept: XX-Large Storage
+Onbekend: MIRRORED_LEASH            | Gezocht als: MIRRORED_LEASH            | Recept: remmaH yniT
+Onbekend: MIRRORED_STICK            | Gezocht als: MIRRORED_STICK            | Recept: Nearly Coherent doR gnihsiF
+Onbekend: MIRRORED_STICK            | Gezocht als: MIRRORED_STICK            | Recept: doR gnihsiF
+Onbekend: MIRRORED_STRING           | Gezocht als: MIRRORED_STRING           | Recept: daeL
+Onbekend: MIRRORED_STRING           | Gezocht als: MIRRORED_STRING           | Recept: woB
+Onbekend: MIRRORED_WOOD             | Gezocht als: MIRRORED_WOOD             | Recept: kcitS
+Onbekend: MITHRIL_GENERATOR_1       | Gezocht als: MITHRIL_GENERATOR_1       | Recept: Mithril Minion II
+Onbekend: MITHRIL_GENERATOR_10      | Gezocht als: MITHRIL_GENERATOR_10      | Recept: Mithril Minion XI
+Onbekend: MITHRIL_GENERATOR_2       | Gezocht als: MITHRIL_GENERATOR_2       | Recept: Mithril Minion III
+Onbekend: MITHRIL_GENERATOR_3       | Gezocht als: MITHRIL_GENERATOR_3       | Recept: Mithril Minion IV
+Onbekend: MITHRIL_GENERATOR_4       | Gezocht als: MITHRIL_GENERATOR_4       | Recept: Mithril Minion V
+Onbekend: MITHRIL_GENERATOR_5       | Gezocht als: MITHRIL_GENERATOR_5       | Recept: Mithril Minion VI
+Onbekend: MITHRIL_GENERATOR_6       | Gezocht als: MITHRIL_GENERATOR_6       | Recept: Mithril Minion VII
+Onbekend: MITHRIL_GENERATOR_7       | Gezocht als: MITHRIL_GENERATOR_7       | Recept: Mithril Minion VIII
+Onbekend: MITHRIL_GENERATOR_8       | Gezocht als: MITHRIL_GENERATOR_8       | Recept: Mithril Minion IX
+Onbekend: MITHRIL_GENERATOR_9       | Gezocht als: MITHRIL_GENERATOR_9       | Recept: Mithril Minion X
+Onbekend: MUSHROOM_GENERATOR_1      | Gezocht als: MUSHROOM_GENERATOR_1      | Recept: Mushroom Minion II
+Onbekend: MUSHROOM_GENERATOR_10     | Gezocht als: MUSHROOM_GENERATOR_10     | Recept: Mushroom Minion XI
+Onbekend: MUSHROOM_GENERATOR_2      | Gezocht als: MUSHROOM_GENERATOR_2      | Recept: Mushroom Minion III
+Onbekend: MUSHROOM_GENERATOR_3      | Gezocht als: MUSHROOM_GENERATOR_3      | Recept: Mushroom Minion IV
+Onbekend: MUSHROOM_GENERATOR_4      | Gezocht als: MUSHROOM_GENERATOR_4      | Recept: Mushroom Minion V
+Onbekend: MUSHROOM_GENERATOR_5      | Gezocht als: MUSHROOM_GENERATOR_5      | Recept: Mushroom Minion VI
+Onbekend: MUSHROOM_GENERATOR_6      | Gezocht als: MUSHROOM_GENERATOR_6      | Recept: Mushroom Minion VII
+Onbekend: MUSHROOM_GENERATOR_7      | Gezocht als: MUSHROOM_GENERATOR_7      | Recept: Mushroom Minion VIII
+Onbekend: MUSHROOM_GENERATOR_8      | Gezocht als: MUSHROOM_GENERATOR_8      | Recept: Mushroom Minion IX
+Onbekend: MUSHROOM_GENERATOR_9      | Gezocht als: MUSHROOM_GENERATOR_9      | Recept: Mushroom Minion X
+Onbekend: MYCELIUM_GENERATOR_1      | Gezocht als: MYCELIUM_GENERATOR_1      | Recept: Mycelium Minion II
+Onbekend: MYCELIUM_GENERATOR_10     | Gezocht als: MYCELIUM_GENERATOR_10     | Recept: Mycelium Minion XI
+Onbekend: MYCELIUM_GENERATOR_2      | Gezocht als: MYCELIUM_GENERATOR_2      | Recept: Mycelium Minion III
+Onbekend: MYCELIUM_GENERATOR_3      | Gezocht als: MYCELIUM_GENERATOR_3      | Recept: Mycelium Minion IV
+Onbekend: MYCELIUM_GENERATOR_4      | Gezocht als: MYCELIUM_GENERATOR_4      | Recept: Mycelium Minion V
+Onbekend: MYCELIUM_GENERATOR_5      | Gezocht als: MYCELIUM_GENERATOR_5      | Recept: Mycelium Minion VI
+Onbekend: MYCELIUM_GENERATOR_6      | Gezocht als: MYCELIUM_GENERATOR_6      | Recept: Mycelium Minion VII
+Onbekend: MYCELIUM_GENERATOR_7      | Gezocht als: MYCELIUM_GENERATOR_7      | Recept: Mycelium Minion VIII
+Onbekend: MYCELIUM_GENERATOR_8      | Gezocht als: MYCELIUM_GENERATOR_8      | Recept: Mycelium Minion IX
+Onbekend: MYCELIUM_GENERATOR_9      | Gezocht als: MYCELIUM_GENERATOR_9      | Recept: Mycelium Minion X
+Onbekend: NEARLY_WHOLE_CARROT       | Gezocht als: NEARLY_WHOLE_CARROT       | Recept: Perma-Jelled Garlic-Flavored Re-Heated Gummy Polar Bear
+Onbekend: NECRON_BLADE              | Gezocht als: NECRON_BLADE              | Recept: Astraea
+Onbekend: NECRON_BLADE              | Gezocht als: NECRON_BLADE              | Recept: Hyperion
+Onbekend: NECRON_BLADE              | Gezocht als: NECRON_BLADE              | Recept: Scylla
+Onbekend: NECRON_BLADE              | Gezocht als: NECRON_BLADE              | Recept: Valkyrie
+Onbekend: NECRON_HANDLE             | Gezocht als: NECRON_HANDLE             | Recept: Necron's Blade (Unrefined)
+Onbekend: NETHER_WARTS_GENERATOR_1  | Gezocht als: NETHER_WARTS_GENERATOR_1  | Recept: Nether Wart Minion II
+Onbekend: NETHER_WARTS_GENERATOR_10 | Gezocht als: NETHER_WARTS_GENERATOR_10 | Recept: Nether Wart Minion XI
+Onbekend: NETHER_WARTS_GENERATOR_2  | Gezocht als: NETHER_WARTS_GENERATOR_2  | Recept: Nether Wart Minion III
+Onbekend: NETHER_WARTS_GENERATOR_3  | Gezocht als: NETHER_WARTS_GENERATOR_3  | Recept: Nether Wart Minion IV
+Onbekend: NETHER_WARTS_GENERATOR_4  | Gezocht als: NETHER_WARTS_GENERATOR_4  | Recept: Nether Wart Minion V
+Onbekend: NETHER_WARTS_GENERATOR_5  | Gezocht als: NETHER_WARTS_GENERATOR_5  | Recept: Nether Wart Minion VI
+Onbekend: NETHER_WARTS_GENERATOR_6  | Gezocht als: NETHER_WARTS_GENERATOR_6  | Recept: Nether Wart Minion VII
+Onbekend: NETHER_WARTS_GENERATOR_7  | Gezocht als: NETHER_WARTS_GENERATOR_7  | Recept: Nether Wart Minion VIII
+Onbekend: NETHER_WARTS_GENERATOR_8  | Gezocht als: NETHER_WARTS_GENERATOR_8  | Recept: Nether Wart Minion IX
+Onbekend: NETHER_WARTS_GENERATOR_9  | Gezocht als: NETHER_WARTS_GENERATOR_9  | Recept: Nether Wart Minion X
+Onbekend: OAK_GENERATOR_1           | Gezocht als: OAK_GENERATOR_1           | Recept: Oak Minion II
+Onbekend: OAK_GENERATOR_10          | Gezocht als: OAK_GENERATOR_10          | Recept: Oak Minion XI
+Onbekend: OAK_GENERATOR_2           | Gezocht als: OAK_GENERATOR_2           | Recept: Oak Minion III
+Onbekend: OAK_GENERATOR_3           | Gezocht als: OAK_GENERATOR_3           | Recept: Oak Minion IV
+Onbekend: OAK_GENERATOR_4           | Gezocht als: OAK_GENERATOR_4           | Recept: Oak Minion V
+Onbekend: OAK_GENERATOR_5           | Gezocht als: OAK_GENERATOR_5           | Recept: Oak Minion VI
+Onbekend: OAK_GENERATOR_6           | Gezocht als: OAK_GENERATOR_6           | Recept: Oak Minion VII
+Onbekend: OAK_GENERATOR_7           | Gezocht als: OAK_GENERATOR_7           | Recept: Oak Minion VIII
+Onbekend: OAK_GENERATOR_8           | Gezocht als: OAK_GENERATOR_8           | Recept: Oak Minion IX
+Onbekend: OAK_GENERATOR_9           | Gezocht als: OAK_GENERATOR_9           | Recept: Oak Minion X
+Onbekend: OBSIDIAN_GENERATOR_1      | Gezocht als: OBSIDIAN_GENERATOR_1      | Recept: Obsidian Minion II
+Onbekend: OBSIDIAN_GENERATOR_10     | Gezocht als: OBSIDIAN_GENERATOR_10     | Recept: Obsidian Minion XI
+Onbekend: OBSIDIAN_GENERATOR_2      | Gezocht als: OBSIDIAN_GENERATOR_2      | Recept: Obsidian Minion III
+Onbekend: OBSIDIAN_GENERATOR_3      | Gezocht als: OBSIDIAN_GENERATOR_3      | Recept: Obsidian Minion IV
+Onbekend: OBSIDIAN_GENERATOR_4      | Gezocht als: OBSIDIAN_GENERATOR_4      | Recept: Obsidian Minion V
+Onbekend: OBSIDIAN_GENERATOR_5      | Gezocht als: OBSIDIAN_GENERATOR_5      | Recept: Obsidian Minion VI
+Onbekend: OBSIDIAN_GENERATOR_6      | Gezocht als: OBSIDIAN_GENERATOR_6      | Recept: Obsidian Minion VII
+Onbekend: OBSIDIAN_GENERATOR_7      | Gezocht als: OBSIDIAN_GENERATOR_7      | Recept: Obsidian Minion VIII
+Onbekend: OBSIDIAN_GENERATOR_8      | Gezocht als: OBSIDIAN_GENERATOR_8      | Recept: Obsidian Minion IX
+Onbekend: OBSIDIAN_GENERATOR_9      | Gezocht als: OBSIDIAN_GENERATOR_9      | Recept: Obsidian Minion X
+Onbekend: OBSOLITE                  | Gezocht als: OBSOLITE                  | Recept: Discrite
+Onbekend: PERSONAL_DELETOR_4000     | Gezocht als: PERSONAL_DELETOR_4000     | Recept: Personal Deletor 5000
+Onbekend: PERSONAL_DELETOR_5000     | Gezocht als: PERSONAL_DELETOR_5000     | Recept: Personal Deletor 6000
+Onbekend: PERSONAL_DELETOR_6000     | Gezocht als: PERSONAL_DELETOR_6000     | Recept: Personal Deletor 7000
+Onbekend: PET_ITEM_ALL_SKILLS_BOOST_COMMON | Gezocht als: PET_ITEM_ALL_SKILLS_BOOST_COMMON | Recept: All Skills Exp Super-Boost
+Onbekend: PET_ITEM_BIG_TEETH_COMMON | Gezocht als: PET_ITEM_BIG_TEETH_COMMON | Recept: Bigger Teeth
+Onbekend: PET_ITEM_HARDENED_SCALES_UNCOMMON | Gezocht als: PET_ITEM_HARDENED_SCALES_UNCOMMON | Recept: Reinforced Scales
+Onbekend: PET_ITEM_IRON_CLAWS_COMMON | Gezocht als: PET_ITEM_IRON_CLAWS_COMMON | Recept: Gold Claws
+Onbekend: PET_ITEM_LUCKY_CLOVER     | Gezocht als: PET_ITEM_LUCKY_CLOVER     | Recept: Four-Eyed Fish
+Onbekend: PET_ITEM_SHARPENED_CLAWS_UNCOMMON | Gezocht als: PET_ITEM_SHARPENED_CLAWS_UNCOMMON | Recept: Serrated Claws
+Onbekend: PIG_GENERATOR_1           | Gezocht als: PIG_GENERATOR_1           | Recept: Pig Minion II
+Onbekend: PIG_GENERATOR_10          | Gezocht als: PIG_GENERATOR_10          | Recept: Pig Minion XI
+Onbekend: PIG_GENERATOR_2           | Gezocht als: PIG_GENERATOR_2           | Recept: Pig Minion III
+Onbekend: PIG_GENERATOR_3           | Gezocht als: PIG_GENERATOR_3           | Recept: Pig Minion IV
+Onbekend: PIG_GENERATOR_4           | Gezocht als: PIG_GENERATOR_4           | Recept: Pig Minion V
+Onbekend: PIG_GENERATOR_5           | Gezocht als: PIG_GENERATOR_5           | Recept: Pig Minion VI
+Onbekend: PIG_GENERATOR_6           | Gezocht als: PIG_GENERATOR_6           | Recept: Pig Minion VII
+Onbekend: PIG_GENERATOR_7           | Gezocht als: PIG_GENERATOR_7           | Recept: Pig Minion VIII
+Onbekend: PIG_GENERATOR_8           | Gezocht als: PIG_GENERATOR_8           | Recept: Pig Minion IX
+Onbekend: PIG_GENERATOR_9           | Gezocht als: PIG_GENERATOR_9           | Recept: Pig Minion X
+Onbekend: POTATO_GENERATOR_1        | Gezocht als: POTATO_GENERATOR_1        | Recept: Potato Minion II
+Onbekend: POTATO_GENERATOR_10       | Gezocht als: POTATO_GENERATOR_10       | Recept: Potato Minion XI
+Onbekend: POTATO_GENERATOR_2        | Gezocht als: POTATO_GENERATOR_2        | Recept: Potato Minion III
+Onbekend: POTATO_GENERATOR_3        | Gezocht als: POTATO_GENERATOR_3        | Recept: Potato Minion IV
+Onbekend: POTATO_GENERATOR_4        | Gezocht als: POTATO_GENERATOR_4        | Recept: Potato Minion V
+Onbekend: POTATO_GENERATOR_5        | Gezocht als: POTATO_GENERATOR_5        | Recept: Potato Minion VI
+Onbekend: POTATO_GENERATOR_6        | Gezocht als: POTATO_GENERATOR_6        | Recept: Potato Minion VII
+Onbekend: POTATO_GENERATOR_7        | Gezocht als: POTATO_GENERATOR_7        | Recept: Potato Minion VIII
+Onbekend: POTATO_GENERATOR_8        | Gezocht als: POTATO_GENERATOR_8        | Recept: Potato Minion IX
+Onbekend: POTATO_GENERATOR_9        | Gezocht als: POTATO_GENERATOR_9        | Recept: Potato Minion X
+Onbekend: POWER_RING                | Gezocht als: POWER_RING                | Recept: Artifact of Power
+Onbekend: POWER_TALISMAN            | Gezocht als: POWER_TALISMAN            | Recept: Ring of Power
+Onbekend: PRE_DIGESTION_FISH        | Gezocht als: PRE_DIGESTION_FISH        | Recept: Future Calories Talisman
+Onbekend: PUFF_CRUX                 | Gezocht als: PUFF_CRUX                 | Recept: Celestial Starstone
+Onbekend: PUMPKIN_GENERATOR_1       | Gezocht als: PUMPKIN_GENERATOR_1       | Recept: Pumpkin Minion II
+Onbekend: PUMPKIN_GENERATOR_10      | Gezocht als: PUMPKIN_GENERATOR_10      | Recept: Pumpkin Minion XI
+Onbekend: PUMPKIN_GENERATOR_2       | Gezocht als: PUMPKIN_GENERATOR_2       | Recept: Pumpkin Minion III
+Onbekend: PUMPKIN_GENERATOR_3       | Gezocht als: PUMPKIN_GENERATOR_3       | Recept: Pumpkin Minion IV
+Onbekend: PUMPKIN_GENERATOR_4       | Gezocht als: PUMPKIN_GENERATOR_4       | Recept: Pumpkin Minion V
+Onbekend: PUMPKIN_GENERATOR_5       | Gezocht als: PUMPKIN_GENERATOR_5       | Recept: Pumpkin Minion VI
+Onbekend: PUMPKIN_GENERATOR_6       | Gezocht als: PUMPKIN_GENERATOR_6       | Recept: Pumpkin Minion VII
+Onbekend: PUMPKIN_GENERATOR_7       | Gezocht als: PUMPKIN_GENERATOR_7       | Recept: Pumpkin Minion VIII
+Onbekend: PUMPKIN_GENERATOR_8       | Gezocht als: PUMPKIN_GENERATOR_8       | Recept: Pumpkin Minion IX
+Onbekend: PUMPKIN_GENERATOR_9       | Gezocht als: PUMPKIN_GENERATOR_9       | Recept: Pumpkin Minion X
+Onbekend: PUMPKIN_GENERATOR_9       | Gezocht als: PUMPKIN_GENERATOR_9       | Recept: Voodoo Doll
+Onbekend: QUARTZ_GENERATOR_1        | Gezocht als: QUARTZ_GENERATOR_1        | Recept: Quartz Minion II
+Onbekend: QUARTZ_GENERATOR_10       | Gezocht als: QUARTZ_GENERATOR_10       | Recept: Quartz Minion XI
+Onbekend: QUARTZ_GENERATOR_2        | Gezocht als: QUARTZ_GENERATOR_2        | Recept: Quartz Minion III
+Onbekend: QUARTZ_GENERATOR_3        | Gezocht als: QUARTZ_GENERATOR_3        | Recept: Quartz Minion IV
+Onbekend: QUARTZ_GENERATOR_4        | Gezocht als: QUARTZ_GENERATOR_4        | Recept: Quartz Minion V
+Onbekend: QUARTZ_GENERATOR_5        | Gezocht als: QUARTZ_GENERATOR_5        | Recept: Quartz Minion VI
+Onbekend: QUARTZ_GENERATOR_6        | Gezocht als: QUARTZ_GENERATOR_6        | Recept: Quartz Minion VII
+Onbekend: QUARTZ_GENERATOR_7        | Gezocht als: QUARTZ_GENERATOR_7        | Recept: Quartz Minion VIII
+Onbekend: QUARTZ_GENERATOR_8        | Gezocht als: QUARTZ_GENERATOR_8        | Recept: Quartz Minion IX
+Onbekend: QUARTZ_GENERATOR_9        | Gezocht als: QUARTZ_GENERATOR_9        | Recept: Quartz Minion X
+Onbekend: RABBIT_GENERATOR_1        | Gezocht als: RABBIT_GENERATOR_1        | Recept: Rabbit Minion II
+Onbekend: RABBIT_GENERATOR_10       | Gezocht als: RABBIT_GENERATOR_10       | Recept: Rabbit Minion XI
+Onbekend: RABBIT_GENERATOR_2        | Gezocht als: RABBIT_GENERATOR_2        | Recept: Rabbit Minion III
+Onbekend: RABBIT_GENERATOR_3        | Gezocht als: RABBIT_GENERATOR_3        | Recept: Rabbit Minion IV
+Onbekend: RABBIT_GENERATOR_4        | Gezocht als: RABBIT_GENERATOR_4        | Recept: Rabbit Minion V
+Onbekend: RABBIT_GENERATOR_5        | Gezocht als: RABBIT_GENERATOR_5        | Recept: Rabbit Minion VI
+Onbekend: RABBIT_GENERATOR_6        | Gezocht als: RABBIT_GENERATOR_6        | Recept: Rabbit Minion VII
+Onbekend: RABBIT_GENERATOR_7        | Gezocht als: RABBIT_GENERATOR_7        | Recept: Rabbit Minion VIII
+Onbekend: RABBIT_GENERATOR_8        | Gezocht als: RABBIT_GENERATOR_8        | Recept: Rabbit Minion IX
+Onbekend: RABBIT_GENERATOR_9        | Gezocht als: RABBIT_GENERATOR_9        | Recept: Rabbit Minion X
+Onbekend: RAW_FISH-1                | Gezocht als: RAW_FISH-1                | Recept: Enchanted Raw Salmon
+Onbekend: RAW_FISH-1                | Gezocht als: RAW_FISH-1                | Recept: Fish Bait
+Onbekend: RAW_FISH-1                | Gezocht als: RAW_FISH-1                | Recept: Salmon Hat
+Onbekend: RAW_FISH-2                | Gezocht als: RAW_FISH-2                | Recept: Enchanted Tropical Fish
+Onbekend: RAW_FISH-2                | Gezocht als: RAW_FISH-2                | Recept: Tropical Cloak
+Onbekend: RAW_FISH-2                | Gezocht als: RAW_FISH-2                | Recept: Tropical Fish Hat
+Onbekend: RAW_FISH-3                | Gezocht als: RAW_FISH-3                | Recept: Enchanted Pufferfish
+Onbekend: RAW_FISH-3                | Gezocht als: RAW_FISH-3                | Recept: Pufferfish Hat
+Onbekend: RAW_FISH-3                | Gezocht als: RAW_FISH-3                | Recept: Spiked Bait
+Onbekend: REAPER_SWORD              | Gezocht als: REAPER_SWORD              | Recept: Reaper Scythe
+Onbekend: REDSTONE_GENERATOR_1      | Gezocht als: REDSTONE_GENERATOR_1      | Recept: Redstone Minion II
+Onbekend: REDSTONE_GENERATOR_10     | Gezocht als: REDSTONE_GENERATOR_10     | Recept: Redstone Minion XI
+Onbekend: REDSTONE_GENERATOR_2      | Gezocht als: REDSTONE_GENERATOR_2      | Recept: Redstone Minion III
+Onbekend: REDSTONE_GENERATOR_3      | Gezocht als: REDSTONE_GENERATOR_3      | Recept: Redstone Minion IV
+Onbekend: REDSTONE_GENERATOR_4      | Gezocht als: REDSTONE_GENERATOR_4      | Recept: Redstone Minion V
+Onbekend: REDSTONE_GENERATOR_5      | Gezocht als: REDSTONE_GENERATOR_5      | Recept: Redstone Minion VI
+Onbekend: REDSTONE_GENERATOR_6      | Gezocht als: REDSTONE_GENERATOR_6      | Recept: Redstone Minion VII
+Onbekend: REDSTONE_GENERATOR_7      | Gezocht als: REDSTONE_GENERATOR_7      | Recept: Redstone Minion VIII
+Onbekend: REDSTONE_GENERATOR_8      | Gezocht als: REDSTONE_GENERATOR_8      | Recept: Redstone Minion IX
+Onbekend: REDSTONE_GENERATOR_9      | Gezocht als: REDSTONE_GENERATOR_9      | Recept: Redstone Minion X
+Onbekend: RED_SAND_GENERATOR_10     | Gezocht als: RED_SAND_GENERATOR_10     | Recept: Red Sand Minion XI
+Onbekend: RED_SAND_GENERATOR_3      | Gezocht als: RED_SAND_GENERATOR_3      | Recept: Red Sand Minion IV
+Onbekend: RED_SAND_GENERATOR_4      | Gezocht als: RED_SAND_GENERATOR_4      | Recept: Red Sand Minion V
+Onbekend: RED_SAND_GENERATOR_5      | Gezocht als: RED_SAND_GENERATOR_5      | Recept: Red Sand Minion VI
+Onbekend: RED_SAND_GENERATOR_6      | Gezocht als: RED_SAND_GENERATOR_6      | Recept: Red Sand Minion VII
+Onbekend: RED_SAND_GENERATOR_7      | Gezocht als: RED_SAND_GENERATOR_7      | Recept: Red Sand Minion VIII
+Onbekend: RED_SAND_GENERATOR_8      | Gezocht als: RED_SAND_GENERATOR_8      | Recept: Red Sand Minion IX
+Onbekend: RED_SAND_GENERATOR_9      | Gezocht als: RED_SAND_GENERATOR_9      | Recept: Red Sand Minion X
+Onbekend: REVENANT_CHESTPLATE       | Gezocht als: REVENANT_CHESTPLATE       | Recept: Reaper Chestplate
+Onbekend: REVENANT_GENERATOR_1      | Gezocht als: REVENANT_GENERATOR_1      | Recept: Revenant Minion II
+Onbekend: REVENANT_GENERATOR_10     | Gezocht als: REVENANT_GENERATOR_10     | Recept: Revenant Minion XI
+Onbekend: REVENANT_GENERATOR_11     | Gezocht als: REVENANT_GENERATOR_11     | Recept: Revenant Minion XII
+Onbekend: REVENANT_GENERATOR_2      | Gezocht als: REVENANT_GENERATOR_2      | Recept: Revenant Minion III
+Onbekend: REVENANT_GENERATOR_3      | Gezocht als: REVENANT_GENERATOR_3      | Recept: Revenant Minion IV
+Onbekend: REVENANT_GENERATOR_4      | Gezocht als: REVENANT_GENERATOR_4      | Recept: Revenant Minion V
+Onbekend: REVENANT_GENERATOR_5      | Gezocht als: REVENANT_GENERATOR_5      | Recept: Revenant Minion VI
+Onbekend: REVENANT_GENERATOR_6      | Gezocht als: REVENANT_GENERATOR_6      | Recept: Revenant Minion VII
+Onbekend: REVENANT_GENERATOR_7      | Gezocht als: REVENANT_GENERATOR_7      | Recept: Revenant Minion VIII
+Onbekend: REVENANT_GENERATOR_8      | Gezocht als: REVENANT_GENERATOR_8      | Recept: Revenant Minion IX
+Onbekend: REVENANT_GENERATOR_9      | Gezocht als: REVENANT_GENERATOR_9      | Recept: Revenant Minion X
+Onbekend: REVENANT_SWORD            | Gezocht als: REVENANT_SWORD            | Recept: Reaper Falchion
+Onbekend: RIFT_BUCKET               | Gezocht als: RIFT_BUCKET               | Recept: Caducous Extract
+Onbekend: RING_OF_COINS             | Gezocht als: RING_OF_COINS             | Recept: Artifact of Coins
+Onbekend: SAND-1                    | Gezocht als: SAND-1                    | Recept: Enchanted Red Sand
+Onbekend: SAND-1                    | Gezocht als: SAND-1                    | Recept: Red Sand Minion I
+Onbekend: SAND-1                    | Gezocht als: SAND-1                    | Recept: Red Sand Minion II
+Onbekend: SAND-1                    | Gezocht als: SAND-1                    | Recept: Red Sand Minion III
+Onbekend: SAND-1                    | Gezocht als: SAND-1                    | Recept: Red Sandstone
+Onbekend: SAND_GENERATOR_1          | Gezocht als: SAND_GENERATOR_1          | Recept: Sand Minion II
+Onbekend: SAND_GENERATOR_10         | Gezocht als: SAND_GENERATOR_10         | Recept: Sand Minion XI
+Onbekend: SAND_GENERATOR_2          | Gezocht als: SAND_GENERATOR_2          | Recept: Sand Minion III
+Onbekend: SAND_GENERATOR_3          | Gezocht als: SAND_GENERATOR_3          | Recept: Sand Minion IV
+Onbekend: SAND_GENERATOR_4          | Gezocht als: SAND_GENERATOR_4          | Recept: Sand Minion V
+Onbekend: SAND_GENERATOR_5          | Gezocht als: SAND_GENERATOR_5          | Recept: Sand Minion VI
+Onbekend: SAND_GENERATOR_6          | Gezocht als: SAND_GENERATOR_6          | Recept: Sand Minion VII
+Onbekend: SAND_GENERATOR_7          | Gezocht als: SAND_GENERATOR_7          | Recept: Sand Minion VIII
+Onbekend: SAND_GENERATOR_8          | Gezocht als: SAND_GENERATOR_8          | Recept: Sand Minion IX
+Onbekend: SAND_GENERATOR_9          | Gezocht als: SAND_GENERATOR_9          | Recept: Sand Minion X
+Onbekend: SCRIBE_CRUX               | Gezocht als: SCRIBE_CRUX               | Recept: Crux Relic
+Onbekend: SELF_RECURSIVE_PICKAXE    | Gezocht als: SELF_RECURSIVE_PICKAXE    | Recept: Silver-Laced Karambit
+Onbekend: SHADOW_CRUX               | Gezocht als: SHADOW_CRUX               | Recept: Crux Ring
+Onbekend: SHADOW_CRUX               | Gezocht als: SHADOW_CRUX               | Recept: Femurgrowth Leggings
+Onbekend: SHADOW_CRUX               | Gezocht als: SHADOW_CRUX               | Recept: Gunther's Sneakers
+Onbekend: SHAMAN_SWORD              | Gezocht als: SHAMAN_SWORD              | Recept: Pooch Sword
+Onbekend: SHAME_CRUX                | Gezocht als: SHAME_CRUX                | Recept: Crux Talisman
+Onbekend: SHAME_CRUX                | Gezocht als: SHAME_CRUX                | Recept: Cruxmotion
+Onbekend: SHEEP_GENERATOR_1         | Gezocht als: SHEEP_GENERATOR_1         | Recept: Sheep Minion II
+Onbekend: SHEEP_GENERATOR_10        | Gezocht als: SHEEP_GENERATOR_10        | Recept: Sheep Minion XI
+Onbekend: SHEEP_GENERATOR_2         | Gezocht als: SHEEP_GENERATOR_2         | Recept: Sheep Minion III
+Onbekend: SHEEP_GENERATOR_3         | Gezocht als: SHEEP_GENERATOR_3         | Recept: Sheep Minion IV
+Onbekend: SHEEP_GENERATOR_4         | Gezocht als: SHEEP_GENERATOR_4         | Recept: Sheep Minion V
+Onbekend: SHEEP_GENERATOR_5         | Gezocht als: SHEEP_GENERATOR_5         | Recept: Sheep Minion VI
+Onbekend: SHEEP_GENERATOR_6         | Gezocht als: SHEEP_GENERATOR_6         | Recept: Sheep Minion VII
+Onbekend: SHEEP_GENERATOR_7         | Gezocht als: SHEEP_GENERATOR_7         | Recept: Sheep Minion VIII
+Onbekend: SHEEP_GENERATOR_8         | Gezocht als: SHEEP_GENERATOR_8         | Recept: Sheep Minion IX
+Onbekend: SHEEP_GENERATOR_9         | Gezocht als: SHEEP_GENERATOR_9         | Recept: Sheep Minion X
+Onbekend: SILKY_LICHEN              | Gezocht als: SILKY_LICHEN              | Recept: Silk-Edge Sword
+Onbekend: SILVER_LACED_KARAMBIT     | Gezocht als: SILVER_LACED_KARAMBIT     | Recept: Silver-Twist Karambit
+Onbekend: SKELETON_GENERATOR_1      | Gezocht als: SKELETON_GENERATOR_1      | Recept: Skeleton Minion II
+Onbekend: SKELETON_GENERATOR_10     | Gezocht als: SKELETON_GENERATOR_10     | Recept: Skeleton Minion XI
+Onbekend: SKELETON_GENERATOR_2      | Gezocht als: SKELETON_GENERATOR_2      | Recept: Skeleton Minion III
+Onbekend: SKELETON_GENERATOR_3      | Gezocht als: SKELETON_GENERATOR_3      | Recept: Skeleton Minion IV
+Onbekend: SKELETON_GENERATOR_4      | Gezocht als: SKELETON_GENERATOR_4      | Recept: Skeleton Minion V
+Onbekend: SKELETON_GENERATOR_5      | Gezocht als: SKELETON_GENERATOR_5      | Recept: Skeleton Minion VI
+Onbekend: SKELETON_GENERATOR_6      | Gezocht als: SKELETON_GENERATOR_6      | Recept: Skeleton Minion VII
+Onbekend: SKELETON_GENERATOR_7      | Gezocht als: SKELETON_GENERATOR_7      | Recept: Skeleton Minion VIII
+Onbekend: SKELETON_GENERATOR_8      | Gezocht als: SKELETON_GENERATOR_8      | Recept: Skeleton Minion IX
+Onbekend: SKELETON_GENERATOR_9      | Gezocht als: SKELETON_GENERATOR_9      | Recept: Skeleton Minion X
+Onbekend: SLIME_GENERATOR_1         | Gezocht als: SLIME_GENERATOR_1         | Recept: Slime Minion II
+Onbekend: SLIME_GENERATOR_10        | Gezocht als: SLIME_GENERATOR_10        | Recept: Slime Minion XI
+Onbekend: SLIME_GENERATOR_2         | Gezocht als: SLIME_GENERATOR_2         | Recept: Slime Minion III
+Onbekend: SLIME_GENERATOR_3         | Gezocht als: SLIME_GENERATOR_3         | Recept: Slime Minion IV
+Onbekend: SLIME_GENERATOR_4         | Gezocht als: SLIME_GENERATOR_4         | Recept: Slime Minion V
+Onbekend: SLIME_GENERATOR_5         | Gezocht als: SLIME_GENERATOR_5         | Recept: Slime Minion VI
+Onbekend: SLIME_GENERATOR_6         | Gezocht als: SLIME_GENERATOR_6         | Recept: Slime Minion VII
+Onbekend: SLIME_GENERATOR_7         | Gezocht als: SLIME_GENERATOR_7         | Recept: Slime Minion VIII
+Onbekend: SLIME_GENERATOR_8         | Gezocht als: SLIME_GENERATOR_8         | Recept: Slime Minion IX
+Onbekend: SLIME_GENERATOR_9         | Gezocht als: SLIME_GENERATOR_9         | Recept: Slime Minion X
+Onbekend: SMALL_AGRONOMY_SACK       | Gezocht als: SMALL_AGRONOMY_SACK       | Recept: Medium Agronomy Sack
+Onbekend: SMALL_COMBAT_SACK         | Gezocht als: SMALL_COMBAT_SACK         | Recept: Medium Combat Sack
+Onbekend: SMALL_DRAGON_SACK         | Gezocht als: SMALL_DRAGON_SACK         | Recept: Medium Dragon Sack
+Onbekend: SMALL_GEMSTONE_SACK       | Gezocht als: SMALL_GEMSTONE_SACK       | Recept: Medium Gemstone Sack
+Onbekend: SMALL_HUSBANDRY_SACK      | Gezocht als: SMALL_HUSBANDRY_SACK      | Recept: Medium Husbandry Sack
+Onbekend: SMALL_MINING_SACK         | Gezocht als: SMALL_MINING_SACK         | Recept: Medium Mining Sack
+Onbekend: SMALL_SLAYER_SACK         | Gezocht als: SMALL_SLAYER_SACK         | Recept: Medium Slayer Sack
+Onbekend: SNOW_GENERATOR_1          | Gezocht als: SNOW_GENERATOR_1          | Recept: Snow Minion II
+Onbekend: SNOW_GENERATOR_10         | Gezocht als: SNOW_GENERATOR_10         | Recept: Snow Minion XI
+Onbekend: SNOW_GENERATOR_2          | Gezocht als: SNOW_GENERATOR_2          | Recept: Snow Minion III
+Onbekend: SNOW_GENERATOR_3          | Gezocht als: SNOW_GENERATOR_3          | Recept: Snow Minion IV
+Onbekend: SNOW_GENERATOR_4          | Gezocht als: SNOW_GENERATOR_4          | Recept: Snow Minion V
+Onbekend: SNOW_GENERATOR_5          | Gezocht als: SNOW_GENERATOR_5          | Recept: Snow Minion VI
+Onbekend: SNOW_GENERATOR_6          | Gezocht als: SNOW_GENERATOR_6          | Recept: Snow Minion VII
+Onbekend: SNOW_GENERATOR_7          | Gezocht als: SNOW_GENERATOR_7          | Recept: Snow Minion VIII
+Onbekend: SNOW_GENERATOR_8          | Gezocht als: SNOW_GENERATOR_8          | Recept: Snow Minion IX
+Onbekend: SNOW_GENERATOR_9          | Gezocht als: SNOW_GENERATOR_9          | Recept: Snow Minion X
+Onbekend: SPIDER_GENERATOR_1        | Gezocht als: SPIDER_GENERATOR_1        | Recept: Spider Minion II
+Onbekend: SPIDER_GENERATOR_10       | Gezocht als: SPIDER_GENERATOR_10       | Recept: Spider Minion XI
+Onbekend: SPIDER_GENERATOR_2        | Gezocht als: SPIDER_GENERATOR_2        | Recept: Spider Minion III
+Onbekend: SPIDER_GENERATOR_3        | Gezocht als: SPIDER_GENERATOR_3        | Recept: Spider Minion IV
+Onbekend: SPIDER_GENERATOR_4        | Gezocht als: SPIDER_GENERATOR_4        | Recept: Spider Minion V
+Onbekend: SPIDER_GENERATOR_5        | Gezocht als: SPIDER_GENERATOR_5        | Recept: Spider Minion VI
+Onbekend: SPIDER_GENERATOR_6        | Gezocht als: SPIDER_GENERATOR_6        | Recept: Spider Minion VII
+Onbekend: SPIDER_GENERATOR_7        | Gezocht als: SPIDER_GENERATOR_7        | Recept: Spider Minion VIII
+Onbekend: SPIDER_GENERATOR_8        | Gezocht als: SPIDER_GENERATOR_8        | Recept: Spider Minion IX
+Onbekend: SPIDER_GENERATOR_9        | Gezocht als: SPIDER_GENERATOR_9        | Recept: Spider Minion X
+Onbekend: SPLATTER_CRUX             | Gezocht als: SPLATTER_CRUX             | Recept: Crux Chronomicon
+Onbekend: SPRUCE_GENERATOR_10       | Gezocht als: SPRUCE_GENERATOR_10       | Recept: Spruce Minion XI
+Onbekend: SPRUCE_GENERATOR_4        | Gezocht als: SPRUCE_GENERATOR_4        | Recept: Spruce Minion V
+Onbekend: SPRUCE_GENERATOR_5        | Gezocht als: SPRUCE_GENERATOR_5        | Recept: Spruce Minion VI
+Onbekend: SPRUCE_GENERATOR_6        | Gezocht als: SPRUCE_GENERATOR_6        | Recept: Spruce Minion VII
+Onbekend: SPRUCE_GENERATOR_7        | Gezocht als: SPRUCE_GENERATOR_7        | Recept: Spruce Minion VIII
+Onbekend: SPRUCE_GENERATOR_8        | Gezocht als: SPRUCE_GENERATOR_8        | Recept: Spruce Minion IX
+Onbekend: SPRUCE_GENERATOR_9        | Gezocht als: SPRUCE_GENERATOR_9        | Recept: Spruce Minion X
+Onbekend: STAINED_GLASS-1           | Gezocht als: STAINED_GLASS-1           | Recept: Orange Stained Glass Pane
+Onbekend: STAINED_GLASS-10          | Gezocht als: STAINED_GLASS-10          | Recept: Purple Stained Glass Pane
+Onbekend: STAINED_GLASS-11          | Gezocht als: STAINED_GLASS-11          | Recept: Blue Stained Glass Pane
+Onbekend: STAINED_GLASS-12          | Gezocht als: STAINED_GLASS-12          | Recept: Brown Stained Glass Pane
+Onbekend: STAINED_GLASS-13          | Gezocht als: STAINED_GLASS-13          | Recept: Green Stained Glass Pane
+Onbekend: STAINED_GLASS-14          | Gezocht als: STAINED_GLASS-14          | Recept: Red Stained Glass Pane
+Onbekend: STAINED_GLASS-15          | Gezocht als: STAINED_GLASS-15          | Recept: Black Stained Glass Pane
+Onbekend: STAINED_GLASS-2           | Gezocht als: STAINED_GLASS-2           | Recept: Magenta Stained Glass Pane
+Onbekend: STAINED_GLASS-3           | Gezocht als: STAINED_GLASS-3           | Recept: Light Blue Stained Glass Pane
+Onbekend: STAINED_GLASS-4           | Gezocht als: STAINED_GLASS-4           | Recept: Yellow Stained Glass Pane
+Onbekend: STAINED_GLASS-5           | Gezocht als: STAINED_GLASS-5           | Recept: Lime Stained Glass Pane
+Onbekend: STAINED_GLASS-6           | Gezocht als: STAINED_GLASS-6           | Recept: Pink Stained Glass Pane
+Onbekend: STAINED_GLASS-7           | Gezocht als: STAINED_GLASS-7           | Recept: Gray Stained Glass Pane
+Onbekend: STAINED_GLASS-8           | Gezocht als: STAINED_GLASS-8           | Recept: Light Gray Stained Glass Pane
+Onbekend: STAINED_GLASS-9           | Gezocht als: STAINED_GLASS-9           | Recept: Cyan Stained Glass Pane
+Onbekend: STEP-1                    | Gezocht als: STEP-1                    | Recept: Chiseled Sandstone
+Onbekend: STEP-5                    | Gezocht als: STEP-5                    | Recept: Chiseled Stone Bricks
+Onbekend: STEP-7                    | Gezocht als: STEP-7                    | Recept: Chiseled Quartz Block
+Onbekend: STONE-1                   | Gezocht als: STONE-1                   | Recept: Polished Granite
+Onbekend: STONE-3                   | Gezocht als: STONE-3                   | Recept: Andesite
+Onbekend: STONE-3                   | Gezocht als: STONE-3                   | Recept: Granite
+Onbekend: STONE-3                   | Gezocht als: STONE-3                   | Recept: Polished Diorite
+Onbekend: STONE-5                   | Gezocht als: STONE-5                   | Recept: Polished Andesite
+Onbekend: STONE_SLAB2               | Gezocht als: STONE_SLAB2               | Recept: Red Chiseled Sandstone
+Onbekend: SUGAR_CANE_GENERATOR_1    | Gezocht als: SUGAR_CANE_GENERATOR_1    | Recept: Sugar Cane Minion II
+Onbekend: SUGAR_CANE_GENERATOR_10   | Gezocht als: SUGAR_CANE_GENERATOR_10   | Recept: Sugar Cane Minion XI
+Onbekend: SUGAR_CANE_GENERATOR_2    | Gezocht als: SUGAR_CANE_GENERATOR_2    | Recept: Sugar Cane Minion III
+Onbekend: SUGAR_CANE_GENERATOR_3    | Gezocht als: SUGAR_CANE_GENERATOR_3    | Recept: Sugar Cane Minion IV
+Onbekend: SUGAR_CANE_GENERATOR_4    | Gezocht als: SUGAR_CANE_GENERATOR_4    | Recept: Sugar Cane Minion V
+Onbekend: SUGAR_CANE_GENERATOR_5    | Gezocht als: SUGAR_CANE_GENERATOR_5    | Recept: Sugar Cane Minion VI
+Onbekend: SUGAR_CANE_GENERATOR_6    | Gezocht als: SUGAR_CANE_GENERATOR_6    | Recept: Sugar Cane Minion VII
+Onbekend: SUGAR_CANE_GENERATOR_7    | Gezocht als: SUGAR_CANE_GENERATOR_7    | Recept: Sugar Cane Minion VIII
+Onbekend: SUGAR_CANE_GENERATOR_8    | Gezocht als: SUGAR_CANE_GENERATOR_8    | Recept: Sugar Cane Minion IX
+Onbekend: SUGAR_CANE_GENERATOR_9    | Gezocht als: SUGAR_CANE_GENERATOR_9    | Recept: Sugar Cane Minion X
+Onbekend: SUNFLOWER_GENERATOR_1     | Gezocht als: SUNFLOWER_GENERATOR_1     | Recept: Sunflower Minion II
+Onbekend: SUNFLOWER_GENERATOR_10    | Gezocht als: SUNFLOWER_GENERATOR_10    | Recept: Sunflower Minion XI
+Onbekend: SUNFLOWER_GENERATOR_2     | Gezocht als: SUNFLOWER_GENERATOR_2     | Recept: Sunflower Minion III
+Onbekend: SUNFLOWER_GENERATOR_3     | Gezocht als: SUNFLOWER_GENERATOR_3     | Recept: Sunflower Minion IV
+Onbekend: SUNFLOWER_GENERATOR_4     | Gezocht als: SUNFLOWER_GENERATOR_4     | Recept: Sunflower Minion V
+Onbekend: SUNFLOWER_GENERATOR_5     | Gezocht als: SUNFLOWER_GENERATOR_5     | Recept: Sunflower Minion VI
+Onbekend: SUNFLOWER_GENERATOR_6     | Gezocht als: SUNFLOWER_GENERATOR_6     | Recept: Sunflower Minion VII
+Onbekend: SUNFLOWER_GENERATOR_7     | Gezocht als: SUNFLOWER_GENERATOR_7     | Recept: Sunflower Minion VIII
+Onbekend: SUNFLOWER_GENERATOR_8     | Gezocht als: SUNFLOWER_GENERATOR_8     | Recept: Sunflower Minion IX
+Onbekend: SUNFLOWER_GENERATOR_9     | Gezocht als: SUNFLOWER_GENERATOR_9     | Recept: Sunflower Minion X
+Onbekend: SUPER_LEECH_MODIFIER      | Gezocht als: SUPER_LEECH_MODIFIER      | Recept: Aspect of the Leech
+Onbekend: S_LOGO_FRAGMENT           | Gezocht als: S_LOGO_FRAGMENT           | Recept: W Logo
+Onbekend: TARANTULA_GENERATOR_1     | Gezocht als: TARANTULA_GENERATOR_1     | Recept: Tarantula Minion II
+Onbekend: TARANTULA_GENERATOR_10    | Gezocht als: TARANTULA_GENERATOR_10    | Recept: Tarantula Minion XI
+Onbekend: TARANTULA_GENERATOR_11    | Gezocht als: TARANTULA_GENERATOR_11    | Recept: Tarantula Minion XII
+Onbekend: TARANTULA_GENERATOR_2     | Gezocht als: TARANTULA_GENERATOR_2     | Recept: Tarantula Minion III
+Onbekend: TARANTULA_GENERATOR_3     | Gezocht als: TARANTULA_GENERATOR_3     | Recept: Tarantula Minion IV
+Onbekend: TARANTULA_GENERATOR_4     | Gezocht als: TARANTULA_GENERATOR_4     | Recept: Tarantula Minion V
+Onbekend: TARANTULA_GENERATOR_5     | Gezocht als: TARANTULA_GENERATOR_5     | Recept: Tarantula Minion VI
+Onbekend: TARANTULA_GENERATOR_6     | Gezocht als: TARANTULA_GENERATOR_6     | Recept: Tarantula Minion VII
+Onbekend: TARANTULA_GENERATOR_7     | Gezocht als: TARANTULA_GENERATOR_7     | Recept: Tarantula Minion VIII
+Onbekend: TARANTULA_GENERATOR_8     | Gezocht als: TARANTULA_GENERATOR_8     | Recept: Tarantula Minion IX
+Onbekend: TARANTULA_GENERATOR_9     | Gezocht als: TARANTULA_GENERATOR_9     | Recept: Tarantula Minion X
+Onbekend: THEORETICAL_HOE           | Gezocht als: THEORETICAL_HOE           | Recept: Euclid's Wheat Hoe Mk. I
+Onbekend: THEORETICAL_HOE           | Gezocht als: THEORETICAL_HOE           | Recept: Gauss Carrot Hoe Mk. I
+Onbekend: THEORETICAL_HOE           | Gezocht als: THEORETICAL_HOE           | Recept: Newton Nether Wart Hoe Mk. I
+Onbekend: THEORETICAL_HOE           | Gezocht als: THEORETICAL_HOE           | Recept: Pythagorean Potato Hoe Mk. I
+Onbekend: THEORETICAL_HOE           | Gezocht als: THEORETICAL_HOE           | Recept: Turing Sugar Cane Hoe Mk. I
+Onbekend: TIGHT_PANTS_FRAGMENT      | Gezocht als: TIGHT_PANTS_FRAGMENT      | Recept: Wizardman Leggings
+Onbekend: TIMITE                    | Gezocht als: TIMITE                    | Recept: Chrono Pickaxe
+Onbekend: TOKEN_OF_THE_CENTURY      | Gezocht als: TOKEN_OF_THE_CENTURY      | Recept: Ring of the Century
+Onbekend: TRICK_OR_TREAT_BAG        | Gezocht als: TRICK_OR_TREAT_BAG        | Recept: Spooky Sack
+Onbekend: TUTTI_FRUTTI_POISON       | Gezocht als: TUTTI_FRUTTI_POISON       | Recept: Poisoned Candy
+Onbekend: UGLY_BOOTS_FRAGMENT       | Gezocht als: UGLY_BOOTS_FRAGMENT       | Recept: Ugly Boots
+Onbekend: VAMPIRE_GENERATOR_1       | Gezocht als: VAMPIRE_GENERATOR_1       | Recept: Vampire Minion II
+Onbekend: VAMPIRE_GENERATOR_10      | Gezocht als: VAMPIRE_GENERATOR_10      | Recept: Vampire Minion XI
+Onbekend: VAMPIRE_GENERATOR_2       | Gezocht als: VAMPIRE_GENERATOR_2       | Recept: Vampire Minion III
+Onbekend: VAMPIRE_GENERATOR_3       | Gezocht als: VAMPIRE_GENERATOR_3       | Recept: Vampire Minion IV
+Onbekend: VAMPIRE_GENERATOR_4       | Gezocht als: VAMPIRE_GENERATOR_4       | Recept: Vampire Minion V
+Onbekend: VAMPIRE_GENERATOR_5       | Gezocht als: VAMPIRE_GENERATOR_5       | Recept: Vampire Minion VI
+Onbekend: VAMPIRE_GENERATOR_6       | Gezocht als: VAMPIRE_GENERATOR_6       | Recept: Vampire Minion VII
+Onbekend: VAMPIRE_GENERATOR_7       | Gezocht als: VAMPIRE_GENERATOR_7       | Recept: Vampire Minion VIII
+Onbekend: VAMPIRE_GENERATOR_8       | Gezocht als: VAMPIRE_GENERATOR_8       | Recept: Vampire Minion IX
+Onbekend: VAMPIRE_GENERATOR_9       | Gezocht als: VAMPIRE_GENERATOR_9       | Recept: Vampire Minion X
+Onbekend: VAMPIRIC_MELON            | Gezocht als: VAMPIRIC_MELON            | Recept: Enchanted Vampiric Melon
+Onbekend: VAMPIRIC_MELON            | Gezocht als: VAMPIRIC_MELON            | Recept: Healing Melon
+Onbekend: VOIDLING_GENERATOR_1      | Gezocht als: VOIDLING_GENERATOR_1      | Recept: Voidling Minion II
+Onbekend: VOIDLING_GENERATOR_10     | Gezocht als: VOIDLING_GENERATOR_10     | Recept: Voidling Minion XI
+Onbekend: VOIDLING_GENERATOR_2      | Gezocht als: VOIDLING_GENERATOR_2      | Recept: Jinxed Voodoo Doll
+Onbekend: VOIDLING_GENERATOR_2      | Gezocht als: VOIDLING_GENERATOR_2      | Recept: Voidling Minion III
+Onbekend: VOIDLING_GENERATOR_3      | Gezocht als: VOIDLING_GENERATOR_3      | Recept: Voidling Minion IV
+Onbekend: VOIDLING_GENERATOR_4      | Gezocht als: VOIDLING_GENERATOR_4      | Recept: Voidling Minion V
+Onbekend: VOIDLING_GENERATOR_5      | Gezocht als: VOIDLING_GENERATOR_5      | Recept: Voidling Minion VI
+Onbekend: VOIDLING_GENERATOR_6      | Gezocht als: VOIDLING_GENERATOR_6      | Recept: Voidling Minion VII
+Onbekend: VOIDLING_GENERATOR_7      | Gezocht als: VOIDLING_GENERATOR_7      | Recept: Voidling Minion VIII
+Onbekend: VOIDLING_GENERATOR_8      | Gezocht als: VOIDLING_GENERATOR_8      | Recept: Voidling Minion IX
+Onbekend: VOIDLING_GENERATOR_9      | Gezocht als: VOIDLING_GENERATOR_9      | Recept: Voidling Minion X
+Onbekend: VOLT_CRUX                 | Gezocht als: VOLT_CRUX                 | Recept: Chicken Leggs
+Onbekend: VOLT_CRUX                 | Gezocht als: VOLT_CRUX                 | Recept: Crux Artifact
+Onbekend: WAND_OF_HEALING           | Gezocht als: WAND_OF_HEALING           | Recept: Wand of Mending
+Onbekend: WAND_OF_MENDING           | Gezocht als: WAND_OF_MENDING           | Recept: Wand of Restoration
+Onbekend: WAND_OF_RESTORATION       | Gezocht als: WAND_OF_RESTORATION       | Recept: Wand of Atonement
+Onbekend: WHEAT_GENERATOR_1         | Gezocht als: WHEAT_GENERATOR_1         | Recept: Wheat Minion II
+Onbekend: WHEAT_GENERATOR_10        | Gezocht als: WHEAT_GENERATOR_10        | Recept: Wheat Minion XI
+Onbekend: WHEAT_GENERATOR_2         | Gezocht als: WHEAT_GENERATOR_2         | Recept: Wheat Minion III
+Onbekend: WHEAT_GENERATOR_3         | Gezocht als: WHEAT_GENERATOR_3         | Recept: Wheat Minion IV
+Onbekend: WHEAT_GENERATOR_4         | Gezocht als: WHEAT_GENERATOR_4         | Recept: Wheat Minion V
+Onbekend: WHEAT_GENERATOR_5         | Gezocht als: WHEAT_GENERATOR_5         | Recept: Wheat Minion VI
+Onbekend: WHEAT_GENERATOR_6         | Gezocht als: WHEAT_GENERATOR_6         | Recept: Wheat Minion VII
+Onbekend: WHEAT_GENERATOR_7         | Gezocht als: WHEAT_GENERATOR_7         | Recept: Wheat Minion VIII
+Onbekend: WHEAT_GENERATOR_8         | Gezocht als: WHEAT_GENERATOR_8         | Recept: Wheat Minion IX
+Onbekend: WHEAT_GENERATOR_9         | Gezocht als: WHEAT_GENERATOR_9         | Recept: Wheat Minion X
+Onbekend: WILSON_ENGINEERING_PLANS  | Gezocht als: WILSON_ENGINEERING_PLANS  | Recept: SOS Flare
+Onbekend: WILTED_BERBERIS           | Gezocht als: WILTED_BERBERIS           | Recept: Berberis Blowgun
+Onbekend: WILTED_BERBERIS           | Gezocht als: WILTED_BERBERIS           | Recept: Berberis Fuel Injector
+Onbekend: WILTED_BERBERIS           | Gezocht als: WILTED_BERBERIS           | Recept: Wilted Berberis Bunch
+Onbekend: WIZARD_FACE               | Gezocht als: WIZARD_FACE               | Recept: Warm Wizard Face
+Onbekend: WOOD-1                    | Gezocht als: WOOD-1                    | Recept: Spruce Door
+Onbekend: WOOD-1                    | Gezocht als: WOOD-1                    | Recept: Spruce Fence
+Onbekend: WOOD-1                    | Gezocht als: WOOD-1                    | Recept: Spruce Fence Gate
+Onbekend: WOOD-1                    | Gezocht als: WOOD-1                    | Recept: Spruce Slab
+Onbekend: WOOD-1                    | Gezocht als: WOOD-1                    | Recept: Spruce Stairs
+Onbekend: WOOD-2                    | Gezocht als: WOOD-2                    | Recept: Birch Door
+Onbekend: WOOD-2                    | Gezocht als: WOOD-2                    | Recept: Birch Fence
+Onbekend: WOOD-2                    | Gezocht als: WOOD-2                    | Recept: Birch Fence Gate
+Onbekend: WOOD-2                    | Gezocht als: WOOD-2                    | Recept: Birch Slab
+Onbekend: WOOD-2                    | Gezocht als: WOOD-2                    | Recept: Birch Stairs
+Onbekend: WOOD-3                    | Gezocht als: WOOD-3                    | Recept: Jungle Door
+Onbekend: WOOD-3                    | Gezocht als: WOOD-3                    | Recept: Jungle Fence
+Onbekend: WOOD-3                    | Gezocht als: WOOD-3                    | Recept: Jungle Fence Gate
+Onbekend: WOOD-3                    | Gezocht als: WOOD-3                    | Recept: Jungle Slab
+Onbekend: WOOD-3                    | Gezocht als: WOOD-3                    | Recept: Jungle Stairs
+Onbekend: WOOD-4                    | Gezocht als: WOOD-4                    | Recept: Acacia Door
+Onbekend: WOOD-4                    | Gezocht als: WOOD-4                    | Recept: Acacia Fence
+Onbekend: WOOD-4                    | Gezocht als: WOOD-4                    | Recept: Acacia Fence Gate
+Onbekend: WOOD-4                    | Gezocht als: WOOD-4                    | Recept: Acacia Slab
+Onbekend: WOOD-4                    | Gezocht als: WOOD-4                    | Recept: Acacia Stairs
+Onbekend: WOOD-5                    | Gezocht als: WOOD-5                    | Recept: Dark Oak Door
+Onbekend: WOOD-5                    | Gezocht als: WOOD-5                    | Recept: Dark Oak Fence
+Onbekend: WOOD-5                    | Gezocht als: WOOD-5                    | Recept: Dark Oak Fence Gate
+Onbekend: WOOD-5                    | Gezocht als: WOOD-5                    | Recept: Dark Oak Slab
+Onbekend: WOOD-5                    | Gezocht als: WOOD-5                    | Recept: Dark Oak Stairs
+Onbekend: WOOL-1                    | Gezocht als: WOOL-1                    | Recept: Orange Banner
+Onbekend: WOOL-1                    | Gezocht als: WOOL-1                    | Recept: Orange Carpet
+Onbekend: WOOL-10                   | Gezocht als: WOOL-10                   | Recept: Purple Banner
+Onbekend: WOOL-10                   | Gezocht als: WOOL-10                   | Recept: Purple Carpet
+Onbekend: WOOL-11                   | Gezocht als: WOOL-11                   | Recept: Blue Banner
+Onbekend: WOOL-11                   | Gezocht als: WOOL-11                   | Recept: Blue Carpet
+Onbekend: WOOL-12                   | Gezocht als: WOOL-12                   | Recept: Brown Banner
+Onbekend: WOOL-12                   | Gezocht als: WOOL-12                   | Recept: Brown Carpet
+Onbekend: WOOL-13                   | Gezocht als: WOOL-13                   | Recept: Green Banner
+Onbekend: WOOL-13                   | Gezocht als: WOOL-13                   | Recept: Green Carpet
+Onbekend: WOOL-14                   | Gezocht als: WOOL-14                   | Recept: Red Banner
+Onbekend: WOOL-14                   | Gezocht als: WOOL-14                   | Recept: Red Carpet
+Onbekend: WOOL-15                   | Gezocht als: WOOL-15                   | Recept: Black Banner
+Onbekend: WOOL-15                   | Gezocht als: WOOL-15                   | Recept: Black Carpet
+Onbekend: WOOL-2                    | Gezocht als: WOOL-2                    | Recept: Magenta Banner
+Onbekend: WOOL-2                    | Gezocht als: WOOL-2                    | Recept: Magenta Carpet
+Onbekend: WOOL-3                    | Gezocht als: WOOL-3                    | Recept: Light Blue Banner
+Onbekend: WOOL-3                    | Gezocht als: WOOL-3                    | Recept: Light Blue Carpet
+Onbekend: WOOL-4                    | Gezocht als: WOOL-4                    | Recept: Yellow Banner
+Onbekend: WOOL-4                    | Gezocht als: WOOL-4                    | Recept: Yellow Carpet
+Onbekend: WOOL-5                    | Gezocht als: WOOL-5                    | Recept: Lime Banner
+Onbekend: WOOL-5                    | Gezocht als: WOOL-5                    | Recept: Lime Carpet
+Onbekend: WOOL-6                    | Gezocht als: WOOL-6                    | Recept: Pink Banner
+Onbekend: WOOL-6                    | Gezocht als: WOOL-6                    | Recept: Pink Carpet
+Onbekend: WOOL-7                    | Gezocht als: WOOL-7                    | Recept: Gray Banner
+Onbekend: WOOL-7                    | Gezocht als: WOOL-7                    | Recept: Gray Carpet
+Onbekend: WOOL-8                    | Gezocht als: WOOL-8                    | Recept: Light Gray Banner
+Onbekend: WOOL-8                    | Gezocht als: WOOL-8                    | Recept: Light Gray Carpet
+Onbekend: WOOL-9                    | Gezocht als: WOOL-9                    | Recept: Cyan Banner
+Onbekend: WOOL-9                    | Gezocht als: WOOL-9                    | Recept: Cyan Carpet
+Onbekend: YOUNGITE                  | Gezocht als: YOUNGITE                  | Recept: Eon Pickaxe
+Onbekend: YOUNGITE                  | Gezocht als: YOUNGITE                  | Recept: Highlite
+Onbekend: YOUNGITE                  | Gezocht als: YOUNGITE                  | Recept: Satelite
+Onbekend: YOUNGITE                  | Gezocht als: YOUNGITE                  | Recept: Time Gun
+Onbekend: ZOMBIE_GENERATOR_1        | Gezocht als: ZOMBIE_GENERATOR_1        | Recept: Zombie Minion II
+Onbekend: ZOMBIE_GENERATOR_10       | Gezocht als: ZOMBIE_GENERATOR_10       | Recept: Zombie Minion XI
+Onbekend: ZOMBIE_GENERATOR_2        | Gezocht als: ZOMBIE_GENERATOR_2        | Recept: Zombie Minion III
+Onbekend: ZOMBIE_GENERATOR_3        | Gezocht als: ZOMBIE_GENERATOR_3        | Recept: Zombie Minion IV
+Onbekend: ZOMBIE_GENERATOR_4        | Gezocht als: ZOMBIE_GENERATOR_4        | Recept: Zombie Minion V
+Onbekend: ZOMBIE_GENERATOR_5        | Gezocht als: ZOMBIE_GENERATOR_5        | Recept: Zombie Minion VI
+Onbekend: ZOMBIE_GENERATOR_6        | Gezocht als: ZOMBIE_GENERATOR_6        | Recept: Zombie Minion VII
+Onbekend: ZOMBIE_GENERATOR_7        | Gezocht als: ZOMBIE_GENERATOR_7        | Recept: Zombie Minion VIII
+Onbekend: ZOMBIE_GENERATOR_8        | Gezocht als: ZOMBIE_GENERATOR_8        | Recept: Zombie Minion IX
+Onbekend: ZOMBIE_GENERATOR_9        | Gezocht als: ZOMBIE_GENERATOR_9        | Recept: Zombie Minion X
+══════════════════════════════════════════════════════════════════════
+
+
+✓ Analyse klaar — 248 craft flips, 1420 bazaar flips, 471 AH craft flips
